@@ -1,0 +1,14 @@
+
+Trình khởi chạy hệ thống Launcher iOS 16 đã vượt mốc 50 triệu lượt tải. Launcher này mang tới giao diện iOS 16, trước cả khi Apple chính thức phát hành hệ điều hành mới.
+Trình khởi chạy hệ thống Launcher iOS 16, vốn phổ biến trên Cửa hàng Google Play với khả năng nhái lại giao diện của hệ điều hành iOS trên các dòng điện thoại Android đã vượt mốc 50 triệu lượt tải xuống. 
+Cột mốc này được xác lập sau khi ứng dụng được cập nhật những thay đổi về thiết kế và tính năng mới trên phiên bản iOS 16 sắp ra mắt.
+Giao diện của Launcher iOS 16. Ảnh: MacRumors.
+Tồn tại trên Cửa hàng Google Play trong suốt 3 năm qua, trình khởi chạy Launcher iOS 16 sao chép lại trải nghiệm của hệ điều hành iOS trên hàng chục triệu thiết bị Android. Kể từ phiên bản iOS 13 cho tới nay, ứng dụng đã liên tục được cập nhật để mang đến những thay đổi tương tự Apple thực hiện hàng năm trên hệ điều hành của mình.
+Launcher nổi tiếng trên Cửa hàng Play sao chép Màn hình chính iOS, thanh dock, hay hiện menu Force Touch khi người dùng nhấn giữ vào ứng dụng bất kì. Ngoài ra, trình khởi chạy cũng mô phỏng lại chế độ “lắc lư" khi người dùng di chuyển hoặc xóa ứng dụng, cùng Thư viện ứng dụng và các tiện ích khác theo phong cách iOS.
+Các trình khởi chạy nhái giao diện iOS tràn lan trên cửa hàng ứng dụng. Ảnh: MacRumors.
+Trình khởi chạy trên cũng thay thế biểu tượng các ứng dụng có sẵn bằng hình ảnh giống iOS như ứng dụng Tin nhắn, Ghi chú, Máy ảnh... Thậm chí biểu tượng cửa hàng ứng dụng cũng bị ứng dụng thay thế bằng biểu tượng App Store của Apple.
+Vì là ứng dụng chạy trên nền Android, vốn nổi tiếng với khả năng tùy biến, Launcher iOS 16 còn cung cấp thêm cho người dùng các tính năng tùy chỉnh thậm chí không xuất hiện trên bản gốc‌, chẳng hạn như khả năng tùy chỉnh, phân loại trong Thư viện ứng dụng, thay đổi hiệu ứng chuyển cảnh trên màn hình chính và có thể đổi tên ứng dụng.
+Tuy không còn lạ lẫm với cộng đồng Android, Launcher iOS 16 trở thành trào lưu trên Twitter vào đầu tuần này sau khi vượt mốc lượt tải 50 triệu.
+Apple công bố iOS 16 tại sự kiện WWDC vào tháng 6 vừa qua. Màn hình khóa được thiết kế lại trên phiên bản mới thu hút được sự chú ý. Độ phủ sóng rộng rãi của màn hình khóa mới đã phần nào thúc đẩy người dùng tải xuống ứng dụng từ Cửa hàng Play để trải nghiệm những tính năng mới nhất. Tuy vậy, Launcher iOS 16 vẫn chưa được nhà phát triển cập nhật màn hình khóa mới.
+Hiện tại, trên Cửa hàng Google Play đang tồn tại hàng chục trình khởi chạy nhái hệ điều hành iOS khác nhau. Tất cả đều hứa hẹn sẽ mang đến trải nghiệm của hệ điều hành iOS lên các thiết bị Android, với phần lớn trình khởi chạy trong số đó đã có hơn một triệu lượt tải xuống. 
+Trình khởi chạy Android (hay còn được gọi là Launcher), là chương trình chạy trên màn hình chính của thiết bị với thiết kế riêng, các tính năng cá nhân hóa và các tùy chọn khác với những gì nhà sản xuất thiết bị cung cấp.

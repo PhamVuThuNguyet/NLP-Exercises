@@ -1,0 +1,42 @@
+
+Năm ngoái, khi giá Bitcoin tăng cao tới 68.000 USD, các thợ đào tiền ảo đã thu được lợi nhuận khổng lồ. Khi đó, nhiều người quyết định mở rộng hoạt động mạnh mẽ, chuẩn bị cho một thị trường năm 2022 thậm chí còn sôi động hơn
+Năm ngoái, khi giá Bitcoin tăng cao tới 68.000 USD, các thợ đào tiền ảo đã thu được lợi nhuận khổng lồ. Khi đó, nhiều người quyết định mở rộng hoạt động mạnh mẽ, chuẩn bị cho một thị trường năm 2022 thậm chí còn sôi động hơn.
+Bất ngờ, sóng gió đã ập đến. Vài tháng qua, thị trường tiền điện tử đã trượt dốc không phanh với giá Bitcoin dao động ở mức 30.630 USD. Cùng đó, giá điện trên toàn thế giới tăng vọt trong bối cảnh xung đột Nga – Ukraine.
+Đó là một vấn đề lớn đối với các thợ đào Bitcoin, vốn sử dụng loại máy tính tiêu tốn nhiều điện để đào tiền điện tử (gọi tắt là ASIC).
+“Năng lượng có thể chiếm tới 90%-95% tổng chi phí của một thợ đào Bitcoin” – ông Valery Vavilov, Giám đốc điều hành (CEO) hãng đào tiền điện tử Bitfury ở châu Âu, từng chia sẻ.
+Ông Daniel Jogg, CEO của Enerhash – một công ty điều hành trung tâm dữ liệu Blockchain, khẳng định hiện một số khu vực ở châu Âu chứng kiến giá năng lượng tăng chóng mặt. ” Chi phí năng lượng để khai thác một Bitcoin có khi tốn tới 25.000 USD. Việc khai thác Bitcoin hiện gần như không có lợi nhuận” – CEO của Enerhash tiết lộ.
+” Do ngày càng có nhiều thợ đào Bitcoin tham gia vào mạng lưới kể từ mùa hè năm ngoái, điều này làm giảm sản lượng của từng thợ khai thác Bitcoin. Tóm lại, những người khai thác đang trả nhiều tiền hơn nhưng khai thác được ít Bitcoin hơn và đồng Bitcoin của họ cũng ít giá trị hơn” – người phụ trách Công ty khai thác tiền điện tử Luxor Mining cho biết.
+      ADVERTISEMENT 
+ Những khó khăn chồng chất đang bủa vây các ngành công nghệ Bitcoin. Ảnh: Wired
+Thực tế, các thợ đào tiền Bitcoin toàn cầu đều đang bị giảm lợi nhuận, ngay cả khi sử dụng các giàn khai thác tiên tiến nhất.
+” Nếu tình hình không được cải thiện, có thể sẽ gây ra sự bất ổn đối với lĩnh vực khai thác Bitcoin toàn thế giới” – trang Wired nhận định.
+Trong hai năm trước khi khủng hoảng xảy ra, các thợ đào Bitcoin đã tranh nhau mua ASIC để kiếm thêm Bitcoin. Tuy nhiên, hiện tại giá trị của các ASIC giảm xuống thấp hơn hẳn mức khi đồng Bitcoin đạt đỉnh, vì giá ASIC thường tương quan với giá của Bitcoin.
+Ông Charlie Schumacher, người phát ngôn của Marathon, một trong những công ty khai thác tiền điện tử lớn nhất nước Mỹ , cho biết họ sẽ chuyển sang “mô hình tài sản chung”. Mô hình này có sự hợp tác với các dịch vụ lưu trữ thay vì xây dựng các giàn khai thác tiền điện tử của riêng mình, bảo vệ công ty khỏi các vấn đề mà ngành đang gặp phải.
+Theo giới quan sát, thợ đào Bitcoin chủ yếu vay tiền để mua ASIC. Chuyên gia Jurica Bulovic, người đứng đầu bộ phận khai thác tại Công ty đào tiền ảo Foundry, nhận định: ” Gánh nặng vay nợ đó cùng với sự sụt giảm của giá Bitcoin và giá năng lượng đắt đỏ ảnh hưởng nghiêm trọng đến lợi nhuận của các công ty“.
+Câu hỏi đặt ra là liệu vòng xoáy đó có bắt đầu khiến những tổ chức cho vay lo lắng hay không. Trong hai năm thịnh vượng vừa qua, một số công ty khai thác tiền điện tử đã vay tiền dựa trên dự trữ Bitcoin của họ. Họ thậm chí ký kết hợp đồng ” vay nợ được bảo đảm bằng thiết bị“, trong đó khoản vay được thế chấp bằng chính các giàn khai thác tiền điện tử.
+Hiện tại, giá của cả Bitcoin và ASIC đều đi xuống, tài sản thế chấp đó đã mất giá trị.
+” Nếu những người khai thác không còn khả năng trả nợ, thì khó khăn có thể truyền sang các bộ phận khác của ngành. Ví dụ, những tổ chức cho vay sẽ bị ảnh hưởng nặng về doanh thu khi giá trị của tài sản thế chấp đã giảm xuống” – chuyên gia Bulovic nhấn mạnh.
+
+Bitcoin (BTC) đang đối mặt với một "chu kỳ đáy" kể từ đầu tháng 5, khi giá đồng tiền mã hóa lao dốc từ 39.000 USD xuống mức thấp nhất là 26.700 USD. Tính đến sáng ngày 3/6, giá BTC đã ổn định trở lại ở mức 30.000 USD.
+Tuy nhiên, một số chuyên gia cho rằng giá Bitcoin có thể tiếp tục giảm hơn 50% so với mức hiện tại, xuống còn 14.000 USD.
+Trong bài đăng trên Twitter vào ngày 1/6, Venturefounder, chuyên gia tại nền tảng phân tích blockchain trực tuyến CryptoQuant, đã dự báo năm 2022 là năm rất tốt để đầu tư Bitcoin.
+ 'Bitcoin đang có tỷ suất hoàn vốn tốt nhất từ trước đến nay'
+"Dựa trên xu hướng của các chu kỳ halving trước đây của Bitcoin, năm nay sẽ là năm BTC giảm giá sâu nhất trong chu kỳ 4 năm hiện tại", Venturefounder cho biết.
+    
+ Bitcoin đã có đợt giảm sâu hồi đầu tháng 5, tuy nhiên giá đã ổn định trở lại ở mức 30.000 USD
+Theo nhà phân tích, giống như hồi năm 2018, tỷ giá BTC sẽ ổn định ở một mức giá sàn vĩ mô từ giờ đến cuối năm 2022. Theo dữ liệu từ các đợt giảm trước kể từ mức cao nhất cao nhất mọi thời đại là 67.500 USD, giá Bitcoin có thể lao dốc xuống mức từ 14.000 - 21.000 USD.
+"Còn 670 ngày nữa cho đến đợt halving Bitcoin tiếp theo, giá BTC đang theo kịp hiệu suất so với các chu kỳ trước đây. BTC sẽ tuột dốc trong 6 tháng tới và chạm đáy chu kỳ (14.000-21.000 USD), sau đó dao động khoảng 28.000-40.000 USD trong năm 2023 và ở mức 40.000 USD một lần nữa trước đợt halving tiếp theo", Venturefounder phân tích.
+Diễn biến như vậy từng có tiền lệ. Sau khi chạm mức 3.100 USD vào tháng 12/2018, Bitcoin đã tăng lên 13.800 USD trong 7 tháng sau đó trước khi lại chạm đáy đáy ở mức thấp nhất tháng 3/2020 tại 3.600 USD.
+Ngay cả đỉnh năm 2019 cũng không đủ để vượt qua mức cao kỷ lục được thiết lập vào tháng 12/2017 tại 20.000 USD
+Venturefounder tin rằng mức đó có thể một lần nữa trở thành điểm quan trọng trên biểu đồ giá giao ngay (Spot price). Những người sẵn sàng chèo lái cơn sóng và đầu tư ngay bây giờ sẽ gặt hái được những quả ngọt.
+"Nói cách khác, từ giờ cho đến 6-12 tháng tới là thời điểm rất tốt để mua Bitcoin. BTC đang có tỷ suất hoàn vốn tốt nhất từ trước đến nay. Dù đồng tiền này chưa thực sự chạm đáy, giá của nó đang ở trong phạm vi đáy chu kỳ. Đây là thời điểm rất tốt để mua vào", nhà phân tích tiếp tục.
+Tỷ số hoàn vốn (ROI) là tỷ lệ lợi nhuận ròng trên tổng chi phí đầu tư. Đây là một chỉ số được các nhà đầu tư sử dụng để đánh giá về khoản đầu tư của họ, hoặc đánh giá mức độ hiệu quả của một khoản đầu tư cụ thể so với những khoản đầu tư khác.
+ Các dự báo đáy tiếp theo
+Trong khi đó, một số nhà phân tích khác đã ước tính mức giá đáy của Bitcoin là khoảng 14.000 USD. Mức giá này sẽ thấp hơn khoảng 80% so với mức cao nhất mọi thời đại là 69.000 USD, tỷ lệ này tương ứng với mức giảm trong chu kỳ trước.
+Dữ liệu từ công ty phân tích on-chain Glassnode cho thấy mức giá khoảng 31.000 USD ở thời điểm hiện tại là mức giảm tương đối khiêm tốn.
+    
+ Giá BTC giảm so với mức cao nhất mọi thời đại. 
+Hồi tháng 5, nhà phân tích Rekt Capital cho rằng Bitcoin có thể xác lập đáy tại mức 15.500 USD khi giá BTC giảm xuống dưới đường trung bình động trong vòng 200 tuần. Đường trung bình động (Moving average) là đường trung bình của chuỗi giá trong một khoảng thời gian nhất định.
+Tuy nhiên, trong hoàn cảnh thị trường liên tục đi xuống như vậy, những nhà đầu cơ có thể gặp khó khăn trong việc bán ra. MicroStrategy, công ty sở hữu kho bạc BTC lớn nhất, đã cam kết mua vào Bitcoin bất kỳ lần sụp đổ giá nào hướng tới mốc 20.000 USD.
+Arthur Hayes, cựu Giám đốc Điều hành của gã khổng lồ giao dịch BitMEX, cũng đã xác nhận rằng ông sẽ đầu tư BTC ở mức 20.000 USD.
+5 lý do khiến giá Bitcoin sụt giảm  Sự tăng giảm của đồng Bitcoin ngày càng chịu sự chi phối bởi nhiều nguyên nhân hơn, khiến độ rủi ro của tài sản số này bị nới rộng. Giá Bitcoin đang ở mức 29.500 USD vào sáng nay 25/5, tăng nhẹ 1,54% so với 24 giờ trước,... 

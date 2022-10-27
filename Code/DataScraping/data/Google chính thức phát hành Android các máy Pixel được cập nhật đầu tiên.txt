@@ -1,0 +1,52 @@
+
+Các thiết bị Pixel được cập nhật trước tiên, sau đó sẽ tới các thiết bị của các nhà sản xuất bên thứ 3 trong giai đoạn cuối năm nay
+Kẽ hở của YouTube giúp hai kẻ lừa đảo chiếm đoạt hơn 20 triệu USD tiền bản quyền âm nhạc như thế nào? Báo Mỹ: Samsung vẫn chưa đưa ra lý do chính đáng để thuyết phục người dùng mua điện thoại gập
+Rạng sáng ngày 16/8 theo giờ Việt Nam, Google chính thức phát hành phiên bản Android 13 dành cho các thiết bị Pixel sau một thời gian dài tung ra các phiên bản beta thử nghiệm. Năm nay Android 13 ra mắt sớm hơn khoảng 2 tháng so với thời điểm ra mắt Android 12 vào năm ngoái.
+      ADVERTISEMENT 
+Theo đó, Google cho biết bản cập nhật Android 13 chính thức hiện đã được phát hành cho các máy Pixel được hỗ trợ, bao gồm Pixel 4/4XL, Pixel 4a/4a 5G, Pixel 5/5a, Pixel 6/6 Pro và Pixel 6a. Android 13 sẽ hỗ trợ các máy tới từ các nhà sản xuất khác như Samsung, ASUS, Xiaomi, OPPO, vivo… trong khoảng cuối năm nay.
+    
+ Android 13 có gì mới?
+Điểm mới mẻ về giao diện trên Android 13 so với Android 12 là sự nâng cấp của giao diện Material You. Tiện ích “Theme” giờ đây sẽ hỗ trợ các biểu tượng cho ứng dụng bên thứ 3, trình phát nhạc cũng sẽ tự động thay đổi giao diện dựa trên bài hát mà người dùng đang nghe.
+    
+Một tính năng hệ thống khác cho phép người dùng thiết lậo ngôn ngữ cho từng ứng dụng cụ thể, thêm chế độ Bedtime (giờ đi ngủ) với nhiều tuỳ chỉnh hơn, nhiều hình nền mới và giao diện tối cải thiện.
+      ADVERTISEMENT 
+Về quyền riêng tư, các ứng dụng sẽ không được phép cấp quyền truy cập toàn bộ thư viện ảnh mà chỉ có thể truy cập các hình ảnh cụ thể. Ứng dụng cũng sẽ không được cấp quyền đẩy thông báo mà phải được sự cho phép của người dùng. Các tính năng này khá tương tự với iOS. Ngoài ra, bộ nhớ tạm nơi lưu trữ các đoạn văn bản được copy sẽ tự động xoá sau một khoảng thời gian nhất định nếu người dùng copy email, số điện thoại, username, mật khẩu để tránh ứng dụng truy cập vào bộ nhớ này…
+    
+Hiện tại người dùng Pixel đã có thể tải về và cài đặt Android 13 trong ứng dụng cài đặt. Cần lưu ý đối với một vài mẫu Pixel như Pixel 6 series, Google triển khai tính năng Anti Rollback, không cho phép người dùng quay trở các phiên bản cũ hơn sau khi cập nhật lên Android 13. Người dùng cần lưu ý điều này khi tiến hành cập nhật.
+
+Nikon khép lại 6 thập kỷ sản xuất máy ảnh ống kính rời
+Mac ngược dòng thị trường máy tính toàn cầu
+Thua kiện Nokia, Oppo có thể bị cấm bán tại Đức?
+Sau nhiều úp mở, Nothing Phone (1) đã chính thức ra mắt và mở bán tại một số thị trường. Cùng lúc này, chúng ta có Pixel 6A mang đến những tính năng được yêu thích trên Pixel 6 với mức giá dễ chịu hơn. Nothing Phone (1) có giá khởi điểm 475 USD, còn Pixel 6A là 449 USD.
+Kích thước và chất lượng hoàn thiện
+Nothing Phone (1) có kích thước 159,2 x 75,8 x 8,3 mm, nặng 193,5 gram, chống bụi và nước chuẩn IP53. Pixel 6A có kích thước 152,2 x 71,8 x 8,9mm, nặng 178 gram, chống bụi và nước chuẩn IP67.
+    
+ Google Pixel 6A (Ảnh: Google)
+Nothing Phone (1) trang bị kính cường lực Gorilla Glass 5 ở cả mặt trước và sau, khung nhôm, trong khi Pixel 6A dùng mặt nhựa phía sau và Gorilla Glass 3 phía trước, khung nhôm. Nothing Phone (1) dài hơn, rộng hơn, mỏng hơn và nặng hơn Pixel 6A. Tuy nhiên, khả năng chống bụi và nước của Nothing Phone (1) lại không bằng Pixel 6A.
+Tính năng nổi bật của Nothing Phone (1) chính là các đèn LED Glyph ẩn dưới mặt kính trong suốt phía sau, mang lại vẻ ngoài độc đáo, song không quá hữu ích. Với Pixel 6A, dải camera ngày càng trở nên dễ nhận biệt hơn với người dùng phổ thông. Không máy nào có jack tai nghe.
+Camera
+Nothing Phone (1): camera chính 50MP f/1.9 chống rung quang học, quay phim 4K tốc độ 30 khung hình/giây; camera góc siêu rộng 50MP f/2.2; camera trước 16MP f/2.5, quay video 1080p 30 khung hình/giây.
+Google Pixel 6A: camera chính 12.2MP f/1.7 chống rung quang học, quay phim 4K tốc độ 60 khung hình/giây; camera góc siêu rộng 12MP f/2.2; camera trước 8MP f/2.0, quay video 1080p 30 khung hình/giây.
+      ADVERTISEMENT 
+ Nothing Phone (1) (Ảnh: Nothing)
+Pixel luôn là dòng máy được đánh giá cao ở khả năng chụp ảnh tươi sáng, rực rỡ, độ tương phản cao. Pixel 6A cũng vậy. Nếu yêu thích máy ảnh trên Pixel 6 và 6 Pro, bạn sẽ thích cả Pixel 6A. Phần cứng tuy có khác biệt song phần lớn thành công trong lĩnh vực nhiếp ảnh của Google đến từ thuật toán. Bạn sẽ có mọi tính năng như Magic Eraser, Real Tone, Face Unblur... Phàn nàn duy nhất là độ phân giải của camera khá thấp.
+Trong khi đó, ba camera trên Nothing Phone (1) đều có độ phân giải cao, đồng nghĩa với bức ảnh sẽ chi tiết hơn để zoom và cắt cúp về sau. Cả hai đều trang bị tính năng chống rung quang học, song Pixel 6A có thể quay phim mượt hơn nhờ tốc độ 60 khung hình/giây so với 30 khung hình/giây của đối thủ.
+Theo những ảnh mẫu được tung ra, dường như Nothing Phone (1) không chụp đẹp bằng Pixel 6A. Nếu là người yêu thích chụp ảnh, bạn nên chọn Pixel 6A.
+Màn hình
+Nothing Phone (1): 6.55 inch, OLED, tần số quét 120Hz, hỗ trợ HDR10 ; độ phân giải 1080x2400 pixel; tỉ lệ 20:9; mật độ điểm ảnh 402ppi; Gorilla Glass 5; tỉ lệ màn hình trên thân máy 85,8%.
+Google Pixel 6A: 6.1 inch, OLED, tần số quét 60Hz; độ phân giải 1080 x 2400 pixel; tỉ lệ 20:9; Gorilla Glass 3; tỉ lệ màn hình trên thân máy 83%.
+Pixel 6A có màn hình xấu hơn Nothing Phone (1) và kính cường lực cũng cũ hơn. Thiết kế của Nothing Phone (1) khá đẹp so với mặt bằng chung của điện thoại Android. Cả hai máy đều dùng thiết kế đục lỗ nhưng bố trí khác nhau.
+Vi xử lý
+Nothing Phone (1): Snapdragon 778 5G, GPU Adreno 642L
+Google Pixel 6A: Google Tensor, GPU Mali-G78
+Pixel 6A dùng chung chip với Pixel 6 và 6 Pro, do vậy, điểm hiệu năng AnTuTu (v9) vào khoảng 630K. Nothing Phone (1) sử dụng chip của Qualcomm, điểm hiệu năng khoảng 530K. Con chip này nổi tiếng với hiệu suất ổn định, tiết kiệm pin và không gây nóng máy.
+RAM và bộ nhớ
+Nothing Phone (1): 8/12GB RAM, bộ nhớ 128/256GB
+Google Pixel 6A: 6GB RAM, 128GB
+Pin
+Nothing Phone (1): 4500mAh, sạc nhanh có dây 33W, sạc không dây 15W, sạc đảo chiều 5W
+Google Pixel 6A: 4410mAh, sạc nhanh có dây 18W
+Dung lượng pin trên hai mẫu tương đồng. Tuy nhiên, tốc độ sạc trên Nothing Phone (1) sẽ nhanh hơn. Ngoài ra, bạn có thể dùng nó để sạc các thiết bị nhỏ khác như tai nghe hay smartwatch. Lưu ý cả hai không bán kèm củ sạc.
+Kết luận
+Dường như Nothing Phone (1) mang lại giá trị cao hơn cho nhiều người nhờ chất lượng hoàn thiện tốt, sạc nhanh hơn, màn hình đẹp hơn, nhiều RAM hơn. Dù vậy, nếu là người thích chụp ảnh và cập nhật hệ điều hành sớm hơn, Pixel 6A là dành cho bạn.
+Google giới thiệu loạt nâng cấp cho Android 13  Trong sự kiện mới, Google giới thiệu một loạt nâng cấp cho Android 13, với hàng loạt tính năng và tiện ích mới dành cho người dùng. Tại sự kiện Google I/O diễn ra vào rạng sáng 12/5 (giờ Việt Nam), Google đã tiết lộ thêm nhiều chi... 

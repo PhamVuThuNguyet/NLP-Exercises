@@ -1,0 +1,20 @@
+
+Nhiều người có rất nhiều email cũ mà họ chưa xóa, chúng sẽ chiếm nhiều dung lượng lưu trữ Google được cung cấp miễn phí.
+Đối với tất cả các tài khoản Google, bao gồm Gmail, Drive, Photos, người dùng chỉ có tổng cộng 15 GB dung lượng lưu trữ đám mây. Muốn có thêm dung lượng, người dùng phải chi thêm tiền để mua dung lượng trống. Tuy nhiên, nếu bạn không muốn chi tiền cho việc này, bạn có thể chỉ cần xóa một số dữ liệu không cần thiết của mình để nhường chỗ cho các tệp, email và ảnh sắp tới.
+Có nhiều phương pháp để xóa nhanh ảnh và video không mong muốn, nhưng một trong số đó là “bộ lọc để xóa tự động”, cho phép người dùng Gmail xóa nhanh các email không mong muốn. Dưới đây là hướng dẫn từng bước về cách bạn có thể sử dụng và giữ cho hộp thư đến của bạn luôn “gọn gàng”.
+1. Mở Gmail trên máy tính
+    
+2. Nhấp vào biểu tượng bộ lọc có sẵn trên thanh tìm kiếm
+    
+3. Một menu thả xuống sẽ xuất hiện trên màn hình của bạn. Chỉ cần nhập tên hoặc địa chỉ email của những email không quan trọng trong phần Từ
+4. Nhấp vào Tạo bộ lọc rồi chọn Xóa cuộc trò chuyện
+    
+5. Nhấn lại vào nút Tạo bộ lọc
+    
+Sau thao tác này, các email sắp tới mà bạn nhận được từ các tài khoản Gmail được chỉ định sẽ tự động bị xóa.
+Những điều cần lưu ý:
+- Bạn cũng có thể tìm biểu tượng bộ lọc trong phần cài đặt nếu bạn không thể tìm thấy nó trên thanh tìm kiếm. Bạn có thể tìm thấy nút "Tạo bộ lọc mới" bằng cách chọn tab " Bộ lọc và địa chỉ bị chặn".
+    
+- Bạn nên nhập một ID email hơn là chỉ một tên, vì Gmail có thể xóa bất kỳ email nào có cùng tên. Do đó, hãy cung cấp ID email đầy đủ nếu bạn muốn Gmail chỉ xóa email từ một người gửi cụ thể.
+- Tính năng này chỉ dành cho các email sắp tới và không xóa tất cả các email trước đó của bạn.
+- Bạn cũng có thể xóa các bộ lọc mà bạn đã tạo.

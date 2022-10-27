@@ -1,0 +1,26 @@
+
+Ngày 31-8, công ty thiết kế chip Nvidia cho biết các quan chức Mỹ đã yêu cầu họ ngừng xuất khẩu 2 chip máy tính hàng đầu dành cho trí tuệ nhân tạo (AI) sang Trung Quốc
+Động thái này có thể gây ảnh hưởng với công nghệ cao của Trung Quốc.
+Theo Hãng tin Reuters, động thái trên có thể làm tê liệt một số hoạt động đòi hỏi công nghệ của doanh nghiệp Trung Quốc như nhận dạng hình ảnh.
+Nvidia cho biết lệnh cấm ảnh hưởng đến các chip A100 và H100 của họ. Hai loại chip này được thiết kế để tăng tốc các tác vụ máy học (machine learning). Hãng cũng e ngại lệnh cấm mới nhất có thể cản trở việc hoàn thành phát triển H100, con chip hàng đầu mà Nvidia đã công bố trong năm nay.
+Trong khi đó, một phát ngôn viên của AMD, công ty đối thủ của Nvidia, nói với Reuters rằng họ đã nhận được các yêu cầu giấy phép mới có khả năng giới hạn xuất khẩu chip trí tuệ nhân tạo MI250 sang Trung Quốc.
+      ADVERTISEMENT 
+ Logo của Nvidia xuất hiện trong triển lãm máy tính Computex hằng năm ở Đài Bắc, Đài Loan – Ảnh: REUTERS
+Song, AMD nói họ tin rằng hoạt động sản xuất chip MI100 của họ sẽ không bị ảnh hưởng, cũng như không tin rằng các quy định mới sẽ có tác động đáng kể đến hoạt động kinh doanh của mình.
+Theo Nvidia, các quan chức Mỹ thông báo quy định mới “sẽ giải quyết rủi ro rằng các sản phẩm được bảo hộ có thể được sử dụng hoặc chuyển hướng sang” sử dụng trong quân sự. Phía chính quyền Mỹ cũng lo ngại các chip này sẽ có người dùng cuối cùng là quân đội Trung Quốc.
+Thông báo của Nvidia cũng cho thấy Mỹ tiếp tục leo thang nỗ lực giới hạn năng lực công nghệ của Trung Quốc, trong bối cảnh căng thẳng xung quanh số phận của Đài Loan vẫn chưa hạ nhiệt. Đài Loan là nơi sản xuất chip cho Nvidia và hầu hết các hãng chip lớn khác.
+Nếu không có chip của Mỹ từ các công ty như Nvidia và AMD, các công ty, tổ chức Trung Quốc sẽ không thể thực hiện hiệu quả những công việc cần kỹ thuật tiên tiến như nhận dạng hình ảnh và giọng nói, cùng nhiều tác vụ khác.
+Nhận dạng hình ảnh và xử lý ngôn ngữ được ứng dụng phổ biến trong các sản phẩm tiêu dùng như điện thoại thông minh. Chúng cũng được sử dụng trong các hoạt động quân sự như dò hình ảnh vệ tinh để tìm vũ khí hoặc căn cứ quân sự, cũng như lọc thông tin liên lạc kỹ thuật số cho mục đích thu thập thông tin tình báo.
+
+'Gót chân Achilles' của ngành chip Trung Quốc Nếu Mỹ áp dụng chính sách này, cả ngành sản xuất chip Trung Quốc sẽ không thể phát triển tiếp Mỹ bơm tiền cho công nghệ chip, Trung Quốc tức tối ra mặt Tổng thống Biden chính thức ký thông qua Đạo luật "Khoa học và Chip" nhằm cạnh tranh với Trung Quốc Có đúng chip càng nhỏ sẽ càng cao cấp?
+    
+Giới quan sát đánh giá các biện pháp kiểm soát xuất khẩu mới nhất của Mỹ đánh dấu sự leo thang nỗ lực của Washington nhằm thúc đẩy lợi thế công nghệ cao của Mỹ so với Trung Quốc - Ảnh: South China Morning Post
+Hôm 12-8, Cục Công nghiệp và an ninh (BIS), một cơ quan thuộc Bộ Thương mại Mỹ, công bố các biện pháp kiểm soát xuất khẩu với lý do bảo vệ an ninh quốc gia. Các biện pháp có hiệu lực từ ngày 15-8 áp dụng cho một số công nghệ sản xuất chip và động cơ tuabin khí tiên tiến.
+Dù Trung Quốc không chính thức bị đề cập, các nhà phân tích nhận định những hạn chế mới của Mỹ rõ ràng nhắm vào Bắc Kinh.
+Bà Shang Manjun, một nhà phân tích của công ty tư vấn bán dẫn ICwise có trụ sở tại Trung Quốc, cho rằng "Mỹ đang nhắm đến tương lai". Theo bà, việc hạn chế xuất khẩu đối với phần mềm được sử dụng để thiết kế chip tiên tiến là "con át chủ bài" mà Washington chưa từng sử dụng trước đây.
+Hiện nay, ngành công nghiệp chip của Trung Quốc phụ thuộc vào phần mềm tự động hóa thiết kế điện tử (EDA) tiên tiến do công ty Mỹ cung cấp.
+Ngành bán dẫn ở Trung Quốc chưa phát triển đến mức đòi hỏi phần mềm thiết kế cho các chip có cấu trúc GAA phức tạp. Tuy nhiên, một giám đốc điều hành công ty phần mềm Trung Quốc nói với South China Morning Post rằng Trung Quốc sẽ cần đến phần mềm này một khi đi vào sản xuất chip theo quy trình 3 nanomet (nm). Đây là quy trình tiên tiến đang được cả tập đoàn Samsung (Hàn Quốc) và TSMC (Đài Loan) ứng dụng.
+Giám đốc điều hành trên chỉ ra rằng các công ty Trung Quốc đang đi sau ít nhất 1 hoặc 2 thế hệ công nghệ so với các nhà sản xuất lớn của Mỹ.
+Cũng theo báo South China Morning Post, bên cạnh phần mềm, Mỹ còn hạn chế xuất khẩu 2 chất nền bán dẫn oxit gali và kim cương. Oxit gali và kim cương có thể chịu được ở điện áp và nhiệt độ cao hơn đáng kể so với vật liệu chip thông thường như silicon.
+Theo BIS, lệnh cấm xuất khẩu đối với hai loại vật liệu này sẽ ngăn chúng xuất hiện trong chip phục vụ các ứng dụng quân sự.
+Loài người có thể tuyệt chủng - Đây là cách nó diễn ra và những người đang cố gắng để ngăn chặn Trong 4 mối đe dọa có thể ảnh hưởng đến sự tồn tại của loài người - trí tuệ nhân tạo, biến đổi khí hậu, vũ khí hạt nhân và công nghệ sinh học - thì công nghệ hóa ra lại là cốt lõi của tất cả. Có... 

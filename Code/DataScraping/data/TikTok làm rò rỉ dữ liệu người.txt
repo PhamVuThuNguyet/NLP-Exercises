@@ -1,0 +1,20 @@
+
+790 GB dữ liệu thông tin người dùng TikTok được báo cáo vừa bị rò rỉ, tuy nhiên một nhà nghiên cứu đã kiểm tra một số tập tin và nhận thấy chúng bao gồm dữ liệu công khai và ghép nối với nhau thay vì do vi phạm
+The Verge gợi ý 7 loa không dây đáng mua nhất cuối 2022 này Cách sử dụng Apple Maps để tìm vị trí đỗ xe ô tô Việt Nam thu hút nhà sản xuất chíp thế giới Ông John Kerry: ‘Việt Nam sẽ thu hút thêm nhiều doanh nghiệp đa quốc gia khi chuyển đổi sang năng lượng sạch’
+Vụ rò rỉ được phát hiện đầu tiên bởi nhà nghiên cứu có tên AgainstTheWest, cho biết TikTok đã lưu trữ tất cả mã nguồn phụ trợ nội bộ của mình trên một phiên bản Alibaba Cloud bằng mật khẩu yếu. Theo dữ liệu thu thập, có đến 790 GB bảng thông tin người dùng từ cơ sở dữ liệu được ghi nhận, với số lượng người dùng hiện tại là 2,05 tỷ.
+      ADVERTISEMENT 
+AgainstTheWest cho biết, dữ liệu này đến từ người dùng khắp nơi trên thế giới, trong đó có rất nhiều người chưa đủ tuổi. Việc tiết lộ những thông tin như vậy cùng dữ liệu đang được lưu trữ mà người dùng không hề hay biết là điều nghiêm trọng có thể gây ra điều gì đó nguy hiểm.
+Các nhà nghiên cứu bảo mật tại BeeHive CyberSecurity khuyến cáo người dùng nền tảng video này thay đổi mật khẩu và kích hoạt xác thực hai yếu tố. Họ cũng chia sẻ ảnh chụp màn hình của các tập tin trên Twitter, bao gồm “record_paypal_order” hoặc “tiktok_author_stats”.
+Mặc dù vậy, hãy nghiên cứu bảo mật Troy Hunt đã kiểm tra một số tập tin rò rỉ và nhận thấy rằng tất cả đều là dữ liệu có thể truy cập công khai. Điều đó có nghĩa nó có thể đã được tự tạo ra mà không bắt nguồn từ một vụ vi phạm dữ liệu. Theo Troy Hunt, một số dữ liệu trong này là rác, có thể là dữ liệu phi sản xuất hoặc thử nghiệm. Về cơ bản, đó là một túi hỗn hợp”.
+Trả lời trước vụ việc, phát ngôn viên của TikTok khẳng định rằng “TikTok ưu tiên quyền riêng tư và bảo mật cho dữ liệu của người dùng”.
+Được biết, vào tháng 6/2022, người đứng đầu FCC đã kêu gọi Apple và Google xóa TikTok khỏi các cửa hàng ứng dụng của họ do mô hình lưu trữ dữ liệu người dùng. Theo đó, TikTok đang có hàng triệu người dùng Mỹ và thu thập rất nhiều dữ liệu nhạy cảm về họ. FCC cho biết công ty mẹ của TikTok là ByteDance có thể cung cấp các dữ liệu này cho chính phủ Trung Quốc khi được yêu cầu./.
+
+    
+ Biểu tượng Facebook trên màn hình điện thoại di động. (Ảnh: AFP/TTXVN)
+Ngày 23/8, Bộ Tư pháp Brazil thông báo phạt mạng xã hội Facebook 6,6 triệu real (khoảng 1,3 triệu USD) vì làm rò rỉ thông tin cá nhân và dữ liệu của 443.000 người dùng tại nước này.
+Theo phóng viên TTXVN tại Nam Mỹ, Cơ quan Bảo vệ người tiêu dùng quốc gia (Senacon) trực thuộc Bộ Tư pháp Brazil, cho biết thông tin cá nhân và dữ liệu của người dùng đã được Facebook giao cho Công ty tư vấn Cambridge Analytica của Anh - đơn vị tham gia cố vấn trong chiến dịch tranh cử Tổng thống Mỹ năm 2016 của ông Donald Trump.
+Cuộc điều tra từ nhà chức trách cho thấy việc chia sẻ dữ liệu bất hợp pháp với Cambridge Analytica diễn ra thông qua việc cài đặt một ứng dụng phục vụ mục đích phân tích tâm lý học trong Facebook có tên "This Is Your Digital Life."
+Senacon cho biết dữ liệu của hơn 87 triệu người dùng Facebook đã bị rò rỉ trong vụ bê bối Cambridge Analytica, trong đó có thông tin cá nhân của hơn 443.000 công dân Brazil.
+Vào tháng 7/2022, Facebook tuyên bố không có bằng chứng cho thấy dữ liệu của người dùng Brazil đã được chuyển đến Cambridge Analytica.
+Senacon nhấn mạnh Bộ Tư pháp Brazil không chấp nhận các lập luận do phía Facebook đưa ra và quyết định xử phạt mạng xã hội này. Tuy nhiên, Facebook vẫn có thể kháng cáo quyết định trên.
+Doanh nghiệp đang lo ngại những nguy cơ bảo mật nào nhất? Các chủ doanh nghiệp và nhà quản lý công ty cho rằng, các mối lo ngại về ransomeware, tấn công có chủ đích hay rò rỉ dữ liệu là những nguy cơ lớn với tổ chức của họ. Các lãnh đạo doanh nghiệp trong khu vực Đông Nam... 

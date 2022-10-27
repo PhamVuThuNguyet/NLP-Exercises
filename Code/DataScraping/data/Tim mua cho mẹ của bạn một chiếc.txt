@@ -1,0 +1,13 @@
+
+Người điều hành Apple cho rằng cách duy nhất để sử dụng đầy đủ tính năng nhắn tin iMessage là dùng iPhone.
+Theo The Verge, CEO Tim Cook bác bỏ ý tưởng dùng chuẩn RCS để chấm dứt tình trạng bong bóng màu xanh lá cây bao quanh tin nhắn từ iPhone đến thiết bị Android – một biểu tượng của sự phân biệt và hạn chế tính năng đối với máy nằm ngoài hệ sinh thái của Apple.
+Tại sự kiện Code 2022 của Vox Media, khi được hỏi về việc áp dụng tiêu chuẩn RCS vào ứng dụng nhắn tin iMessage, CEO Apple thẳng thắn bác bỏ.
+ "Ở thời điểm này, tôi không nghe người dùng của Apple yêu cầu chúng tôi dành công sức vào việc đó", Tim Cook cho biết và khuyên người đặt câu hỏi, LiQuan Hunt của Vox Media nên đổi sang iPhone.
+Tim Cook cho rằng giải pháp cho vấn đề tin nhắn giữa iPhone với điện thoại Android là đổi sang dùng iPhone. Ảnh: Vox.
+RCS (Rich Communications Services) là một bộ tiêu chuẩn giao tiếp hiện đại dành cho SMS, MMS và cuộc gọi, giúp chúng có nhiều tính năng tương tự ứng dụng nhắn tin của bên thứ 3. Nền tảng này đóng vai trò quan trọng trên hệ điều hành di động của Google và được tích hợp vào Android Messages.
+Tuy nhiên, LiQuan Hunt chưa muốn dừng lại ở đó. Ông đặt ra vấn đề có tính phức tạp hơn. Đó là mẹ của ông không thể xem được video do ông gửi từ iPhone sang, cho dù cả 2 đều dùng những nền tảng hỗ trợ gửi hình ảnh, video chất lượng cao. 
+Nguyên nhân của tình trạng này xuất phát từ việc thiếu khả năng tương tác giữa iMessage và RCS. Nếu người dùng cố gắng gửi video từ iPhone sang điện thoại Android hoặc ngược lại, hình ảnh đầu kia nhận được sẽ bị mờ. Khi Hunt đề nghị Tim Cook đưa ra giải pháp cho vấn đề đó, CEO Apple trả lời dứt khoát: "Hãy mua cho mẹ bạn một chiếc iPhone".
+Những dòng tin nhắn khác màu trong iMessage để phân biệt người dùng Android (xanh lá cây) với người dùng iPhone khác (xanh lam) đã trở thành một việc gây tranh cãi. Google nhiều lần chỉ trích Apple trong vì giữ độc quyền ứng dụng nhắn tin, không hỗ trợ RCS.
+"Vấn đề này tồn tại vì Apple từ chối áp dụng tiêu chuẩn nhắn tin hiện đại khi mọi người sử dụng iPhone và điện thoại Android để liên lạc với nhau", Google đổ lỗi cho Apple trên trang chủ Android hồi đầu tháng 8.
+Google cũng kêu gọi người dùng lên tiếng phản đối Apple trên mạng xã hội, thông qua hashtag #getthemessage. "Tính năng nhắn tin giữa iPhone và Android bị hỏng. Đã đến lúc Apple sửa lỗi bong bóng màu xanh lá cây và xanh lam, đưa tin nhắn đến mọi người", Google tuyên bố.
+Dịch vụ nhắn tin iMessage được xem là vũ khí bí mật của Apple, công cụ trói chân người dùng vào hệ sinh thái của công ty. Nhiều người thừa nhận iMessage chính là thứ khiến họ không thể từ bỏ iPhone.

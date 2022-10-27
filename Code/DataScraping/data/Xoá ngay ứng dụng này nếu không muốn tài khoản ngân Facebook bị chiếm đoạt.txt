@@ -1,0 +1,15 @@
+
+Nhiều người dùng đã bị chiếm đoạt tài khoản Facebook, thẻ ngân hàng sau khi tải về sử dụng một ứng dụng lừa đảo.
+Mới đây, các chuyên gia an ninh mạng đã đưa ra cảnh báo với người dùng về việc cần kiểm tra và gỡ bỏ cài đặt càng sớm càng tốt một ứng dụng độc hại có khả năng đánh cắp tài khoản Facebook của người dùng.
+Cụ thể, nguồn tin từ Business Insider cho biết, kho ứng dụng App Store đã để lọt một ứng dụng lừa đảo giúp tin tặc có thể chiếm đoạt tài khoản người dùng Facebook.
+Nhiều người dùng đã bị chiếm đoạt tài khoản Facebook sau khi tải về sử dụng một ứng dụng lừa đảo trên App Store (Ảnh: Adobe Stock)
+Với tên gọi "Pages Manager Suite", ứng dụng này được quảng cáo là có khả năng giúp người dùng quản lý quảng cáo Facebook. Trước khi bị gỡ bỏ khỏi App Store, ứng dụng đã hiển thị ở vị trí hàng đầu khi người dùng tìm kiếm "ứng dụng quản lý quảng cáo Facebook".
+Theo nguồn tin của Business Insider, một số người chạy quảng cáo qua Facebook đã bị chiếm tài khoản sau khi sử dụng ứng dụng này. Tin tặc sau khi chiếm đoạt tài khoản sẽ chạy quảng cáo bằng tiền của chính nạn nhân.
+Một nạn nhân là lãnh đạo công ty quảng cáo độc lập cho biết, họ đã tải ứng dụng này cách đây hai tuần vì nghĩ rằng nó sẽ giúp họ chạy quảng cáo Facebook từ điện thoại của mình. Chỉ sau 10 phút, người này đã mất tất cả quyền truy cập vào tài khoản Facebook cá nhân và một số tài khoản mà họ điều hành cho khách. 
+Nhà phát triển của ứng dụng này được liệt kê là Bronzelab SG Ltd, không có trang web chính thức cùng nhà cung cấp ứng dụng là công ty VI DO.
+Vào giữa tháng 7, Meta (công ty mẹ của Facebook) báo cáo ứng dụng cho Apple, đồng thời hướng người dùng đến trung tâm trợ giúp trực tuyến của hãng. Danh sách các bước cần thực hiện sau khi tài khoản bị tấn công đã được gửi đến người dùng, cùng đường dây nóng hoặc bộ phận hỗ trợ trực tiếp.
+Dù Apple tuyên bố là có quy trình đánh giá ứng dụng nghiêm ngặt trước khi đưa lên App Store, nhưng kho ứng dụng của công ty vẫn xuất hiện những ứng dụng lừa đảo. Một phân tích vào năm ngoái của The Washington Post ước tính rằng có tới 2% các ứng dụng phổ biến nhất trên App Store liên quan tới các vụ lừa đảo.
+Mặc cho Apple "đánh giá nghiêm ngặt", ứng dụng lừa đảo vẫn xuất hiện trên App Store (Ảnh: REUTERS)
+Với trường hợp mới đây, người phát ngôn của công ty cho biết ứng dụng lừa đảo đó ban đầu được đưa lên như một trình quản lý tài liệu đơn giản, không có chức năng quản lý quảng cáocủa Facebook. Chức năng này đã được thay đổi sau khi được xét duyệt vào cửa hàng ứng dụng. Apple hiện đã xóa nó khỏi kho ứng dụng App Store.
+Theo Business Insider, trong những tháng gần đây trang Reddit dành cho quảng cáo Facebook xuất hiện rất nhiều bài đăng từ các nhà chạy quảng cáo cho biết họ đã bị tấn công và nhận được rất ít hoặc không nhận được sự hỗ trợ từ nền tảng này.
+Điều này khiến Giám đốc điều hành của Meta, Mark Zuckerberg, đề cập đến sự cần thiết phải đầu tư "vào việc xây dựng dịch vụ hỗ trợ khách hàng tốt hơn cho các sản phẩm của chúng tôi".

@@ -1,0 +1,18 @@
+
+Theo Nghị định 91/2020/NĐ-CP, hành vi gửi tin nhắn, cuộc gọi quảng cáo đến các số điện thoại trong Danh sách không quảng cáo có thể bị phạt đến 100 triệu đồng. Thuê bao có thể đăng ký vào danh sách này theo cách dưới đây.
+Trước đó, theo Nghị định 91/2020/NĐ-CP, hành vi gửi tin nhắn đăng ký quảng cáo không đúng quy định của Bộ Thông tin và Truyền thông, hay gửi tin nhắn đăng ký quảng cáo đến các số điện thoại trong Danh sách không quảng cáo sẽ bị xử phạt với số tiền từ 60-80 triệu đồng.
+Trong khi đó, các hành vi gọi điện thoại quảng cáo đến người dùng khi chưa được đồng ý / từ chối nhận cuộc gọi, hoặc gửi tin nhắn đăng ký quảng cáo khi người sử dụng đã từ chối / không trả lời nhận tin nhắn, sẽ bị xử phạt từ 5-10 triệu đồng.
+Hành vi thực hiện quá 1 cuộc gọi quảng cáo tới 1 số điện thoại trong vòng 24 giờ mà không có thỏa thuận khác với người sử dụng sẽ bị xử phạt với số tiền từ 20-30 triệu đồng. Tương tự, hành vi gọi điện thoại quảng cáo ngoài khoảng thời gian từ 8 giờ đến 17 giờ mỗi ngày mà không có thỏa thuận khác với người sử dụng cũng sẽ bị phạt số tiền từ 20-30 triệu đồng.
+Ngoài ra, hành vi gửi tin nhắn, gọi điện quảng cáo đến Danh sách không quảng cáo có thể bị phạt lên đến 100 triệu đồng.
+Để chặn các cuộc gọi, tin nhắn làm phiền, Bộ Thông tin và Truyền thông đã ban hành Thông tư 22/2021/TT-BTTTT quy định chi tiết một số điều của Nghị định số 91/2020/NĐ-CP của Chính phủ về chống tin nhắn rác, thư điện tử rác, cuộc gọi rác.
+Theo đó, người sử dụng có thể phản ánh, cung cấp các bằng chứng tin nhắn rác bằng cú pháp: S [Nguồn phát tán][Nội dung tin nhắn rác] hoặc S (nguồn phát tán)(Nội dung tin nhắn rác) gửi 5656.
+Để phản ánh, cung cấp các bằng chứng cuộc gọi rác: Người sử dụng soạn tin nhắn phản ánh theo cú pháp: V [Nguồn phát tán][Nội dung cuộc gọi rác] hoặc V (Nguồn phát tán)(Nội dung cuộc gọi rác) gửi 5656.
+Để phản ánh, cung cấp các bằng chứng thư điện tử rác, người sử dụng phản ánh thông qua việc chuyển tiếp thư điện tử rác tới địa chỉ thư điện tử [email protected].
+Ngoài ra, người sử dụng có thể phản ánh, cung cấp các bằng chứng tin nhắn rác, cuộc gọi rác và thư điện tử rác theo hướng dẫn tại website thongbaorac.ais.gov.vn hoặc qua tổng đài hoặc ứng dụng.
+Người sử dụng có thể đăng ký hoặc hủy đăng ký Danh sách không nhận tin nhắn quảng cáo. Cú pháp đăng ký: DK DNC S gửi 5656. Cú pháp hủy: HUY DNC S gửi 5656.
+Đăng ký hoặc hủy đăng ký Danh sách không nhận cuộc gọi quảng cáo
+Để đăng ký vào Danh sách không nhận cuộc gọi quảng cáo, cú pháp đăng ký: DK DNC V gửi 5656. Người dùng có thể huỷ với cú pháp: HUY DNC V gửi 5656.
+Đăng ký hoặc hủy đăng ký Danh sách không nhận tin nhắn và cuộc gọi quảng cáo
+Cú pháp đăng ký: DK DNC gửi 5656 và cú pháp hủy: HUY DNC gửi 5656.
+Bên cạnh đó, người sử dụng có thể đăng ký hoặc hủy qua website khongquangcao.ais.gov.vn hoặc tổng đài hoặc ứng dụng.
+Người quảng cáo chỉ được phép gửi tin nhắn đăng ký quảng cáo đầu tiên và duy nhất tới 1 số thuê bao. Trong vòng 24 giờ kể từ thời điểm gửi tin nhắn đăng ký quảng cáo đầu tiên và duy nhất, người dùng không phản hồi thì người quảng cáo không được phép gửi bất kỳ tin nhắn đăng ký quảng cáo hoặc tin nhắn quảng cáo nào đến số điện thoại đó.

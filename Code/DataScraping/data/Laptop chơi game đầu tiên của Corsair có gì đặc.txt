@@ -1,0 +1,48 @@
+
+Được trang bị các tính năng thông minh không thể tìm thấy ở bất kỳ sản phẩm nào khác, Voyager là một thiết bị đáng được sở hữu bởi các game thủ, streamer và người sáng tạo
+Corsair vốn nổi tiếng với việc sản xuất các thành phần linh kiện cho máy tính để bàn (PC), phụ kiện chơi game và thiết bị cho các streamer. Ngoài ra công ty cũng từng tung ra một dòng PC chuyên chơi game.
+Nhưng laptop chơi game là một khái niệm hoàn toàn mới đối với công ty. Corsair Voyager a1600 là một laptop chơi game đầu tiên của hãng và về cơ bản nó là sự kết hợp của tất cả các danh mục sản phẩm của công ty vào một thiết bị, từ RAM hay SSD của mảng kinh doanh linh kiện, cũng như công nghệ không dây đến từ bàn phím chơi game, chuột và tai nghe đều xuất hiện trong Voyager a1600.
+      ADVERTISEMENT 
+ Laptop chơi game đa năng đầu tiên của Corsair, Voyager a1600.
+ Phần cứng ấn tượng
+Tuy cùng một dòng sản phẩm, nhưng Corsair đã phân Voyager a1600 ra nhiều mức cấu hình khác nhau tùy theo nhu cầu sử dụng của người dùng.
+Với mức giá khởi điểm 2.699 USD, thiết bị sẽ được xử lý với CPU AMD Ryzen 7 6800HS, đồ họa AMD Radeon 6800M, bộ nhớ RAM DDR5 16GB và ổ SSD NVMe 1TB. Laptop sẽ chạy trên Windows 11 Home.
+Với giá 2.999 USD, nó được trang bị CPU Ryzen 9 6900HS, RAM và SSD có dung lượng nhiều gấp đôi so với mẫu cơ bản ở trên. Thiết bị sẽ được chạy trên Windows 11 Pro nếu người dùng chi thêm 50 USD, áp dụng với cả hai mức cấu hình.
+Tuy nhiên, các mức cấu hình không dừng lại ở đó. Origin PC, một nhà sản xuất PC tùy chỉnh thuộc sở hữu của Corsair, cũng bán Voyager a1600. Khi mua thiết bị từ Origin PC, người dùng có thể thay đổi cấu hình theo ý thích lên đến 64GB RAM, gắn thêm 1 – 2 ổ SSD tùy dung lượng và thậm chí chọn trang trí vẻ bề ngoài với 11 mẫu ốp máy.
+Khi được thử nghiệm với các trò chơi nặng, Voyager a1600 hoàn toàn đáp ứng các yêu cầu về hiệu suất của AMD. Khi xử lý các trò chơi, card đồ họa rời lập tức được đưa vào hoạt động, đẩy tốc độ khung hình lên hơn 100FPS trong hai tựa game Guardians of the Galaxy và Shadow of the Tomb Raider với mức cài đặt cao ở 1440p. Ngoài ra với CS:GO, thiết bị có thể đạt tới 280FPS và theo Corsair, điều này tận dụng tối đa tốc độ làm mới 240Hz của màn hình.
+    
+ Voyager a1600 cân tốt các thể loại game với chất lượng đồ họa “nặng đô”.
+Trong tình trạng ít tải và các quạt hoạt động hết công suất, Voyager vẫn duy trì sự “mát mẻ” ở hai vùng bên trái và bên phải của thiết bị, giúp bàn tay của game thủ luôn thoải mái khi chơi game. Tuy nhiên tiếng quạt sẽ khá lớn, nhưng đây là điều hiển nhiên với những chiếc laptop chơi game có thiết kế mỏng và mạnh mẽ, chỉ dày 19,8mm và nặng 2,4kg.
+Sở hữu dung lượng pin lớn 99Wh kéo dài 5 giờ. Mặc dù đi kèm với bộ adapter công suất 230W cấp nguồn cho hoạt động chơi game và sạc, Voyager vẫn có thể được sạc qua cổng USB-C với adapter 100W.
+Về khả năng hiển thị, tất cả các cấu hình đều đi kèm với màn hình IPS 16 inch 240Hz, 2.560×1.600 pixel. Màn hình có các thông số nhắm đến những game thủ thường xuyên “chiến” các trò chơi nặng, tốc độ làm mới cao giúp đồ họa mượt mà và theo dõi mục tiêu dễ dàng hơn với 1440p.
+Với những người dùng cần có độ phủ gam màu rộng để thực hiện chỉnh sửa hình ảnh và video thì nên cân nhắc, màn hình của Voyager chỉ đạt 75% Adobe RGB và DCI-P3, 69% NTSC và 97% sRGB và độ sáng đo được ở 359 nits.
+    
+ Màn hình lớn tỉ lệ 16:10, tốc độ làm mới 240Hz của Voyager.
+Sự kết hợp của màn hình lớn tỉ lệ 16:10 và bản lề vun cao lạ mắt tạo cho thân máy một vẻ ngoài đặc biệt, nhưng sẽ hơi khó nhét vào balo khi cần di chuyển. Bên dưới khoảng trống giữa màn hình và thân máy có thanh S-Key Macro, là một dải gồm 10 phím macro có màu sắc và có thể lập trình và nằm giữa chúng là một màn hình màu nhỏ giúp hỗ trợ các tính năng macro.
+Thanh S-Key Macro hoạt động với bộ phần mềm Elgato tích hợp, cho phép tạo các phím macro thao tác lập trình kéo và thả giúp đơn giản hóa mọi thứ, từ sử dụng phần mềm phát trực tuyến OBS đến mở ứng dụng hoặc trang web để phát hiệu ứng âm thanh hoặc kích hoạt bộ thay đổi giọng nói.
+Điểm thú vị của thiết kế màn hình nhỏ này là khi đã đóng máy thì nó vẫn lộ ra ngoài, từ đó người dùng vẫn có thể sử dụng các nút trên màn hình phụ khi kết nối laptop với các màn hình ngoài.
+      ADVERTISEMENT 
+ Thanh S-Key Marco với khả năng lập trình chức năng.
+Đối với bàn phím, Corsair đã sử dụng các switch cơ học Cherry MX siêu mỏng, cung cấp phản hồi xúc giác tốt để đánh máy và chơi game. Mặc dù các phím có tiếng lách cách, nhưng tiếng ồn này không lớn. Bàn phím có hệ thống chiếu sáng RGB cho mỗi phím, hoàn toàn có thể lập trình bằng phần mềm iCue của Corsair.
+    
+ Bàn phím cơ sử dụng switch Cherry MX siêu mỏng và đèn RGB.
+ Phần mềm tích hợp mạnh mẽ
+Tất cả phần cứng tuyệt vời được “gói gọn” trong Voyager gần như sẽ không thể mạnh mẽ nếu không có một số phần mềm chuyên dụng đi kèm, được gọi là Elgato Stream Deck.
+Chẳng hạn như AMD Radeon Software: Adrenalin Edition, mang đến một số tùy chọn để tận dụng tối đa CPU và đồ họa (cả tích hợp và rời). Khi kích hoạt AMD SmartShift Max, thiết bị sẽ tự động cân bằng điện năng giữa các thành phần bên trong nếu bạn cần thêm hiệu suất từ GPU hoặc CPU.
+Tương tự, SmartShift Eco sẽ giúp tiết kiệm pin bằng cách sử dụng đồ họa tích hợp khi Voyager không cắm sạc và chuyển trở lại đồ họa rời khi được kết nối bộ sạc. Có một số tính năng khác để cải thiện hiệu suất khi bật hoặc tắt nguồn pin, giảm độ trễ đầu vào và làm sắc nét chi tiết hình ảnh.
+    
+ Bộ phần mềm tích hợp Elgato Stream Deck đi kèm giúp tối ưu hiệu suất của Voyager.
+Phần mềm iCue của những thiết bị ngoại vi cũng đã đến với Elgato. Ứng dụng này được sử dụng để thay đổi đèn bàn phím, gán phím và kết nối chuột, bàn phím và tai nghe không dây Corsair.
+Elgato Camera Hub cho phép kiểm soát webcam 1080p tích hợp để có thể điều chỉnh độ sáng, độ bão hòa, độ phơi sáng và cân bằng trắng. Ngoài ra còn có một máy ảnh hồng ngoại để mở khóa laptop bằng khuôn mặt cũng như màn trập dạng trượt, để chặn hoàn toàn máy ảnh khi cần riêng tư.
+Âm thanh vào và ra được xử lý bởi các loa bên cạnh bàn phím được hỗ trợ bởi Dolby Atmos, giúp mang lại âm thanh trong trẻo và dễ chịu. Các loa này phù hợp với những cuộc gọi trực tuyến hoặc nghe thông thường. Các micophone tích hợp cũng mang lại kết quả ấn tượng, vì vậy các streamer sẽ có âm thanh tốt ngay cả khi không có microphone rời.
+Tất cả những điều này tạo nên một chiếc laptop chơi game nổi bật cả về ngoại hình và hiệu suất. Đó là một giải pháp di động tất cả trong một dành cho game thủ và streamer. Thêm vào đó, Voyager đi kèm gói bảo hành 1 năm và dịch vụ hỗ trợ kỹ thuật 24/7 trọn đời.
+
+      ADVERTISEMENT 
+ Legion 5 Pro là mẫu máy chơi game mới của Lenovo
+Mẫu laptop chơi game mới nhất của Lenovo - Legion 5 Pro, sở hữu thiết kế hoàn hảo với khe tản nhiệt lớn hơn và hệ thống thông gió hiệu suất cao. Cơ cấu này kết hợp với hệ thống quản lý nhiệt tiên tiến Lenovo Legion Coldfront 3.0 có thể tăng luồng khí lưu thông tới 18%, giúp tản nhiệt tốt hơn và giảm ồn hiệu quả, qua đó giúp duy trì nhiệt độ hệ thống ở mức tối ưu. Nhiệt độ hệ thống thấp hơn cũng giúp tăng hiệu suất và khả năng cơ động trọn ngày dài với thời lượng pin bền bỉ hơn.
+Lenovo đã tích hợp nhiều cảm biến thông minh cho Legion 5 Pro, đặc biệt tập trung vào CPU, GPU, các khe tản nhiệt phía sau và bên cạnh, khe cắm SSD, chiếu nghỉ tay. Các cảm biến này sẽ thu thập dữ liệu nhiệt trong mỗi nano giây (một phần nghìn tỉ giây), từ đó dự đoán mô hình đường cong nhiệt của hệ thống trong nhiều giờ tiếp theo mà không ảnh hưởng tới hiệu suất vận hành của máy. Bề mặt tản nhiệt bằng đồng cũng được mở rộng tới 82% so với trước đây.
+Về cấu hình, Legion 5 Pro được trang bị vi xử lý di động AMD Ryzen 7 5800H mới nhất, kết hợp cùng card đồ họa rời lên tới NVIDIA GeForce RTX 3070 thế hệ mới cho tốc độ và trải nghiệm chơi game hàng đầu. Ở chế độ Dual Burn, CPU và GPU kết hợp với nhau cho hiệu suất tối ưu, cùng tốc độ khung hình được đẩy lên mức cao nhất.
+Cỗ máy chơi game di động Legion 5 Pro sở hữu màn hình 16 inch QHD IPS (2.560 x 1.600) có tốc độ làm tươi màn hình (refresh rate) lên tới 165 Hz, thời gian đáp ứng tới 3ms ở dải màu 100% sRGB, và có độ sáng màn hình tới 500 nit - tất cả đều cao và vượt trội thế hệ trước. Màn hình siêu sắc nét này còn hỗ trợ công nghệ Dolby Vision và NVIDIA G-SYNC, hai tính năng quan trọng với người chơi game.
+Ngoài ra, Legion 5 Pro là cỗ máy chơi game thông minh khi tích hợp Lenovo Legion AI Engine, sự kết hợp thông minh giữa phần cứng cực mạnh, phần mềm, firmware và driver tốt nhất - giúp tối ưu hiệu suất hệ thống thông qua chia sẻ Công suất Thiết kế Nhiệt (TDP) giữa CPU và GPU, qua đó đáp ứng tốt hơn các tựa game hạng nặng.
+Tại thị trường Việt Nam, Laptop gaming Legion 5 Pro (AMD), phiên bản màu xám Storm Grey hiện được chào bán với giá 41,99 triệu đồng.
+XMG ra mắt laptop chơi game mạnh mẽ, tản nhiệt nước rời ấn tượng XMG vừa công bố mẫu laptop chuyên phục vụ các game thủ với thông số kỹ thuật ấn tượng. XMG đã công bố máy tính xách tay chơi game cao cấp mới nhất của hãng, Neo 17 và 15. Hai mẫu laptop hiệu suất cao được xây dựng... 

@@ -1,0 +1,46 @@
+
+Ứng dụng công nghệ của Microsoft, FPT Smart Cloud miễn phí triển khai chương trình đánh giá tổng quan sức khỏe bảo mật thông tin cho doanh nghiệp, qua đó định hướng các giải pháp phù hợp với mô hình của từng đơn vị
+Dưới ảnh hưởng của đại dịch Covid-19, chuyển đổi số đã nhanh chóng trở thành xu thế toàn cầu, đặc biệt tác động tới mô hình hoạt động của nhiều doanh nghiệp. Tuy nhiên, điều này kéo theo việc gia tăng nguy cơ tấn công mạng. Doanh nghiệp số hóa phần nào tạo cơ hội cho tin tặc khai thác lỗ hổng bảo mật để đánh cắp thông tin, phát tán thông tin sai lệch hoặc lừa đảo, chiếm đoạt tài sản.
+      ADVERTISEMENT 
+ Chuyển đổi số đồng nghĩa với việc doanh nghiệp cần chuẩn bị kỹ càng cho công tác bảo mật thông tin.
+Theo thống kê từ Bộ TT&TT, đến cuối tháng 10/2021, có hơn 7.200 cuộc tấn công mạng, trung bình hơn 23 sự cố trên hệ thống thông tin Việt Nam mỗi ngày, tăng 42,13% so với cùng kỳ năm 2020. Các cuộc tấn công mạng có xu hướng ngày càng phức tạp, trong khi đó các giải pháp bảo mật truyền thống không đáp ứng được sự thay đổi này. Vì vậy, doanh nghiệp cần phải chuẩn bị kĩ càng hơn để đảm bảo quá trình chuyển đổi số an toàn.
+Doanh nghiệp Việt gặp khó khăn về bảo mật thông tin
+Tại Việt Nam, khái niệm đảm bảo an toàn thông tin không còn quá xa lạ, nhưng nhiều doanh nghiệp vẫn gặp rào cản, nổi bật là khó khăn về nhân lực. Theo báo cáo thị trường nhân lực ngành Công nghệ thông tin Việt Nam (CNTT) của TopDev, trong năm 2021, Việt Nam cần 450,000 nhân lực CNTT, tuy nhiên tổng số nhân sự chuyên ngành ở Việt Nam thời điểm bấy giờ chỉ có 430,000 đồng nghĩa với việc có khả năng thiếu 20,000 vị trí trong năm 2022.
+Điều này dẫn đến tình trạng quá tải, gây khó khăn cho bộ phận chuyên trách của từng doanh nghiệp. Tại một số nơi, doanh nghiệp chỉ có khả năng đảm bảo 1-2 nhân sự CNTT phụ trách hàng trăm máy tính cùng nhiều hệ thống máy móc khác cho toàn đơn vị.
+Các doanh nghiệp còn phải đối diện với bài toán làm thế nào để tiếp cận được với những chuyên gia năng lực cao nhằm đưa ra giải pháp bảo mật với chi phí phù hợp, để doanh nghiệp ở mọi giai đoạn phát triển đều có thể sử dụng.
+    
+ Khó khăn về hạ tầng công nghệ và nhân lực là lý do khiến doanh nghiệp gặp nhiều rào cản về bảo mật thông tin.
+Chi phí đầu tư cho an ninh mạng cũng là một trong những khó khăn, đặc biệt với doanh nghiệp vừa và nhỏ. Việc phải đầu tư lớn về tài chính và nhân lực, trong khi chưa hoàn toàn chắc chắn về hiệu quả, cũng như đối mặt với nguy cơ thất bại, đã tạo rào cản lớn cho doanh nghiệp Việt Nam.
+Đặc biệt, để đảm bảo chuyển đổi số hiệu quả, hạ tầng kỹ thuật công nghệ đòi hỏi những tiêu chuẩn nhất định. Trong khi đó, Việt Nam vẫn chưa làm chủ được các công nghệ lõi. Hầu hết các đơn vị vẫn cơ bản sử dụng công nghệ sẵn có trên thế giới, thậm chí là các ứng dụng crack hoặc miễn phí, hoặc những giải pháp rời rạc, thiếu liên kết dẫn đến lỗ hổng về an toàn thông tin.
+Giải pháp hỗ trợ doanh nghiệp bảo mật thông tin trên môi trường số
+Trước thực trạng trên, FPT Smart Cloud tiên phong triển khai miễn phí chương trình “Đánh giá an ninh mạng toàn diện cho doanh nghiệp”. Hoạt động này nhằm hỗ trợ doanh nghiệp có quy mô hơn 200 nhân sự hiểu rõ thực trạng bảo mật thông tin, đồng thời tư vấn các giải pháp giúp tối ưu hạ tầng sẵn có tại đơn vị.
+    
+ FPT Smart Cloud miễn phí giải pháp bảo mật thông tin doanh nghiệp trên môi trường số
+Thông qua công cụ đánh giá an ninh mạng hiện đại và quy trình kiểm tra chuẩn quốc tế Microsoft Zero Trust và CIS Control version 8.0, các chuyên gia của FPT sẽ giúp doanh nghiệp hiểu rõ “sức khỏe” bảo mật tổng quát và rủi ro an ninh mạng đang phải đối mặt, đồng thời đề xuất những giải pháp tăng cường bảo mật phù hợp trong ngắn hạn và dài hạn.
+Không chỉ giải quyết vấn đề chi phí, chương trình cũng giúp doanh nghiệp nhanh chóng giải bài toán nhân sự và công nghệ, từ đó củng cố hệ thống bảo mật chung để an tâm đóng góp các giá trị cho khách hàng và thị trường.
+Chương trình sẽ diễn ra đến hết ngày 30/5/2022, các đơn vị đừng quên đăng ký ngay để có cơ hội cải thiện sức khỏe số và tăng cường vị thế doanh nghiệp trên hành trình chuyển đối số toàn cầu.
+Link đăng ký tham gia chương trình: https://fptsmartcloud.vn/eshOF
+FPT Smart Cloud (FCI) – thành viên tập đoàn FPT – là đơn vị cung cấp giải pháp ứng dụng Trí tuệ nhân tạo (AI) & Điện toán đám mây (Cloud Computing) hàng đầu tại Việt Nam. Là đối tác kinh doanh cấp I và đối tác Vàng của Microsoft, FPT Smart Cloud tiên phong giúp doanh nghiệp Việt Nam khai thác và tận dụng tối đa công nghệ điện toán đám mây thông qua các giải pháp, hạ tầng và ứng dụng cao cấp từ Microsoft, tạo đột phá trong hoạt động vận hành doanh nghiệp.
+
+Google được đánh giá là một trong những công ty tuyển dụng tốt nhất, đồng thời sở hữu nhân tài bậc nhất toàn cầu, theo bảng xếp hạng thường niên của hãng nghiên cứu và tư vấn Universum.
+Nhưng theo Inc, sức hút của Google không chỉ đến từ tiếng tăm lâu đời mà còn ở cách thức chiêu mộ nhân tài của họ. Có nhiều trường hợp ứng viên gia nhập Google mà không có những hồ sơ bóng bẩy, bằng tốt nghiệp từ các trường đại học danh giá thuộc Ivy League hay nhiều năm kinh nghiệm trong ngành.
+Mở rộng phạm vi tìm kiếm
+Trên thực tế, tập đoàn công nghệ này đang mở rộng phạm vi ứng tuyển bằng cách không yêu cầu bằng cấp hay kinh nghiệm.
+Cách làm của Google tương tự với "bài kiểm tra hai bàn tay" của CEO Elon Musk tại SpaceX và Tesla. Vị tỷ phú vốn nổi tiếng vì không coi trọng nền giáo dục truyền thống khi đào tạo và tìm kiếm các tài năng nhân sự hàng đầu. "Đại học về cơ bản chỉ để giải trí chứ không phải để học", Musk chia sẻ trong sự kiện Satellite 2020.
+      ADVERTISEMENT 
+ Phương pháp tuyển dụng của Google tương tự với triết lý tìm nhân tài của Elon Musk tại SpaceX và Tesla. Ảnh: Wall Street Journal.
+Cụ thể, ở những công ty của Musk, các ứng viên sẽ không phải trải qua vòng kiểm tra bằng cấp. Thay vào đó, họ sẽ được đánh giá dựa trên những kinh nghiệm làm việc trực tiếp và bài kiểm tra chuyên môn thực tế.
+Nhưng khác với vị tỷ phú giàu nhất hành tinh, Google còn loại bỏ cả vòng kiểm tra kinh nghiệm. Với những chương trình cung cấp chứng chỉ trực tuyến như Google Project Management Certificate, Google đang nỗ lực loại bỏ những phương pháp tuyển dụng truyền thống.
+Một khi hoàn thành các khóa học này, hãng công nghệ sẽ cho các học viên có hứng thú có cơ hội đảm nhiệm một vài vị trí quản lý dự án. Khi tham gia khóa thử thách, ứng viên có thể thể hiện được tư duy, phong cách lãnh đạo, cách giao tiếp cũng như kết quả trực tiếp của công việc giống như vị trí mà Google đang nhắm đến.
+Điều Google tìm kiếm không phải là những nhà quản lý dự án giỏi nhất mà là những người sở hữu những kỹ năng phù hợp giúp đội nhóm của mình phát triển và tiến bộ rõ rệt. Như vậy, khó học và thử thách mà Google tạo ra giúp họ tìm ra được người thực sự phù hợp.
+Các khóa học miễn phí của Google giúp mọi ứng viên đều có cơ hội thử sức với vị trí quản lý dự án. Bằng cách loại bỏ những tiêu chuẩn đánh giá thông thường như trình độ học vấn hay kinh nghiệm, công ty đã tạo ra một mạng lưới ứng viên tiềm năng rộng hơn rất nhiều.
+Bằng cấp không quan trọng
+Trên thực tế, có rất nhiều công việc không yêu cầu một bằng đại học phải mất vài năm mới có được. Do đó, việc bỏ qua những ứng cử viên không có bằng cấp sẽ gây bất lợi cho các doanh nghiệp trong việc tìm ra những cá nhân xuất sắc và phù hợp nhất.
+Tương tự, kinh nghiệm đôi khi không phải là yếu tố quan trọng nhất khi đánh giá một hồ sơ. Kinh nghiệm bằng 0 giúp nhân viên có góc nhìn mới mẻ hơn trong công việc. Theo Fast Company, công ty công nghệ JumpCrew đã nhận thấy những nhân viên không có kinh nghiệm thường làm việc xuất sắc hơn những người có 10-15 năm làm việc trong ngành.
+    
+ Với chiến lược tuyển dụng này, Google có thể tìm ra những nhân sự xuất sắc, phù hợp với tập đoàn. Ảnh: Wall Street Journal.
+Đương nhiên, mục tiêu tuyển dụng không phải là thu hút càng nhiều ứng viên càng tốt mà là tìm ra những cá nhân xuất sắc. Do đó, thay vì cố gắng nhận thêm nhiều hồ sơ, Google lại cố gắng đánh giá xem người đó sẽ phù hợp ở vị trí nào. Lúc này, khóa học trực tuyến sẽ giúp họ có được danh sách các ứng cử viên chất lượng nhất.
+Thông qua khóa học, ứng viên thể hiện thành quả, quy trình tư duy, phong cách lãnh đạo và kỹ năng giao tiếp của mình. Quan trọng hơn cả, khóa học mô phỏng các vị trí làm việc trong thực tế, giúp chỉ ra năng khiếu của ứng viên phù hợp với từng vai trò.
+Tất nhiên, không phải công ty nào cũng có thể tự tạo ra khóa học để tìm người phù hợp như Google. Theo Inc, điều mà các công ty khác có thể áp dụng là tối ưu tuyển dụng bằng cách tìm kiếm sự phù hợp của nhân sự thay vì chỉ nhìn vào bằng cấp hay kinh nghiệm. Quá trình đào tạo sau tuyển dụng cũng sẽ đóng góp rất lớn, có thể giúp người mới nhanh chóng bắt nhịp thay vì chỉ lôi những kinh nghiệm, cách làm cũ ra.
+Chiến lược ưu tiên người phù hợp, có góc nhìn mới do chưa sở hữu kinh nghiệm cũng không phải phù hợp với mọi công ty. Dù sao, đây cũng là cách làm để nhà tuyển dụng trở nên khác biệt trong thị trường.
+Đánh giá nhanh MateBook 14 2022: Mỏng nhẹ, hiệu suất khá Thiết kế mỏng nhẹ, tích hợp màn hình cảm ứng và hiệu suất ấn tượng là điểm mạnh của Huawei MateBook 14 2022. Thiết kế MateBook 14 sở hữu thiết kế kim loại với trọng lượng 1,49kg nên cũng khá nhẹ, thuận tiện để mang đi cà phê... 

@@ -1,0 +1,10 @@
+
+Theo báo cáo, các tin tặc có thể lợi dụng những lỗ hổng bảo mật của Apple để có thể kiểm soát hoàn toàn, truy cập dữ liệu hay tài nguyên của thiết bị.
+Mới đây, hãng Apple cảnh báo một số lỗ hổng bảo mật, theo đó các tin tặc có thể lợi dụng để kiểm soát hoàn toàn các thiết bị iPhone, iPad và MacBook.
+Thông tin trên được đưa ra trong 2 báo cáo công bố ngày 17/8 và dẫn nguồn một nhà nghiên cứu giấu tên.
+Theo báo cáo, các tin tặc có thể lợi dụng những lỗ hổng bảo mật này để có thể kiểm soát hoàn toàn, truy cập dữ liệu hay tài nguyên của thiết bị.
+Cụ thể, thiết bị của hãng chạy trên những hệ điều hành gặp lỗi bao gồm các dòng iPhone 6S trở xuống; dòng iPad Gen 5 trở xuống, tất cả các mẫu iPad Pro và iPad Air 2; và các máy tính Macbook chạy hệ điều hành MacOS Monterey; cùng một số dòng iPod.
+Tuy nhiên, báo cáo không nêu rõ cách thức, địa điểm hay người phát hiện ra lỗ hổng.
+[iPhone 14 chính hãng sẽ về Việt Nam sớm nhất từ trước tới nay]
+Các chuyên gia bảo mật khuyến cáo người dùng khẩn trương cài đặt bản cập nhật phần mềm cho thiết bị.
+Ngày 17 và 18/8, “đại gia” công nghệ tại thung lũng Silicon đã tung ra các “bản vá” lỗi cho hệ điều hành bị ảnh hưởng trên các thiết bị iPhone, iPad và MacBook./.

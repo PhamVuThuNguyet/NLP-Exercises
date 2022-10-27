@@ -1,0 +1,70 @@
+
+iPhone chạy chậm là một điều vô cùng khó chịu. Tìm hiểu lý do tại sao điện thoại của bạn chạy quá chậm và cách tăng tốc điện thoại, bao gồm cả các mẫu cũ hơn như iPhone 6 cũng như phiên bản mới nhất, với các hướng dẫn cụ thể sau.
+Tại sao iPhone chạy chậm?
+iPhone của bạn chạy chậm bởi vì, giống như bất kỳ thiết bị điện tử nào, iPhone chạy chậm theo thời gian. Tuy nhiên, điện thoại bị lag cũng có thể do các vấn đề về hiệu suất mà bạn có thể khắc phục được. Các yếu tố phổ biến nhất khiến iPhone chạy chậm bao gồm bloatware, ứng dụng không sử dụng, phần mềm lỗi thời và dung lượng lưu trữ quá tải.
+    
+Dưới đây là một số lý do phổ biến nhất khiến iPhone của bạn bị chậm:
+- Bloatware và các tệp rác khác đang làm tắc nghẽn không gian lưu trữ.
+- Bạn không chạy phiên bản iOS mới nhất.
+- Bạn có kết nối mạng kém (tín hiệu Wi-Fi yếu).
+- iPhone của bạn đã tiếp xúc với thời tiết khắc nghiệt.
+- Cài đặt iPhone của bạn không được tối ưu hóa, chẳng hạn như màn hình chuyển động và độ sáng.
+- Pin iPhone của bạn đang bị giảm chất lượng.
+- Mẫu iPhone của bạn bị ảnh hưởng bởi "quản lý hiệu suất" của Apple.
+Liên quan đến việc quản lý hiệu suất, Apple thừa nhận đã buộc phải làm chậm các mẫu iPhone cũ hơn, bao gồm iPhone 6, iPhone 7, iPhone 8 và bất kỳ iPhone X nào chạy iOS 12.1 trở lên, được cho là để duy trì tuổi thọ pin và tối ưu hóa hiệu suất. Nói cách khác, iPhone chạy chậm, đặc biệt là iPhone 6 chạy chậm.
+Cách đơn giản tăng tốc iPhone 
+Đây là cách làm cho iPhone của bạn nhanh hơn:
+1. Khởi động lại thiết bị 
+    
+Bạn đã thử tắt và bật lại chưa? Khởi động lại điện thoại của bạn có thể giúp tăng tốc độ iPhone và làm cho iPhone của bạn nhanh hơn.
+2. Kiểm tra các bản cập nhật iOS
+Một bản cập nhật iOS đơn giản có thể giúp tăng tốc iPhone chạy chậm. Hãy cài đặt phần mềm mới nhất trên iPhone để cung cấp cho thiết bị của bạn sức mạnh cần thiết. Không chỉ cập nhật điện thoại có thể làm cho iPhone của bạn nhanh hơn, nó còn giúp tăng cường bảo mật cho thiết bị của bạn.
+Dưới đây là cách kiểm tra các bản cập nhật phần mềm iOS:
+- Mở ứng dụng Cài đặt.
+    
+- Cuộn xuống General.
+    
+- Sau đó chạm vào Cập nhật phần mềm, thao tác này sẽ ngay lập tức xuất hiện thông báo “Đang kiểm tra bản cập nhật…”.
+    
+Phiên bản iOS mới nhất sẽ được hiển thị với tùy chọn để tìm hiểu thêm hoặc cài đặt. Nhấn Tải xuống và Cài đặt để tiếp tục, sau đó làm theo lời nhắc mật khẩu để hoàn tất cài đặt.
+    
+3. Tắt dịch vụ vị trí
+Nhiều ứng dụng cần dịch vụ định vị. Google Maps không thể đưa bạn về nhà nếu ứng dụng không thể xác định vị trí của bạn. Các ứng dụng chia sẻ chuyến đi không thể theo dõi chuyến đi trong thời gian thực nếu không có tọa độ GPS. Nhưng những dịch vụ định vị này không cần thiết phải chạy 24/7.
+Nếu iPhone của bạn thực sự chậm, hãy tiến hành kiểm tra quyền vị trí. Hãy kiểm tra xem ứng dụng nào đang sử dụng dịch vụ định vị, ứng dụng nào có thể tắt hoàn toàn và ứng dụng nào có thể chuyển sang chế độ “Trong khi sử dụng ứng dụng”.
+    
+4. Quét iPhone để tìm phần mềm độc hại
+Một lý do đáng lo ngại khiến iPhone chạy chậm là phần mềm độc hại. Mặc dù không dễ bị nhiễm các ứng dụng độc hại như các thiết bị Android, iPhone vẫn có thể bị nhiễm phần mềm độc hại. iPhone bị bẻ khóa có nguy cơ lây nhiễm phần mềm độc hại cao hơn nhiều.
+Bạn có thể sử dụng các công cụ bảo mật và chống virus cho iPhone.
+5. Kiểm tra kết nối Internet 
+Đôi khi iPhone chạy chậm cũng đồng nghĩa với việc Internet chạy chậm. Khi đó, bạn cần kiểm tra kết nối internet trên điện thoại của mình.
+6. Đặt lại cài đặt mạng 
+Đặt lại cài đặt mạng của iPhone có thể mang lại cho nó một khởi đầu mới với kết nối internet nhanh hơn. Bạn sẽ cần nhập lại mật khẩu Wi-Fi của mình khi hoàn tất.
+- Mở ứng dụng Cài đặt và đi tới Chung > Đặt lại.
+    
+- Nhấn vào Đặt lại cài đặt mạng và nhập mã PIN của bạn khi được nhắc.
+    
+- Nhấn vào Đặt lại Cài đặt Mạng để xác nhận.
+    
+7. Khắc phục sự cố mạng Wi-Fi
+Nếu iPhone chạy chậm khi bạn ở nhà nhưng lại nhanh ở nơi khác, vấn đề có thể là do kết nối mạng với bộ định tuyến của bạn. Hãy tìm hiểu một số mẹo tăng cường độ tín hiệu Wi-Fi chẳng hạn như định vị lại bộ định tuyến và thay đổi kênh Wi-Fi. Nếu iPhone của bạn vẫn chạy chậm ngay cả khi được kết nối với mạng Wi-Fi được tối ưu hóa, thì vấn đề có thể là do dữ liệu nền.
+8. Giảm cài đặt chuyển động và độ sáng màn hình
+Màn hình sáng hơn chiếm nhiều năng lượng hơn và có thể là nguyên nhân khiến iPhone chạy chậm lại. Bạn không cần phải bật toàn bộ chế độ ban đêm, nhưng một chút điều chỉnh có thể giúp tăng tốc iPhone “rùa bò” của bạn.
+Ngoài ra, hãy cân nhắc tắt các hiệu ứng chuyển động trong cài đặt iPhone để tăng tốc thiết bị của bạn. Tuy nhiên, hãy lưu ý rằng việc giảm cài đặt chuyển động sẽ ảnh hưởng đến video tự động phát và trải nghiệm giao diện người dùng trên một số ứng dụng.
+Dưới đây là cách giảm cài đặt chuyển động trên iPhone:
+- Nhấn vào ứng dụng Cài đặt > Trợ năng (Accessibility).
+    
+- Chọn Chuyển động để tùy chỉnh cài đặt.
+    
+- Chọn loại chuyển động nào trong số 4 loại chuyển động bạn muốn điều chỉnh bằng cách chuyển tab tương ứng của nó từ màu xanh lục sang màu xám.
+    
+9. Giải phóng dung lượng 
+iPhone của bạn có quá nhiều ảnh, video hay tệp rác hoặc dữ liệu nền? Đã đến lúc bạn cần dọn dẹp iPhone.
+Bạn có thể bắt đầu bằng cách xóa các hình ảnh và video không mong muốn, sau đó chuyển sang xóa các ứng dụng và bloatware không sử dụng. Việc giảm dung lượng này có thể làm cho iPhone của bạn nhanh hơn đáng kể.
+10. Khôi phục về cài đặt gốc
+iPhone của bạn quá chậm mà không có mẹo nào trong số này tạo ra sự khác biệt? Nếu các cách trên không thể giúp iPhone của bạn tăng tốc, bạn có thêm một lựa chọn: khôi phục iPhone về cài đặt gốc.
+Đây là biện pháp cuối cùng, vì thực hiện khôi phục cài đặt gốc sẽ xóa tất cả dữ liệu trên iPhone của bạn. Sao lưu bất kỳ dữ liệu nào bạn muốn giữ vào tài khoản iCloud của mình hoặc trên máy tính hoặc ổ cứng ngoài trước khi thực hiện khôi phục cài đặt gốc.
+Dưới đây là cách thực hiện khôi phục cài đặt gốc trên iPhone:
+- Vào Cài đặt > Chung.
+- Chọn Đặt lại ở dưới cùng.
+    
+- Chọn Xóa tất cả nội dung và cài đặt (Erase All Content and Settings).

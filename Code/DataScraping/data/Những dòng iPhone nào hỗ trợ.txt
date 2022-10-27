@@ -1,0 +1,43 @@
+
+eSIM là dạng SIM tích hợp sẵn vào điện thoại để dùng mạng di động mà không cần cắm thêm SIM vật lý thông thường. Hiện nay các nhà mạng ở Việt Nam đều đã hỗ trợ eSIM
+eSIM là dạng SIM tích hợp sẵn vào điện thoại để dùng mạng di động mà không cần cắm thêm SIM vật lý thông thường. Hiện nay các nhà mạng ở Việt Nam đều đã hỗ trợ eSIM.
+Với sự tiện ích của mình, eSIM được trang bị cho những mẫu máy iPhone mới nhất. Vậy còn những mẫu iPhone đời cũ? Người mua điện thoại cũ chắc hẳn cũng quan tâm đến chuyện này.
+Dưới đây là danh sách đầy đủ các dòng iPhone hỗ trợ eSIM.
+Các dòng iPhone hỗ trợ eSIM
+      ADVERTISEMENT 
+iPhone 13 Pro Max: eSIM nano SIM; hỗ trợ eSIM kép
+iPhone 13 Pro: eSIM nano SIM; hỗ trợ eSIM kép
+iPhone 13: eSIM nano SIM; hỗ trợ eSIM kép
+iPhone 13 mini: eSIM nano SIM; hỗ trợ eSIM kép
+iPhone SE 3: eSIM nano SIM; hỗ trợ eSIM kép
+iPhone 12 Pro Max: eSIM nano SIM
+iPhone 12 Pro: eSIM nano SIM
+
+eSIM là gì?
+Khái niệm eSIM thường bị hiểu nhầm là electric SIM (SIM điện tử). Trên thực tế, chữ "e" ở trong eSIM là viết tắt của "embedded" (nhúng) và khái niệm đúng của eSIM là SIM được nhúng thẳng vào trong thiết bị với mã ICCID và khóa xác thực mạng độc nhất do nhà mạng cung cấp. Mặc dù sở hữu kích thước cực kỳ nhỏ bé, eSIM có thể đảm nhiệm tốt mọi chức năng của SIM thông thường.
+Vào năm 2017, chuẩn eSIM lần đầu tiên được Google giới thiệu chung với bộ đôi smartphone Google Pixel 2/Pixel 2 XL, sau đó được biết đến rộng rãi hơn khi Apple đã trang bị công nghệ này lên dàn thiết bị ra mắt trong năm 2018 - bao gồm iPhone Xs/Xs Max và iPhone Xr.
+Bên cạnh smartphone, eSIM sau đó đã xuất hiện trên nhiều dòng thiết bị khác nhau, chủ yếu là các thiết bị IoT (Internet vạn vật) và smartwatch (đồng hồ thông minh). Đối với smartwatch, eSIM là một bước tiến lớn khi hầu hết những thiết bị này quá nhỏ để có thể "nhồi nhét" khe cắm sim vật lý.
+ Các nhà mạng hỗ trợ eSIM tại Việt Nam
+Tính đến hết tháng 5.2022, bên cạnh ba nhà mạng lớn nhất Việt Nam - MobiFone, Viettel và Vinaphone - thì một nhà mạng trẻ có tên là Itel đã hỗ trợ eSIM.
+Tất cả các nhà mạng nói trên đều hỗ trợ đăng ký đổi eSIM trên website. Thậm chí, MobiFone và Viettel đã hỗ trợ đăng ký trên hai app tương ứng là My MobiFone và My Viettel.
+ Các dòng thiết bị hỗ trợ eSIM tại Việt Nam
+Kể từ khi các nhà mạng Việt Nam đồng loạt triển khai eSIM, danh sách các thiết bị có hỗ trợ eSIM cũng ngày một dày lên.
+    
+ Các dòng iPhone từ 2018 đến nay đã hỗ trợ công nghệ eSIM
+Tính đến hết tháng 5.2022, dưới đây là các dòng thiết bị phổ biến được hỗ trợ eSIM:
+ Smartphone (điện thoại thông minh)
+- Apple: Các dòng iPhone từ năm 2018 trở về sau, gồm iPhone Xs/Xs Max/Xr, iPhone 11/11 Pro/11 Pro Max, iPhone 12/12 Pro/12 Pro Max, iPhone SE thế hệ 2 (2020), iPhone 13/13 Pro/13 Pro Max và iPhone SE thế hệ 3 (2022).
+- Samsung: Các dòng thiết bị cao cấp như Galaxy S20/S20 /S20 Ultra, Note20/Note20 Ultra hoặc mới hơn; các dòng gập Galaxy Fold/Z Fold2/Z Fold3 và Galaxy Z Flip/Z Flip3.
+- Google: Google Pixel 2/2 XL, Google Pixel 3/3 XL, Google Pixel 3a/3a XL, Google Pixel 4/4 XL và Google Pixel 5.
+- Huawei: Huawei P40 Pro, P40 Pro
+ Tablet (máy tính bảng)
+- Apple iPad: iPad Pro từ năm 2018, các dòng iPad Air 3, iPad (thế hệ 7) và iPad Mini 5 hoặc mới hơn
+- Các dòng sản phẩm khác: Microsoft Surface Duo/Pro (LTE), một số máy tính dạng kết hợp (2-in-1) hỗ trợ Windows 10
+ Smartwatch (đồng hồ thông minh)
+- Apple: Các dòng Apple Watch từ series 3 trở lên và có hậu tố "LTE" (ví dụ: Apple Watch series 7 LTE)
+- Samsung: Các dòng Galaxy Watch và Galaxy Gear có hậu tố "LTE"
+- Huawei: Huawei Watch 2/2 Pro và Huawei Watch 3/3 Pro (tham khảo: CellphoneS)
+eSIM sẽ là tương lai của smartphone?
+Theo các nguồn tin rò rỉ đáng tin cậy, từ đầu năm 2022 đến nay, Android 13 sẽ khai tử khay chứa thẻ SIM truyền thống, trong khi đó phiên bản Pro của dòng iPhone năm 2023 sẽ không còn khe cắm thẻ SIM vật lý.
+Hiện tại, Android và iOS vẫn đang là hai nền tảng chiếm ưu thế tuyệt đối trên thị trường smartphone. Nếu những tin bị rò rỉ trên trở thành sự thật, eSIM sẽ dần thay thế hoàn toàn SIM truyền thống trong vòng 2-3 năm sắp tới.
+Để tránh nguy cơ bị mất iPhone, hãy làm ngay 6 bước này nếu không muốn hối hận!  iPhone luôn là miếng mồi được nhiều tên trộm dòm ngó đến, hãy làm ngay các cách sau trước khi bạn làm mất đi chiếc smartphone đắt tiền của mình. iPhone đã trở thành sự lựa chọn của nhiều người dùng trên thế giới hiện nay. Không chỉ... 

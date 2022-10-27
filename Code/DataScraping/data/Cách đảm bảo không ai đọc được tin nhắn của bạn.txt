@@ -1,0 +1,17 @@
+
+Khi bật chế độ mã hóa đầu cuối, không ai có thể đọc tin nhắn của bạn, kể cả Facebook.
+Gần đây, bảo mật thông tin trên Internet là một chủ đề được nhiều người quan tâm. Câu hỏi đặt ra là làm thế nào để vừa có thể bảo mật thông tin cá nhân, vừa giữ liên lạc với bạn bè và người thân qua các nền tảng tin nhắn, mạng xã hội.
+Theo The Verge, nhằm giải quyết vấn đề này, các ứng dụng nhắn tin ngày nay đã ra mắt hàng loạt tính năng về quyền riêng tư của người dùng. Trong đó, với Messenger của Meta, người dùng có thể chọn tính năng mã hóa tin nhắn đầu cuối (E2EE).
+Người dùng chọn biểu tượng hình ổ khóa để kích hoạt mã hóa đầu cuối cho cuộc trò chuyện.
+Khi bật tùy chọn này, chỉ có những người trong cuộc trò chuyện đọc được tin nhắn. Mọi thành phần khác, kể cả Facebook, đều không thể đọc được nội dung người dùng gửi đi.
+E2EE hiện chưa được bật mặc định trên Facebook Messenger. Người dùng phải bật đối với từng cuộc trò chuyện. Trước tiên, tại giao diện Messenger, người dùng nhấn vào biểu tượng cây bút ở góc trên bên phải màn hình để tạo tin nhắn mới.
+Sau đó, bật biểu tượng ổ khóa ở góc trên bên phải để kích hoạt chế độ mã hóa tin nhắn đầu cuối Messenger. Cuối cùng, người dùng chọn tên tài khoản muốn nhắn tin, tạo tin nhắn mới trên Messenger và soạn tin nhắn như bình thường.
+Tuy nhiên, Meta cho biết có một vài tài khoản không được hỗ trợ mã hóa đầu cuối như tài khoản doanh nghiệp hay của người nổi tiếng.
+Ngoài bảo mật đầu cuối, Messenger còn bổ sung chế độ Biến mất. Ở chế độ này, một khi người dùng thoát ra, tất cả nội dung tin nhắn sẽ bị xóa ngay lập tức. Ngoài ra, nếu có người chụp ảnh màn hình cuộc trò chuyện, người dùng cũng sẽ nhận được thông báo.
+Để kích hoạt chế độ này, người dùng tiếp tục nhấn biểu tượng hình chữ “i” và bật “Tin nhắn tạm thời”. Người dùng chỉ cần chọn tài khoản muốn nhắn tin bí mật, chọn tiếp vào mục “Tin nhắn tạm thời”. Tại đây, người dùng có thể chọn khoảng thời gian để tin nhắn biến mất từ 5 giây cho đến một ngày.
+Người dùng có thể lựa chọn thời gian tin nhắn biến mất.
+Song, người dùng cũng cần lưu ý các cuộc trò chuyện được mã hóa chỉ hiển thị với những người trong cuộc trò chuyện và chỉ lưu trên thiết bị họ sử dụng.
+Nếu kích hoạt tính năng mã hóa trên một thiết bị, bạn sẽ không thể đổi sang smartphone khác và tiếp tục trò chuyện như bình thường. Thay vào đó, bạn phải đăng nhập vào Messenger ở thiết bị mới và thêm thiết bị này vào cuộc trò chuyện. Đối phương sẽ nhận được thông rằng một thiết bị mới vừa được thêm vào.
+Theo The Verge, công nghệ mã hóa đầu cuối không cho phép bất kỳ ai, kể cả Meta, đọc tin nhắn của người dùng. Mỗi tài khoản sẽ được kết nối với một mã khóa đặc biệt. Chỉ có tài khoản có mã này mới có thể mở khóa tin nhắn trên ứng dụng.
+Hiện, Meta đã trang bị mã hóa đầu cuối trên Messenger nhưng mới chỉ áp dụng với khung chat cá nhân. Công ty cho biết sẽ mặc định bật công nghệ mã hóa này trong tương lai.
+Ngoài ra, người dùng cũng có thể tạo mới các cuộc trò chuyện mã hóa trên trình duyệt thông qua ứng dụng Messenger trên Chrome và Safari.

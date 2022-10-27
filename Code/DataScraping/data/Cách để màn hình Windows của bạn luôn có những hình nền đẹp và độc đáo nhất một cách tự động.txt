@@ -1,0 +1,43 @@
+
+Do sự nhàm chán ở Wallpaper mặc định của Windows nên người dùng thường có xu hướng tìm và tải các Wallpaper khác để đổi gió . Tuy nhiên, việc tìm và tải Wallpaper khá mất thời gian, nhất là bạn phải kiểm tra chất lượng và chủ đề sao cho phù hợp độ phân giải màn hình
+Do sự nhàm chán ở Wallpaper mặc định của Windows nên người dùng thường có xu hướng tìm và tải các Wallpaper khác để “đổi gió”. Tuy nhiên, việc tìm và tải Wallpaper khá mất thời gian, nhất là bạn phải kiểm tra chất lượng và chủ đề sao cho phù hợp độ phân giải màn hình.
+      ADVERTISEMENT 
+Nắm được vấn đề này, có khá nhiều các dự án phần mềm giúp người dùng đỡ tốn thời gian trong việc thay đổi Wallpaper cho desktop Windows. Các phần mềm dạng này nhìn chung điều cung cấp cho người dùng một kho Wallpaper cực đẹp và chất lượng để sử dụng. Và “Desktop Wallpapers for Windows” chính là một trong số đó.
+    
+Desktop Wallpapers for Windows được cung cấp miễn phí trên Windows Store, nó hỗ trợ các phiên bản Windows 10 và Windows 11. Người dùng có thể tải bằng cách nhấn vào liên kết này và nhấn tiếp vào “Truy cập”. Windows Store sẽ tự động tải và cài đặt nó.
+    
+Ở lần đầu tiên sử dụng, phân mềm sẽ yêu cầu bạn lựa chọn gói tài khoản để sử dụng phần mềm. Nếu bạn muốn dùng thử trước khi bỏ tiền ra nâng cấp, hãy nhấn vào dòng “or continue with a limited version” để sử dụng gói miễn phí của phần mềm. Tất nhiên lựa chọn này sẽ đi kèm với các quảng cáo trong quá trình sử dụng.
+      ADVERTISEMENT 
+Giao diện Desktop Wallpapers for Windows khá đơn giản, bao gồm khu vực chủ đề và những hình nền thuộc chủ đề được chọn.
+    
+ Để chọn một ảnh nào đó làm hình nền, bạn hãy nhấn vào nó và nhấn tiếp vào dòng “Set as Background”.
+    
+Trường hợp muốn lựa chọn nhiều ảnh để làm hình nền, bạn hãy kích hoạt tùy chọn “Select Background” và đánh dấu vào các ảnh mình muốn. Sau đó nhấn vào “Start to Proceed”.
+      ADVERTISEMENT 
+Ngoài ra, bạn cũng có thể thiết lập thời gian chuyển ảnh bằng cách nhấn vào mục “Timer” và chọn thời gian mình muốn.
+    
+Nếu không thích sự sắp xếp của Desktop Wallpapers for Windows, bạn có thể tự tạo cho mình một thư mục ảnh nền riêng, được chọn lọc từ kho ảnh của phần mềm bằng cách nhấn vào “Add New Folder”. Sau đó đặt tên cho thư mục mới này.
+    
+ Tiếp theo, hãy lựa chọn ảnh nền mình muốn và nhấn vào “Transfer images” .
+      ADVERTISEMENT 
+ Khi đã chọn xong, hãy nhấn “Create” để khởi tạo.
+    
+Giờ phần mềm sẽ tự động chuyển sang thư mục mà bạn khởi tạo. Công việc của bạn lúc này chỉ đơn giản là chọn ảnh mình thích và nhấn “Start to Proceed” để thiết lập hình nền là xong.
+    
+Ngoài ra, Desktop Wallpapers for Windows cũng cho phép bạn thiết lập sâu hơn vào nội ảnh mà mình đã chọn thông qua tùy chọn “Edit & Draw”.
+Chúc bạn thành công.
+
+Apple vừa phát hành bản thử nghiệm Public Beta 5 của iOS 16. Phiên bản này cũng tương đồng với bản Beta 7 mới ra đầu tuần, bao gồm chủ yếu là vá lỗi và cải thiện hiệu năng máy.
+      ADVERTISEMENT 
+ Apple vừa phát hành bản thử nghiệm Public Beta 5 của iOS 16.
+iOS 16 Public Beta 5 có gì mới?
+iOS 16 Public Beta 5 sẽ tăng một chút kích cỡ ảnh giao diện nghe nhạc toàn màn hình Lock Screen. Ngoài ra, việc kéo thả widget trên Lock Screen cũng đã mượt mà hơn.
+iOS 16 Public Beta 5 cũng thay đổi một chút câu chữ giải thích trong iCloud Photos.
+Còn lại iOS 16 Public Beta 5 chủ yếu sửa lỗi, như sửa lỗi con trỏ hoạt động bất thường trên màn hình ngoài nếu AssistiveTouch được bật; hay sửa lỗi mời mua lại chính tên miền iCloud Mail mà người dùng đã mua.
+iOS 16 Public Beta 5 cũng sửa lỗi ứng dụng test app TestFlight; hay sửa lỗi ứng dụng thời tiết treo khi chạy đồ họa.
+Bên cạnh đó là những tính năng thừa hưởng từ iOS 16 Beta 6. Trong bản iOS 16 Public Beta 5, việc bật chế độ Low Power không nhất thiết đồng nghĩa với bật hiển thị phần trăm pin, dù 2 chế độ này không thể tách rời trong bản Beta 5.
+Quy trình chỉnh sửa hình nền được tối ưu hơn, không còn cần thêm bảng lựa chọn với chức năng tạo hình nền mới.
+Ứng dụng danh bạ trên iOS 16 Public Beta 5 có thêm thông báo nếu như nhiều số liên hệ trùng lặp thông tin.
+Giao diện Notification khi vuốt xuống từ cạnh trên màn hình sẽ được bổ sung thông tin ngày tháng để đỡ trông trải.
+Giao diện chọn ảnh nhanh được chỉnh một số kích thước chuẩn hơn.
+Lời khuyên đặc biệt từ Steve Jobs Jony Ive, cựu Giám đốc thiết kế của Apple, tiết lộ chính lời khuyên về sự tận tâm của Steve Jobs đã giúp ông có được thành công như hiện tại Trong một cuộc phỏng vấn trên tạp chí về thiết kế Wallpaper, ông Jony Ive đã hồi... 

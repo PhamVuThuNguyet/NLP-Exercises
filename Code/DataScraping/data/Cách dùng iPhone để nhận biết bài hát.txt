@@ -1,0 +1,9 @@
+
+Khi nghe bài hát từ nguồn phát bất kỳ mà không rõ tên, người dùng có thể xác định nhanh chóng qua công cụ Shazam trên iPhone.
+Bạn có thể xác định tên bài hát đang phát tại quán bar, trên ôtô hay nhà của người quen mà không cần mở bất kỳ ứng dụng nào. Công cụ Shazam sẽ hỗ trợ việc này bằng một cú chạm trên màn hình iPhone.
+iPhone có thể nhanh chóng nhận biết tên bài hát, nghệ sĩ trình bày khi nghe từ một nguồn phát bất kỳ. Ảnh: CNBC.
+Tính năng này trên iPhone, iPad là một phần của ứng dụng Shazam, được Apple mua lại từ năm 2018. Khả năng nhận biết bài hát bất kỳ xuất hiện trong vài năm qua, nhưng hiện tại được tích hợp sẵn vào Control Center, người dùng không cần cài app Shazam hay thực hiện thêm thao tác phức tạp nào.
+Trước tiên, bạn cần đưa lối tắt của tính năng nhận biết tên bài hát vào Control Center bằng cách mở Settings > Control Center, vuốt xuống phía dưới tìm biểu tượng Music Recognition (nút Shazam màu xanh) và nhấn vào dấu + màu xanh để thêm. Việc này chỉ thực hiện một lần, tương tự thêm các công cụ khác vào Control Center.
+Sau khi thêm Shazam vào Control Center, người dùng chỉ cần chạm vào nút này để xác định bài hát. Ảnh: CNBC.
+Để sử dụng tính năng nhận biết tên bài hát bằng iPhone, khi có nhạc phát ra từ bất kỳ nguồn nào, bạn chỉ cần vuốt xuống từ góc trên bên phải để mở Control Center và nhấn vào nút Shazam.
+Sẽ mất vài giây để iPhone “lắng nghe” bài hát sau đó hiển thị kết quả, bao gồm tên nghệ sĩ trình bày và tiêu đề, ở phần phía trên màn hình. Tính năng này cũng lưu lịch sử tìm kiếm, giúp bạn có thể xem lại bằng cách nhấn giữ nút Shazam.

@@ -1,0 +1,24 @@
+
+Nếu từng thấy bộ sạc iPhone hoặc Android bị nóng sau khi sử dụng, người dùng có thể đặt dấu hỏi tại sao như vậy, và liệu điều đó có đáng lo ngại hay không?
+Nếu từng thấy bộ sạc iPhone hoặc Android bị nóng sau khi sử dụng, người dùng có thể đặt dấu hỏi tại sao như vậy, và liệu điều đó có đáng lo ngại hay không?
+Trong thực tế, việc tỏa ra nhiệt là điều bình thường trong bất kỳ bộ sạc di động nào. Bộ sạc chuyển đổi nguồn AC từ ổ cắm thành nguồn DC cho điện thoại và tạo ra nhiệt trong quá trình này.
+Bộ sạc nóng không phải là vấn đề quá nghiêm trọng nếu trong mức kiểm soát
+Để thực hiện chuyển đổi AC/DC, bộ sạc sử dụng một bộ phận điện được gọi là máy biến áp. Máy biến áp tạo ra nhiệt do quá trình dẫn điện thường xuyên, cũng do dòng điện xoáy và các tổn thất khác, và điều này là một tác dụng phụ của cách máy biến áp hoạt động. Nói chung, một máy biến áp cung cấp càng nhiều dòng điện thì nó sẽ càng tạo ra nhiều nhiệt hơn.
+Trong những trường hợp bình thường, bộ sạc điện thoại có thể hơi ấm khi chạm vào và điều đó không sao vì nó đang hoạt động như được thiết kế. Nhưng nếu nó đột ngột nóng bất thường thì điều đó có thể có vấn đề.
+Như thế nào là quá nóng?
+Người dùng có thể thấy khó chịu khi cầm hoặc chạm vào, và đó là dấu hiệu rõ ràng nhất cho thấy có điều gì đó không ổn. Điều này có thể do sự cố bên trong chính bộ sạc hoặc sự cố với kết nối giữa bộ sạc và ổ cắm. Bộ sạc chính hãng chất lượng cao có mạch bảo vệ sẽ tự động ngắt sạc nếu có sự cố. Nhưng mạch này có thể bị trục trặc hoặc có thể đang sử dụng bộ sạc kém chất lượng hoặc hàng nhái .
+Nếu bộ sạc không quá nóng hãy rút phích cắm ra khỏi ổ cắm và tìm bất kỳ dấu hiệu bụi bẩn hoặc vật cản nào có thể nhìn thấy trên các ngạnh cắm vào ổ cắm trên tường. Ngoài ra, hãy kiểm tra để đảm bảo cổng sạc trên điện thoại của người dùng sạch sẽ và kiểm tra cổng USB trên chính bộ sạc (nếu có) để tìm dấu hiệu của bụi bẩn hoặc xơ vải.
+Hãy thử qua một số giải pháp để xử lý vấn đề bộ sạc bị nóng khi sạc
+Sau khi cổng sạch, hãy thử lại và nếu vẫn còn nóng, hãy sử dụng một cáp khác để xem sự cố còn tiếp diễn hay không. Mặc dù vậy, có một số trường hợp người dùng không nên thử như đề cập dưới đây.
+Nguy cơ cháy nổ
+Nếu thấy bất kỳ dấu hiệu cảnh báo nào trong số những dấu hiệu cảnh báo này trên bộ sạc hoặc cáp sạc, hãy ngừng sử dụng bộ sạc hoặc cáp ngay lập tức và thay thế nó. Nếu có bộ sạc bị lỗi, người dùng có thể thử liên hệ với bộ phận hỗ trợ khách hàng của nhà sản xuất để được thay thế.
+- Dấu hiệu nóng chảy có thể được nhìn thấy ở bộ nhựa bộ sạc hoặc cáp sạc
+- Bộ sạc có mùi bất thường, chẳng hạn như mùi khói hoặc nhựa nóng chảy.
+- Vết cháy (đen hoặc nâu) trên bộ sạc, cáp hoặc ổ cắm nơi bộ sạc được cắm vào.
+- Một lượng nhiệt đột ngột mới hoặc bất thường.
+- Nứt vỡ hoặc hư hỏng vật lý đối với cáp hoặc bộ sạc. 
+Ngoài ra, hãy nhớ sạc điện thoại cách xa bất cứ thứ gì dễ cháy. Điều đó phù hợp với bất kỳ bộ sạc nào, ngay cả một bộ sạc đang hoạt động tốt.
+Hãy cẩn thận với những dấu hiệu bất thường khi sạc
+Sử dụng bộ sạc chất lượng cao, có thương hiệu
+Như đã đề cập ở trên, một số nguyên nhân khiến bộ sạc có thể bị nóng khi sạc là do linh kiện kém chất lượng hoặc hàng nhái. Những bộ phận này không tuân thủ các tiêu chuẩn và quy định an toàn.
+Hiện tại, các nhà cung cấp trực tuyến như Amazon.com và AliExpress bán nhiều sản phẩm điện tử nhái và tiềm ẩn nguy cơ độc hại. Điều này bao gồm bộ sạc không dây, có dây và USB. Nếu mua bộ sạc bị hỏng hóc, hãy yêu cầu hoàn lại tiền và cân nhắc mua bộ sạc mới trực tiếp từ nhà sản xuất điện thoại, chẳng hạn như Apple hoặc Samsung.

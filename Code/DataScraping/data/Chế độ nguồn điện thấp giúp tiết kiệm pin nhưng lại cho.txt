@@ -1,0 +1,17 @@
+
+(Tổ Quốc) - Người dùng iPhone thường bật tính năng này để kéo dài thời lượng sử dụng pin.
+Chế độ nguồn điện thấp là một chế độ mà iOS (hoặc iPadOS) sẽ gợi ý người dùng kích hoạt mỗi khi dung lượng pin trên iPhone (hoặc iPad) xuống dưới mức 20%.
+Khi bật Chế độ nguồn điện thấp, biểu tượng pin trên iPhone sẽ chuyển sang màu vàng. Tính năng này được ra mắt từ iOS 9, theo mô tả của Apple, hệ thống sẽ giới hạn hoạt động của các ứng dụng trong nền, hạn chế làm mới dữ liệu... để tiết kiệm năng lượng tiêu thụ.
+Theo một số nghiên cứu, chế độ nguồn điện thấp có thể giảm mức tiêu thụ pin từ 33% đến 47%, giúp kéo dài thời lượng pin trên iPhone. Tuy nhiên, khi bật chế độ này iPhone phải đánh đổi về trải nghiệm và hiệu năng sử dụng:
+- Giảm tốc độ: Tốc độ của bộ xử lý iPhone ảnh hưởng đến lượng pin mà nó sử dụng. Chế độ Nguồn điện thấp làm giảm hiệu suất của bộ xử lý và chip đồ họa để tiết kiệm pin. Điều này có nghĩa là điện thoại sẽ chậm hơn và có thể không hoạt động tốt với game và các tác vụ đồ họa chuyên sâu.
+- Tắt tính năng Làm mới ứng dụng nền: iPhone sẽ tự động cập nhật mới ứng dụng để đảm bảo rằng dữ liệu mới nhất luôn sẵn sàng khi bạn sử dụng. Tuy nhiên, Chế độ Nguồn điện thấp cũng sẽ tạm thời tạm dừng tính năng này.
+- Tự động khóa diễn ra nhanh hơn: Bất kể thời gian tự động khóa của bạn là gì, iPhone cũng sẽ chuyển qua tự động khóa trong 30 giây khi Chế độ nguồn điện thấp được bật.
+- Tắt Tìm nạp Email: iPhone có thể được thiết lập để kiểm tra định kỳ các email mới. Chế độ Nguồn điện thấp sẽ tắt tính năng này, vì vậy người dùng sẽ phải kiểm tra thư mới theo cách thủ công (mở Thư và kéo xuống từ trên cùng để làm mới).
+- Tắt tính năng tải xuống tự động: Chế độ nguồn điện thấp ngăn không cho nhạc tải xuống tự động và cũng dừng cập nhật ứng dụng tự động.
+- Tạm dừng Hiệu ứng hình ảnh và Hoạt ảnh: iOS có nhiều hiệu ứng hình ảnh và hoạt ảnh giúp việc sử dụng iPhone trở nên thú vị hơn, nhưng chúng cũng sử dụng pin và Chế độ Nguồn điện Thấp sẽ tắt chúng để tiết kiệm năng lượng.
+- Tắt "Hey Siri": Điện thoại sử dụng thêm năng lượng khi nghe cụm từ này và sẽ kích hoạt Siri, bật Chế độ nguồn điện thấp sẽ ngăn Siri nghe lệnh.
+- Tạm dừng sao lưu ảnh iCloud: Sao lưu ảnh lên iCloud cũng tốn khá nhiều năng lượng, do đó, sao lưu lên iCloud sẽ tạm thời tạm dừng khi ở Chế độ nguồn điện thấp.
+Thời lượng pin bổ sung mà Chế độ nguồn điện thấp của iPhone mang lại tùy thuộc vào cách người dùng sử dụng iPhone. Theo Apple, một người bình thường có thể sử dụng thêm vài giờ nữa.
+Vào Cài đặt chọn > bật Chế độ nguồn điện thấp
+Chế độ nguồn điện thấp có thể giúp iPhone kéo dài thời lượng pin và người dùng có thể bật nó bất cứ khi nào, không cần phải dưới 20% pin.
+Tuy nhiên, việc luôn bật Chế độ nguồn điện thấp sẽ làm giảm năng lượng, tắt ứng dụng và tạm dừng nhiều tính năng. Nếu người dùng không quan tâm đến việc các tính năng trên bị ảnh hưởng thì có thể luôn duy trì tính năng này.

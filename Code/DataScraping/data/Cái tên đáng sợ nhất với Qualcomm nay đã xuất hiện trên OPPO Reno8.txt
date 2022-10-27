@@ -1,0 +1,45 @@
+
+Lộ ảnh thực tế Xiaomi 12T Pro với camera 200 chấm Google chính thức phát hành Android 13, các máy Pixel được cập nhật đầu tiên Nhìn lại hai thập kỷ phát triển của cảm biến vân tay trên điện thoại
+Khi nói đến các thương hiệu smartphone nổi tiếng tại Việt Nam thì OPPO chắc chắn là một trong những cái tên mà nhiều người nhớ đến nhất. Gần một thập kỷ tại thị trường Việt Nam, OPPO liên tục mang đến những mẫu smartphone chất lượng, sản phẩm tiếp theo của hãng chính là Reno8 series, ra mắt vào ngày 18/8 tới.
+Reno8 sẽ được trang bị con chip Dimensity 1300, đây là vi xử lý được MediaTek ra mắt vào đầu tháng Tư năm nay và hiện chỉ mới xuất hiện trên số ít smartphone, bao gồm chiếc OnePlus Nord 2T.
+      ADVERTISEMENT 
+Qualcomm được cho là “vua” chip xử lý trên smartphone Android, nhưng trên thực tế trong những năm qua, vị thế của Qualcomm liên tục bị đe dọa bởi MediaTek. Theo công ty nghiên cứu thị trường IDC, vào quý 4 năm 2021, chip MediaTek chiếm 48,1% tổng số điện thoại Android ở Mỹ, so với 43,9% của Qualcomm.
+Không chỉ phổ biến nhờ những sản phẩm giá rẻ, theo các chuyên gia công nghệ, bí quyết của MediaTek là thuyết phục các nhà sản xuất và khách hàng rằng dòng chip cao cấp của họ – ví dụ như Dimensity 9000 – là rất đáng sử dụng khi thâm nhập vào phân khúc cao cấp trên thị trường Android, từ đó họ sẽ lại có thêm niềm tin từ khách hàng đối với các sản phẩm cấp thấp hơn.
+Những sản phẩm chip tầm trung và cận cao cấp đến từ MediaTek cũng đang chứng tỏ sức hút trên thị trường và Dimensity 1300 được trang bị trên OPPO Reno8 chính là một lời tuyên chiến của OPPO gửi đến Qualcomm, hứa hẹn một cuộc tấn công trên mọi mặt trận.
+    
+Dimensity 1300 là phiên bản nâng cấp của chip Dimensity 1200 năm ngoái, đi kèm với một số tinh chỉnh và cải tiến. Chipset mới có giá thành cao hơn so với dòng Dimensity 800 và 900, nhưng thấp hơn hai người đàn anh của nó là Dimensity 1800 và Dimensity 9000, hứa hẹn sẽ mang đến cho Reno8 series một mức giá dễ chịu nhưng vẫn có hiệu năng mạnh mẽ. Vậy, sức mạnh của Dimensity 1300 là ra sao?
+Về thông số kỹ thuật, Dimensity 1300 được sản xuất trên tiến trình 6nm của TSMC. Con chip này có tổng cộng 8 lõi, bao gồm 4 lõi hiệu năng cao Cortex-A78 (một lõi ‘Ultra’ xung nhịp lên đến 3GHz, ba lõi Super xung nhịp 2.6GHz) và 4 lõi tiết kiệm năng lượng Cortex-A55 2.0GHz. Chipset đi kèm GPU ARM Mali-G77 MC9, mạnh ngang với GPU của Dimensity 1200 năm ngoái.
+Dimensity 1300 có ISP được nâng cấp, hỗ trợ camera lên đến 200MP và quay video 3K HDR. Ngoài ra, nó còn có khả năng giải mã AV1 bằng phần cứng giúp streaming 4K nhanh hơn, chụp ảnh thiếu sáng tốt hơn nhờ AI – sử dụng kết hợp 3 độ phơi sáng trong thời gian thực để có ảnh chụp đẹp nhất.
+    
+MediaTek cho biết tính năng HyperEngine 5.0 được cải tiến giúp tối ưu hóa độ ổn định, khả năng chơi game và tăng tính hiệu quả của chip.
+Dimensity 1300 cũng hỗ trợ màn hình tần số quét 168Hz ở độ phân giải lên đến Full HD (2520 x 1080 pixel). Con chip này hỗ trợ kết nối 5G mới nhất, tối đa 16GB RAM LPDDR4x 4266Mbps và bộ nhớ lưu trữ UFS 3.1.
+So với Dimensity 1300 có thể kể đến một chip phổ biến hiện nay của Qualcomm là Snapdragon 778G (tám lõi với 4 lõi Cortex A78, trong đó có một lõi 2.4 GHz, ba lõi có tốc độ 2.2 GHz. Còn lại là bốn lõi Cortex A55 tốc độ 1.9GHz), đây là con chip quan trọng trong năm nay của Qualcomm, đang được sử dụng trên những sản phẩm được nhiều người quan tâm như Nothing Phone 1 hay Moto Edge 30.
+      ADVERTISEMENT 
+Các bài kiểm tra benchmark được thực hiện bởi trang 91mobiles, sử dụng OnePlus Nord 2T (Dimensity 1300) và Moto Edge 30 (Snapdragon 778G ), cho thấy chipset của MediaTek đã chiến thắng trên hai mặt trận quan trọng là Geekbench 5 và AnTuTu v9, nhưng chipset của Qualcomm có phần ổn định hơn. Nhìn chung, chipset của MediaTek được đánh giá nhỉnh hơn chip đến từ nhà Qualcomm.
+    
+    
+      ADVERTISEMENT 
+So với con chip Snapdragon 870 từng xuất hiện trên OPPO Reno6 Pro 5G năm ngoái, thì theo phán đoán của trang Nanoreview, cả hai có sức mạnh khá ngang nhau, với Snapdragon 870 nhỉnh hơn một chút ở hiệu năng CPU.
+    
+Nói đến khả năng chơi game, theo thử nghiệm từ kênh YouTube Gadget Master, chipset Dimensity 1300 có khả năng chiến các game phổ biến ở mức hình ảnh Ultra mà vẫn giữ được FPS ở mức tốt, dù vẫn thua kém so với Snapdragon 870. Nhưng bù lại, giá bán là một điểm mạnh của MediaTek so với những đối thủ từ Snapdragon, nên có khả năng OPPO Reno8 series sẽ có mức giá cực kỳ hấp dẫn. Giá bán của Reno6 Pro 5G lên đến gần 19 triệu đồng, nhưng phiên bản được trang bị chip Dimensity 1300 của Reno8 series dự kiến sẽ thấp hơn rất nhiều.
+    
+Ngoài ra, mỗi hãng sản xuất có một cách tối ưu hóa khác nhau, do đó, OPPO có thể tùy chỉnh để Dimensity 1300 tốt hơn trong phiên bản sắp mở bán tại Việt Nam, ngoài ra, hiệu năng của máy cũng có thể được cải thiện qua những bản cập nhật phần mềm trong tương lai.
+      ADVERTISEMENT 
+Nếu như trước đây, chipset của MediaTek thường gắn liền với những sản phẩm ít tên tuổi và chất lượng không tốt, thì trong những năm qua, sản phẩm từ MediaTek đã có được niềm tin của người dùng nhờ chất lượng ngày càng được nâng cao và được trang bị trên những sản phẩm có tiếng.
+OPPO là một trong những thương hiệu được yêu thích nhất tại Việt Nam cũng như trên toàn thế giới, việc kết hợp với chip Dimensity 1300 sẽ giúp MediaTek và OPPO tiến thêm một bước nữa, khiến Qualcomm và những hãng smartphone khác dùng chipset Snapdragon phải e ngại.
+Video giới thiệu sự kiện ra mắt Reno8 5G
+Bên cạnh chip xử lý, những trang bị đáng chú ý khác trên Reno8 bao gồm màn hình đục lỗ thời thượng, sạc siêu nhanh và tất nhiên camera chất lượng đã làm nên thương hiệu OPPO. Vào ngày 18/8 sắp tới, OPPO không chỉ mang đến chỉ một mẫu máy mà dự kiến sẽ còn các phiên bản khác của Reno8 nữa. Hãy cùng chờ đợi xem OPPO sẽ có bất ngờ gì cho chúng ta.
+
+Tecno, một thương hiệu smartphone mới tại thị trường Việt Nam vừa qua đã trình làng chiếc POVA 3. Đây là một mẫu smartphone tầm trung tập trung chủ yếu vào cấu hình và thời lượng pin, đi kèm một mức giá dễ tiếp cận.
+    
+So với phiên bản tiền nhiệm là POVA 2 thì Tecno POVA 3 có thiết kế được cải thiện hơn, đẹp mắt hơn và hài hoà hơn. Máy có mặt lưng và khung viền được hoàn thiện từ nhựa nhưng cảm giác cầm nắm chắc chắn. Tổng thể máy có kích cỡ 173.1 x 78.5 x 9.4mm và có trọng lượng 231 grams do mang trong mình viên pin có dung lượng rất lớn.
+    
+      ADVERTISEMENT 
+Ở mặt trước, POVA 3 đi kèm một màn hình kích thước 6.9 inch tương đối lớn, sử dụng tấm nền LCD IPS với độ phân giải FHD , tần số quét 90Hz. Màn hình này là màn hình "nốt ruồi" với camera selfie 8MP đặt ở chính giữa. Viền màn hình của máy cũng được thiết kế tương đối mỏng.
+    
+POVA 3 có hệ thống 3 camera chính đặt ở mặt lưng, gồm camera góc rộng 50MP và camera kép 2MP bổ trợ. POVA 3 hỗ trợ chế độ chụp và quay ban đêm, quay slow motion 960FPS cũng như chụp HDR. Đáng tiếc là máy không có camera góc siêu rộng.
+    
+Về hiệu năng, với mức giá rẻ, POVA 3 trang bị vi xử lý MediaTek Helio G88, một phiên bản nâng cấp của Helio G85 trên POVA 2. Máy có RAM 6GB và bộ nhớ lưu trữ 128GB. Viên pin có dung lượng 7000mAh rất lớn, hỗ trợ công nghệ sạc nhanh 25W, tặng kèm củ sạc nhanh 33W. Máy chạy trên Android 12 với giao diện HiOS.
+      ADVERTISEMENT 
+Tecno POVA 3 lên kệ tại thị trường Việt Nam với giá bán niêm yết 4,990,000 đồng, đợt đầu mở bán giảm giá còn 4,190,000 đồng. Máy có 3 tuỳ chọn màu sắc là xanh, bạc và đen.
+Xuất hiện đồng hồ thông minh LivWell Cosmos giá rẻ, pin 2 tuần Sản phẩm có cân nặng 50 gram với dây silicon, đạt chuẩn kháng nước IP68. Đồng hồ thông minh LivWell Cosmos kiêm thiết bị đeo tay thông minh theo dõi sức khỏe vừa được California Fitness & Yoga ra mắt. Qua đó, California Fitness & Yoga đã trở... 

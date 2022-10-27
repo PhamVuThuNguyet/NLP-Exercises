@@ -1,0 +1,20 @@
+
+iPhone 14 và 14 Plus mà Apple sắp ra mắt dự kiến sẽ được trang bị chip A15 Bionic, tuy nhiên đây là một phiên bản mang đến sự khác biệt so với chip có trên dòng iPhone 13 năm ngoái
+Theo MacRumors, A15 Bionic trên iPhone 14 sẽ đi kèm GPU 5 lõi để cải thiện hiệu suất đồ họa nhanh hơn tới 25% so với A15 Bionic trên iPhone 13, vốn đi kèm GPU 4 lõi. Hiệu suất đồ họa được cải thiện là thay đổi duy nhất của chip mới khi nó vẫn đi kèm CPU 6 lõi và 16 lõi NPU như trên tiền nhiệm.
+      ADVERTISEMENT 
+ A15 Bionic thế hệ mới có hiệu suất GPU tốt hơn so với phiên bản gốc
+Trước đó, nhà phân tích Ming-chi Kuo cho biết chỉ các mẫu iPhone 14 Pro mới được nâng cấp lên chip A16 Bionic mới nhất của Apple để cung cấp hiệu suất CPU nhanh hơn. Đây sẽ là lần đầu tiên Apple giới hạn chip mới nhất của mình cho các mẫu Pro, điều này tạo ra sự khác biệt lớn hơn giữa các mẫu tiêu chuẩn và Pro.
+Apple dự kiến sẽ giới thiệu iPhone 14, 14 Plus, 14 Pro và 14 Pro Max trong một sự kiện đặc biệt có tên Far Out tại Nhà hát Steve Jobs vào rạng sáng 8.9 theo giờ Việt Nam. Sản phẩm sẽ mang đến nhiều tính năng mới được mong đợi sẽ đến với các mẫu Pro, bao gồm màn hình Always On và phần đục lỗ tròn viên thuốc để thay thế cho notch hiện tại. Máy cũng có camera siêu rộng 48 MP được nâng cấp, RAM nhanh hơn…
+
+Theo  iHacktu ileaks - leaker chuyên rò rỉ thông tin về iPhone, iPhone 14 Pro và iPhone 14 Pro Max có điểm hiệu năng AnTuTu đạt hơn 896.000 điểm. Để so sánh, iPhone 13 Pro Max có điểm AnTuTu đạt 834.092.
+Như vậy, điểm hiệu năng của iPhone 14 Pro và iPhone 14 Pro Max cao hơn so với iPhone 13 Pro Max khoảng hơn 7%.
+    
+ Mẫu iPhone 14 Pro
+Cũng theo nguồn tin này, iPhone 14 Pro và iPhone 14 Pro Max có thể sở hữu GPU vượt trội hơn 35% và CPU được cải thiện đến 42%.
+      Thông tin rò rỉ về iPhone 14 Pro và iPhone 14 Pro Max từ iHacktu ileaks
+Rất có thể đây là những thông số được so sánh giữa chip mới trang bị cho iPhone 14 Pro và iPhone 14 Pro Max so với chip A15 Bionic trên iPhone 13 Pro và iPhone 13 Pro Max.
+Trước đó, tin tức rò rỉ từ ShrimpApplePro cho biết, chip A16 Bionic dành cho các mẫu iPhone 14 Pro sẽ được sản xuất trên quy trình tương tự như A15 Bionic của iPhone 13. Điều này khiến hiệu năng chip A16 của Apple sẽ không mạnh hơn bao nhiêu so với A15.
+Đầu năm nay, nhà phân tích uy tín Ming-Chi Kuo cho biết một số mẫu iPhone 14 ra mắt năm 2022 có thể chỉ được trang bị chip A15 Bionic hiện tại. Theo đó, các mẫu iPhone 14 và iPhone 14 Max sẽ sử dụng chip A15 Bionic của iPhone 13.
+Như vậy, chỉ có iPhone 14 Pro và iPhone 14 Pro Max được trang bị chip A16 Bionic. Trang 9to5Mac cũng nhận được thông tin từ các nguồn độc lập cho rằng chỉ có iPhone 14 Pro và iPhone 14 Pro Max được trang bị chip mới.
+Nguyên nhân dẫn tới điều này vẫn chưa rõ ràng nhưng các nhà phân tích tin rằng lý do chính là sự thiếu hụt chip đã và đang ảnh hưởng đến các ngành công nghiệp toàn cầu. Vì thế, Apple sẽ dành toàn bộ chip mới cho các mẫu iPhone 14 bản cao cấp.
+Lộ con chip giúp smartphone tầm trung “lên đời” hiệu năng Trong khi Apple sẽ dùng lại chip A15 Bionic 5nm trên iPhone 14 thì các Android tầm trung sắp sử dụng chip Snapdragon 6 Series 4nm tiên tiến. Theo các tin đồn, "Táo Khuyết" sẽ không nâng cấp chip xử lý cho iPhone 14 Max (màn hình 6,7... 

@@ -1,0 +1,28 @@
+
+Trong hồ sơ gửi lên Ủy ban Giao dịch Chứng khoán Mỹ (SEC), hãng chip NVIDIA cho biết từ cuối tháng 8, các quan chức Mỹ đã yêu cầu công ty ngừng xuất khẩu sang Trung Quốc 2 mẫu card đồ họa cao cấp cho những tác vụ AI, gồm A100 và H100
+Trong hồ sơ gửi lên Ủy ban Giao dịch Chứng khoán Mỹ (SEC), hãng chip NVIDIA cho biết từ cuối tháng 8, các quan chức Mỹ đã yêu cầu công ty ngừng xuất khẩu sang Trung Quốc 2 mẫu card đồ họa cao cấp cho những tác vụ AI, gồm A100 và H100.
+“Lời đề nghị cũng áp dụng cho các vi mạch của NVIDIA trong tương lai với hiệu năng, khả năng đọc/ghi dữ liệu bằng hoặc cao hơn chip A100, cũng như mọi hệ thống tích hợp các vi mạch đó”, hồ sơ cho biết. Các hệ thống siêu máy tính DGX trang bị card A100 cũng bị cấm bán sang Trung Quốc.
+Trích lời quan chức Mỹ, NVIDIA nói rằng quy định mới sẽ “giải quyết rủi ro các sản phẩm bảo hộ bị sử dụng, hoặc chuyển hướng sang mục đích quân sự, hoặc được quân đội Trung Quốc sử dụng”.
+      ADVERTISEMENT 
+ NVIDIA được yêu cầu ngừng xuất khẩu card đồ họa A100 (ảnh) và H100 sang Trung Quốc. Ảnh: NVIDIA.
+Theo NVIDIA, động thái này có thể ảnh hưởng đến tiến độ phát triển mẫu H100, được công ty giới thiệu đầu năm nay. Giá cổ phiếu NVIDIA giảm khoảng 4% sau vài tiếng công bố thông tin.
+Chia sẻ với Reuters, phát ngôn viên AMD cho biết công ty cũng được quan chức Mỹ yêu cầu không xuất khẩu chip AI hiệu năng cao MI250 sang Trung Quốc.
+Đại diện AMD cho rằng quy định mới sẽ không ảnh hưởng đáng kể đến hoạt động kinh doanh, việc xuất khẩu chip MI100 vẫn diễn ra bình thường. Cổ phiếu của AMD ghi nhận mức giảm 2%.
+Không chỉ Trung Quốc, NVIDIA và AMD cho biết giới chức Mỹ cũng cấm xuất khẩu các mẫu card đồ họa AI sang Nga. Tuy nhiên, 2 công ty này hiện không bán sản phẩm tại Nga.
+Nếu không có chip từ NVIDIA hay AMD, Reuters nhận định doanh nghiệp tại Trung Quốc sẽ không thể phát triển các công nghệ phức tạp như nhận diện hình ảnh, giọng nói bằng AI một cách hiệu quả và tiết kiệm chi phí.
+Trên smartphone hay máy tính, công nghệ này được dùng để tìm kiếm và gắn thẻ hình ảnh. Trong môi trường quân sự, AI có khả năng phân tích ảnh vệ tinh để dò tìm vũ khí, căn cứ hoặc lọc thông tin tình báo.
+Trả lời CNBC, đại diện NVIDIA cho biết đang làm việc với khách hàng tại Trung Quốc để thuyết phục họ chuyển sang các sản phẩm thay thế. Hãng chip này đặt mục tiêu thu về 400 triệu USD từ các doanh nghiệp Trung Quốc trong quý III. Tuy nhiên, con số trên có thể mất trắng nếu các công ty quyết định không mua model thay thế.
+    
+Hệ thống xử lý AI hiệu năng cao của AMD cũng bị cấm xuất khẩu sang Trung Quốc. Ảnh: AMD.
+Nếu nguồn cung các sản phẩm thay thế không đủ đáp ứng, NVIDIA dự tính nộp đơn đề nghị miễn trừ để tiếp tục bán các dòng card cao cấp cho khách hàng Trung Quốc. Tuy nhiên, chưa thể đảm bảo các quan chức Mỹ sẽ chấp nhận đề xuất.
+Stacy Rasgon, nhà phân tích tài chính của hãng nghiên cứu Bernstein cho biết 10% doanh thu trung tâm dữ liệu của NVIDIA đến từ Trung Quốc. Do đó, công ty có thể xoay sở để vượt qua tác động từ lệnh cấm của giới chức Mỹ.
+
+ SCMP  đánh giá hành động của NDRC có thể sẽ "đóng chiếc đinh cuối cùng vào quan tài" khai thác tiền điện tử ở Trung Quốc sau chiến dịch kéo dài nhiều tháng. Chiến dịch trấn áp hoạt động đào Bitcoin khiến các doanh nghiệp lớn trong lĩnh vực này phải rời khỏi Trung Quốc để đến Bắc Mỹ và Trung Á. 
+Chỉ vài tháng sau khi Trung Quốc tìm cách loại bỏ hoạt động khai thác tiền điện tử, hàng chục công ty từng là hình mẫu về tiêu dùng năng lượng kiểu mới bỗng trở thành "kẻ phá bĩnh" trong nền kinh tế lớn thứ hai thế giới. 
+NDRC tuyên bố khai thác Bitcoin và các loại tiền số khác không chỉ bị đưa vào trong "danh sách đen" của hoạt động công nghiệp, mà còn phải bị loại bỏ lập tức. Đây là một trong những điều kiện tiên quyết để quốc gia này đạt được mức trung lập về carbon vào năm 2060. 
+     
+ Bên trong một nhà máy đào Bitcoin ở Nội Mông trước lệnh cấm. Hoạt động khai thác Bitcoin ở Trung Quốc từng chiếm 2/3 sản lượng khai thác toàn cầu.  
+Các hoạt động khác sẽ dần bị Trung Quốc loại bỏ là sản xuất đồ dùng một lần làm bằng nhựa; khai thác than tại các khu bảo tồn thiên nhiên, các điểm tham quan du lịch hoặc các nguồn nước uống được bảo vệ. 
+Thông báo của NDRC được đưa ra cùng ngày khi Ngân hàng Nhân dân Trung Quốc tuyên bố tăng cường "đàn áp" giao dịch tiền điện tử và các hoạt động liên quan. 
+Giá cổ phiếu của Canaan Creative, nhà khai thác tiền điện tử của Trung Quốc đã niêm yết trên sàn Nasdaq, giảm 0,46% xuống còn 8,68 USD sau lệnh cấm. Cuộc "đàn áp" ở Trung Quốc đưa Mỹ trở thành trung tâm khai thác Bitcoin lớn nhất thế giới, thu hút nhiều công ty khai thác đổ về. 
+TikTok Trung Quốc giúp người dùng ‘giảm nghiện’  Douyin, TikTok phiên bản Trung Quốc, sẽ tạm dừng màn hình của người xem sau một thời gian nhất định. TikTok nổi tiếng với khả năng giữ chân người dùng nhờ luồng video bất tận. Tuy nhiên, ứng dụng anh em của nó tại Trung Quốc - Douyin... 

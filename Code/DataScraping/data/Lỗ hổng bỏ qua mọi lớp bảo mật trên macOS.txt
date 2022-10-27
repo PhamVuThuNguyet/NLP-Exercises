@@ -1,0 +1,12 @@
+
+Chỉ bằng việc khai thác lỗ hổng duy nhất trên nền tảng macOS, các nhà nghiên cứu có thể truy cập vào mọi tài liệu đang lưu trữ trên máy tính Mac của Apple.
+Chỉ bằng việc khai thác lỗ hổng duy nhất trên nền tảng macOS, các nhà nghiên cứu có thể truy cập vào mọi tài liệu đang lưu trữ trên máy tính Mac của Apple.
+Mỗi khi người dùng tắt máy tính Mac bằng chức năng Shut down, hệ thống sẽ hiện thông báo hỏi: "Are you sure you want to shut down your computer now?" (Bạn có chắc muốn tắt máy bây giờ không?). Ngay bên dưới câu hỏi là lựa chọn được nhiều người dùng macOS phê duyệt: tái khởi động các ứng dụng và cửa sổ đang dang dở từ phiên làm việc trước đó khi máy tính được bật trở lại.
+Apple đã vá lỗ hổng bảo mật trên macOS
+Các nhà nghiên cứu bảo mật đã tìm ra cách khai thác lỗ hổng trong trạng thái lưu trữ này và sử dụng để vượt qua mọi biện pháp bảo mật do Apple tạo ra trên hệ điều hành macOS.
+Thijs Alkemade - chuyên gia an ninh tại công ty bảo mật Computest (Hà Lan) là người đã phát hiện ra lỗ hổng, khẳng định sự cố này cho phép kẻ tấn công đọc mọi tập tin đang có trên máy Mac hoặc chiếm quyền kiểm soát webcam.
+"Về cơ bản đây là lỗ hổng có thể được áp dụng cho ba vị trí khác nhau", ông nói.
+Sau khi thực thi cuộc tấn công đầu tiên nhắm vào tính năng lưu trạng thái, Alkemade có thể thao tác vào nhiều thành phần khác nhau trong hệ sinh thái của Apple. Đầu tiên là thoát khỏi cơ chế sandbox của macOS, vốn được thiết kế để giới hạn khả năng hack thành công vào một ứng dụng.
+Sau đó vượt qua (bypass) System Intergrity Protection (SIP - Bảo vệ tính toàn vẹn của hệ thống) - biện pháp phòng vệ then chốt nhằm ngăn chặn mã được ủy quyền truy cập vào các tập tin nhạy cảm trên máy Mac.
+Lỗ hổng lần đầu được Alkemade phát hiện vào tháng 12.2020 và lập tức báo cho Apple thông qua cơ chế săn lỗi được hãng cung cấp để khuyến khích những người am hiểu gửi thông tin về các lỗ hổng bảo mật.
+Theo Wired, Alkemade đã được Apple trả một khoản tiền thưởng lớn nhờ đóng góp này. Sau đó, "táo khuyết" phát hành 2 bản cập nhật vá lỗi cho macOS: lần đầu vào tháng 4.2021 và tiếp tục một phiên bản khác vào tháng 10 cùng năm.

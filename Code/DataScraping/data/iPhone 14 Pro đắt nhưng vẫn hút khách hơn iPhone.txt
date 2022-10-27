@@ -1,0 +1,23 @@
+
+iPhone 14 ra mắt được cho là vẫn sẽ mang lại thành công rực rỡ cho Apple, đặc biệt là các mẫu iPhone 14 Pro, bất chấp những khó khăn kinh tế trên toàn thế giới
+Theo AppleInsider, các nhà phân tích Daniel Ives và John Katsingris của Wedbush nói rằng sự kiện ra mắt loạt iPhone 14, được dự đoán diễn ra ngày 7/9, sẽ tiếp tục gặt hái thành công về cho Apple.
+Bất chấp các khó khăn từ chuỗi cung ứng và dịch Covid khiến nhiều nhà máy phải đóng cửa, giới phân tích tin rằng Apple vẫn sẽ duy trì đơn hàng 90 triệu chiếc ban đầu cho iPhone 14. Con số này tương đương với iPhone 13 ra mắt năm ngoái.
+      ADVERTISEMENT 
+ Mẫu iPhone 14 Pro
+Wedbush ước tính nhu cầu về iPhone 14 vẫn sẽ cao, với 240 triệu trong số hơn 1 tỷ người dùng iPhone trên thế giới vẫn chưa nâng cấp máy sau 3,5 năm. Trong đó, người dùng khi nâng cấp lên iPhone mới sẽ lưu ý đến mẫu máy có nhiều cải tiến là iPhone 14 Pro và iPhone 14 Pro Max. Với các tin đồn cho biết, năm nay iPhone 14 sẽ không có nhiều nâng cấp, trong khi các mẫu máy “Pro” đem tới nhiều cải tiến sáng giá, dự báo của các nhà phân tích có thể là chính xác.
+Mức giá được cho là sẽ giữ nguyên đối với mẫu iPhone 14 bản thường, trong khi các mẫu iPhone 14 Pro và iPhone 14 Pro Max sẽ tăng giá thêm 100 USD. Bù lại, các mẫu máy “Pro” mới sẽ có camera 48MP và chip A16 mới nhất, cùng bộ nhớ lưu trữ lớn hơn.
+Theo các nhà phân tích của Wedbush, thị trường Trung Quốc vẫn là nơi có nhu cầu cao với các iPhone mới. Báo cáo dự kiến, tại thị trường Trung Quốc, sẽ có khoảng 30% người dùng iPhone chưa nâng cấp sẽ mua iPhone 14 Pro và iPhone 14 Pro Max.
+Wedbush cho biết thêm, bộ phận dịch vụ của Apple sẽ tiếp tục có sự tăng trưởng trong năm tài chính sắp tới lên 90 tỷ USD, tiềm năng sẽ đạt 100 tỷ USD trong năm tài chính 2024 nhờ mức tăng trưởng hai con số. Đây là nguồn thu quan trọng của Apple và là tâm điểm của sự tăng trưởng đối với Táo khuyết khi mà thị trường smartphone gần như đã bão hoà.
+Khi mảng dịch vụ của Apple được cho là trị giá tỷ USD kết hợp với mảng kinh doanh phần cứng iPhone, Wedbush tin rằng chỉ số rủi ro với Táo khuyết là rất thấp.
+
+Hiện tại, dòng iPhone 13 đã thể hiện một sự phân chia nhỏ về hiệu suất, bản tiêu chuẩn có GPU 4 lõi, trong khi bản Pro có GPU 5 lõi. Ngoài ra, các mẫu tiêu chuẩn có RAM 4 GB, trong khi các mẫu Pro có RAM 6 GB, với tất cả đều sử dụng chuẩn LPDDR4X.
+    
+iPhone 14 và 14 Max dự kiến sẽ có phiên bản GPU 5 lõi của chip A15, cộng thêm RAM 6 GB LPDDR4X, vì vậy chúng sẽ có lợi thế hơn về hiệu suất so với các mẫu iPhone 13 tiêu chuẩn.
+Nhưng iPhone 14 Pro và 14 Pro Max sẽ hoạt động nhanh đến mức nào? Macworld cố gắng giải quyết câu hỏi này. Điều đầu tiên cần lưu ý là các chip A16 mới sẽ được sản xuất trên quy trình N4P của TSMC, một cải tiến so với quy trình N5P được sử dụng cho A15, nhưng không phải là một bước cải tiến nhảy vọt.
+Chip A16 mới dự kiến sẽ có số bóng bán dẫn 18-20 tỷ bóng bán dẫn, tăng từ 15 tỷ. Nó cũng cung cấp một số cải tiến bằng cách chuyển sang ARMv9. Ví dụ, ARM đã đạt được một số lợi ích với các lõi Cortex-A715 và X3. CPU cũng mang đến hiệu suất cải thiện khiêm tốn 15%. Apple dự kiến vẫn giữ nguyên cấu hình lõi (2 lớn và 4 nhỏ).
+Theo Digitimes, việc chuyển sang RAM nhanh hơn dự kiến ​​cũng sẽ tăng hiệu suất của iPhone 14 Pro và 14 Pro Max, vốn sử dụng loại LPDDR5 mới có băng thông nhiều hơn 50% so với LPDDR4X và tiết kiệm năng lượng hơn khi khởi động. Tuy nhiên, cả hai mô hình này cũng chỉ có RAM 6 GB.
+    
+Đối với GPU, Apple được cho là sẽ sử dụng 5 lõi để tránh làm cho chip quá lớn hoặc có thể tăng lên 6 lõi. Dù bằng cách nào, hiệu suất GPU dự kiến sẽ tăng lên 25-30%.
+Apple cũng sẽ phải tăng cường ISP và phần cứng máy học để xử lý độ phân giải cao hơn do dòng iPhone 14 Pro dự kiến đi kèm camera 48 MP và quay phim 8K. Điều này cũng có thể nâng giới hạn độ phân giải của Cinematic Mode từ 1080p lên 4K.
+Cuối cùng, Apple đang mắc kẹt với modem Qualcomm, vì vậy chip A16 có thể sẽ kết hợp với Snapdragon X65. Tuy nhiên, vẫn chưa rõ liệu các mẫu iPhone 14 tiêu chuẩn có được trang bị modem mới này hay không.
+iPhone 14 Pro có thể gây thất vọng vì chip yếu iPhone 14 Pro sẽ được trang bị chip A16 nhưng A16 sẽ không thực sự mạnh như người dùng mong đợi. Đầu tuần trước, nguồn tin từ ShrimpApplePro cho biết, chip A16 Bionic dành cho các mẫu iPhone 14 Pro sẽ được sản xuất trên quy trình tương... 

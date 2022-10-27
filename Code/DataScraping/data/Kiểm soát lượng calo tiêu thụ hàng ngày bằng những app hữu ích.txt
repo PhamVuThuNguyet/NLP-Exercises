@@ -1,0 +1,19 @@
+
+VOV.VN - Không phải lúc nào cũng dễ dàng đếm lượng calo chúng ta tiêu thụ hàng ngày, nhưng may mắn thay, những ứng dụng dưới đây hoàn toàn có thể giúp chúng ta làm được điều này.
+MyFitnessPal
+Với 6 triệu loại thực phẩm, cơ sở dữ liệu MyFitnessPal cho phép bạn dễ dàng ghi lại các bữa ăn của mình với giao diện đơn giản, trực quan và các tính năng rất dễ sử dụng. Để sử dụng ứng dụng này bạn tạo tài khoản để được phép truy cập thông tin của mình từ mọi nơi, bằng điện thoại thông minh, máy tính bảng hay máy tính để bàn.
+Để có thể điền thông tin vào nhật ký thực phẩm dễ dàng hơn, chương trình ghi nhớ các món ăn bạn đã nhập để sau đó bạn có thể tìm thấy thông tin về chúng nhanh hơn. Các tính năng khác cũng giúp đơn giản hóa việc sử dụng như tính năng quét mã vạch sản phẩm để nhớ vào nhật ký. Nếu muốn, bạn cũng có thể theo dõi thành tích thể thao của mình để duy trì động lực và thậm chí trao đổi với bạn bè qua ứng dụng.
+
+Ảnh chụp món ăn được lưu vào nhật ký bữa ăn, các ứng dụng sẽ phân tích lượng tiêu thụ calo của mỗi người.
+FatSecret
+Về hoạt động FatSecret gần giống với MyFitnessPal. Với ứng dụng này, bạn cũng có một cuốn nhật ký thực phẩm trong đó dễ dàng tích hợp các món ăn của mình, bằng cách điều chỉnh trọng lượng, quét mã vạch của sản phẩm hoặc bằng cách sử dụng các tài liệu tham khảo đã được ghi lại. Để hình dung rõ hơn những nỗ lực của bạn, chương trình này cũng gồm lịch ăn kiêng giảm béo.
+Tất cả các tính năng này đều có sẵn miễn phí. Nếu bạn sử dụng phiên bản trả phí, bạn sẽ nhận được nhiều hỗ trợ hơn, với kế hoạch bữa ăn cải thiện có chọn lọc giúp bạn dễ dàng kiểm soát lượng calo nạp vào mỗi bữa ăn, đồng thời cũng có đồng hồ đo lượng nước để đảm bảo bạn uống đủ nước mỗi ngày.
+Yazio
+Nhìn bề ngoài, giao diện của Yazio khác biệt so với các đối thủ cạnh tranh. Ở mức độ tiện dụng, các chức năng của ứng dụng này gần như giống hệt với MyFitnessPal hoặc FatSecret với việc ghi nhật ký, đếm calo, quét mã vạch để tìm sản phẩm của mình dễ dàng.
+Ứng dụng Yazio giúp bạn dễ dàng thiết lập các mục tiêu với chương trình được cá nhân hóa. Trong đó có vai trò của huấn luyện viên dinh dưỡng kỹ thuật số, tự động theo dõi nếu bạn có một bộ theo dõi thể thao cũng như các công thức giảm cân.
+Le secret du poids
+Ứng dụng "Le secret du poids" (Bí quyết cân nặng) giải phóng bạn khỏi nhật ký thực phẩm truyền thống, cung cấp một giao diện gần giống với trò chơi. Mục tiêu mỗi ngày nếu bạn muốn tiêu thụ thêm các loại thực phẩm, ảnh của các loại thực phẩm này sẽ giúp bạn xác định số lượng tốt hơn.
+Nhân vật trong ứng dụng được trải nghiệm trên ứng dụng không ai khác chính là đại diện của bạn. Nếu lượng calo hàng ngày tăng, bạn sẽ thấy nhân vật lớn hơn và nhân vật sẽ gầy đi khi bạn giảm lượng tiêu thụ.
+Foodvisor
+Foodvisor giúp bạn làm cuộc cách mạng hóa ăn uống, ứng dụng sẽ giúp bạn có thể biết lượng calo có trên bàn ăn, hay trên đĩa của bạn bằng một bức ảnh đơn giản. Một thuật toán dựa trên hàng nghìn bức ảnh khác xác định món ăn và trực tiếp đề nghị bạn nhập món bạn sẽ ăn vào nhật ký của mình.
+Theo: Cnetfrance

@@ -1,0 +1,11 @@
+
+Tường lửa của Windows 11 sẽ kiên cố và an toàn hơn.
+Microsoft vừa phát hành bản build Windows 11 mới cho kênh Beta Channel để cải tiến khả năng chặn các cuộc tấn công ransomware cho Microsoft Defender (tường lửa).
+Theo bổ sung của Microsoft, bắt đầu từ các bản mới nhất hiện tại (22621.450 và 22622.450), nền tảng bảo mật của họ cũng trở nên tốt hơn trong việc phát hiện và ngăn chặn các mối đe dọa nâng cao.
+"Chúng tôi đã nâng cấp khả năng xác định và ngăn chặn ransomware cũng như các mối đe dọa nâng cao cho Microsoft Defender for Endpoint", Amanda Langowski và Brandon LeBlanc của Microsoft cho biết.
+Khi được hỏi thêm chi tiết về những cải tiến nào đã được thêm vào Defender for Endpoint, LeBlanc đã từ chối chia sẻ thêm thông tin ngoài những gì đã được công khai trên thông cáo.
+Theo đó, bản cập nhật mới bổ sung một số cải tiến khác như sao chép bộ nhớ trên băng thông thấp hoặc mạng diện rộng (WAN) bị nghẽn và nén tệp nếu tính năng Server Message Block (SMB) Compression được thiết lập.
+Ngoài ra, bản cập nhật cũng giải quyết các vấn đề gây ra lỗi 0x80070026 khi sao chép từ ổ đĩa mạng và khiến Microsoft Edge bị treo khi sử dụng IE Mode .
+Bên cạnh đó, Microsoft cũng tung ra bản cập nhật cho Windows Subsystem dành cho Android với tất cả các bản thử nghiệm Windows 11. Bản cập nhật này mang tới khả năng tương thích đầu vào trong các ứng dụng như game, cải tiến mạng cũng như cập nhật độ tin cậy.
+Trước khi tung ra phiên bản Windows 11 22H2, Microsoft sẽ còn có các đợt cập nhật nhỏ khác. Phiên bản Windows 11 22H2 dự kiến được tung ra vào tháng 10 tới với khá nhiều thay đổi.
+(Tham khảo QTM).

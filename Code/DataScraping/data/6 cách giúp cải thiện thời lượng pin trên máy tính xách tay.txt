@@ -1,0 +1,24 @@
+
+Bài viết này sẽ gợi ý một số cách bạn có thể cải thiện tuổi thọ pin của máy tính xách tay Windows của mình.
+Các chuyên gia công nghệ nhận định, các cài đặt tiết kiệm năng lượng khác nhau có thể làm giảm mức sử dụng năng lượng khi máy tính xách tay của bạn.
+Chế độ tiết kiệm pin
+Cách dễ nhất để sử dụng các tùy chọn tiết kiệm năng lượng là sử dụng chế độ Tiết kiệm pin. Nó làm giảm tài nguyên hệ thống và tăng tuổi thọ pin. Chế độ này tự động kích hoạt khi pin máy tính xách tay của bạn đạt mức thấp (thường dưới 20 phần trăm), mặc dù bạn có thể tùy chỉnh cài đặt này nếu cần.
+Để kiểm tra xem PC của bạn đang ở chế độ pin nào, hãy nhấp vào biểu tượng pin trong khu vực thông báo của thanh tác vụ. Một cửa sổ hiển thị phần trăm tuổi thọ pin hiện tại và một thanh trượt bạn có thể sử dụng để chuyển sang chế độ nguồn khác.
+Giảm độ sáng màn hình
+Ở chế độ cài đặt cao, độ sáng màn hình có thể làm tiêu hao pin máy tính xách tay của bạn. Nếu giảm độ sáng màn hình, bạn có thể giảm đáng kể mức sử dụng năng lượng của máy tính xách tay.
+Có một số cách để giảm độ sáng màn hình. Ngoại trừ các phím trên bàn phím, cách đơn giản nhất để giảm độ sáng màn hình là sử dụng Windows Action Center.
+Sử dụng chế độ ngủ đông (Hibernate) thay vì chế độ ngủ
+Khi bạn đóng nắp máy tính xách tay của mình hoặc không để máy tính xách tay trong một thời gian, máy tính xách tay sẽ chuyển sang chế độ Ngủ. Chế độ năng lượng thấp này cho phép bạn khôi phục hệ thống của mình một cách nhanh chóng nhưng nó vẫn tiếp tục sử dụng pin. Theo thời gian, pin của bạn sẽ cạn kiệt hoàn toàn.
+Tìm và tắt ứng dụng tiêu hao pin
+Không phải tất cả phần mềm đều được tạo ra như nhau và bạn có thể thấy rằng một số chương trình quá tham lam và đòi hỏi nhiều pin của bạn. Một số có thể quá nặng tài nguyên hệ thống hoặc vẫn hoạt động trong nền trong thời gian dài.
+Windows 10 ghi lại việc sử dụng CPU của tất cả các phần mềm đã cài đặt và từ đó đánh giá lượng pin mà mỗi ứng dụng sử dụng. Bạn có thể kiểm tra danh sách này trong menu Cài đặt Windows.
+Để làm như vậy, hãy nhấp chuột phải vào menu Bắt đầu, nhấp vào "Cài đặt", sau đó nhấp vào Hệ thống> Pin. Trong phần trăm pin hiện tại, hãy nhấp vào "Xem ứng dụng nào đang ảnh hưởng đến tuổi thọ pin của bạn".
+Bạn cũng có thể ngăn phần mềm chạy ẩn. Ví dụ: ứng dụng thư có thể thường xuyên đồng bộ hóa với máy chủ thư trong nền và sử dụng WiFi (và nguồn pin) trong quá trình này.
+Để tránh điều này, hãy nhấp vào bất kỳ mục phần mềm nào trong danh sách sử dụng ứng dụng. Bỏ chọn hộp "Để Windows quyết định khi ứng dụng này có thể chạy trong nền" và "Giảm công việc mà ứng dụng có thể làm khi ứng dụng ở nền" xuất hiện.
+Tắt Bluetooth và WiFi
+Khi bạn đang di chuyển, các tính năng ngốn năng lượng sử dụng máy tính của bạn có thể làm hao pin nhiều giờ. Trừ khi bạn thực sự cần chúng, hãy cắt giảm và tắt các chức năng bên trong, như Bluetooth và WiFi, để tiết kiệm pin.
+Bluetooth là một tính năng bạn chắc chắn có thể tắt cho đến khi cần và bạn có thể thực hiện nhanh chóng trong Windows Action Center nếu sắp hết pin.
+Nếu bạn muốn tắt WiFi, hãy nhấp vào biểu tượng mạng trong Windows Action Center. Trong menu mạng xuất hiện, hãy nhấp vào ô "WiFi" để tắt nó.
+Nếu bạn biết mình sẽ sử dụng máy tính xách tay của mình bằng nguồn pin trong một thời gian dài hoặc nếu pin gần hết, hãy hạn chế các tính năng ngốn pin, chẳng hạn như bất kỳ bộ điều hợp Bluetooth và Wi-Fi nào. Những biện pháp này sẽ cho phép bạn sử dụng máy tính xách tay của mình lâu hơn.
+Công cụ khắc phục sự cố không hoàn hảo nhưng nó sẽ giải quyết mọi cài đặt có tác động lớn có thể làm tiêu hao pin máy tính xách tay của bạn về lâu dài.
+Lưu ý, bạn hãy sạc pin thường xuyên và cố gắng giữ mức pin trên 50% bất cứ khi nào bạn có thể. Nếu bạn thường xuyên tiêu hao pin của máy tính xách tay của mình đến 0%, điều đó có thể khiến pin của máy tính bị hao mòn nhanh hơn.

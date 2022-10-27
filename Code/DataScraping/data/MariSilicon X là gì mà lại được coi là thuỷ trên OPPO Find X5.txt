@@ -1,0 +1,52 @@
+
+Tại sự kiện ra mắt OPPO Find X5 Pro tại Việt Nam tổ chức trong tháng 5 vừa qua, OPPO đã công bố 2 điểm nhấn chính về camera trên thế hệ lần này: Find X5 Pro là dòng sản phẩm đầu tiên của OPPO hợp tác cùng với thương hiệu máy ảnh Hasselblad nổi tiếng trên thế giới, và sự xuất hiện của con chip NPU MariSilicon X trên
+Tại sự kiện ra mắt OPPO Find X5 Pro tại Việt Nam tổ chức trong tháng 5 vừa qua, OPPO đã công bố 2 điểm nhấn chính về camera trên thế hệ lần này: Find X5 Pro là dòng sản phẩm đầu tiên của OPPO hợp tác cùng với thương hiệu máy ảnh Hasselblad nổi tiếng trên thế giới, và sự xuất hiện của con chip NPU MariSilicon X trên Find X5 Pro hứa hẹn sẽ giúp OPPO cải thiện chất lượng hình ảnh.
+      ADVERTISEMENT 
+ OPPO ra mắt bộ xử lý hình ảnh MariSilicon X
+Chi tiết về camera trên Find X5 Pro bạn đọc có thể tham khảo tại bài viết đánh giá chi tiết tại đây. Trong khuôn khổ bài viết này, chúng ta sẽ đi sâu hơn vào khả năng của bộ xử lý hình ảnh NPU MariSilicon X, đây là gì và tại sao nó lại được coi như là “phù thuỳ hình ảnh” trên Find X5 Pro.
+    
+ Find X5 Pro là chiếc smartphone đầu tiên trang bị bộ xử lý NPU này, sau đó là OPPO Reno8
+ MariSilicon X là gì?
+Theo OPPO, MariSilicon X là bộ xử lý hình ảnh NPU mới do chính OPPO phát triển. Bộ xử lý này được xây dựng trên tiến trình 6nm, tích hợp nhiều thành phần như NPU (Neural Processing Unit), ISP (Image Signal Processors) và Kiến trúc bộ nhớ đa tầng cho phép smartphone có thể xử lý ảnh RAW theo thời gian thực, quay và xem trước video đêm AI 4K ở chất lượng cao.
+    
+ Các thành phần chính của một con chip MariSilicon X: NPU, ISP và bộ nhớ đệm Memery Subsystem
+NPU của MariSilicon X có thể cung cấp tới 18 nghìn tỷ tác vụ mỗi giây (TOPS) cùng hiệu suất sử dụng năng lượng 11.6 TOPS mỗi watt, cho hiệu suất xử lý cao nhưng không tốn nhiều năng lượng, đồng thời còn được trang bị hệ thống bộ nhớ phụ terabit/giây tiên tiến cho phép giảm thời gian giao tiếp dữ liệu giữa các đơn vị lưu trữ.
+Nhờ vi xử lý MariSilicon X, smartphone có thể đạt được hiệu suất khử nhiễu nhanh hơn tới 20 lần so với OPPO Find X3 Pro, vốn chỉ sử dụng bộ xử lý tích hợp trong con chip Qualcomm. Nhìn chung, MariSilicon X cho phép smartphone có thể tận dụng tối đa sức mạnh của camera, kết hợp với khả năng xử lý AI tích hợp mạnh mẽ.
+      ADVERTISEMENT 
+ Những điểm nhấn chính trên con chip MariSilicon X của OPPO
+Bên trong MariSilicon X còn có một bộ xử lý hình ảnh ISP có thể chụp ảnh với dải động tới 20-bit 120db, lớn gấp 4 lần so với Find X3 Pro, cải thiện khả năng xử lý HDR một cách mạnh mẽ. Vi xử lý ISP này cũng có thể xử lý ảnh AI 4K và HDR Fusion 20-bit theo thời gian thực với định dạng RAW.
+ Bộ xử lý hình ảnh đóng vai trò gì tới chất lượng hình ảnh?
+Về lý thuyết là vậy, thế nhưng con chip MariSilicon X ảnh hưởng thế nào tới trải nghiệm sử dụng hàng ngày của người dùng Find X5 Pro?
+Trên thực tế, bản thân con chip MariSilicon X có thể giúp khử nhiễu ảnh ở mọi lúc mọi nơi. Với điều kiện sử dụng đủ sáng thì gần như không ảnh hưởng tới chất lượng ảnh, tuy nhiên chỉ cần ở điều kiện thiếu sáng một chút thôi là con chip MariSilicon X có thể phát huy sức mạnh của mình.
+    
+Ảnh chụp ra ở điều kiện thiếu sáng với chế độ tự động thôi đã cho một chất lượng đáng kính ngạc ở tất cả các ống kính. Với đa số smartphone khác trên thị trường, kể cả các dòng máy flagship, việc chụp ảnh trong điều kiện thiếu sáng nếu ảnh không bị nhiễu hạt thì cũng bị bệt do quá trình khử nhiễu bằng thuật toán. MariSilicon X cũng sử dụng thuật toán nhưng đi kèm sức mạnh của bản thân con chip độc lập nên về cơ bản ảnh có độ chi tiết cao, gần như rất ít nhiễu hạt.
+    
+      ADVERTISEMENT 
+Một ví dụ điển hình cho thấy sức mạnh của bộ xử lý MariSilicon X ảnh hưởng thế nào tới chất lượng ảnh chụp thiếu sáng: Galaxy S22 (trái) so với OPPO Find X5 Pro (phải), zoom 100% lên thì độ chi tiết ảnh chụp từ OPPO cao hơn hẳn, không bị mờ hay nhoè, cũng không bị bệt
+    
+    
+Thêm một ví dụ khác cho thấy ảnh chụp từ iPhone 13 Pro Max (trái) với chế độ chụp đêm vẫn cho độ chi tiết thấp hơn so với OPPO Find X5 Pro chụp tự động (phải)
+      ADVERTISEMENT 
+    
+    
+    
+      ADVERTISEMENT 
+    
+    
+ Một vài ảnh chụp thiếu sáng với OPPO Find X5 Pro
+Có thể thấy độ chi tiết và khả năng khử nhiễu ấn tượng là 2 điểm mà con chip MariSilicon X có thể làm cực kỳ tốt, kể cả khi không sử dụng chế độ chụp đêm chuyên dụng. Thực tế khi chuyển sang chế độ chụp đêm, máy sẽ kéo dài thời gian phơi sáng của màn trập, có thể dễ khiến ảnh bị rung nhoè nếu tay không cầm vững. Chế độ chụp đêm nên sử dụng kèm tripod hoặc các thiết bị hỗ trợ khác. Còn với nhu cầu sử dụng cơ bản của người dùng, chế độ tự động đã là hoàn toàn đủ.
+      ADVERTISEMENT 
+Bên cạnh ảnh chụp thì bộ xử lý MariSilicon X còn hỗ trợ tốt cho khả năng quay video thiếu sáng trên Find X5 Pro. Các thuật toán cũng được ứng dụng để khử nhiễu hạt, cân bằng trắng và xử lý video độ phân giải cao lên tới 4K với HDR theo thời gian thực. Dù vậy chất lượng video quay thiếu sáng vẫn chưa thực sự ấn tượng như khi chụp ảnh. Người dùng có lẽ vẫn chỉ nên quay video với điều kiện ánh sáng đầy đủ để cho ra một chất lượng tốt nhất.
+Nhìn chung, nỗ lực nâng cấp camera trên dòng flagship của OPPO đã được “đền đáp” xứng đáng khi chất lượng ảnh quả thực có được cải thiện so với thế hệ tiền nhiệm. Cho những ai chưa biết thì OPPO Find X5 Pro và Find X3 Pro có hệ thống camera góc rộng, góc siêu rộng và tele giống hệt nhau, từ cảm biến cho tới chất lượng thấu kính. Việc nâng cấp chất lượng hình ảnh bằng phần mềm được như Find X5 Pro đã là quá xuất sắc, cho thấy phần cứng không phải là yếu tố duy nhất quyết định tới chất lượng hình ảnh.
+
+Thông tin chi tiết về chiếc flagship của Oppo - Find X5 Pro đang xuất hiện ngày một nhiều hơn. Các hình ảnh đồn đoán cũng cho thấy sản phẩm sẽ có thiết kế tương tự như Find X3 Pro của năm ngoái.
+    
+ Hình ảnh được cho là Oppo Find X5.
+Cụ thể hơn, các hình ảnh kết xuất do OnLeaks mô tả điện thoại sẽ có cụm camera thiết kế chảy vào mặt lưng theo kiểu tương tự như Find X3 Pro.
+Các bức ảnh thực tế đã chứng thực kết xuất của OnLeaks, xác nhận Find X5 Pro với màu trắng, có nhãn hiệu nhiếp ảnh Hasselblad, giống như những chiếc flagship mới nhất của OnePlus. Ngoài ra, ảnh chụp menu cài đặt cho biết thiết bị có bộ xử lý Qualcomm Snapdragon 8 Gen 1 cũng như chip mới của Oppo, MariSilicon X. Đây là một NPU được sử dụng để xử lý hình ảnh; đã được công bố vào cuối năm ngoái cùng với thiết bị Air Glass AR của Oppo.
+    
+ Ảnh kết xuất Oppo Find X5.
+Các thông số kỹ thuật khác của máy cũng được hé lộ trên mạng xã hội Twitter": màn hình LTPO 2.0, độ phân giải 2K, tốc độ làm mới 120Hz; camera sau là sự kết hợp của các cảm biến 50MP IMX766 OIS 50MP IMX766 13MP S5K3M5; pin 5000 mAh hỗ trợ sạc nhanh 80W và sạc không dây 50W.
+Thêm nữa, Oppo Find X5 Pro sẽ có tùy chọn RAM 12GB với bộ nhớ trong 256GB và cài đặt sẵn giao diện ColorOS 12.1 ngay khi xuất xưởng. Cấu hình này khá giống với OnePlus 10 Pro và sẽ "đối đầu" với Galaxy S22 Series của Samsung.
+Hai chiếc flagship Oppo Find X trước đây đều được công bố vào tháng 3. Do đó, công chúng sẽ không phải chờ đợi sự kiện ra mắt chính thức Oppo Find X5 Pro quá lâu.
+Ảnh thực tế OPPO Find X5 Pro với camera Hasselblad  OPPO Find X5 series dự kiến ra mắt trong tháng 2. Thời gian vừa qua, đã có nhiều thông tin về dòng OPPO Find X5 chuẩn bị ra mắt trong tháng 2 tới đây, gồm 2 phiên bản tiêu chuẩn và Pro. Các hình ảnh render rò rỉ... 

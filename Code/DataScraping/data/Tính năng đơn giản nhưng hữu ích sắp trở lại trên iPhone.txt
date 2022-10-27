@@ -1,0 +1,6 @@
+
+Theo Macrumors, Apple đã mang tính năng hiển thị phần trăm pin trở lại trên phiên bản iOS 16 beta 5.
+Màn hình "tai thỏ'' lần đầu xuất hiện trên mẫu iPhone X ra mắt vào năm 2017. Thiết kế này khiến cho thanh thông báo trạng thái của chiếc iPhone bị thu hẹp lại. Do đó, Apple đã loại bỏ thông tin về phần trăm pin trên thanh trạng thái để nhường chỗ cho những thông báo khác.
+Để có thể xem thông tin chi tiết về phần trăm pin còn lại trên iPhone, người dùng buộc phải kéo thanh thông báo xuống. Điều này được cho là khá bất tiện và khó chịu đối với nhiều người dùng.
+Chính vì vậy, trên phiên bản thử nghiệm mới nhất của hệ điều hành iOS 16, Apple đã mang trở lại tùy chọn hiển thị phần trăm pin. Với bản cập nhật này, dung lượng pin còn lại sẽ được hiển thị dưới dạng số bên trong biểu tượng pin. Đây chỉ là một thay đổi nhỏ nhưng được nhiều người dùng iOS mong đợi.
+Bên cạnh đó, bản cập nhật iOS 16 còn hứa hẹn sẽ mang đến hàng loạt thay đổi về giao diện màn hình khóa cũng như bổ sung thêm nhiều tính năng hữu ích khác. Dự kiến, iOS 16 sẽ được phát hành vào tháng 9, cùng thời điểm ra mắt iPhone 14.

@@ -1,0 +1,51 @@
+
+Mạng Wi-Fi ngày càng trở nên quan trọng đối với cuộc sống hàng ngày của chúng ta. Cho dù ở nhà, tại văn phòng hay trong quán cà phê, chúng ta đều cần Wi-Fi để làm việc và kết nối với nhau.
+Nếu tín hiệu Wi-Fi kém, có một số cách mà bạn có thể làm để cải thiện tình trạng này.
+Tại sao mạng Wi-Fi kém?
+Để tìm ra cách tăng tín hiệu Wi-Fi, trước tiên bạn nên cố gắng tìm hiểu nguyên nhân có thể khiến nó bị yếu ngay từ đầu. Dưới đây là những nguyên nhân phổ biến nhất.
+1. Khoảng cách
+    
+Điều đầu tiên cần xem xét là khoảng cách thực tế từ bộ định tuyến. Các vị trí trong nhà hoặc văn phòng của bạn có thể quá xa nguồn tín hiệu và các thiết bị không thể bắt được tín hiệu mạnh.
+2. Chướng ngại vật
+    
+Các chướng ngại vật là một trong những yếu tố lớn nhất trong việc tạo ra các vùng sóng Wi-Fi bị chết hoặc yếu. Lý do là các vật cản có thể dễ dàng chặn tín hiệu Wi-Fi.
+Tường không phải là một yếu tố lớn nếu chúng được làm từ gỗ và vách thạch cao. Tuy nhiên, một số tòa nhà sử dụng đinh tán bằng nhôm hoặc thép, tạo ra chướng ngại vật ngăn chặn sóng Wi-Fi.
+Các vật liệu dày, đặc hơn như thép, nhôm, thiếc, đồng và bê tông là yếu tố gây cản trở tín hiệu. Ngoài ra, các thiết bị, hệ thống ống dẫn, đường ống và các dải dây lớn cũng là một số trong những nguyên nhân gây ra lỗi lớn nhất đối với quá phát tán sóng Wi-Fi.
+    
+3. Nhiễu RF
+Đây là một sự cố phổ biến làm chặn hoặc làm suy yếu tín hiệu mạng. Nếu bạn gặp sự cố không liên tục trong đó kết nối đột ngột bị ngắt, đó có thể là nhiễu RF (tần số vô tuyến).
+Nếu có các tần số giống nhau hoặc tương tự trong khu vực của bạn, chúng có thể xung đột, làm yếu hoặc thậm chí chặn sóng Wi-Fi của bạn.
+Ngoài các thiết bị có động cơ hoặc nguồn điện lớn thì tủ lạnh, lò vi sóng, TV, máy trộn bánh,... đều có khả năng gây nhiễu sóng RF tạm thời hoặc vĩnh viễn.
+4. Bộ định tuyến
+    
+Nếu bạn có một bộ định tuyến cũ với công nghệ cũ hơn, nó có thể không hoạt động tốt. Cũng có thể bộ định tuyến cần khởi động lại hoặc cập nhật phần mềm sẽ cải thiện đáng kể hiệu suất của nó.
+5. Quá tải
+Có khả năng mạng của bạn có quá nhiều thiết bị truy cập.
+9 cách cải thiện tín hiệu WiFi đơn giản nhất
+1. Đặt lại vị trí bộ định tuyến
+    
+Đây là một trong những cách hiệu quả nhất để đảm bảo mạng không dây của bạn được phủ sóng tốt. Nếu bạn chỉ thiết lập mạng của mình, hãy tìm vị trí tốt nhất cho bộ định tuyến của bạn.
+Cố gắng đặt bộ định tuyến của bạn ở trung tâm vùng phủ sóng mong muốn của bạn. Không đặt nó gần các đồ vật hoặc thiết bị kim loại lớn vì làm như vậy có thể tạo ra lỗ hoặc điểm chết.
+2. Thay đổi kênh
+Vì nhiều lý do khác nhau, một số kênh truyền tốt hơn những kênh khác. Nhiều khi, một kênh cụ thể được sử dụng nhiều trong khu vực của bạn. Ví dụ: giả sử tất cả những người hàng xóm của bạn đều có bộ định tuyến trên cùng một kênh mà bạn theo mặc định. Sẽ không có hại gì nếu bạn thử các kênh khác nhau và xem liệu chúng có cung cấp phạm vi phủ sóng tốt hơn hay không.
+Một số thiết bị có thể làm nhiễu sóng wifi của bạn. Các thiết bị RF khác trong nhà của bạn có thể sử dụng cùng một kênh với bộ định tuyến của bạn. Thông thường, bạn có thể kết nối với bộ định tuyến của mình và thay đổi nó thành một kênh khác. Có những ứng dụng có sẵn sẽ phân tích các kênh để xem kênh nào ít bị nhiễu nhất.
+3. Chọn băng tần phù hợp
+    
+Nếu bạn có bộ định tuyến băng tần kép, hãy sử dụng băng tần 2,4GHz cho những khu vực khó tiếp cận. Các điểm xa nhất sẽ hoạt động tốt nhất trên băng tần này vì nó cung cấp tín hiệu mạnh hơn ở khoảng cách xa hơn.
+4. Khởi động lại bộ định tuyến
+    
+Đôi khi, bạn có thể thu được Wi-Fi tốt hơn chỉ đơn giản bằng cách tắt bộ định tuyến của bạn rồi bật lại. Bộ định tuyến có bộ vi xử lý; bản thân chúng thực sự là những chiếc máy tính nhỏ. Sau khi chạy trong một thời gian dài, giống như máy tính xách tay của bạn, chúng có thể chậm lại.
+Thỉnh thoảng, hãy khởi động lại chúng để làm mới mọi thứ và đảm bảo thiết bị của bạn hoạt động tối ưu.
+5. Ngăn chặn ai đó đang dùng “chùa” mạng của bạn
+    
+Hãy đảm bảo rằng không ai đang sử dụng mạng của bạn mà không có sự cho phép của bạn. Một người hàng xóm có thể đang sử dụng hết băng thông của bạn, khiến băng thông chậm lại và làm suy yếu kết nối của bạn. Bạn cần đảm bảo rằng mạng của bạn được bảo vệ bằng mật khẩu đủ mạnh.
+Bạn có thể đăng nhập vào bộ định tuyến và xác định tất cả các thiết bị trên mạng của bạn. Nếu bạn tìm thấy những thiết bị lạ, hãy loại bỏ họ, thay đổi mật khẩu và thậm chí là thay đổi tên mạng của bạn.
+6. Thay ăng-ten
+    
+Ăng-ten của bạn có thể tạo ra sự khác biệt; với vị trí thích hợp có thể cải thiện khả năng thu sóng Wi-Fi của bạn. Hầu hết các bộ định tuyến đều đi kèm với một ăng-ten tiêu chuẩn. Nếu thiết bị của bạn có những cái có thể tháo rời, bạn có thể mua riêng một ăng-ten “xịn xò” hơn để cải thiện một chút phạm vi phủ sóng.
+7. Lắp thêm mở rộng Wi-Fi
+    
+Nếu không có giải pháp nào ở trên cải thiện tình hình của bạn, bạn có thể cần phải mua một bộ mở rộng Wi-Fi, còn được gọi là bộ lặp hoặc bộ tăng cường. Các thiết bị này được đặt ở những vị trí chiến lược để mở rộng sóng Wi-Fi của bạn đến những khu vực sóng yếu hoặc không có sóng. Chúng hoạt động bằng cách thu tín hiệu từ bộ định tuyến của bạn và sau đó phát lại nó.
+8. Mua một định tuyến mới
+Có khả năng bộ định tuyến của bạn đã cũ và lỗi thời. Các thiết bị mới hơn có thể sẽ hoạt động tốt hơn và có phạm vi hoạt động tốt hơn. Họ có thể sử dụng công nghệ cải tiến như tạo chùm tia, giúp đạt được khoảng cách xa hơn.
+Nếu mạng Wi-Fi của bạn gặp phải tình trạng tín hiệu yếu, không ổn định thì việc đầu tiên, bạn cần xác định lý do tại sao nó xảy ra; sau đó chọn giải pháp tốt nhất. Hy vọng rằng những thông tin trên sẽ giúp bạn giải quyết tình trạng tín hiệu Wi-Fi yếu của mình.

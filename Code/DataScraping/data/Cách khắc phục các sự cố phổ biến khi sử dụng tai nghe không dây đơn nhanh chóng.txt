@@ -1,0 +1,51 @@
+
+Tai nghe không dây (TWS) đã trở nên phổ biến trong vài năm trở lại đây. Giống như hầu hết các thiết bị công nghệ khác, tai nghe TWS cũng gặp phải một số vấn đề nhất định sau thời gian sử dụng.
+Dưới đây là một số vấn đề phổ biến mà người dùng có thể gặp phải với tai nghe TWS và cách khắc phục chúng:
+1. Điện thoại thông minh không thể tìm thấy tai nghe TWS
+    
+Nếu bạn đang cố gắng ghép nối tai nghe TWS của mình với smartphone hoặc bất kỳ thiết bị nào khác và nó hiện không hiển thị trong danh sách thiết bị Bluetooth thì đây là một số cách mà bạn có thể thử:
+- Kiểm tra tai nghe TWS đã được sạc, bật và ở chế độ ghép nối chưa
+- Kiểm tra xem tai nghe có tương thích với thiết bị của bạn không
+- Đảm bảo rằng điện thoại thông minh và tai nghe ở trong phạm vi phủ sóng
+- Ngắt kết nối tai nghe khỏi các thiết bị khác
+- Bật và tắt tai nghe TWS và khởi động lại thiết bị một lần rồi thử ghép nối
+2. Tai nghe TWS luôn bị ngắt kết nối
+    
+Việc thường xuyên bị ngắt kết nối giữa tai nghe và điện thoại thông minh có thể khiến bạn khó chịu và nếu bạn đang gặp phải bất cứ điều gì tương tự, đây là một số mẹo có thể hữu ích.
+- Mặc dù tai nghe TWS có thể giúp bạn dễ dàng di chuyển xung quanh khi nghe nhạc, nhưng khả năng bạn đi ra ngoài phạm vi phủ sóng cũng rất dễ.
+- Đảm bảo rằng tai nghe TWS có đủ pin
+- Cập nhật ứng dụng cũng như kiểm tra mọi bản cập nhật chương trình cơ sở cho tai nghe
+3. Tai nghe bên trái hoặc bên phải không hoạt động
+    
+Âm thanh chỉ phát ra từ một miếng đệm tai nghe là một trong những vấn đề phổ biến nhất. Để khắc phục điều này, đây là một số mẹo có thể hữu ích:
+- Đảm bảo rằng hộp sạc đã được sạc đầy
+- Đảm bảo rằng cả hai tai nghe đều được sạc
+- Ngắt kết nối tai nghe và kết nối lại với điện thoại thông minh
+- Đặt cả hai bên vào tai của bạn đúng cách
+4. Tai nghe TWS không sạc
+    
+Tai nghe TWS không sạc được cũng là một vấn đề khá phổ biến. Lý do phổ biến nhất đằng sau điều này có thể là bụi và các điểm tiếp xúc trên tai nghe. Bạn cũng có thể quên bật công tắc. Hãy:
+- Làm sạch các đầu nối trên cả hộp sạc và tai nghe TWS.
+- Kiểm tra cáp, bộ chuyển đổi và ổ cắm điện xem có hư hỏng và các vấn đề về nguồn điện hay không.
+5. Hộp sạc không hoạt động bình thường
+    
+Nếu hộp sạc không được sạc đúng cách, hãy đảm bảo rằng cổng sạch sẽ cùng với những thứ khác như bộ đổi nguồn,…
+6. Âm thanh bị “biến dạng” khi bạn đang nghe nhạc
+    
+Bluetooth là một công nghệ không dây, nó dễ bị ảnh hưởng bởi các công nghệ không dây khác. Điều đó đôi khi dẫn đến hiện tượng âm thanh trong tai nghe phát không bình thường. Để khắc phục điều này, bạn chỉ cần:
+- Tắt các thiết bị Bluetooth xung quanh.
+- Di chuyển khỏi các thiết bị khác như TV, bộ định tuyến,…
+- Ngắt kết nối và kết nối lại tai nghe
+7. Chất lượng cuộc gọi kém
+    
+Nếu bạn đang đối mặt với chất lượng cuộc gọi kém từ tai nghe TWS thì bạn nên làm theo các bước sau:
+- Đảm bảo micrô trong tai nghe chụp tai TWS không bị bất kỳ thứ gì cản trở
+- Lau sạch micrô bằng khăn mềm
+- Kiểm tra vùng phủ sóng trên điện thoại thông minh của bạn
+- Di chuyển đến gần điện thoại thông minh hơn trong khi thực hiện cuộc gọi
+8. Thời lượng pin kém
+    
+Tai nghe nhét tai TWS vẫn luôn được đánh giá là có lượng pin tốt nhất. Tuy nhiên, nếu bạn đang nhận được thời lượng pin tương đối thấp, đây là một số điều bạn cần kiểm tra:
+- Cố gắng sạc tai nghe TWS của bạn đúng cách bằng cáp ban đầu được cung cấp trong hộp
+- Nếu tai nghe TWS của bạn là mới, hãy liên hệ với trung tâm dịch vụ để được kiểm tra.
+- Nếu tai nghe chụp tai TWS của bạn đã cũ, có khả năng pin đã hỏng. Một số nhà sản xuất cung cấp thay thế pin cho tai nghe TWS của họ, nhưng một số thì không. Hãy liên hệ với nhà cung cấp dịch vụ.

@@ -1,0 +1,16 @@
+
+Nguồn tin từ MacRumors cho biết Apple sẽ mang trở lại thông báo phần trăm pin trên thanh trạng thái của iPhone 14 Pro và 14 Pro Max
+ Tính năng này nhằm tận dụng tối đa không gian hiển thị nhờ phần màn hình đục lỗ mới trên dòng sản phẩm iPhone 14 Pro. Theo đó, biểu tượng pin và chỉ báo phần trăm pin còn lại sẽ được hiển thị thành 2 biểu tượng tách biệt.
+      ADVERTISEMENT 
+ Tùy chọn hiển thị phần trăm pin riêng biệt sẽ chỉ xuất hiện trên bộ đôi iPhone 14 Pro (Ảnh: MacRumors).
+Ngoài ra, một thay đổi nhỏ khác là biểu tượng cột sóng di động và tên nhà mạng sẽ được thay đổi vị trí sang góc trên bên trái, thay vì đặt ở bên phải như hiện nay. Nhiều khả năng, những thay đổi này sẽ chỉ được áp dụng trên bộ đôi iPhone 14 Pro.
+Trước đó, trên phiên bản thử nghiệm của hệ điều hành iOS 16, Apple cũng đã mang trở lại tùy chọn hiển thị phần trăm pin. Theo đó, dung lượng pin còn lại sẽ được hiển thị dưới dạng số bên trong biểu tượng pin. Đây chỉ là một thay đổi nhỏ nhưng được rất nhiều người dùng iOS chờ đợi.
+iOS 16 hứa hẹn sẽ mang đến hàng loạt thay đổi về giao diện màn hình khóa cũng như bổ sung thêm nhiều tính năng hữu ích khác. Dự kiến, bản cập nhật này sẽ được phát hành vào ngày 7/9, cùng với thời điểm ra mắt iPhone 14.
+
+Theo PhoneArena, @AR72014 đã đưa ra ý tưởng dựa trên sự cân nhắc các thiết kế bị rò rỉ về thiết bị gần đây, bao gồm việc máy đi kèm các phần đục lỗ tròn và hình viên thuốc thay vì notch. Ngoài ra, anh ấy còn thêm một biểu tượng pin mới đến với iOS 16 beta 5. Một bổ sung khác là bản xem trước ứng dụng phát nhạc trên màn hình khóa dựa vào tính năng Always On trên thiết bị.
+    
+ Nhiều tính năng của iOS 16 được thể hiện trong ý tưởng thiết kế từ @AR72014
+Các báo cáo cho biết iPhone 14 và 14 Max có thể không mang tính năng Always On Display (AOD), nhưng điều này vẫn cần thêm thời gian xác nhận. Nếu Apple quyết định triển khai AOD cho các mẫu máy cũ hơn, nó chỉ có thể đến với dòng iPhone 13 Pro. Apple có thể sử dụng tốc độ làm mới thay đổi như là nền tảng để triển khai AOD như là cách giúp tiết kiệm pin.
+Hiện tại, iPhone 13 Pro có tốc độ làm mới trong khoảng từ 10 Hz đến 120 Hz, trong khi các mẫu iPhone 14 Pro có tốc độ làm mới từ 1 Hz đến 120 Hz. Điều này có nghĩa AOD sẽ thực sự hiệu quả trên dòng iPhone 14 mới, nơi tính năng này sẽ chỉ chiếu sáng một vài pixel trên màn hình và tần số 1 Hz là rất phù hợp.
+Dòng iPhone 14 cũng sẽ đánh dấu sự ra mắt của iOS 16, nơi Apple có thể phát hành phiên bản chính thức ngay sau sự kiện để mọi người có thể tải về. Apple rất tự tin vào doanh số của dòng iPhone 14 sắp ra mắt, tuy nhiên giới phân tích lại không tin tưởng điều này do khủng hoảng kinh tế hiện nay.
+Đây là cách hoạt động của màn hình Always On trên iPhone 14 Pro Trang MacRumors vừa đưa ra một số tin đồn liên quan đến các hoạt động của màn hình Always On có trên các mẫu iPhone 14 Pro và 14 Pro Max. Các tin đồn gần đây cho thấy iPhone 14 Pro và 14 Pro Max sẽ mang đến... 

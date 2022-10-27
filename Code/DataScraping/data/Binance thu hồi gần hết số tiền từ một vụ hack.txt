@@ -1,0 +1,12 @@
+
+Sàn giao dịch tiền số lớn nhất thế giới đã đóng băng 80% số tài sản bị đánh cắp từ nền tảng Curve Finance.
+Trong một bài đăng trên Twitter, Changpeng Zhao (CZ), Giám đốc điều hành của Binance xác nhận sàn giao dịch này đã đóng băng tài khoản và thu hồi 450.000 USD. Số tài sản này chiếm 80% khoản tiền bị đánh cắp từ nền tảng Curve Finance. 
+Theo CZ, tin tặc đã cố gửi tiền đến sàn giao dịch bằng nhiều cách khác nhau nhưng Binance đã phát hiện.
+CZ xác nhận Binance đã thu hồi được 450.000 USD. 
+Sàn giao dịch này đang truy vết để gửi số tiền nói trên về ví của chủ sở hữu trước vụ hack. Hôm 8/8, đội ngũ phát triển Curve Finance đã phát hiện ra các vụ tấn công và cảnh báo người dùng. Một giờ sau, nhóm phát triển cho biết họ đã tìm thấy lỗ hổng và sẽ giải quyết. Tuy vậy, hacker đã kịp đánh cắp khoảng 537.000 USDC. 
+Theo các chuyên gia từ công ty phân tích blockchain Elliptic, một hacker đã xâm nhập hệ thống tên miền (DNS) của Curve Finance. Sau đó, người này gửi tiền đến các sàn giao dịch bằng "máy trộn" tiền mã hoá nhằm xoá dấu vết.
+Vụ khai thác Curve Finance chỉ là một trong rất nhiều vụ tấn công xảy ra vào năm 2022. Theo công ty phân tích Chainalysis, số tiền trị giá 2 tỷ USD đã bị đánh cắp sau các vụ hack cầu xuyên chuỗi. 
+Gần đây, Bộ Tài chính Mỹ cũng đã tuyên bố cấm Tornado Cash, dịch vụ "trộn" tiền mã hóa mà tin tặc thường xuyên sử dụng để che giấu thông tin giao dịch. 
+Theo thông báo từ Văn phòng Kiểm soát Tài sản Nước ngoài (OFAC) của Bộ Tài chính Mỹ, Tornado Cash đã bị liệt vào danh sách Chỉ định Đặc biệt Quốc gia (SDN) bên cạnh 44 ví Ethereum và USDC liên quan. Những ví bị cấm gồm có hợp đồng thông minh vận hành Tornado Cash, địa chỉ Gitcoin và ví quyên góp Tornado Cash.
+Các cá nhân và công ty hoạt động tại Mỹ không được phép tương tác tài chính với những tổ chức có mặt trong danh sách đen và bất kỳ ai vi phạm có thể đối mặt với án hình sự.
+Thông tin về loại tiền số trong bài viết không phải là lời khuyên đầu tư từ Zing News. Hoạt động đầu tư tiền mã hóa chưa được pháp luật Việt Nam công nhận và bảo vệ. Các loại tiền số luôn tiềm ẩn nhiều rủi ro tài chính.

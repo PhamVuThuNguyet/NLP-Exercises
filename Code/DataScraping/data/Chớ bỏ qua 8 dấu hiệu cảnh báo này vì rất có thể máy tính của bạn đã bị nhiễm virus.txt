@@ -1,0 +1,42 @@
+
+Việc nhiễm virus hoặc phần mềm độc hại có thể khiến dữ liệu cá nhân của bạn bị đánh cắp, làm hỏng thiết bị của bạn. Cho dù bạn đang sử dụng laptop, PC hay Mac, bạn đều cần phải loại bỏ virus ngay lập tức.
+Virus máy tính là gì?
+Virus máy tính là một loại phần mềm độc hại lây nhiễm vào máy tính và mượn tài nguyên của máy tính để tự tái tạo và lây lan. Virus máy tính đưa mã của riêng chúng vào các chương trình hoặc tệp và có thể thực hiện nhiều hành động độc hại khác nhau, bao gồm làm hỏng hoặc xóa tệp và đánh cắp dữ liệu nhạy cảm.
+Virus máy tính lây lan như thế nào?
+Virus máy tính lây lan bằng cách tự sao chép. Khi vào bên trong máy tính của bạn, chúng tạo ra các bản sao của chính chúng và lây lan qua các tệp đính kèm email bị nhiễm độc, các macro bị nhiễm độc hoặc các liên kết độc hại. Virus có thể tự gửi email đến tất cả các địa chỉ liên hệ của bạn, sau đó chúng tự gửi nó đến tất cả các địa chỉ liên hệ của “nạn nhân”, gây ra sự lây lan theo cấp số nhân.
+Email là một trong những phương thức gửi phần mềm độc hại phổ biến nhất, đó là lý do tại sao bảo mật email rất quan trọng. Virus và phần mềm độc hại khác cũng có thể lây lan qua chia sẻ tệp và gói phần mềm. Khi bạn tải xuống một ứng dụng từ một nguồn không đáng tin cậy bên ngoài App Store của Apple hoặc Google Play, nó có thể bị đính kèm với phần mềm độc hại hoặc bloatware.
+    
+Phần mềm độc hại cũng lây lan qua các lỗ hổng trong phần mềm lỗi thời. Nhiều bản cập nhật phần mềm được phát hành để bịt các lỗ hổng bảo mật. Nếu bạn không cập nhật phần mềm thường xuyên, các tin tặc nguy hiểm có thể khai thác các lỗ hổng trong phần mềm cũ để truy cập vào hệ thống và phát tán phần mềm độc hại.
+Cách nhận biết máy tính của bạn có virus hay không
+Để xem máy tính của bạn có virus hoặc phần mềm độc hại khác hay không, hãy tìm hành vi bất thường, các tệp hoặc tệp tải xuống đáng ngờ cũng như các dấu hiệu máy nhiễm virus sau:
+1. Máy tính chạy chậm
+    
+2. Các chương trình hoặc ứng dụng không quen thuộc
+3. Các cài đặt khác nhau mà bạn không thay đổi
+4. Tệp bị hỏng hoặc bị xóa
+5. Âm thanh ổ cứng của bạn hoạt động liên tục
+6. Quạt máy tính kêu to không ngừng
+    
+7. Máy tính quá nóng
+    
+8. Thường xuyên gặp sự cố, treo máy hoặc các hành vi bất thường khác
+Bất kỳ một trong các dấu hiệu này đều có thể do virus hoặc một loại phần mềm độc hại khác như spyware hoặc crytominer gây ra. Nếu bạn gặp phải 2 hoặc 3 trong số chúng cùng một lúc, đó là dấu hiệu lớn cho thấy thiết bị đã nhiễm virus hoặc thậm chí có thể máy tính của bạn đã bị tấn công.
+Cách tránh virus và phần mềm độc hại 
+Phòng chống phần mềm độc hại luôn dễ dàng hơn việc loại bỏ phần mềm độc hại. Dưới đây là một số mẹo nhanh chóng và dễ dàng bạn có thể làm để tránh tải xuống phần mềm độc hại:
+1. Cài đặt các bản cập nhật phần mềm mới nhất
+    
+Các bản cập nhật phần mềm bao gồm các bản sửa lỗi bảo mật. Hãy cập nhật phần mềm của bạn thường xuyên để thiết bị luôn được bảo vệ khỏi các chủng virus và phần mềm độc hại mới nhất.
+2. Tải chương trình chống virus
+    
+Sử dụng ứng dụng chống virus sẽ bảo vệ máy tính của bạn khỏi phần mềm độc hại và virus trước khi chúng lây nhiễm vào máy tính của bạn. Phần mềm chống virus tốt nhất cũng bao gồm bảo vệ chống lại các trang web độc hại, lừa đảo trực tuyến, tải xuống không an toàn và hơn thế nữa.
+3. Sao lưu dữ liệu thường xuyên
+    
+Nhiều chủng phần mềm độc hại, đặc biệt là ransomware, có thể xâm phạm dữ liệu của bạn. Nếu bạn có bản sao lưu của tất cả dữ liệu của mình, bạn sẽ có thể khôi phục cài đặt gốc cho máy tính của mình mà không bị mất bất cứ thứ gì.
+4. Cảnh giác với các cửa sổ bật lên
+    
+Tránh nhấp vào các thông báo bật lên, đặc biệt là những thông báo cho rằng đã phát hiện ra sự cố với máy tính của bạn. Các cửa sổ bật lên được thiết kế để dọa bạn tải xuống các ứng dụng bảo mật không an toàn, thường chỉ là phần mềm độc hại ngụy trang.
+5. Đề phòng các email lạ
+    
+Thực hành các phương pháp email an toàn và không mở email từ các địa chỉ không xác định hoặc không đáng tin cậy. Nếu bạn đã mở email, không nhấp vào bất kỳ liên kết nào và không mở bất kỳ tệp đính kèm có dấu hiệu khả nghi nào.
+6. Sử dụng phần mềm chống virus mạnh 
+Một phần mềm chống virus mạnh là cách bảo vệ tốt nhất trong cuộc chiến chống lại các mối đe dọa trực tuyến.

@@ -1,0 +1,21 @@
+
+Apple vừa phát hành bản cập nhật iOS 12 với số phiên bản lên đến 12.5.6 nhằm giải quyết một lỗ hổng bảo mật lớn đang bị tin tặc khai thác
+Theo Neowin, lỗ hổng này đã được Apple sửa trong phiên bản iOS mới nhất (15.6.1) cũng như đã được sửa trong iPadOS 15.6.1 và macOS Monterey 12.5.1. Bản cập nhật nhằm sửa các lỗi bảo mật cho phép các ứng dụng thực thi mã tùy ý với các đặc quyền của nhân. Còn lại là một lỗi trong WebKit cho phép thực thi mã tùy ý thông qua “nội dung web độc hại”.
+      ADVERTISEMENT 
+ iOS 12 là hệ điều hành được phát hành lần đầu cùng iPhone Xs/ Xs Max vào năm 2018
+iOS 12 ban đầu được ra mắt vào năm 2018 cùng với iPhone Xs và Xs Max. Bản cập nhật cũng đến với các thiết bị hỗ trợ khác (không thể nâng cấp lên iOS 13) gồm iPhone 5s, iPhone 6, iPhone 6 Plus, iPod touch 6, iPad Air (thế hệ đầu tiên), iPad mini 2 và iPad mini 3.
+Người dùng có thể nhận bản cập nhật mới nhất cho iOS 12 thông qua cách thức thông thường bằng cách mở ứng dụng Settings> General> Software Update. Sau đó, thao tác này sẽ tải xuống bản cập nhật trong nền và nhắc người dùng cài đặt bản cập nhật khi đã sẵn sàng.
+
+Apple đã phát hành phiên bản iOS 16 beta chỉnh sửa lần thứ 6 vào ngày 15/8, chỉ vài ngày sau khi công ty tung ra phiên bản beta 5. Đây là một bản cập nhật bất thường của hệ điều hành iPhone, theo BGR.
+Trước khi đưa ra phiên bản chính thức, Apple phải chỉnh sửa lỗi trong các bản cập nhật hệ điều hành thử nghiệm. Đặc biệt, trong phiên bản iOS 16 beta mới nhất, nhà sản xuất iPhone đã cập nhật lại tính năng gây tranh cãi, đó là hiển thị phần trăm pin.
+    
+ Trong phiên bản iOS 16 beta mới nhất, người dùng có thể bật tắt tính năng hiển thị phần trăm pin ngay cả khi kích hoạt chế độ nguồn điện thấp. Ảnh: BGR.
+Trên iOS 16 beta 5, khi người dùng bật chế độ nguồn điện thấp trên iPhone, tính năng hiển thị phần trăm cũng tự động được kích hoạt. Đây là một lỗi gây ảnh hưởng lớn đến trải nghiệm của người dùng vì không phải ai cũng thích để hiển thị phần trăm pin, theo nhận định của BGR.
+Trong phiên bản iOS 16 beta 6, Apple đã chỉnh sửa lỗi này. Hiện tại, người dùng có thể thoải mái bật tắt tính năng hiển thị phần trăm pin, kể cả đang kích hoạt chế độ nguồn điện thấp. BGR cho rằng việc cập nhật này rất cần thiết và nó có thể được giữ nguyên trong phiên bản iOS 16 chính thức.
+Tuy nhiên, tác giả Chris Smith của BGR đánh giá tính năng hiển thị phần trăm pin vẫn chưa cho trải nghiệm hoàn hảo. Trong một vài trường hợp, số phần trăm vẫn hiển thị ngay cả khi đã tắt tính năng trong phần Cài đặt và khởi động lại iPhone. Đây có thể là một lỗi mới trong phiên bản iOS 16 beta 6.
+Tất nhiên, số phần trăm chỉ được đặt bên trong biểu tượng pin và lỗi mới này có thể sớm được Apple khắc phục. Trước đó, nhiều người dùng đánh giá đây là một trong những thay đổi hữu ích nhất trên phiên bản iOS 16.
+    
+ Ngay cả đã tắt tính năng, số phần trăm vẫn xuất hiện trong biểu tượng pin. Đây có thể là lỗi mới trong phiên bản iOS 16 beta 6. Ảnh: BGR.
+Song, trên Twitter, không ít người lại có phản ứng trái chiều khi Apple thiết kế tính năng mới. Trong đó, biểu tượng pin màu trắng vẫn được lấp đầy hoàn toàn ngay cả khi mức pin cạn dần. Việc này có thể khiến người dùng nhầm lẫn trong việc xem mức pin của thiết bị.
+Ngoài ra, trong bản cập nhật mới nhất, Apple vẫn giữ nguyên thiết kế. Nhiều người dùng mong đợi Táo khuyết có thể tùy chỉnh lại giao diện trong các phiên bản tới, giúp tính năng trở nên trực quan hơn.
+iOS gặp lỗi bảo mật nghiêm trọng, chuyên gia khuyến cáo người dùng iPhone cần làm ngay điều này! Apple xác nhận sự tồn tại của 39 lỗ hổng, bao gồm một số lỗ hổng nghiêm trọng có thể gây nguy hiểm cho người dùng iPhone, nhưng từ chối cung cấp nhiều thông tin trong phần ghi chú cập nhật bảo mật của mình. Concept iPhone 14... 

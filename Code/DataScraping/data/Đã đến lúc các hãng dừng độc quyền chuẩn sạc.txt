@@ -1,0 +1,26 @@
+
+Trước xu hướng tăng cường tương thích toàn cầu và bộ sạc không còn được bán kèm với điện thoại, các nhà sản xuất nên chuyển sang sử dụng tiêu chuẩn sạc nhanh chung.
+
+Không chỉ những thiết bị đắt tiền, dòng điện thoại tầm trung như Samsung Galaxy A53 và Nothing Phone 1 cũng bắt đầu loại bỏ bộ sạc kèm theo.
+Dù việc Samsung và Nothing không kèm sạc trong hộp gây ra một số trở ngại, nhiều người thừa nhận họ không thực sự cần phải mua chúng. Cả hai công ty đều dựa trên tiêu chuẩn sạc nhanh USB Power Delivery (USB-PD). Công nghệ Samsung Super Fast Charging không phải là chuẩn độc quyền như tên gọi, mà hoạt động trên thông số kỹ thuật của Programmable Power Supply (PPS) USB-PD.
+Trên thực tế, người dùng có thể sử dụng bất kỳ bộ sạc nào có hỗ trợ PPS, thậm chí là bộ sạc của bên thứ ba, để sạc pin cho máy Samsung mà vẫn đáp ứng chuẩn sạc nhanh. Tuy nhiên, nhiều thương hiệu điện thoại thông minh khác, điển hình là Xiaomi, OnePlus và Oppo, lại không dễ dàng như vậy. 
+Những hãng điện thoại này hiện đi đầu trong công nghệ sạc nhanh cho điện thoại thông minh và cung cấp công suất lên tới 150 W. Nếu khách hàng sử dụng bộ sạc USB-C theo chuẩn PD, công suất chỉ còn khoảng 18 W hay 27 W.
+Cốc sạc USB-C với công suất 30W của Google. Ảnh: Android Authority.
+Mức chênh lệch quá lớn này rõ ràng rất đáng lo ngại. Hầu hết người dùng không sở hữu bộ sạc SuperVOOC. Vì vậy, nếu Oppo ngừng để kèm theo bộ sạc trong hộp, họ không có lựa chọn nào khác ngoài mua một bộ sạc riêng mới có thể sạc nhanh với công suất tối đa. 
+Người dùng có thể dùng thay thế các bộ sạc của OnePlus, Oppo và Realme nhờ chúng có cùng một công nghệ nền tảng. Tuy nhiên nếu so với 3 hãng này, USB-PD phổ biến hơn nhiều và xuất hiện trên gần như mọi thiết bị hiện đại, từ Macbook cho đến loa Bluetooth.
+USB-PD được sử dụng rộng rãi. Ảnh: Shutterstock.
+Các thương hiệu đang trong cuộc đua rút ngắn thời gian sạc thiết bị. Những dòng điện thoại sau có thể hỗ trợ gấp đôi lượng điện năng sạc so với những dòng ngay trước đó. Chẳng hạn, OnePlus đã tăng công suất sạc từ 30 W lên 150 W chỉ trong vòng ba năm. Vậy vấn đề ở đây là gì?
+Ngay cả khi bạn sở hữu bộ sạc độc quyền phù hợp, bộ sạc đó không theo kịp công suất mà thiết bị mới của bạn hỗ trợ. Sau đó, nếu bạn chuyển sang bộ sạc mới, bộ sạc cũ sẽ trở nên vô dụng vì chúng không giúp sạc nhanh cho bất kỳ thiết bị nào khác. Nhìn chung, đó là một vòng luẩn quẩn và để lại hiểm họa về rác thải điện tử.
+Khi ngành công nghệ ngày càng hướng đến khả năng tương tác, chuẩn sạc độc quyền rõ ràng không còn phù hợp nữa.
+Tiêu chuẩn chung USB-PD sẽ không thể khắc phục ngay nhược điểm kém tương thích của USB-C. Tuy nhiên, chuẩn sạc chung này sẽ mở rộng phạm vi thiết bị rộng rãi hơn. Ngày nay, nhiều thiết bị như máy tính xách tay đã hỗ trợ sạc 100 W qua USB-PD. 
+Ngoài ra, thông số kỹ thuật 240 W mới sẽ giúp phổ biến tiêu chuẩn này hơn nữa trong tương lai. Vì vậy, giá thành của bộ sạc USB-PD sẽ tiếp tục hạ khi ngày càng có nhiều thiết bị hỗ trợ chúng.
+Việc sử dụng rộng rãi bộ sạc USB-PD sẽ làm tăng tính cạnh tranh về giá cả và chất lượng. Ảnh: Android Authority.
+Hiện tại, với giá của một cốc sạc mang thương hiệu Samsung hoặc Google, người dùng có thể chọn bộ chuyển đổi của bên thứ ba cung cấp công suất sạc cao hơn hoặc nhiều cổng hơn. Dù vậy, khi dùng thương hiệu độc quyền chuẩn sạc, họ buộc phải chi 30-50 USD cho bộ chuyển đổi chỉ tương thích với một thiết bị duy nhất.
+Vấn đề thậm chí còn phiền toái hơn với các bộ sạc di động hoặc sạc trên ôtô không hỗ trợ các giao thức độc quyền. Công suất sạc của phích cắm thường sẽ giảm xuống 10 W hoặc 18 W. Đây là điều mà hầu hết người dùng điện thoại thông minh khó chấp nhận.
+Bất chấp những rào cản, chuẩn sạc độc quyền có lẽ vẫn sẽ tiếp tục tồn tại, ít nhất là trong tương lai gần. Các thương hiệu từ lâu đã tuyên bố sử dụng bộ sạc tương ứng với thiết bị sẽ duy trì tuổi thọ pin tốt hơn.
+Chuẩn sạc độc quyền chưa thể biến mất trong thời gian ngắn do lo ngại về tuổi thọ pin. Ảnh: Android Authority.
+Đầu năm nay, Oppo khẳng định pin Battery Health Engine của Find X5 Pro cho phép sạc pin 1.600 lần trước khi mất 20% dung lượng. Xiaomi cũng đưa ra tuyên bố tương tự khi ra mắt công nghệ sạc nhanh HyperCharge.
+Người dùng vẫn luôn được cảnh báo tình trạng pin có thể xấu đi đáng kể nếu không có biện pháp phòng ngừa thích hợp. Oppo cho hay họ đã tránh được nguy cơ tiềm ẩn này thông qua thuật toán độc quyền liên tục điều chỉnh dòng sạc. Bên cạnh đó, công ty cũng tinh chỉnh hóa học cho pin lithium-ion để có tuổi thọ tốt hơn.
+Tuy nhiên, câu hỏi đặt ra là tại sao những biện pháp trên không thể được thực hiện song song với các chuẩn sạc phổ biến như USB-PD. Thông số kỹ thuật PPS USB-PD mới nhất rõ ràng đã có thể hỗ trợ mức điện áp và dòng điện đa dạng.
+Kể cả khi giao thức độc quyền thực sự cần thiết như họ quảng bá, các nhà sản xuất vẫn nên cải thiện khả năng tương thích với tiêu chuẩn mở. Dòng flash mini của Oppo, hỗ trợ cả sạc SuperVOOC và PPS USB-PD, là một trong những sản phẩm đi theo xu hướng đó. Dù công ty chưa có dự định bán sản phẩm ngoài Trung Quốc, động thái trên là một tín hiệu khả quan.
+OnePlus 10T đi kèm với bộ sạc SuperVOOC 150 W cũng sẽ hỗ trợ USB-PD với công suất lên đến 45 W. Con số này vẫn còn xa mức 65 W (hay thậm chí 100 W) mà nhiều máy tính xách tay yêu cầu, song lại mở ra hy vọng về tương lai của những chuẩn sạc chung.

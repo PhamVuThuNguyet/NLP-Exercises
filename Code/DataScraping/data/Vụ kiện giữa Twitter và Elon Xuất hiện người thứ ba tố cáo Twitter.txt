@@ -1,0 +1,26 @@
+
+Một cựu Giám đốc an ninh của Twitter vừa cung cấp các tài liệu tố cáo "những thiếu sót nghiêm trọng" của hãng liên quan đến quyền riêng tư, bảo mật và kiểm duyệt nội dung.
+
+Ông Peiter Zatko, người vừa đệ đơn tố cáo Twitter
+Một đơn tố cáo vừa được gửi đến Ủy ban Chứng khoán và Giao dịch Hoa Kỳ, Ủy ban Thương mại Liên bang, và Bộ Tư pháp.
+Đơn tố cáo này đã được Công ty luật phi lợi nhuận Whistleblower Aid đệ trình, đại diện cho cựu Giám đốc an ninh của Twitter - ông Peiter Zatko. Công ty Whistleblower Aid cũng từng đại diện cho người tố giác Facebook, Frances Haugen.
+Trong đơn tố cáo gửi tới Ủy ban Chứng khoán và Giao dịch, Zatko cáo buộc rằng ông “đã chứng kiến ​​Giám đốc điều hành cấp cao tham gia vào các giao tiếp gian dối và / hoặc gây hiểu lầm ảnh hưởng đến các thành viên Hội đồng quản trị, người dùng và cổ đông” nhiều lần vào năm 2021, trong đó Giám đốc điều hành Parag Agrawal yêu cầu Zatko cung cấp các tài liệu sai lệch và gây hiểu lầm.
+Tin tức này cũng đã được The Washington Post và CNN đăng tải.
+Zatko tố cáo Twitter đã không trình bày chính xác 4 vấn đề quan trọng với Hội đồng quản trị: Phần mềm lỗi thời thiếu các biện pháp bảo mật cơ bản, “các vấn đề chung” về ai có thể truy cập hoặc kiểm soát các hệ thống và dữ liệu, các quy trình nội bộ có vấn đề và “khối lượng và tần suất các sự cố bảo mật ảnh hưởng đến một số lượng lớn dữ liệu của người dùng mà thực tế là gây choáng váng”.
+Zatko cũng cáo buộc hơn một nửa trong số 500.000 máy chủ của Twitter đang chạy phần mềm lỗi thời và hơn một phần tư máy tính của nhân viên đã vô hiệu hóa các bản cập nhật phần mềm có thể cung cấp các bản vá bảo mật quan trọng.
+Ông nói rằng việc Twitter cấp quyền truy cập cho nhân viên một cách rộng rãi vào hệ thống và dữ liệu là điều “chưa từng có đối với một công ty có tầm quan trọng như Twitter”.
+Nếu các cơ quan quản lý của chính phủ phát hiện Twitter lừa dối người tiêu dùng về các giao thức bảo mật của nó, thì Twitter có thể bị coi là vi phạm thỏa thuận năm 2011 với Ủy ban Thương mại Liên bang.
+Vào thời điểm đó, Twitter đã bị cấm trong 20 năm không được gây hiểu lầm cho người tiêu dùng về cách công ty bảo vệ an ninh và thông tin cá nhân của người dùng. Thỏa thuận cũng yêu cầu Twitter phải tạo và duy trì một chương trình bảo mật thông tin toàn diện để được đánh giá bởi một đơn vị kiểm toán độc lập trong 10 năm.
+Người phát ngôn của Ủy ban Tình báo Thượng viện cho biết trong một tuyên bố rằng Ban hội thẩm cũng đã nhận được đơn tố cáo và đang trong quá trình thiết lập một cuộc họp để thảo luận chi tiết hơn về các cáo buộc: "Chúng tôi rất coi trọng vấn đề này".
+Đơn tố cáo của ông Peiter Zatko cũng đề cập đến những thông tin xuyên tạc của Twitter đối với tỉ phú Elon Musk, người đang bị mắc kẹt trong cuộc chiến pháp lý. Ông Musk đang tìm cách rút lui khỏi thỏa thuận mua lại Twitter, vì ông “nghi ngờ về tính chính xác của tuyên bố trên Twitter rằng chỉ có "dưới 5 % tài khoản là ‘bot’ hoặc tài khoản spam tự động".
+Một luật sư đại diện cho Zatko cho biết ông Zatko không có liên hệ nào với ông Musk, và đơn tố cáo của Zatko là khách quan.
+Luật sư Alex Spiro của Quinn Emanuel của tỉ phú Elon Musk nói với CNBC: “Chúng tôi đã đưa ra trát mời hầu tòa cho ông Zatko. Chúng tôi nhận thấy ông ấy và các nhân viên chủ chốt khác có thể giúp làm sáng tỏ vấn đề của Twitter”.
+Ông Musk và Twitter sẽ gặp nhau tại tòa án vào tháng 10, nơi Thẩm phán Kathaleen McCormick của Tòa án công lý Delaware sẽ xác định xem ông Musk có bắt buộc phải hoàn tất thương vụ mua lại Twitter hay không.
+CEO Twitter - Agrawal đã nói dối
+Parag Agrawal - Giám đốc điều hành của Twitter và vợ là Vineeta Agarwal, đi bộ đến một phiên họp buổi sáng trong Hội nghị Allen & Company Sun Valley vào ngày 7 tháng 7 năm 2022 tại Sun Valley, Idaho (ảnh: Getty Images)
+Zatko cáo buộc một tweet của Giám đốc điều hành Agrawal vào ngày 16 tháng 5 rằng công ty "được khuyến khích mạnh mẽ để phát hiện và xóa nhiều thư rác nhất có thể, mỗi ngày" - thực ra là một lời nói dối. Ông cho biết các giám đốc điều hành của Twitter không được khuyến khích phát hiện ra bot và “ban lãnh đạo cấp cao không muốn đo lường chính xác mức độ phổ biến của tài khoản bot”.
+bởi vì nếu các phép đo chính xác được công khai, nó sẽ làm tổn hại đến hình ảnh và giá trị của công ty.
+Zatko còn cáo buộc rằng công ty không có các biện pháp kiểm soát an ninh thích hợp. Theo The Washington Post, khoảng 7.000 nhân viên Twitter có “quyền truy cập rộng rãi vào phần mềm nội bộ của công ty và việc truy cập đó không được giám sát chặt chẽ”.
+Trong một bản ghi nhớ gửi nhân viên do phóng viên CNN Donie O’Sullivan đăng lên Twitter, CEO Agrawal mô tả Zatko là “một cựu Giám đốc an ninh Twitter đã bị chấm dứt hợp đồng vào tháng 1 năm 2022 vì khả năng lãnh đạo kém hiệu quả và hiệu suất kém”.
+“Chúng tôi đang xem xét các tuyên bố đã được công bố, nhưng những gì chúng tôi thấy cho đến nay là một câu chuyện sai sự thật, có mâu thuẫn, không chính xác, và được trình bày mà không có ngữ cảnh quan trọng” ông Agrawal viết.
+“Với sự chú ý trên Twitter vào lúc này, chúng tôi có thể giả định rằng chúng tôi sẽ tiếp tục thấy nhiều tiêu đề hơn trong những ngày tới - điều này sẽ chỉ khiến công việc của chúng tôi trở nên khó khăn hơn” ông Agrawal nói. "Chúng tôi sẽ theo đuổi mọi con đường để bảo vệ sự liêm chính của mình với tư cách là một công ty".

@@ -1,0 +1,27 @@
+
+Ngày 6/6 tới đây, Apple sẽ tổ chức sự kiện WWDC 2022 dành cho các lập trình viên trên toàn thế giới. Đây sẽ là nơi mà Apple giới thiệu phiên bản thử nghiệm của iOS và iPadOS 16 dành cho các thiết bị iPhone, iPad và iPod touch
+Ngày 6/6 tới đây, Apple sẽ tổ chức sự kiện WWDC 2022 dành cho các l ập trình viên trên toàn thế giới. Đây sẽ là nơi mà Apple giới thiệu phiên bản thử nghiệm của iOS và iPadOS 16 dành cho các thiết bị iPhone, iPad và iPod touch.
+Khác với iOS 16 được cho là sẽ không có quá nhiều thay đổi đáng chú ý cho các thiết bị iPhone, thì với iPadOS 16, các dự đoán cho thấy phiên bản hệ điều hành lần này sẽ góp phần biến các thiết bị iPad trở nên giống với laptop hơn là một chiếc iPhone phóng to.
+      ADVERTISEMENT 
+Theo Bloomberg, iPadOS 16 sẽ cải thiện khả năng và giao diện đa nhiệm trên iPad giúp người dùng dễ dàng thao tác và chuyển đổi qua lại giữa các ứng dụng hơn. Ngoài ra, iPadOS 16 cũng sẽ cho phép người dùng có thể thay đổi kích cỡ cửa sổ ứng dụng để mở được nhiều ứng dụng hơn trên một màn hình, thay vì 2 ứng dụng dạng chia đôi cửa sổ.
+Nếu thông tin này là chính xác thì đây sẽ là nâng cấp đáng giá nhất trên iPad bởi chúng ta đều biết các phiên bản iPadOS hiện tại chỉ hỗ trợ người dùng mở tối đa 2 ứng dụng (thêm một ứng dụng dạng Slide Over nữa là 3), kém xa so với chế độ DeX của Samsung khi cho phép mở tới 5 hoặc 6 cửa sổ ứng dụng cùng lúc. Chưa kể DeX Mode trên Samsung có giao diện sử dụng thân thiện với bàn phím và trackpad/chuột hơn, từ đó cho trải nghiệm nghiệm giống laptop hơn.
+    
+Các dòng iPad chiếm gần 9% tổng doanh số hàng năm của Apple và đang ngày càng tăng theo từng năm. Mặc dù đã nỗ lực tạo ra những trải nghiệm mới tận dụng không gian màn hình lớn trên iPad, tuy nhiên Apple vẫn chưa thể biến iPad trở thành một thiết bị có thể làm việc một cách dễ dàng, thay vào đó, iPad chủ yếu vẫn được coi như là thiết bị “tiêu sản”, tức là thiết bị sử dụng phần lớn để giải trí.
+
+Apple đã công bố iOS 16, iPadOS 16 và macOS Ventura trong bài phát biểu chính của hãng tại WWDC22. Khi so sánh với các bản phát hành chính của năm 2021, các bản cập nhật hệ điều hành (OS) mới này đi kèm RẤT NHIỀU thay đổi về hình ảnh. iPhone đã dễ dàng thay đổi tùy chọn hơn, và iPad M1 hiện hỗ trợ các ứng dụng có thể tùy chỉnh kích thước. Trong khi đó, Apple đã đơn giản hóa giao diện người dùng trên Mac để phù hợp hơn với giao diện người dùng của iPadOS. Một trong những bổ sung đáng chú ý nhất về chất lượng sử dụng trên iOS 16 và iPadOS 16 là khả năng kiểm tra mật khẩu WiFi đã lưu. Đã từ rất lâu, tính năng này chỉ dành riêng cho macOS. Giờ đây, người dùng di động của Apple cũng có thể xem danh sách tất cả các mạng họ đã lưu, kiểm tra mật khẩu hoặc xóa chúng. Dưới đây là các bước chi tiết bạn cần làm theo để có thể truy cập các tính năng trên.
+ Kiểm tra mật khẩu WiFi đã lưu trên iOS 16 và iPadOS 16
+Những bước này tương tự trên cả iOS 16 và iPadOS 16. Vì vậy, cho dù bạn có iPhone, iPad hay cả hai thì các bước bên dưới vẫn không thay đổi.
+Đảm bảo thiết bị của bạn đang trên iOS 16 hoặc iPadOS 16 trở lên.
+    
+ Khởi chạy ứng dụng Cài đặt/Setting.
+      ADVERTISEMENT 
+ Chọn Wi-Fi.
+    
+ Chọn Chỉnh sửa/Edit ở góc trên cùng bên phải.
+    
+ Xác thực bằng Face ID, Touch ID hoặc mật khẩu thiết bị của bạn - tùy thuộc vào thiết bị bạn sở hữu.
+      ADVERTISEMENT 
+Danh sách tất cả các mạng đã lưu sẽ xuất hiện. Ở đó, bạn có thể chọn vào biểu tượng (i) bên cạnh tên mạng để xem hoặc quên mật khẩu của mạng đó.
+Hãy nhớ rằng nếu bạn đã bật tính năng đồng bộ hóa iCloud, thì việc xóa mật khẩu WiFi khỏi một thiết bị Apple sẽ xóa mật khẩu đó trên tất cả các thiết bị hỗ trợ iCloud khác. Bạn sẽ cần nhập lại mật khẩu để đăng nhập lại vào mạng đó.
+Kiểm tra mật khẩu WiFi đã lưu trên iOS 16 và iPadOS 16 là một tính năng tương đối nhỏ. Tuy nhiên, đây là một bổ sung rất đáng hoan nghênh và đã quá hạn từ lâu với các hệ điều hành này. Người dùng không còn cần phải dựa vào máy Mac để xem mật khẩu mà họ không thể nhớ.
+Tính năng hay nhất trên iOS 16 sẽ không xuất hiện trên iPad iPadOS 16 không hề có tính năng cá nhân hóa màn hình khóa như trên iOS 16. Tại sự kiện WWDC 2022 dành cho lập trình viên được tổ chức vào hôm 6/6 vừa qua, Apple đã giới thiệu phiên bản hệ điều hành iOS 16 mới với... 

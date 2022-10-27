@@ -1,0 +1,17 @@
+
+Phần cứng liên lạc vệ tinh của iPhone được cho là đã hoàn thành nhưng chưa thể đưa vào sử dụng.
+Khi sự kiện iPhone 14 của Apple đến gần, các tin đồn tiếp tục xoay quanh khả năng cung cấp liên lạc khẩn cấp qua mạng vệ tinh của điện thoại thông minh đời mới nhất này.
+Hôm 29.8, nhà phân tích Ming-Chi Kuo nói rằng Apple đã "hoàn thành các bài kiểm tra phần cứng cho tính năng này" với iPhone 14, nhưng họ sẽ phải thương lượng mô hình kinh doanh với các nhà mạng nếu muốn đưa vào, The Verge đưa tin.
+Theo đó, ông Kuo cho biết “việc ​​iPhone 14 cung cấp dịch vụ liên lạc vệ tinh phụ thuộc vào việc Apple và các nhà khai thác có thể giải quyết mô hình kinh doanh hay không”.
+Việc áp dụng khả năng liên kết vệ tinh trên iPhone không hoàn toàn thuộc quyền quyết định của Apple. Ảnh chụp màn hình
+Vị chuyên gia còn nói rằng, rào cản này có thể đã khiến tính năng này bị trì hoãn một lần vì phần cứng cho phép iPhone 13 giao tiếp với vệ tinh đã hoàn thành, nhưng Apple không thể đưa ra quyết định kết thúc hợp tác kinh doanh với các nhà mạng.
+Theo dự đoán mới nhất của ông, iPhone chắc chắn sẽ có khả năng liên lạc qua vệ tinh, nhưng "khó có thể dự đoán chính xác khi nào”. Nếu tính năng này hiện đang bị đình trệ trong các cuộc đàm phán với các nhà cung cấp dịch vụ, sẽ rất để khó theo dõi tiến trình Apple áp dụng nó vào điện thoại của mình.
+Việc đưa ra các điều khoản làm việc với những nhà cung cấp dịch vụ di động có thể khó với Apple, vì các nhà mạng cũng quan tâm đến việc cung cấp các tính năng và kế hoạch kết nối vệ tinh của riêng họ.
+Ngày 25.8, nhà mạng T-Mobile của Mỹ thông báo rằng họ đang làm việc với SpaceX để khởi chạy hệ thống liên lạc khẩn cấp dựa trên vệ tinh của riêng mình, và có thể hoạt động với nhiều điện thoại 5G hiện nay.
+Trong khi đó, nhà mạng AT&T của Mỹ cũng đang làm việc với một công ty tên là AST SpaceMobile nhằm cung cấp băng thông rộng qua tín hiệu vệ tinh. Nhà mạng Verizon cũng đã hợp tác với dự án vệ tinh Amazon’s Kuiper.
+Tuy nhiên, có vẻ như họ đang tập trung vào việc cung cấp dịch vụ cho các tháp di động từ xa, nơi sẽ không thể kết nối cáp quang.
+Giám đốc điều hành T-Mobile Mike Sievert và Giám đốc điều hành SpaceX Elon Musk công bố quan hệ đối tác của họ. Ảnh: T-Mobile
+Bên cạnh đó, vì các mạng vệ tinh thường hoạt động trên toàn thế giới, Apple có thể phải thực hiện các thỏa thuận với các nhà mạng quốc tế và các chính phủ tiềm năng thay vì chỉ cần thỏa thuận với các nhà mạng trong nước Mỹ .
+Với dự đoán của Kuo và những người khác rằng Apple đang làm việc với một công ty đã có mạng truyền thông vệ tinh của riêng mình, có vẻ như đây không phải là tình huống mà Apple sẽ cần công nghệ hoặc quyền truy cập từ các nhà mạng.
+Tuy nhiên, trong buổi thuyết trình của mình, nhà mạng T-Mobile cho biết họ sẽ phải làm việc với các nhà phát triển ứng dụng nhắn tin để làm cho hệ thống của họ tương thích với công nghệ vệ tinh.
+Nếu Apple muốn sử dụng hệ thống SMS và thoại của nhà mạng trong tính năng liên lạc vệ tinh của mình, họ có thể cũng phải làm tương tự.

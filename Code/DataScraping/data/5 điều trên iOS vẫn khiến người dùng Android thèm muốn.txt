@@ -1,0 +1,25 @@
+
+Hệ điều hành iOS là lý do chính khiến nhiều người dùng yêu thích, gắn bó với các sản phẩm của Apple.
+Là một trong những smartphone bán chạy nhất thế giới, iPhone xuất hiện ở khắp mọi nơi và sở hữu một lượng người dùng trung thành đông đảo. Trong đó, hệ điều hành iOS là một trong những nguyên nhân chính đóng góp cho thành công này của Apple.
+Khi mới ra mắt, iOS đã mang đến những trải nghiệm chưa từng có cho người dùng smartphone. Theo MakeUseOf, có nhiều yếu tố khiến iOS trở thành hệ điều hành yêu thích của nhiều người, thậm chí khiến người dùng smartphone Android thèm thuồng.
+iOS vốn nổi tiếng là hệ điều hành được cập nhật lâu dài. Nếu thiết bị đủ điều kiện, chúng sẽ được cập nhật ngay khi phần mềm mới phát hành. Đơn cử như chiếc iPhone 6s được hỗ trợ hệ điều hành lên đến 7 năm, rất dài so với một chiếc smartphone thông thường. Hay gần đây, Apple phát hành bản vá lỗi bảo mật cho loạt thiết bị đã bị ngừng cập nhật từ iOS 12, bao gồm cả iPhone 5s, vốn đã ra mắt 9 năm trước.
+Còn với Android, các hãng thường chỉ hỗ trợ trong vòng 3-4 bản cập nhật. Mặt khác, mỗi khi công bố phiên bản mới, nhà sản xuất còn phải tự xử lý, tối ưu hóa cho các sản phẩm của riêng mình.
+Hỗ trợ cập nhật lâu dài là ưu điểm lớn trên iOS. Ảnh: Business Insider.
+Điều này dẫn đến việc người dùng phải đợi hàng tháng, hàng năm hoặc thậm chí không có phần mềm nâng cấp. Do đó, theo MakeUseOf, nếu muốn nhận được cập nhật và tính năng mới lâu dài, người dùng nên chọn iOS thay vì Android.
+Ngoài ra, một trong những điểm hấp dẫn của iOS là sự đơn giản, dễ sử dụng. Nhiều người dùng iPhone chỉ cần một thiết bị hoạt động tốt, dễ dùng và nhanh chóng đáp ứng yêu cầu sử dụng của họ.
+Với iOS, tất cả ứng dụng trên máy đều được hiển thị trên màn hình chính, có thể nhanh chóng truy cập mà không cần vào menu bên trong. Kèm theo đó là những app mặc định như Mail, Weather, giúp người dùng có thể sử dụng ngay mà không cần tải thêm.
+Trong khi đó, smartphone Android của mỗi nhà sản xuất lại có những ứng dụng gốc khác nhau, tạo ra sự phức tạp cho người dùng. Tuy nhiên vài năm trở lại đây, các hãng Android cũng nỗ lực đơn giản hóa giao diện để tiếp cận được nhiều người dùng hơn.
+Theo MakeUseOf, App Store là một trong những kho ứng dụng nổi tiếng nhất trên smartphone. Vì chỉ được thiết kế dành riêng cho các thiết bị chạy iOS nên các app trên ứng dụng này có độ tương thích cao, mượt mà dù người dùng sử dụng iPhone đời cũ.
+Là ứng dụng do Apple tự phát triển, App Store được kiểm duyệt nội dung kĩ càng và ít quảng cáo khi sử dụng hơn kho ứng dụng của Google. Ảnh: MakeUseOf.
+Trong khi đó, với Play Store của Google, nếu không dùng smartphone phân khúc cao cấp, một số ứng dụng và trò chơi sẽ không thể hoạt động trơn tru trên hệ điều hành này.
+Bên cạnh đó, App Store cũng sở hữu nhiều ứng dụng độc quyền hoặc nhận những phiên bản cập nhật, ra mắt sớm hơn Play Store.
+Còn trên Android, người dùng thường phải đợi 1-2 năm để các nhà phát triển đăng tải ứng dụng. Do đó, theo MakeUseOf, nếu muốn sử dụng những ứng dụng mới nhất, cập nhật nhất, iOS chính là sự lựa chọn hợp lý nhất dành cho người dùng.
+Trước đây, với thông báo trên điện thoại, người dùng chỉ có 2 lựa chọn duy nhất. Hoặc là bật thông báo, bị làm phiền cả ngày. Hoặc là tắt hoàn toàn nhưng sẽ dễ bỏ lỡ những thông tin quan trọng.
+Nhưng nhờ iOS, những công cụ quản lý thông báo smartphone đã được tận dụng. Với tính năng Focus, người dùng có thể quản lý thông báo của mình như lên lịch, thiết lập các bộ lọc thông báo, cuộc gọi và tin nhắn…
+iOS có rất nhiều tính năng thú vị. Ảnh: Bloomberg.
+Để kích hoạt Focus, bạn hãy truy cập vào Cài đặt (Settings) > Tập trung (Focus) > Chọn mục Cá nhân (Personal) hoặc Làm việc (Work) có sẵn tùy theo mục đích sử dụng.
+Bên cạnh đó, Scheduled Summary cũng là một công cụ giúp tiết kiệm thời gian được Apple trang bị trên iOS. Tính năng này sẽ tóm tắt các nội dung thông báo và chỉ hiển thị chúng trong một thời gian được lên lịch sẵn, tránh bị làm phiền.
+Người dùng có thể vào mục Cài đặt (Settings) > Thông báo (Notifications) > Tóm tắt theo lịch trình (Scheduled Summary) và bật tính năng này.
+Bên cạnh đó, Apple cũng nổi tiếng với khả năng bảo mật thông tin người dùng cao trên iOS. Năm 2021, hãng công nghệ đã công bố tính năng “App Tracking Transparency” (ATT), giúp người dùng kiểm soát các ứng dụng bên thứ 3 theo dõi và thu thập dữ liệu cá nhân.
+Mới đây, Apple còn thông báo sẽ bổ sung tính năng Lockdown Mode trên hệ điều hành iOS 16, cho phép iPhone chặn mã độc cũng như các hoạt động theo dõi tinh vi.
+Theo MakeUseOf, tập đoàn công nghệ Mỹ luôn cam kết sẽ bảo vệ quyền riêng tư của người dùng trên iOS. Trong đó, Safari được đánh giá là một trong những trình duyệt an toàn nhất trên smartphone.

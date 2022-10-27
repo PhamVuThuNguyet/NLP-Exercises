@@ -1,0 +1,29 @@
+
+Khác với Google hay Facebook, Apple được đánh giá là hãng công nghệ ít thu thập thông tin của người dùng nhất. Apple vốn nổi tiếng là một công ty công nghệ tập trung vào bảo mật thông tin người dùng. CEO Tim Cook từng khẳng định sẽ không để quảng cáo chi phối sản phẩm của mình
+Apple vốn nổi tiếng là một công ty công nghệ tập trung vào bảo mật thông tin người dùng. CEO Tim Cook từng khẳng định sẽ không để quảng cáo chi phối sản phẩm của mình.
+Một nghiên cứu của StockApps gần đây đã kiểm chứng những tuyên bố của Apple.
+Cụ thể, theo các nhà phân tích, trong 5 công ty công nghệ lớn bao gồm Google, Twitter, Apple, Amazon và Facebook, Google là công ty sở hữu nhiều dữ liệu người dùng nhất. Tập đoàn thu thập 39 điểm dữ liệu đối với mỗi người dùng. Trong khi đó, con số này với Táo khuyết chỉ có 12 điểm. Đứng sát Apple là Facebook với 14 điểm dữ liệu.
+      ADVERTISEMENT 
+ Apple luôn nhấn mạnh rằng hãng luôn tập trung vào việc bảo mật thông tin cá nhân cho người dùng. Ảnh: MacRumors.
+Theo nghiên cứu của StockApps, Apple chỉ lưu những thông tin cần thiết để duy trì tài khoản người dùng. Hãng cũng có hệ thống bảo mật riêng tư của người dùng gắt gao bậc nhất trong các hãng công nghệ.
+Nguyên nhân là hãng không bị phụ thuộc vào doanh thu quảng cáo như Google, Twitter hay Facebook, 9to5mac nhận định.
+ 9to5mac cũng cho biết Twitter và Facebook thu thập thông tin người dùng nhiều hơn cần thiết. Tuy nhiên, dữ liệu mạng xã hội của Meta lưu trữ đa số là thông tin do người dùng nhập vào.
+StockApps còn chỉ ra các công ty chỉ tập trung vào một loại dữ liệu nhất định, thay vì chú trọng vào số lượng.
+Cụ thể, Google sẽ thu thập nhiều dữ liệu của người dùng cá nhân hơn vì hãng cần những thông tin này để xác định đối tượng quảng cáo thay vì phụ thuộc vào các ứng dụng bên thứ 3. Đặc biệt, việc hãng công nghệ lưu trữ thông tin vị trí của người dùng cũng là một vấn đề đáng lo ngại, StockApps nhận định.
+    
+ Apple là hãng ít thu thập dữ liệu người dùng nhất. Ảnh: StockApps.
+Nói về điều này, Giám đốc quyền riêng tư người dùng của Apple, Erik Neuenschwander, khẳng định Apple luôn cung cấp khả năng bảo mật thông tin người dùng cao cả trong quá trình sử dụng và chạy ngầm.
+Ngoài ra, một khảo sát khác của Beyond Identity cũng chỉ ra phần lớn người dùng Android sẵn sàng chuyển sang iOS vì độ bảo mật thông tin cao của hệ điều hành này. Họ còn cho rằng so với Samsung Galaxy S22 Ultra, họ cảm thấy an toàn hơn khi sử dụng iPhone 13 Pro Max của Apple.
+“Theo nhiều người dùng, iPhone 13 Pro Max mang lại cảm giác an toàn khi sử dụng hơn Samsung Galaxy S22 Ultra”, khảo sát viết. Trên thực tế, nhiều người dùng iPhone 13 cho biết smartphone của Apple là thiết bị bảo mật nhất họ từng sử dụng.
+Cụ thể, khảo sát với 1.000 người sử dụng smartphone tại Mỹ, Beyond Identity đã chỉ ra có đến 76% người dùng cảm thấy bảo mật hơn trên iOS. Thậm chí, có đến 33% người dùng Android đang cân nhắc chuyển sang dùng iOS 16 sắp tới vì có tính năng Lockdown Mode, nâng cao khả năng bảo vệ dữ liệu.
+Bên cạnh đó, với hệ điều hành của Apple, hầu hết người dùng đều chưa bao giờ bị rò rỉ dữ liệu. Nhưng dù trường hợp này xảy ra, họ vẫn có khả năng khôi phục thông tin cao hơn người dùng Android.
+
+Văn phòng Ủy viên thông tin Australia (OAIC) cho biết Công ty an ninh mạng Internet 2.0 có trụ sở tại thủ đô Canberra đã công bố báo cáo chỉ ra rằng mạng xã hội TikTok kiểm tra vị trí thiết bị của người dùng ít nhất một lần 1 giờ. Ứng dụng này còn liên tục yêu cầu quyền truy cập vào danh bạ điện thoại, ngay cả khi người dùng đã từ chối ngay từ ban đầu, và sẽ nhắc lại cho đến khi quyền truy cập được cấp.
+Hơn nữa, hệ thống định vị của ứng dụng TikTok cũng tự động được kích hoạt trên các ứng dụng khác đang hoạt động và tất cả các ứng dụng được tải xuống trên thiết bị điện tử của người dùng. Ngoài ra, TikTok cũng yêu cầu người dùng cấp quyền truy cập rộng hơn quy mô cần thiết của ứng dụng.
+Người phát ngôn của OAIC cho biết cơ quan này đang xem xét những lo ngại về quyền riêng tư được nêu trong báo cáo của Internet 2.0, để kiểm tra xem liệu TikTok có đang vi phạm quy định của Australia hay không.
+OAIC cho biết các nền tảng và ứng dụng công nghệ hoạt động tại Australia phải minh bạch trong cách xử lý dữ liệu của người dùng và bảo vệ quyền riêng tư của họ, đặc biệt đối với những người dùng dễ bị tổn thương như trẻ em, và chỉ nên thu thập thông tin cần thiết một cách hợp lý để tạo thuận lợi trong hoạt động cung cấp dịch vụ.
+Đại diện của TikTok tại Australia cho biết đã liên hệ với OAIC để giải trình về những điểm không chính xác và sai lầm trong báo cáo của Internet 2.0, đồng thời cam kết sẽ cung cấp thông tin đầy đủ và chính xác cho OAIC.
+Đáp lại, Công ty Internet 2.0 tuyên bố đã xem xét phản hồi của TikTok đối với báo cáo của công ty và nhận thấy rằng mạng xã hội này có lý giải mâu thuẫn trong chính sách bảo mật và mã nguồn của chính họ.
+OAIC là cơ quan quản lý về quyền riêng tư và thông tin cấp quốc gia. Đơn vị này hoạt động hoàn toàn độc lập. Do đó, các kết quả điều tra của OAIC không bị phụ thuộc vào bất kỳ một cơ quan quản lý cấp chính phủ hay đảng phái chính trị nào tại Australia.
+Thượng nghị sĩ Australia James Paterson đã lên tiếng hoan nghênh việc OAIC tiến hành xem xét TikTok. Ông nói các vấn đề về quyền riêng tư và an ninh mạng được tiết lộ gần đây tại Australia là tương đối nghiêm trọng. Kết quả cuộc điều tra của OAIC sẽ là cơ sở để Canberra đẩy mạnh hơn các kế hoạch hành động nhằm ngăn chặn sự xâm phạm công nghệ cao, ảnh hưởng đến quyền riêng tư và thông tin của người dân.
+Mẫu iPhone nào phù hợp với bạn nhất? Tùy vào nhu cầu sử dụng hằng ngày cũng như túi tiền mà người dùng có thể lựa chọn một chiếc iPhone phù hợp. Apple đang bán 8 mẫu iPhone khác nhau. Điều này khiến việc chọn mua một chiếc iPhone trở thành nhiệm vụ phức tạp. Mức... 

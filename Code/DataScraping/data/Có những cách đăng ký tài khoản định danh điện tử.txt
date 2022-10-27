@@ -1,0 +1,41 @@
+
+(Tổ Quốc) - Người dân khi đăng ký tài khoản định danh điện tử sẽ được tích hợp thông tin của nhiều loại giấy tờ để không cần mang theo bản cứng. Người dân có thể đăng ký tài khoản định danh điện tử theo các cách dưới đây.
+Đăng ký trực tiếp tại cơ quan có thẩm quyền
+Người dân đã có căn cước công dân (CCCD) gắn chip hoặc người dân làm thủ tục cấp, đổi, cấp lại CCCD gắn chip có thể thực hiện đăng ký cấp tài khoản định danh điện tử ngay tại cơ quan Công an quận/ huyện/ tỉnh/ thành phố làm thủ tục cấp, đổi, cấp lại CCCD theo các bước sau:
+Bước 1: Người dân thông báo với cán bộ về việc làm hồ sơ cấp tài khoản định danh điện tử. Thông tin đăng ký bao gồm: số điện thoại, địa chỉ hòm thư điện tử (email).
+Trường hợp người dân có nhu cầu đăng ký tích hợp các thông tin hiển thị trên ứng dụng định danh điện tử quốc gia các loại giấy tờ như giấy phép lái xe, đăng ký xe, bảo hiểm xã hội, bảo hiểm y tế… thì mang thêm các loại giấy tờ gốc để đối chiếu.
+Bước 2: Người dân thực hiện làm hồ sơ cấp, đổi, cấp lại CCCD gắn chip điện tử bao gồm thông tin nhân thân/thân nhân cùng thông tin sinh trắc.
+Bước 3: Cán bộ tiếp tục xử lý hồ sơ cấp, đổi, cấp lại CCCD gắn chip theo đúng quy trình cấp CCCD.
+Bước 4: Người dân kiểm tra, đối chiếu thông tin nhân thân, thông tin các loại giấy tờ đăng ký tích hợp và ký xác nhận trên phiếu đăng ký định danh điện tử, phiếu thu nhận thông tin căn cước công dân.
+Nếu trùng khớp thông tin, hệ thống sẽ tạo lập tài khoản định danh điện tử mức độ 1 và gửi yêu cầu kích hoạt tài khoản cho người đăng ký qua số điện thoại hoặc email đã đăng ký. Người đăng ký thực hiện việc kích hoạt theo yêu cầu của Hệ thống định danh và xác thực điện tử.
+Hệ thống định danh và xác thực điện tử sẽ so sánh, đối chiếu thêm ảnh chân dung hoặc vân tay của người đăng ký để tạo tài khoản định danh điện tử mức độ 2. Yêu cầu kích hoạt tài khoản sẽ được gửi cho người đăng ký qua số điện thoại hoặc email đã đăng ký.
+Đăng ký trực tuyến qua ứng dụng VNeID
+Bước 1: Tải ứng dụng VNeID trên App store hoặc Google Play
+Sau khi tải ứng dụng thành công, chọn Đăng ký trên màn hình để tiến hành đăng ký tài khoản định danh điện tử.
+Bước 2: Nhập thông tin
+Người dùng nhập thông tin số định danh cá nhân là số CCCD và số điện thoại chính chủ đã đăng ký với nhà mạng sau đó nhấn Tiếp tục
+Tiếp theo cập nhật thông tin lên ứng dụng. Có 2 cách để cập nhật thông tin:
+Cách 1: Hãy nhấn vào biểu tượng quét mã QR CCCD gắn chip
+Cách 2: Nhập thủ công các trường thông tin theo thẻ CCCD gắn chip
+Sau khi đăng ký các thông tin được điền đầy đủ và chính xác, nhấn vào link Điều khoản sử dụng ứng dụng và dịch vụ để hiểu rõ về các điều khoản liên quan đến việc sử dụng ứng dụng và các dịch vụ được cung cấp trên ứng dụng.
+Nếu đồng ý thì tích vào mục Đồng ý với điều khoản dịch vụ và ứng dụng để hoàn thành.
+Bước 3: Nhập mã OTP
+Sau khi thông tin được cập nhật thành công, mã OTP sẽ được gửi về số điện thoại người dùng đã đăng ký. Người dân nhập mã này để hoàn thành đăng ký.
+Trường hợp không nhận được tin nhắn hoặc mã OTP đã quá hạn sử dụng thì nhấn vào Gửi lại mã.
+Bước 4: Thiết lập mật khẩu cho ứng dụng VNeID
+Mật khẩu yêu cầu phải có từ 8 đến 20 ký tự, bao gồm các số từ 0 - 9, chữ viết hoa A - Z, chữ viết thường a -z và ít nhất một ký tự đặc biệt (! @ # $ ^ * ( ) _)
+Đăng ký tài khoản định danh điện tử Mức 1
+Tài khoản định danh điện tử Mức 1 gồm các thông tin cá nhân và ảnh chân dung. Trong đó, người dân được sử dụng một số tính năng cơ bản như phòng chống dịch (khai báo y tế, thông tin tiêm chủng), giải quyết dịch vụ công trực tuyến như thông báo lưu trú, đăng ký thường trú, tạm trú, khai báo tạm vắng...
+Bước 1: Đăng nhập ứng dụng VneID và chọn Đăng ký tài khoản định danh điện tử Mức 1
+Bước 2: Đọc thông tin từ thẻ CCCD gắn chip
+- Đối với thiết bị sử dụng hệ điều hành iOS
+- Đối với thiết bị sử dụng hệ điều hành Android
+Nếu thiết bị không hỗ trợ tính năng NFC hoặc tính năng NFC bị hỏng, ứng dụng sẽ yêu cầu đọc mã QR trên thẻ CCCD gắn chip.
+Bước 3: Chụp ảnh chân dung
+Thực hiện theo các bước hướng dẫn thao tác trên ứng dụng: Không nhắm mắt, không đeo kính, không đeo khẩu trang, chọn vị trí đủ sáng, không quá tối hay quá sáng.
+Sau khi chụp xong thì nhấn xác nhận ảnh chụp hoặc chụp lại nếu chưa ưng ý.
+Sau khi hoàn thiện, hồ sơ sẽ được gửi lên cơ quan Công an có thẩm quyền để xem xét và phê duyệt. Nếu tài khoản đạt yêu cầu, người dân sẽ nhận được thông báo qua số điện thoại đã đăng ký và tiến hành kích hoạt theo hướng dẫn.
+Đăng ký tài khoản định danh điện tử Mức 2
+Tài khoản định danh điện tử Mức 2 có thêm thông tin về vân tay. Dự kiến, với tài khoản định danh điện tử ở mức 2, người dân có thể sử dụng tất cả tiện ích được cung cấp như tích hợp các loại giấy tờ như giấy phép lái xe, đăng ký xe, bảo hiểm y tế và thanh toán nhiều loại hóa đơn điện tử như điện, nước, đóng bảo hiểm xã hội, bảo hiểm y tế, chuyển tiền...
+Để đăng ký tài khoản định danh điện tử Mức 2, người dân cần đến trực tiếp cơ quan Công an và làm thủ tục đăng ký. Người dân cần chuẩn bị thẻ CCCD gắn chip và các giấy tờ có nhu cầu tích hợp hiển thị lên ứng dụng VNeID như: Giấy phép lái xe, Đăng ký xe, thẻ Bảo hiểm y tế, Thông tin về mã số thuế
+Nếu trùng khớp thông tin, hệ thống sẽ tạo lập tài khoản định danh điện tử mức độ 2 và gửi yêu cầu kích hoạt tài khoản cho người đăng ký qua số điện thoại hoặc email đã đăng ký.

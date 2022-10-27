@@ -1,0 +1,74 @@
+
+Được đánh giá là những cỗ máy chủ cân trọn mọi tác vụ trong trung tâm dữ liệu, R7515 và R7525 - bộ đôi máy chủ thế hệ 15 từ Dell EMC dễ dàng đáp ứng nhu cầu xử lý các tải công việc nặng cho doanh nghiệp
+Dell EMC PowerEdge R7515 – máy chủ 1 socket, lựa chọn hoàn hảo cho ứng dụng ảo hoá
+PowerEdge R7515 (máy chủ rack 2U) là máy chủ 1 socket được thiết kế để xử lý các khối lượng công việc phức tạp và liên tục. PowerEdge R7515 dễ dàng đáp ứng được những ứng dụng đòi hỏi hiệu năng mạnh, ví dụ như phân tích kho dữ liệu, xử lý thông tin thương mại điện tử hay kết hợp cùng hệ thống máy tính hiệu suất cao… nhờ hoạt động trên bộ vi xử lý AMD EPYC thế hệ thứ 3, hỗ trợ lên đến 64 lõi, tối đa 16 DIMM.
+      ADVERTISEMENT 
+Khe cắm mở rộng của R7515 hỗ trợ PCI Express (PCIe) 4.0, mang đến tốc độ truyền tải dữ liệu nhanh chóng.
+Ngoài ra, máy chủ Dell EMC PowerEdge R7515 cung cấp các tùy chọn dung lượng lưu trữ đặc biệt, tuỳ thuộc nhu cầu sử dụng của doanh nghiệp, rất phù hợp cho các ứng dụng sử dụng nhiều dữ liệu mà không làm giảm hiệu suất.
+Thiết kế 2U từ dòng R7515 tạo ra một nền tảng linh hoạt có thể xử lý các ứng dụng truyền thống lẫn hiện đại, trong đó nổi bật là giải pháp vSAN Ready Node được xây dựng để tối ưu hoá cho các phần mềm trong trung tâm dữ liệu – đây là giải pháp có thể chạy nhiều tác vụ ảo, backup dữ liệu và bảo mật – đòi hỏi doanh nghiệp phải sử dụng những máy chủ với cấu hình cao.
+Dell EMC PowerEdge R7515 cũng là dòng máy chủ lưu trữ “mật độ cao” với cấu hình GPU, phù hợp để mở rộng môi trường ảo hoá. Cỗ máy này có thể trực tiếp kết nối với các cổng giao tiếp theo chuẩn ổ cứng SAS/SATA và kết nối NVMe.
+    
+Dell EMC PowerEdge R7515 có trọng lượng trung bình 27.3 kg, với thiết kế mặt trước dạng tổ ong, tạo nên vẻ ngoài sang trọng và mạnh mẽ.
+Dell EMC PowerEdge R7525 – đối thủ “đáng gờm” trong dòng máy chủ hai socket
+PowerEdge R7525 là máy chủ 2 socket phù hợp với doanh nghiệp có hoạt động nghiên cứu, phát triển, phân tích dữ liệu và ảo hóa công nghiệp. Sở hữu hiệu năng cao trong xử lý các ứng dụng VDI, SAP và phân tích dữ liệu, R7525 được đánh giá là có độ trễ thấp hơn 16% so với R7425 – mức gia tăng hiệu năng này đạt được ở mọi quy mô văn phòng, nhờ vậy, máy chủ này không chỉ hỗ trợ nhiều người dùng hơn mà còn mang đến một trải nghiệm tốt hơn, giúp nâng cao năng suất làm việc cả trong trung tâm dữ liệu cũng như trong môi trường ảo hóa.
+    
+Dell EMC PowerEdge R7525 có khả năng mở rộng bộ nhớ linh hoạt
+Tương tự R7515, Dell EMC PowerEdge R7525 cũng được trang bị bộ vi xử lý AMD EPYC Gen3, khác biệt về số nhân ở R7525 là 128 nhân, hỗ trợ tối đa lên đến 256 luồng – một con số đáng kinh ngạc ở dòng máy chủ 2 socket.
+Bên cạnh đó, một trong những điểm hấp dẫn về khả năng mở rộng của Dell EMC PowerEdge R7525 là máy chủ này có thể xử lý tối đa CPU 64-nhân AMD EPYC 7003-CPU dành cho những doanh nghiệp xây dựng siêu máy tính cho hệ thống xử lý công việc.
+Cỗ máy chủ thế hệ mới này sở hữu thiết kế bo mạch chủ hình chữ T, cho phép phân chia các PSU ở mặt sau của khung máy và thuận tiện hơn với các PDU giá đỡ, đồng thời cũng cho phép máy chủ sử dụng các mô-đun AC/HVDC 2,4kW để phục vụ các EPYC công suất cao hơn, nhiều khe cắm mở rộng hơn, lên đến 6 card GPU.
+      ADVERTISEMENT 
+ Dòng máy chủ từ Dell EMC PowerEdge của Dell Technologies sẽ là một trong số những lựa chọn thích hợp cho doanh nghiệp.
+Một điểm đặc biệt nữa của Dell EMC PowerEdge R7525 so với các dòng khác là tất cả các khay SSD NVMe 24x đều được kết nối trực tiếp với bo mạch chủ bằng các làn riêng, nhờ vậy, doanh nghiệp sẽ không cần chuẩn bị thiết bị chuyển mạch PCle như đối với những dòng máy chủ thế hệ cũ.
+
+Huawei Enjoy 50 Pro ra mắt: Thiết kế đẹp, Snapdragon 680, sạc nhanh 40W Trải nghiệm nhanh Huawei MateBook D 16: Thiết kế đẹp mắt, màn hình 16 inch ấn tượng, dùng chip Intel Gen 12 H-Series, giá gần 24 triệu đồng Huawei ra mắt máy tính bảng MatePad Pro 11: Chip Snapdragon 888 4G, màn hình OLED 120Hz, giá từ 11.5 triệu đồng Huawei ra mắt loạt sản phẩm mới dành cho văn phòng: từ laptop MateBook, màn hình Mateview cho đến giải pháp thông minh
+Huawei MateBook D 16 là đại diện tiếp theo của dòng sản phẩm tầm trung MateBook D, vừa được Huawei chính thức ra mắt với mức giá xấp xỉ 24 triệu đồng. Mặc dù không mang đến những thay đổi mới mẻ về ngoại hình, tuy nhiên điểm hấp dẫn của chiếc máy lại nằm ở màn hình lớn cùng việc trang bị vi xử lý Core i5 dòng H, hứa hẹn sẽ mang đến nhiều trải nghiệm thú vị.
+    
+Thiết kế của MateBook D 16 vẫn trung thành với ngôn ngữ phẳng tối giản, đã được áp dụng thành công từ những thế hệ MateBook đi trước. Mặt A được hoàn thiện theo dạng nhám mịn không chỉ mang tới cảm giác khi chạm vào rất "mượt", không bám dấu vân tay mà còn giúp cho tổng thể chiếc máy trông khá tinh tế cao cấp.
+    
+ Hoàn thiện nhám mịn rất sang trọng tinh tế.
+      ADVERTISEMENT 
+Tuy nhiên, điểm trừ trong thiết kế chính là việc phần ốp kim loại trên mặt A khá mỏng, có thể lún xuống khi tác động lực, cho cảm giác ọp ẹp không được chắc chắn như trong tưởng tượng.
+Lý giải cho điều này nhiều khả năng vì MateBook D 16 sử dụng thiết kế khung kim loại, dẫn đến việc phải làm mỏng đi ở một số chi tiết để đảm bảo được trọng lượng máy không quá nặng. Chiếc máy có kích thước vừa phải cùng độ dày 18.4mm và trọng lượng khoảng 1.7kg, chỉ tương đương một chiếc máy 15 inch thông thường nên vẫn có thể dễ dàng bỏ vào trong túi xách hay balo, tăng thêm tính di động.
+    
+Mặt dưới có nhiều khe thoát nhiệt, cùng chân đế cao giúp chiếc máy không chỉ đứng vững mà còn tăng cường khả năng tản nhiệt.
+    
+ Trọng lượng khoảng 1.7kg nên vẫn có thế dễ dàng cầm máy bằng một tay.
+MateBook D 16 sở hữu màn hình có kích thước 16 inch cùng tỷ lệ 16:10, trở thành chiếc máy đầu tiên trong dòng MateBook D có màn hình lớn và một tỷ lệ khung hình thời thượng. Thêm vào đó, việc sử dụng viền màn hình mỏng hơn phía trên và hai cạnh, đồng thời thu nhỏ diện tích cạnh dưới, không chỉ mang đến trải nghiệm hình ảnh hòa quyện cùng môi trường mà còn giúp tổng thể kích thước của MateBook D 16 không chênh lệch nhiều so với những chiếc laptop 15.6 inch.
+      ADVERTISEMENT 
+ Cạnh trên và hai bên mỏng, cho trải nghiệm thú vị hơn.
+    
+ Viền cạnh dưới cùng được làm mỏng, tăng tỷ lệ hiển thị đồng thời giúp tổng thể kích thước máy không quá lớn.
+Một điều đáng lưu ý khi màn hình này chỉ sử dụng tấm nền IPS và có độ phân giải FullHD, cùng khả năng bao phủ 100% dải màu sRGB. Trong khi đó, với mức giá gần 24 triệu đồng, nhiều đối thủ cùng phân khúc đã có thể trang bị màn hình OLED có kích thước gần tương đương cùng khả năng bao phủ 100% dải màu DCI-P3 rộng hơn.
+    
+Dù đạt độ sáng 300nits cùng độ tương phản 1200:1 nhưng đương nhiên MateBook D 16 cũng không thể hiển thị màu đen sâu như với màn hình OLED. Nhưng chất lượng hiển thị này vẫn là quá dư dả cho các tác vụ thông thường.
+Mặc dù về mặt trải nghiệm thông thường, màn hình trên MateBook D 16 vẫn cho ra chất lượng hiển thị tốt, sắc nét chi tiết cùng màu sắc hài hòa. Tuy nhiên những giá trị về mặt thông số cùng khả năng tái hiện màu sắc bắt mắt độ tương phản cao của công nghệ OLED vẫn là một yếu tố gây kích thích đến những người làm việc liên quan nhiều đến hình ảnh.
+      ADVERTISEMENT 
+    
+Bên cạnh màn hình, thì vi xử lý chính là nâng cấp nổi bật tiếp theo của chiếc máy này. MateBook D 16 sử dụng chip Intel Core i5 Gen 12 H-Series, dòng sản phẩm chú trọng vào hiệu năng với TDP 45W. Sản phẩm được dùng trong bài viết này sử dụng Core i5-12450H, trang bị 16GB RAM cùng bộ nhớ trong SSD 512GB NVMe. Đây có thể được xem là một trong những cấu hình khá mạnh mẽ trong phân khúc tầm trung ở thời điểm hiện tại.
+    
+Sử dụng đánh giá với Geekbench, MateBook D 16 cho 1625 điểm đơn nhân và 8078 điểm đa nhân với chế độ tối ưu hiệu năng (Best performance). Trước đó, khi đặt trạng thái máy ở chế độ cân bằng (Balanced) số điểm tương ứng được ghi nhận là 1615 và 7287.
+      ADVERTISEMENT 
+Về khả năng xử lý đồ họa, chiếc máy đạt được 10045 điểm OpenCL và 10203 điểm Vulkan, một con số ở mức vừa khá. Cũng dễ hiểu khi GPU đi theo con chip này chỉ là Intel UHD Graphics 48EU chứ không phải Iris Xe, nên khả năng xử lý đồ họa khó có thể gây ấn tượng.
+    
+Điều này được thể hiện ngay trong bài test 3D Mark, khi MateBook D 16 chỉ ghi tổng 992 điểm với điểm CPU 7472 còn GPU chỉ đạt 861. Trong khi đó, theo đánh giá của 3D Mark ghi lại thì mức điểm của Iris Xe đều chênh lệch hơn rất nhiều.
+    
+Trái ngược với GPU, điểm CPU của Core i5-12450H lại cho kết quả ấn tượng khi thử với phần mềm Cinebench R23. Điểm số đều đạt mức cao ở cả bài thử đơn nhân hay đa nhân cho thấy hiệu năng xử lý mạnh mẽ ổn định của CPU này.
+      ADVERTISEMENT 
+Bước qua các bài đánh giá về game, ở đây chỉ sử dụng những game online thông dụng được nhiều người chơi như: Counter-Strike: Global Offensive, Liên Minh Huyền Thoại hay tựa game đang nổi Valorant. Mặc dù chỉ sở hữu GPU Intel UHD Graphics tuy nhiên vi xử lý Intel Core i5-12450H vẫn giúp MateBook D 16 hoàn toàn có thể chơi Liên Minh Huyền Thoại ở mức cài đặt cao nhất, ngay cả khi bật Khử răng cưa.
+    
+Trải nghiệm chơi game vô cùng mượt mà với tốc độ khung hình dao động từ 110 - 160 FPS. Chỉ những khi combat tổng với số lượng chiêu thức cùng hiệu ứng hình ảnh đa dạng, số khung hình mới có dấu hiệu sụt giảm nhưng vẫn ở mức cực kỳ thoải mái cho trải nghiệm thực sự tốt không hề có bất cứ hiện tượng giật lag hay đứng hình nào.
+    
+Sang đến Valorant, Intel Core i5-12450H vẫn có thể giữ được phong độ khi cho giao động trong khoảng từ 60 - 100 FPS ở cài đặt cao nhất và có bật khử răng cưa. Đây là mức FPS thoải mái để người chơi có thể tận hưởng mà không hề cảm thấy khó chịu trong một game bắn súng góc nhìn thứ nhất như Valorant. Thậm chí ở mức cài đặt mặc định của máy, FPS còn lên tới 180, cho thấy trò chơi này không làm khó được MateBook D 16.
+      ADVERTISEMENT 
+    
+Tuy nhiên, qua tới Counter-Strike: Global Offensive (CS:GO), thử thách mới thực sự bắt đầu. Ở mức cài đặt mặc định của máy (Auto:High), chỉ số FPS chỉ giao động ở mức 20 - 40 và cực kỳ thiếu ổn định. Hình ảnh thường xuyên bị giật, khựng nhất là trong những khu vực nhiều chi tiết, gây ảnh hưởng rất lớn đến trải nghiệm chơi.
+    
+Sau khi tắt khử răng cưa, FPS được cải thiện đôi chút khi có thể vượt qua con số 50 nhưng vẫn thiếu đi sự ổn định cần có. Phải đến khi đưa cài đặt về mức Medium, con số này mới tăng lên được trên 60, và hiện tượng giật lag tuy vẫn còn nhưng đã giảm bớt tần suất. Trò chơi chỉ có thể chơi thoải mái trong cài đặt thấp nhất, cho thấy những tựa game nặng vẫn còn là thử thách quá sức với CPU này.
+      ADVERTISEMENT 
+    
+Ngoài những yếu tố nâng cấp trên, MateBook D 16 còn sở hữu một số cải tiến như webcam đã trở về với vị trí cạnh trên quen thuộc và có độ phân giải AI 1080P cùng hệ thống 4 mic giúp tăng cường chất lượng cuộc gọi video call. Bên cạnh đó chiếc máy được trang bị bàn phím đầy đủ có cả numpad, cùng hành trình dài hơn đến, cũng cho cảm giác sử dụng thoải mái chân thực.
+    
+      ADVERTISEMENT 
+Pin của Huawei MateBook D 16 có dung lượng 60Wh và sạc công suất 65W chỉ ở mức khá khi một số đối thủ đã có dung lượng pin cao hơn cùng sạc công suất tới 90W.
+Tổng kết lại, nếu xét về một chiếc máy mỏng nhẹ cho công việc, giải trí nhẹ nhàng thì thực sự Huawei MateBook D 16 đã làm rất tốt việc của mình. Một màn hình lớn với con chip mạnh mẽ đủ sức giúp bạn có thể lướt qua các công việc văn phòng, chơi game online thoải mái. Tuy nhiên, với mức giá 23.990.000 đồng, đại diện nhà Huawei sẽ gặp khá nhiều đối thủ "nặng ký" trong phân khúc, khi những thông số giấy tờ vẫn chưa thực sự quá hấp dẫn nếu phải đặt lên bàn cân so sánh.
+MacBook Air 2022 chính thức: Chip M2 mới, màn hình "tai thỏ" 13.6 inch, giá từ 1199 USD Thế hệ MacBook bán chạy nhất hành tinh có thêm phiên bản nâng cấp với chip M2. Tại sự kiện WWDC 2022, Apple chính thức giới thiệu thế hệ MacBook Air 2022 mới với chipset M2. Đúng như các tin đồn, MacBook Air M2 được Apple thiết kế... 

@@ -1,0 +1,35 @@
+
+Nhiều người dùng mạng trên các thiết bị như điện thoại hay máy tính không nhận thức đầy đủ trong việc bảo vệ dữ liệu cá nhân bởi vì họ cho rằng không cần thiết. Tuy nhiên, nếu không cẩn thận, rủi ro mà việc rò rỉ dữ liệu gây ra là vô cùng nguy hiểm.
+Dưới đây là một số hướng dẫn về cách giữ an toàn cho bản thân khỏi tội phạm Internet và bảo vệ dữ liệu riêng tư của bạn.
+1. Thiết lập mật khẩu
+    
+Bất kỳ thiết bị nào cũng phải có mật khẩu, đặc biệt nếu đó là máy tính xách tay bạn luôn mang theo bên mình. Mật khẩu mạnh phải:
+- Dài từ 10 đến 16 ký hiệu
+- Chứa các chữ số, dấu chấm câu, ký hiệu đặc biệt, chữ hoa và chữ thường
+- Không chứa bất kỳ thông tin cá nhân nào, như họ và tên, ngày sinh, tên của bất kỳ trẻ em hoặc vật nuôi nào,...
+- Dễ nhớ và thuận tiện để sử dụng hàng ngày
+- Trên một số thiết bị, bạn có thể thiết lập quét vân tay. Đừng quên bật chức năng yêu cầu mật khẩu khi thiết bị chuyển sang chế độ ngủ.
+2. Hạn chế quyền truy cập vào các tệp quan trọng
+    
+Thiết lập bảo vệ bổ sung cho các tệp cụ thể nếu có bất kỳ thông tin bí mật quan trọng nào. Bằng cách này, mỗi khi truy cập bất cứ tệp nào thì bạn sẽ cần phải nhập mật khẩu.
+3. Tạo một bản sao lưu dữ liệu của bạn
+Tạo bản sao của tất cả dữ liệu quan trọng trên thiết bị của bạn và đặt nó vào một thư mục khác. Đặt tên là "sao lưu" và thêm ngày tạo. Sau đó, đặt nó vào ổ cứng, ổ flash hoặc tải nó lên dịch vụ lưu trữ đám mây. Lưu trữ các bản sao ở một nơi an toàn và thiết lập mật khẩu mạnh cho dịch vụ lưu trữ đám mây.
+Thường xuyên cập nhật bản sao lưu, đặc biệt nếu bạn chỉnh sửa tệp hoặc thêm tệp mới. Đừng quên cập nhật ngày để biết bản sao lưu mới như thế nào. Nếu thiết bị của bạn bị đánh cắp hoặc bị hỏng, ít nhất bạn sẽ không bị mất thông tin quan trọng.
+4. Sử dụng phần mềm được cấp phép
+    
+Tải xuống phần mềm vi phạm bản quyền rất rủi ro vì nó có thể cài đặt phần mềm bổ sung vô dụng trên máy tính của bạn hoặc tệ hơn - như lây nhiễm vi-rút vào thiết bị của bạn, xóa tất cả dữ liệu của bạn hoặc cấp cho bọn tội phạm quyền truy cập vào dữ liệu của bạn.
+Tải xuống tất cả phần mềm của bạn từ các trang web chính thức của nhà phát triển và đừng quên cập nhật phần mềm thường xuyên.
+5. Cài đặt phần mềm chống vi-rút
+Nhiều hệ thống hoạt động có phần mềm chống vi-rút riêng nhưng tốt hơn là bạn nên cài đặt một chương trình bổ sung. Thông thường, các chương trình chống vi-rút như vậy có cơ sở dữ liệu hiện đại nhất về vi-rút và chúng được cập nhật vài lần một tuần để bảo vệ thiết bị của bạn khỏi những vi-rút mới nhất.
+Bạn có thể sử dụng hệ thống chống vi-rút miễn phí hoặc trả phí. Các chức năng bổ sung bao gồm kiểm tra bảo mật trang web, kiểm tra thanh toán qua internet và cập nhật phần mềm bạn có.
+6. Kiểm tra tính bảo mật của kết nối Internet của bạn
+    
+Trước khi bạn nhập bất kỳ dữ liệu nào trên bất kỳ trang web nào, hãy kiểm tra chứng chỉ bảo mật. Nó được gọi là HTTPS. Đó là một giao thức internet đặc biệt đảm bảo tính bảo mật của kết nối. Có một biểu tượng khóa ở đầu trình duyệt hoặc ngay trước “https” trong tên của trang web.
+7. Dán băng dính trên webcam và tắt micrô
+    
+Một số vi-rút có thể truy cập vào máy ảnh và micrô trên thiết bị của bạn. Có một số phần mềm cung cấp khả năng bảo vệ các thiết bị này nhưng vẫn an toàn hơn nếu tắt quyền truy cập vào máy ảnh và micrô của bạn trong phần cài đặt và dán băng dính lên ống kính máy ảnh.
+8. Ghi nhớ các biện pháp bảo mật tiêu chuẩn
+- Không mở thư từ những người gửi không xác định, không truy cập các liên kết đáng ngờ và không tải xuống các tệp đáng ngờ.
+- Không sử dụng ổ đĩa flash mà bạn không biết hoặc các ổ đĩa lưu trữ bên ngoài khác. Nếu bạn cần sử dụng, hãy quét chúng bằng phần mềm chống vi-rút.
+- Cài đặt trình chặn quảng cáo trong trình duyệt của bạn. Nó sẽ chặn các biểu ngữ và cửa sổ mà bạn có thể vô tình nhấp vào và tải xuống vi-rút.
+- Thiết lập cập nhật hệ điều hành tự động. Các nhà phát triển liên tục tìm ra các lỗ hổng mới. Nếu bạn cập nhật máy tính đúng hạn, thiết bị sẽ được bảo mật hơn.

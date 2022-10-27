@@ -1,0 +1,21 @@
+
+Để bảo vệ người dùng, Aplpe đã cung cấp một bản cập nhật bảo mật khẩn cấp cho phần mềm nhằm lấp đầy lỗ hổng vừa được phát hiện. Công ty làm như vậy để bảo vệ những người dùng vẫn trung thành với các thiết bị như iPhone 5s, iPhone 6, iPhone 6s và các thiết bị iPad ra mắt cùng thời điểm
+Để bảo vệ người dùng, Aplpe đã cung cấp một bản cập nhật bảo mật khẩn cấp cho phần mềm nhằm lấp đầy lỗ hổng vừa được phát hiện. Công ty làm như vậy để bảo vệ những người dùng vẫn trung thành với các thiết bị như iPhone 5s, iPhone 6, iPhone 6s và các thiết bị iPad ra mắt cùng thời điểm.
+      ADVERTISEMENT 
+Lỗ hổng bảo mật được Apple xác định gần đây là lý do buộc Apple tung bản cập nhật bảo mật khẩn cấp. Cụ thể hơn, các sản phẩm cũ không còn được hưởng lợi bởi các phiên bản phần mềm và hệ điều hành mới nhất từ công ty. Do đó, Apple kêu gọi ngời dùng chấp nhận và cài đặt bản cập nhật iOS 12.5.6 đang được công ty phân phối qua mạng lần đầu tiên vào ngày 31/8/2022.
+Được biết, lỗ hổng này đã cho phép một bên thứ ba độc hại thực thi mã độc hại bằng cách khai thác lỗ hổng trong WebKit. Lưu ý rằng đây là công nghệ cho phép các nhà phát triển hiển thị các trang web trong các ứng dụng, một cái gì đó tương tự như mở một liên kết từ ứng dụng Facebook. Trong trường hợp này, trang web được mở mà không để lại ứng dụng được đề cập.
+Lưu ý rằng đây không phải là lần đầu tiên trong vòng hai tháng qua xảy ra tình trạng tương tự. Trên thực tế, vào tháng trước đã có báo cáo cho thấy vụ việc tương tự xảy ra và được phát hiện bởi một lập trình viên giấu tên. Sau đó, Apple đã khắc phục sự cố trên iOS 15 bằng việc tung ra bản vá lỗ hổng, và nhiều khả năng lỗ hổng đó cũng chính là lỗ hổng phát hiện trên iOS 12. Nếu có iPhone hoặc iPad vẫn đang sử dụng iOS 12, người dùng hãy cập nhật thiết bị của mình ngay bây giờ.
+    
+Apple có kế hoạch tung bản cập nhật iOS 16 lớn ngay sau sự kiện ra mắt loạt iPhone 14 vào ngày 7/9 tới đây. Hệ điều hành này tương thích với các mẫu iPhone 8 trở về sau.
+
+    
+ Ngày giờ hệ thống. Khi kết nối Internet, iPhone liên lạc với máy chủ Apple để cài ngày giờ dựa trên khu vực. Nhiều người thường chỉnh thời gian trên iPhone để hoàn thành sớm nhiệm vụ trong game. Tuy nhiên, việc này có thể khiến máy gặp sự cố khi truy cập một số website do không thể xác thực chứng chỉ bảo mật, các tính năng như Screen Time cũng có thể hoạt động không ổn định. Để đảm bảo thời gian trên iPhone luôn chính xác, vào Cài đặt > Cài đặt chung> Ngày & Giờ> Đặt tự động.
+      ADVERTISEMENT 
+ Tự chỉnh độ sáng màn hình dựa trên môi trường xung quanh cũng là tính năng được bật mặc định trên iPhone. Theo ZDNet, người dùng không nên tắt tính năng này bởi nó giúp nội dung trên màn hình dễ nhìn trong nhiều điều kiện ánh sáng khác nhau. Thời lượng pin và tuổi thọ màn hình có thể được cải thiện bởi một số người thường chỉnh độ sáng cao nhất nhưng quên đặt về mức thấp hơn. Ngoài ra, cố gắng nhìn vào màn hình quá sáng trong bóng tối hay ngược lại có thể ảnh hưởng đến thị lực. 
+    
+ Gửi tin nhắn dưới dạng SMS. Người dùng iPhone có thể tải ứng dụng nhắn tin hoặc sử dụng iMessage để trò chuyện với người khác. Tuy nhiên, vẫn có nhiều trường hợp cần dùng SMS để đăng ký gói cước mạng hoặc gửi tin nhắn nếu đối phương không có Internet hoặc không dùng iPhone. Do đó, người dùng không nên tắt tính năng Gửi dưới dạng SMS (trong Cài đặt> Tin nhắn) để có thể gửi tin nhắn một cách bình thường.
+    
+ Số điện thoại. Người dùng chỉ nên thay đổi mục Số của tôi (trong Cài đặt> Điện thoại) nếu thông tin hiển thị chưa chính xác với SIM gắn trong máy. Nếu chỉnh sai số điện thoại, iMessage và một số dịch vụ có thể gặp sự cố kích hoạt, không thể hoạt động như bình thường. 
+      ADVERTISEMENT 
+ Thiết lập mạng di động. Những thông số liên quan đến mạng di động (trong Cài đặt> Dữ liệu di động> Mạng Dữ liệu Di động) chỉ nên thay đổi sau khi được hướng dẫn hoặc do kỹ thuật viên từ nhà mạng yêu cầu. Nếu nhập sai cấu hình, iPhone sẽ không thể truy cập Internet bằng 4G hay 5G. Trong trường hợp này, người dùng cần chọn Đặt lại Cài đặt để đưa thông số về mặc định. 
+Xiaomi xây dựng nhà máy sản xuất xe điện tại Bắc Kinh  Công suất dự kiến của nhà máy này lên đến 300.000 chiếc mỗi năm. Thông tin này được xác nhận bởi các nhà chức trách tại Thủ đô Bắc Kinh (Trung Quốc), qua đó quá trình xây dựng sẽ có hai giai đoạn. Xiaomi cũng sẽ thành lập... 

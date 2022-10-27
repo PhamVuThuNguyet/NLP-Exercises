@@ -1,0 +1,25 @@
+
+iOS 16 Beta 5 có khá nhiều thay đổi để hoàn thiện hơn, bao gồm đưa trở lại hiển thị phần trăm pin, nâng âm thanh tìm kiếm iPhone, hay thêm lựa chọn với ảnh chụp màn hình
+Apple vừa phát hành bản thử nghiệm Beta 5 của iOS 16. Tiếp nối hàng loạt nâng cấp từ bản Beta trước, iOS 16 Beta 5 có khá nhiều thay đổi để hoàn thiện hơn, nhất là về trải nghiệm người dùng.
+      ADVERTISEMENT 
+ Apple vừa phát hành bản thử nghiệm Beta 5 của iOS 16.
+iOS 16 Beta 5 có gì mới?
+Biểu tượng pin trên thanh trạng thái của iOS 16 beta 5 có thể hiển thị chính xác phần trăm pin. Phần trăm pin trước đó bị lược bỏ nhiều năm kể từ khi các mẫu iPhone “tai thỏ” ra đời.
+Cũng trong mục pin, “Continuty Camera” sẽ hiển thị thông tin thống kê lúc iPhone làm camera cho máy Mac.
+Khi bật âm thanh tìm kiếm thiết bị qua ứng dụng Find My, iOS 16 beta 5 cho âm lượng lớn hơn và nổi bật hơn. Tương tự là âm thanh khi Apple Watch tìm iPhone.
+Sau khi chụp ảnh màn hình và chỉnh sửa, iOS 16 beta 5 có thêm lựa chọn “Copy and Delete”.
+Ứng dụng Music thêm giới thiệu công nghệ âm thanh Dolby Atmos và Lossless ngay trên những dòng thông tin tiêu đề bài hát.
+Ngoài màn hình khóa iOS 16 beta 5, widget phát nhạc có thêm hình biểu diễn sóng chạy. Người dùng cũng cần được xác thực khi muốn đổi Lock Screen.
+Thanh kéo chỉnh âm lượng trở nên trơn tru hơn.
+Ngoài ra, tính năng “Emergency SOS” được đổi tên thành “Emergency Call”.
+
+Theo Macrumors, tính năng báo pin mới hiện đã có trên các mẫu iPhone 12 và iPhone 13, nhưng không có trên iPhone 12/13 mini dùng màn hình 5,4 inch. Các dòng iPhone X và XS cũ hơn cũng đã hiển thị số phần trăm pin thay vì chỉ hiển thị trực quan.
+    
+ Apple mang tính năng hiển thị % pin trở lại trên iOS 16 Beta 5.
+Trước đó, việc biểu hiện số phần trăm pin đã không xuất hiện trên iPhone có Face ID vì thiếu không gian ở hai bên của notch - chứa camera TrueDepth. Thiết kế mới bổ sung mức pin cụ thể vào biểu tượng pin, giúp người dùng dễ hiểu hơn về tình trạng sử dụng.
+Trong iOS 15 và các phiên bản trước, biểu tượng pin hiển thị mức pin nhưng không cung cấp phần trăm cụ thể. Để xem cụ thể, người dùng iPhone phải vuốt xuống Trung tâm điều khiển (Control Center) hoặc vuốt sang chế độ xem Hôm nay (Today) để xem pin.
+Biểu tượng pin thay đổi màu sắc dựa trên trạng thái của pin và màu của hình nền iPhone. Ví dụ pin có màu xanh lục và hiển thị chỉ báo đang sạc.
+    
+ Hiển thị phần trăm pin đã xuất hiện trên dòng iPhone có notch
+Hiển thị phần trăm pin có thể được bật và tắt trong Settings> Battery. Tính năng phần trăm pin có vẻ xuất hiện trên hầu hết các iPhone có notch, nhưng không phải là một tùy chọn trên iPhone 12 mini, iPhone 13 mini, iPhone 11 hoặc iPhone XR có thể là do hạn chế về không gian. iOS 16 Beta 5 hiện có cho các nhà phát triển và Apple sẽ phát hành bản beta công khai trong tương lai gần.
+Facebook sắp trở thành 'TikTok thứ hai': Bất ngờ thay đổi nguồn cấp dữ liệu, chỉ hiển thị nội dung dựa trên sở thích để giữ chân người dùng Nguồn cấp dữ liệu chính trên Facebook giờ đây sẽ được gọi là "Home", đồng thời là nơi mọi người "khám phá những nội dung mới" phù hợp với sở thích. Theo Bloomberg, Meta đang thay đổi cách hiển thị các bài đăng và video trên mạng xã... 

@@ -1,0 +1,24 @@
+
+Apple vừa phát hành bản thử nghiệm Public Beta 5 của iOS 16. Phiên bản này cũng tương đồng với bản Beta 7 mới ra đầu tuần, bao gồm chủ yếu là vá lỗi và cải thiện hiệu năng máy
+ Apple vừa phát hành bản thử nghiệm Public Beta 5 của iOS 16. Phiên bản này cũng tương đồng với bản Beta 7 mới ra đầu tuần, bao gồm chủ yếu là vá lỗi và cải thiện hiệu năng máy.
+      ADVERTISEMENT 
+ Apple vừa phát hành bản thử nghiệm Public Beta 5 của iOS 16.
+iOS 16 Public Beta 5 có gì mới?
+iOS 16 Public Beta 5 sẽ tăng một chút kích cỡ ảnh giao diện nghe nhạc toàn màn hình Lock Screen. Ngoài ra, việc kéo thả widget trên Lock Screen cũng đã mượt mà hơn.
+iOS 16 Public Beta 5 cũng thay đổi một chút câu chữ giải thích trong iCloud Photos.
+Còn lại iOS 16 Public Beta 5 chủ yếu sửa lỗi, như sửa lỗi con trỏ hoạt động bất thường trên màn hình ngoài nếu AssistiveTouch được bật; hay sửa lỗi mời mua lại chính tên miền iCloud Mail mà người dùng đã mua.
+iOS 16 Public Beta 5 cũng sửa lỗi ứng dụng test app TestFlight; hay sửa lỗi ứng dụng thời tiết treo khi chạy đồ họa.
+Bên cạnh đó là những tính năng thừa hưởng từ iOS 16 Beta 6. Trong bản iOS 16 Public Beta 5, việc bật chế độ Low Power không nhất thiết đồng nghĩa với bật hiển thị phần trăm pin, dù 2 chế độ này không thể tách rời trong bản Beta 5.
+Quy trình chỉnh sửa hình nền được tối ưu hơn, không còn cần thêm bảng lựa chọn với chức năng tạo hình nền mới.
+Ứng dụng danh bạ trên iOS 16 Public Beta 5 có thêm thông báo nếu như nhiều số liên hệ trùng lặp thông tin.
+Giao diện Notification khi vuốt xuống từ cạnh trên màn hình sẽ được bổ sung thông tin ngày tháng để đỡ trông trải.
+Giao diện chọn ảnh nhanh được chỉnh một số kích thước chuẩn hơn.
+
+Tại sự kiện WWDC 2022 vừa được Apple tổ chức dành cho các nhà phát triển toàn cầu, phiên bản hệ điều hành iOS 16 và iPadOS 16 đã chính thức được phát hành. Các thay đổi đáng chú ý trên iOS 16 bao gồm khả năng tuỳ biến màn hình khoá kiểu mới, Live Text áp dụng cho cả video, Focus Mode hữu dụng hơn hay khả năng thu hồi/chỉnh sửa tin nhắn iMessages khi đã gửi.
+Với iPadOS, Apple cũng thiết kế lại giao diện đa nhiệm với Stage Manager, cho phép iPad sử dụng nhiều ứng dụng hơn trên một màn hình.
+iOS 16 cùng iPadOS 16 cũng đi kèm với một bộ hình nền hoàn toàn mới, vẫn sử dụng phong cách thiết kế đặc trưng của Apple là các mảng màu kết hợp với nhau. Ngoài ra, một vài hình nền tuỳ chỉnh khác lấy chủ đề về Trái Đất, Mặt Trăng, hệ Mặt Trời, 7 sắc cầu vồng và bokeh cũng khá đẹp mắt.
+    
+    
+      ADVERTISEMENT 
+ Mời bạn đọc tải về bộ hình nền chi tiết ở độ phân giải đầy đủ tại đường dẫn dưới đây.
+Nhiều người còn chưa "lên đời" Windows 11, nhưng Windows 12 có thể sắp ra mắt Chúng ta sẽ có Windows 12 vào năm 2024? Microsoft bán áo phông in hình nền Windows XP, giá 60 USD Các tùy chỉnh về giao diện máy tính Windows giúp phù hợp hơn với người lớn tuổi Năm ngoái, Microsoft đã thông báo rằng họ sẽ cung... 

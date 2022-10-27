@@ -1,0 +1,28 @@
+
+Hiện nay, việc vay tiền tại các tổ chức tín dụng đang càng ngày càng trở nên dễ dàng khi người vay chỉ cần cung cấp số CMND/CCCD, số điện thoại... Lợi dụng điều này, các đối tượng xấu đã đánh cắp thông tin cá nhân của người khác để lừa đảo vay tiền. Vậy làm cách nào để kiểm tra mình có bị giả thông tin để vay nợ?
+Với những người muốn chủ động theo dõi thông tin tín dụng của bản thân, có hai cách để có thể kiểm tra như sau:
+Tra cứu thông qua website của CIC
+CIC (Credit Information Center) là Trung tâm Thông tin Tín dụng, trực thuộc Ngân hàng Nhà nước Việt Nam. Tổ chức này có chức năng thu nhận, lưu trữ, phân tích, xử lý, dự báo thông tin tín dụng của cá nhân, tổ chức nhằm phục vụ cho hoạt động của ngân hàng, tổ chức tín dụng.
+Để tra cứu nợ xấu thông qua tổ chức CIC, cần thực hiện theo các bước:
+Bước 1: Truy cập địa chỉ https://cic.gov.vn/
+Mở trình duyệt trên máy tính và truy cập vào website của CIC tại địa chỉ https://cic.gov.vn/, sau đó bấm ô Đăng ký ở góc trên bên phải (nếu chưa có tài khoản).
+Bước 2: Điền đầy đủ các thông tin cá nhân
+Tiếp theo, bạn cần điền đầy đủ các thông tin cá nhân quan trọng, đơn cử như họ tên, ngày sinh, số điện thoại, số CMND/CCCD… Đối với mục Ảnh CMND/CCCD, người dùng phải chụp 3 bức ảnh gồm ảnh mặt trước, ảnh mặt sau và ảnh chân dung có kèm CMND/CCCD. Lưu ý, những mục đánh dấu sao (*) không được bỏ trống.
+Bước 3: Chờ kiểm tra thông tin
+Sau khi điền đầy đủ thông tin và hoàn tất đăng ký, bạn cần phải chờ vài ngày để CIC kiểm tra thông tin và xác thực tài khoản.
+Nếu được phê duyệt, người dùng chỉ cần truy cập vào trang chủ của CIC và chọn Khai thác báo cáo trên thanh menu, sau đó đăng nhập bằng tài khoản tương ứng, làm theo các bước hướng dẫn để tra cứu nợ xấu.
+Cách kiểm tra mình có bị giả thông tin để vay nợ hay không? (Ảnh minh họa)
+Tra cứu qua ứng dụng CIC Credit Connect trên điện thoại
+Ngoài tra cứu trên website, Trung tâm Thông tin Tín dụng CIC còn hỗ trợ tra cứu nợ xấu qua ứng dụng CIC Credit Connect trên điện thoại. Các bước tra cứu thực hiện như sau:
+Bước 1: Tải ứng dụng CIC Credit Connect
+Tải ứng dụng CIC Credit Connect cho điện thoại thông qua App Store hoặc Google Play. Sau đó, đăng ký một tài khoản miễn phí.
+Bước 2: Điền thông tin cá nhân
+Điền các thông tin cá nhân để xác thực tài khoản, bao gồm họ tên, ảnh chụp CMND/CCCD…
+Bước 3: Chờ hệ thống kiểm tra và phê duyệt
+Sau khi hoàn tất các bước trên, người dùng phải chờ vài ngày để CIC kiểm tra và phê duyệt, thời gian chờ có thể kéo dài từ 1-3 ngày, không tính thứ 7, Chủ nhật và các ngày lễ.
+Bước 4: Xem báo cáo
+Khi đã được phê duyệt, truy cập vào mục Khai thác báo cáo, sau đó nhập lại mã OTP (được gửi về điện thoại) để xác thực lại.
+Bị giả thông tin để vay tiền: Nên làm gì? Có phải trả nợ không?
+Theo Điều 463 Bộ luật Dân sự năm 2015, hợp đồng vay tài sản là sự thỏa thuận giữa các bên, theo đó bên cho vay giao tài sản cho bên vay; khi đến hạn trả, bên vay phải hoàn trả cho bên cho vay tài sản cùng loại theo đúng số lượng, chất lượng và chỉ phải trả lãi nếu có thoả thuận hoặc pháp luật có quy định.
+Như vậy, việc trả nợ chỉ xảy ra khi hai bên có thỏa thuận về việc vay nợ. Trong đó, nếu một người bị lấy cắp hoặc giả thông tin cá nhân là Chứng minh nhân dân, Căn cước công dân, số điện thoại… để vay tiền thì họ không có nghĩa vụ phải trả nợ.
+Tuy nhiên, để không phải trả nợ do bị đánh cắp thông tin, họ phải chứng minh được bản thân không phải là người thực hiện việc vay tiền.

@@ -1,0 +1,18 @@
+
+Những vụ bị ransomware tấn công đã giảm vào mùa Xuân năm nay song sớm tăng trở lại, với các vụ tấn công tăng từ 135 vụ vào tháng Sáu lên 198 vụ vào tháng Bảy.
+Phóng viên TTXVN tại Washington dẫn báo cáo được công bố ngày 25/8 của công ty an ninh mạng NCC cho biết các cuộc tấn công bằng mã độc tống tiền (ransomware) đã tăng 47% trong khoảng thời gian từ tháng Sáu đến tháng 7/2022, với phần lớn các cuộc tấn công nhắm vào ngành công nghiệp.
+Các báo cáo trước đây do NCC soạn thảo chỉ ra rằng những vụ bị ransomware tấn công đã giảm vào mùa Xuân năm nay song sớm tăng trở lại, với các vụ tấn công tăng từ 135 vụ vào tháng Sáu lên 198 vụ vào tháng Bảy.
+Theo ông Matt Hull, người theo dõi mối đe dọa toàn cầu tại NCC, cho biết báo cáo tháng 7/2022 đã cho thấy một số thay đổi lớn khi các cuộc tấn công ransomware một lần nữa gia tăng.
+[Cuộc khủng hoảng an ninh mạng tiếp theo: "Đầu độc" trí tuệ nhân tạo]
+Theo báo cáo trên, sự gia tăng các cuộc tấn công ransomware diễn ra khi một số tác nhân đe dọa mới xuất hiện, bao gồm Lockbit 3.0, Hiveleaks và BlackBerry, có liên quan đến Conti ransomware - một nhóm tin tặc có trụ sở tại Nga.
+Báo cáo cũng đề cập đến sự trỗi dậy của Lazarus Group, nhóm vốn đã bị quy kết dính líu một số vụ đánh cắp tiền điện tử trị giá hàng triệu USD trong năm nay.
+Vào tháng 4/2022, Cục Điều tra Liên bang Mỹ (FBI) cáo buộc Lazarus Group đã đánh cắp khoảng 620 triệu USD tiền điện tử từ trò chơi ảo Axie Infinity.
+Đầu tháng này, Bộ Tài chính Mỹ cho biết nhóm này đã sử dụng Tornado Cash, một máy trộn tiền điện tử, để đánh cắp hơn 455 triệu USD tiền điện tử, loại tiền ảo lớn nhất được biết đến cho đến nay.
+Ông Hull cũng cho rằng sau 2 vụ đánh cắp tiền điện tử lớn, Lazarus Group dường như đang đẩy mạnh các hoạt động đánh cắp tiền điện tử.
+Vì vậy điều quan trọng hơn bao giờ hết là phải giám sát chặt chẽ hoạt động của nhóm này.
+Các cơ quan liên bang đã tiếp tục cảnh báo các cơ quan quản lý cơ sở hạ tầng quan trọng phải cảnh giác với các cuộc tấn công ransomware, vốn đã trở thành một công cụ phổ biến của bọn tội phạm mạng.
+Đầu năm nay, Giám đốc FBI Christopher Wray cho biết vào năm 2021, tội phạm mạng đã sử dụng ransomware chống lại 14 trong số 16 ngành quan trọng của Mỹ, bao gồm cả ngành y tế.
+Ngành y tế là mục tiêu hàng đầu của tin tặc ransomware, vì đây là lĩnh vực lưu trữ thông tin nhạy cảm và có giá trị như dữ liệu bệnh nhân, nghiên cứu và công nghệ y tế.
+Các nhà lập pháp Mỹ đã thúc giục chính quyền Tổng thống Joe Biden tăng cường khả năng phòng thủ mạng của Chính phủ liên bang trong lĩnh vực y tế trong bối cảnh gia tăng các cuộc tấn công mạng.
+Trong một bức thư gửi tới Bộ Y tế và Dịch vụ Nhân sinh, Thượng nghị sỹ độc lập bang Maine, ông Angus King, và Hạ nghị sỹ đảng Cộng hòa bang Wisconsin, ông Mike Gallagher, đã kêu gọi cơ quan này bảo vệ tốt hơn ngành y tế và sức khỏe cộng đồng trước số lượng ngày càng tăng các mối đe dọa mạng.
+Hai nhà lập pháp trên cho biết trong bức thư rằng, các cuộc tấn công bằng mã độc tống tiền vào ngành y tế và sức khỏe cộng đồng đã tăng vọt trong 2 năm qua do những tên tội phạm nhận ra rằng các bệnh viện có thể nhanh chóng trả tiền để giải quyết các vấn đề và bảo vệ an toàn cho bệnh nhân./.

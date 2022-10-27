@@ -1,0 +1,16 @@
+
+Theo Kaspersky Lab, đầu năm 2022, một nhóm tội phạm mạng nhiều lần tấn công các tổ chức chính phủ và quốc phòng ở Nga, cũng như các nước ở Đông Âu.
+Theo phóng viên TTXVN tại Moskva, công ty an ninh mạng hàng đầu ở Nga Kaspersky Lab cho biết đã ghi nhận các cuộc tấn công của tin tặc nước ngoài gia tăng nhằm vào các doanh nghiệp quốc phòng Nga với mục đích thực hiện hoạt động gián điệp thông qua mạng Internet.
+Theo Kaspersky Lab, đầu năm 2022, một nhóm tội phạm mạng nhiều lần tấn công các tổ chức chính phủ và quốc phòng ở Nga, cũng như các nước ở Đông Âu.
+Trong quá trình điều tra, các chuyên gia đã xác định được sự liên quan của nhóm tin tặc nói tiếng nước ngoài tới hàng loạt cuộc tấn công kể trên.
+[Nga cảnh cáo phương Tây về những cuộc tấn công mạng nhằm vào hạ tầng]
+Theo các chuyên gia, mục đích của những kẻ tấn công là khai thác thông tin về bí mật quốc phòng và công nghệ quốc phòng.
+Các chuyên gia an ninh mạng Nga cho biết trong một số trường hợp, đối tượng tấn công đã chiếm được hoàn toàn cơ sở hạ tầng công nghệ thông tin của doanh nghiệp.
+Các đối tượng này chủ yếu sử dụng các sửa đổi mới của phần mềm độc hại đã biết trước đây được thiết kế để điều khiển từ xa một cách bí mật hệ thống bị nhiễm, cũng như các kỹ thuật phát triển tấn công và vượt qua các công cụ bảo mật thông tin.
+Chuyên gia cấp cao của Kaspersky Lab, ông Vyacheslav Kopeytsev cho biết đây không phải là lần đầu tiên công ty phát hiện hàng loạt cuộc tấn công mạng, đồng thời cảnh báo những cuộc tấn công như vậy có thể tái diễn trong tương lai.
+Ông nhấn mạnh lừa đảo trực tuyến vẫn là một trong những mối đe dọa cấp bách nhất đối với các ngành công nghiệp và các cơ quan chính phủ.
+Theo chuyên gia này, các doanh nghiệp và tổ chức chính phủ cần cảnh giác và chuẩn bị sẵn sàng để đẩy lùi các mối đe dọa phức tạp và có mục tiêu.
+Liên quan đến các cuộc tấn công mạng nhằm vào các cơ quan Chính phủ Nga, Kaspersky Lab cho biết số vụ tấn công từ chối dịch vụ (DDoS) ở Nga trong tháng Sáu đã giảm 4 lần so với hồi tháng Ba, nhưng tính chất phức tạp lại tăng lên.
+Ông Alexander Gutnikov, chuyên gia về an ninh mạng tại Kaspersky Lab, cho biết: “Thường mất nhiều thời gian để chuẩn bị các cuộc tấn công có chủ đích. Chúng đòi hỏi sự huấn luyện kỹ thuật cao của những kẻ tổ chức, đồng thời chúng cũng khó khăn hơn trong việc phát hiện và ngăn chặn. Số lượng ngày càng tăng của các cuộc tấn công như vậy đang đưa mối đe dọa DDoS lên mức độ nguy hiểm mới.”
+Để chống lại các cuộc tấn công DDoS quy mô lớn và ngăn chặn sự cố tài nguyên website, các chuyên gia Kaspersky Lab khuyên người dùng Internet nên sử dụng các giải pháp bảo mật chuyên biệt, kiểm tra kỹ các thỏa thuận với nhà cung cấp và thông tin liên hệ, bao gồm các thỏa thuận cung cấp dữ liệu.
+Ngoài ra, các tổ chức và doanh nghiệp cần phát triển một kế hoạch dự phòng để bảo vệ khỏi các cuộc tấn công có nguy cơ cao, đồng thời sẵn sàng khôi phục các dịch vụ quan trọng của doanh nghiệp trong thời gian ngắn nhất./.

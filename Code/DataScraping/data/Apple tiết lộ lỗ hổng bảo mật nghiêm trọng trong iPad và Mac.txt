@@ -1,0 +1,6 @@
+
+VOV.VN - Apple đã tiết lộ các lỗ hổng bảo mật nghiêm trọng xuất hiện trong iPhone, iPad và Mac, có khả năng cho phép những kẻ tấn công kiểm soát hoàn toàn các thiết bị.
+Hãng tin Sky News cho biết, Apple đã ghi nhận một báo cáo về việc lỗ hổng này có thể đang bị kẻ xấu khai thác một cách tích cực. Chính vì vậy, các chuyên gia bảo mật đã khuyến cáo người dùng cập nhật khẩn cấp các thiết bị bị ảnh hưởng, bao gồm các mẫu iPhone 6S trở về sau, iPad mới hơn và máy tính Mac chạy macOS Monterey. Nó cũng ảnh hưởng đến một số mẫu iPod.
+Trong một bản cập nhật bảo mật trên trang hỗ trợ của mình, Apple cho biết một trong những lỗ hổng cho phép một ứng dụng độc hại “có thể thực thi mã tùy ý với các đặc quyền nhân”, về cơ bản điều này có nghĩa kẻ gian có thể toàn quyền truy cập vào thiết bị.
+Báo cáo đến từ TechCrunch cho biết thêm, lỗ hổng còn lại liên quan đến WebKit có thể bị khai thác nếu một thiết bị bị tấn công truy cập hoặc xử lý “các nội dung web độc hại có thể dẫn đến việc thực thi mã tùy ý”.
+Apple đã phát hành macOS Monterey 12.5.1, iOS 15.6.1 và iPadOS 15.6.1 với bản sửa lỗi cho Safari và các bản cập nhật bảo mật khác. Ngoài ra Apple cũng cung cấp bản cập nhật bảo mật này cho các phiên bản macOS cũ hơn, bao gồm cả Big Sur và Catalina. Người dùng có thể kiểm tra các bản cập nhật trên thiết bị của mình thông qua tính năng Update trên các phần mềm tương ứng./.

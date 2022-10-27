@@ -1,0 +1,46 @@
+
+Từ việc tăng cường bảo mật dữ liệu đến hợp lý hóa hoạt động, ngày càng có nhiều cơ quan Nhà nước từ trung ương đến địa phương khám phá ra những lợi ích của việc sử dụng dịch vụ đám mây
+      ADVERTISEMENT 
+Trong số những dịch vụ đang được cung cấp trên thị trường, VNPT Cloud được nhiều đơn vị đánh giá là giải pháp đám mây ưu việt, đáp ứng tốt nhu cầu của các khách hàng khối Gov, phục vụ đắc lực nhu cầu chuyển đổi số quốc gia.
+ Lợi ích của điện toán đám mây đối với các cơ quan nhà nước
+Lợi ích đầu tiên là đảm bảo bảo mật đối với dữ liệu của các cơ quan chính quyền. Thực tế cho thấy, các hệ thống hạ tầng cũ rất dễ trở thành mục tiêu tấn công của tội phạm mạng. Việc sử dụng đám mây cho phép các cơ quan tận dụng khoản đầu tư khổng lồ của nhà cung cấp dịch vụ đám mây để bảo vệ cơ sở hạ tầng và an ninh của tổ chức mình. Các đơn vị có thể lựa chọn sử dụng đám mây công cộng hoặc đám mây riêng; hoặc kết hợp giữa đám mây riêng, đám mây công cộng và hệ thống lưu trữ nội bộ, tuỳ thuộc vào nhu cầu của mình.
+Sử dụng điện toán đám mây còn cho phép nhân viên trong các cơ quan truy cập và làm việc ở mọi nơi trên mọi thiết bị, cũng như đơn giản hóa sự hợp tác giữa các nhân viên và giữa các cơ quan chính phủ. Hiệu quả thể hiện ở việc tài liệu được chia sẻ dễ dàng hơn, giảm bớt các kho trữ thông tin và việc chuyển đổi sang làm việc từ xa được thực hiện nhanh chóng hơn. Điều này có thể thấy rõ trong thời gian diễn biến của dịch bệnh Covid-19, khi nhiều tổ chức buộc phải làm việc từ xa. Đồng thời, điện toán đám mây cho phép chính quyền địa phương hoạt động linh hoạt hơn để đáp ứng những thay đổi thường xuyên, tăng và giảm quy mô trong thời gian thực, qua đó tiết kiệm chi phí một cách đáng kể.
+Bên cạnh đó, dịch vụ lưu trữ và điện toán đám mây có thể hỗ trợ đáng kể cho các chính quyền địa phương trong việc đảm bảm hoạt động liên tục và khắc phục thảm họa, bảo vệ dữ liệu khỏi các sự cố nghiêm trọng như mất điện hay các cuộc tấn công mạng.
+ VNPT Cloud cung cấp nền tảng hạ tầng số toàn diện
+Là một trong những doanh nghiệp công nghệ hàng đầu, có vai trò quan trọng trong dẫn dắt chuyển đổi số tại Việt Nam, đặc biệt với việc đồng hành cùng Chính phủ xây dựng nhiều hệ thống lớn của quốc gia như hệ thống Cổng Dịch vụ công quốc gia, trục liên thông văn bản quốc gia, hệ thống CSDL quốc gia về dân cư…, VNPT đã chứng minh được năng lực cũng như chất lượng dịch vụ số, đặc biệt là dịch vụ điện toán đám mây của mình.
+VNPT Cloud là dịch vụ cung cấp hạ tầng CNTT trên nền tảng điện toán đám mây, có khả năng cung cấp hệ thống máy chủ ảo hóa cho tất cả các khách hàng khối chính quyền, từ trung ương đến địa phương. Khách hàng có thể thuê đơn lẻ các máy chủ ảo cho đến một vùng tài nguyên, quy hoạch, cài đặt ứng dụng và sử dụng theo mục tiêu của tổ chức mình.
+Dịch vụ được kế thừa những công nghệ hàng đầu trên thế giới, trong đó có nền tảng OpenSack (là nền tảng đang được hơn 500 công ty công nghệ lớn trên thế giới chung tay phát triển như: NASA, IBM, CISCO, Rackspace … và được tin dùng bởi các công ty công nghệ khác như: Ebay, NTT Japan, Yahoo). Với việc ưu tiên phát triển công nghệ, chú trọng nâng cao chất lượng dịch vụ, VNPT Cloud hiện đang được nhiều cơ quan, ban ngành trong nước tin tưởng và lựa chọn sử dụng là nền tảng hạ tầng số cho việc phát triển các ứng dụng.
+Bằng ưu thế về giải pháp công nghệ cũng như kinh nghiệm triển khai các dự án lớn cấp quốc gia… VNPT Cloud được đánh giá là giải pháp điện toán đám mây toàn diện nhất dành cho các tổ chức- doanh nghiệp, mang đến sự thuận tiện, an toàn và hiệu quả, phục vụ đắc lực nhu cầu chuyển đổi số quốc gia.
+Thông tin chi tiết về dịch vụ, Quý Khách hàng xem tại website: https://smartcloud.vn, hoặc https://bit.ly/VNPT-SMARTCLOUD; hotline 24/7: 18001260.
+
+Gmail hiện có khoảng 1,5 tỷ người dùng hoạt động hàng tháng trên toàn thế giới, theo số liệu của Statista, tính đến tháng 7/2022. Thành công của Gmail nhờ vào giao diện đơn giản, dễ sử dụng cũng như hàng trăm tính năng giúp gửi email dễ dàng.
+Công cụ này cũng sở hữu một số tính năng thú vị nhưng ít được chú ý tới, thậm chí một trong số chúng đã tồn tại một thời gian dài.
+Việc tận dụng những tính năng ẩn này sẽ giúp người dùng cải thiện trải nghiệm Gmail cũng như tăng năng suất làm việc.
+Thay đổi giao diện hiển thị email
+Nhiều người dùng chuyển từ Yahoo sang Gmail thường phàn nàn rằng giao diện của Gmail hiển thị ít thư trên mỗi trang hơn Yahoo Mail. Lý do là chế độ xem mặc định của Gmail có thêm một dòng hiển thị tệp đính kèm của mỗi email.
+Tuy nhiên, người dùng có thể dễ dàng thay đổi chế độ xem trong mục Cài đặt của Gmail. Trong menu Mật độ, Gmail cung cấp ba tùy chọn: Mặc định, Bình thường và Chật.
+    
+ Người dùng được lựa chọn 3 chế độ hiển thị thư. Ảnh: Google.
+Mặc định là chế độ xem bình thường sử dụng Gmail. Ở chế độ bình thường, Gmail ẩn các tệp đính kèm của mỗi email, giảm diện tích của mỗi email trong trang. Cuối cùng, tùy chọn Chật sẽ loại bỏ hoàn toàn khoảng trống trong mỗi dòng email, giúp hiện thị nhiều thư nhất có thể.
+Hiển thị ngăn đọc nhanh email
+Đây là một tính năng quen thuộc với người sử dụng Outlook, giúp người dùng đọc nhanh email mà không cần phải nhấp vào từng email. Tính năng này nằm trong phần Ngăn đọc nằm dưới cùng menu Cài đặt của Gmail.
+    
+ Người dùng có thể chọn vị trí hiển thị của ngăn đọc. Ảnh: Google.
+Sau đó, hộp thư đến người dùng sẽ được chia thành 2 phần. Một bên hiển thị danh sách hộp thư đến trong khi bên còn lại hiển thị nội dung email. Người dùng cũng có thể chọn vị trí hiển thị của bảng đọc ở bên phải hoặc bên dưới hộp thư đến.
+Lên lịch gửi email
+Người dùng Gmail thường soạn và gửi thư trực tiếp. Tuy nhiên, đối với những người dùng thường xuyên phải đi công tác hoặc làm các công việc di chuyển liên tục, Gmail cũng sở hữu tính năng lên lịch gửi email sau.
+    
+ Cách chọn thời gian gửi email. Ảnh: Google.
+Người dùng có thể đặt ngày hoặc giờ để Gmail sẽ gửi email đến người nhận bằng cách nhấn phím mũi tên bên cạnh nút Gửi và chọn Gửi theo lịch biểu. Tuy nhiên, một giới hạn của tính năng này là người dùng chỉ có thể lên lịch cho từng email một.
+Hoàn tác email
+Không gì tệ hơn là gửi đi một email và ngay lập tức phát hiện ra email có lỗi chính tả hay gửi cho nhầm người. Tuy nhiên, vẫn có cách để bạn khắc phục sai sót đó. Gmail có tính năng cho phép người dùng hủy lệnh gửi email trong vài giây sau khi nhấn nút gửi.
+      ADVERTISEMENT 
+ Các tùy chọn hủy lệnh gửi email là 5, 10, 20 và 30 giây. Ảnh: Google.
+Sau khi gửi email, nút hoàn tác sẽ xuất hiện ở phần dưới cùng bên trái của trang trong một khoảng thời gian ngắn. Để thay đổi thời gian hoàn tác email, người dùng cần truy cập vào Cài đặt->Xem tất cả chế độ cài đặt->Chung->Hủy gửi.
+Sắp xếp, phân loại thư bằng Tab và Nhãn
+Một hộp thư lộn xộn sẽ gây ảnh hưởng nhiều đến chất lượng công việc. Việc sắp xếp và phân loại thư sẽ giúp người dùng tiết kiệm thời gian khi tìm kiếm lại thư, tránh lạc mất thông tin email cũ và giúp quản lý việc nhận thư từ các email dễ dàng.
+Để tạo nhãn mới, người dùng cần nhấp vào Danh sách mở rộng->Tạo nhãn mới sau đó đặt tên nhãn và nhấp vào Tạo.
+Tắt thông báo với một nhóm email
+Gmail hỗ trợ rất tốt email theo nhóm, mỗi email gửi tới đều được thông báo tới toàn bộ thành viên. Tuy nhiên khi mọi người cùng trả lời, người dùng sẽ bị hiện thông báo liên tục, làm mất tập trung với những email quan trọng khác.
+Để ưu tiên những email khác và hạn chế thông báo từ chủ đề mail cũ, người dùng chỉ cần mở thư, nhấn chuột phải vào thư muốn tạm tắt thông báo và chọn Tạm hoãn. Người dùng cũng có thể chọn ngày giờ để email hiện trở lại.
+Công ty nào đang thu thập dữ liệu người dùng nhiều nhất? Một nghiên cứu mới cho biết công ty nào thu thập dữ liệu của bạn nhiều nhất và công ty nào thu thập ít nhất. Tất cả chúng ta đều biết rằng các ứng dụng và dịch vụ miễn phí cũng có giá. Bạn có thể không phải... 

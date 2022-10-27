@@ -1,0 +1,20 @@
+
+Tại Việt Nam, hầu hết ai cũng đã có tài khoản Facebook và đồng thời, lừa đảo trên Facebook cũng ngày càng phổ biến. Hãy là một người dùng mạng xã hội thông minh bằng cách tăng cường bảo mật tài khoản của bạn hơn nữa.
+Bạn bị hack Facebook? Không chỉ thông tin cá nhân của bạn bị xâm phạm mà rất có thể, người thân và bạn bè trên Facebook của bạn cũng có thể bị mất tiền oan vì những thủ đoạn lừa đảo của kẻ xấu đã giành được quyền làm chủ tài khoản mạng xã hội của bạn.
+Đừng lo lắng, có một số mẹo hay có thể giúp bạn tăng cường bảo mật tài khoản Facebook của mình.
+1. Mật khẩu mạnh 
+    
+Biện pháp phòng ngừa đầu tiên cần thực hiện trước tiên là mật khẩu. Mọi người thường làm cho mật khẩu của họ phức tạp hơn. Tuy nhiên, đây là điều đúng đắn cần làm. Tránh chọn những mật khẩu dễ đoán. Bên cạnh đó, tốt hơn hết bạn nên thay đổi nó liên tục. Đây là cách tốt nhất để bạn yên tâm hơn về tài khoản.
+2. Cải thiện cấu hình tài khoản Facebook 
+Bạn cũng nên nghĩ đến việc bảo mật tài khoản Facebook của bạn ở mức cấu hình. Hãy cố gắng hạn chế quyền truy cập vào tài khoản của bạn.
+Ngoài ra, bạn có thể xem xét thêm địa chỉ email khôi phục. Điều này có thể giúp ích rất nhiều trong trường hợp bạn không thể nhớ chi tiết đăng nhập của mình, đặc biệt nếu bạn có một mật khẩu phức tạp khó nhớ. Cách thực hiện:
+Vào Cài đặt => Chung => Liên hệ, nhấp vào Chỉnh sửa. Bạn sẽ được yêu cầu thêm một địa chỉ email. Hãy thêm một trong những email bạn sử dụng liên tục. Sau đó, bạn có thể lưu các thay đổi của mình.
+    
+Bên cạnh đó, hãy kích hoạt cảnh báo kết nối đến tài khoản Facebook của bạn đồng thời cập nhật cài đặt Cảnh báo và Thông báo. Ở cấp độ này, bạn sẽ có thể dễ dàng nhận được cảnh báo khi một thiết bị khác cố gắng đăng nhập vào tài khoản của bạn.
+Cách thực hiện:
+Vào Cài đặt => Bảo mật và đăng nhập => Tăng cường bảo mật, hãy bật Nhận cảnh báo về những lần đăng nhập lạ từ thông báo của Facebook hoặc email của bạn. Sau đó, lưu thay đổi, nhập lại mật khẩu để xác nhận.
+    
+3. Ngăn các ứng dụng của bên thứ ba sử dụng dữ liệu của bạn
+Trên Facebook, các ứng dụng của bên thứ ba có thể thu thập dữ liệu của bạn. Đây là những ứng dụng web hoặc ứng dụng mà bạn kết nối qua Facebook.
+    
+Vào Cài đặt => Ứng dụng, gỡ các ứng dụng được liên kết với hồ sơ của bạn.

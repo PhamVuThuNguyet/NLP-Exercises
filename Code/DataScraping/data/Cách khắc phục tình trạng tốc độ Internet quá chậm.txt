@@ -1,0 +1,56 @@
+
+Có nhiều lý do khiến mạng Internet của bạn bị chậm, dưới đây là các nguyên nhân phổ biến nhất và cách khắc phục để có được tốc độ nhanh hơn.
+Có lẽ, hầu hết chúng ta đều đã trải qua cảm giác đang chăm chỉ làm việc và đột nhiên Internet chậm đi trông thấy. Tại sao lại như vậy? Đây là tất cả những điều bạn cần lưu ý.
+Tại sao Internet quá chậm?
+1. Gói internet của bạn quá thấp
+    
+Nếu Internet của bạn chỉ chậm lại khi có quá nhiều người khác trực tuyến đồng thời, có thể bạn đang sử dụng nhiều băng thông hơn mức cho phép của gói mạng mà bạn đăng ký.
+Muốn kiểm tra tốc độ Internet, chỉ cần nhập “speed test” vào Google Tìm kiếm, sẽ có rất nhiều trang web tính toán số liệu này. Nếu kết quả của bạn gần với tốc độ của gói bạn đăng ký, hãy xem xét nâng cấp một gói khác.
+2. Bộ định tuyến “rởm”
+    
+Bạn không nên mua bộ định tuyến giá quá rẻ bởi giá rẻ thường đi kèm với chất lượng kém với CPU rẻ hơn và bộ nhớ thấp hơn. Điều này ảnh hưởng trực tiếp đến tốc độ mạng.
+3. Kênh Wi-Fi bị quá tải
+    
+Vấn đề Internet chậm cũng có thể do kênh mà WiFi của bạn đang bật bị quá tải. Giống như radio, các tín hiệu WiFi khác nhau kết nối với các kênh khác nhau. Bạn có thể sử dụng một công cụ như Network Analyzer Lite (dành cho iOS) hoặc Wifi Analyzer (dành cho Android) để xem liệu kênh WiFi của bạn có bị quá tải hay không hoặc chọn kênh mới theo cách thủ công.
+4. Mạng của nhà cung cấp bị tắc nghẽn
+Các thuê bao internet cáp có thể bị chậm trong thời gian cao điểm khi họ và mọi người khác trong khu vực lân cận hoạt động trực tuyến cùng một lúc. Đó là một tình huống tương tự với lưu lượng truy cập trên mạng gia đình của bạn nhưng ở quy mô lớn hơn. Trong trường hợp này, bạn và tất cả những người hàng xóm của bạn cạnh tranh với cùng một băng thông.
+5. Bạn đã vượt quá giới hạn dữ liệu của mình
+    
+Nhiều nhà cung cấp Internet có giới hạn dữ liệu và một số làm chậm tốc độ thu thập thông tin của bạn sau khi bạn đạt đến giới hạn đó. Bạn có thể kiểm tra xem bạn đã sử dụng bao nhiêu dữ liệu trên tài khoản trực tuyến của mình hoặc thông qua ứng dụng của các nhà cung cấp.
+Các nhà cung cấp Internet vệ tinh tính phí sử dụng Internet bằng dữ liệu chứ không phải theo tốc độ Internet. Nó tương tự như cách các gói điện thoại di động thường hoạt động: khi bạn sử dụng hết dung lượng dữ liệu cho phép trong tháng, kết nối Internet của bạn có thể bị chậm lại.
+6. Tín hiệu Wi-Fi yếu
+    
+Tường, khoảng cách và thậm chí cả lò vi sóng cũng có thể ảnh hưởng đến tín hiệu Wi-Fi của bạn. Tín hiệu Wi-Fi yếu hơn có nghĩa là tốc độ chậm hơn và thường xuyên bị ngắt kết nối.
+Bạn có thể biết liệu nhiễu tín hiệu và tín hiệu Wi-Fi yếu có phải là vấn đề của mình hay không nếu kết nối của bạn hoạt động tốt gần bộ định tuyến nhưng lại cực kỳ chậm ở phòng bên cạnh.
+Để khắc phục Wi-Fi yếu, trước tiên, hãy kiểm tra vị trí đặt bộ định tuyến của bạn. Bạn muốn đảm bảo rằng bộ định tuyến của bạn ở vị trí trung tâm và trên cao, đồng thời tránh xa những thứ có thể ảnh hưởng đến tín hiệu Wi-Fi của bạn (như tường, loa Bluetooth,…).
+Nếu điều đó không hiệu quả, bạn có thể cần phải thay thế bộ định tuyến của mình bằng bộ định tuyến được thiết kế cho phạm vi xa hơn hoặc vùng phủ sóng tốt hơn - hoặc bạn có thể thêm bộ mở rộng vào mạng của mình để truyền tín hiệu Wi-Fi đến một khu vực không thể kết nối trước đó.
+7. Bạn có thiết bị chậm hoặc lỗi thời
+    
+Sự cố có thể không phải do kết nối Internet của bạn, có thể là do thiết bị bạn sử dụng. Máy tính, máy tính bảng, điện thoại hoặc bảng điều khiển trò chơi của bạn có thể đã lỗi thời và không có khả năng xử lý tốc độ Wi-Fi ngày nay.
+Nếu bạn gặp vấn đề về tốc độ trên máy tính để bàn hoặc máy tính xách tay, hãy thử khởi động lại thiết bị. Thao tác này sẽ xóa bộ nhớ của mọi rác, làm mới kết nối của bạn và xóa các quy trình không cần thiết và các tệp tạm thời.
+Những yếu tố khác có thể làm chậm thiết bị của bạn bao gồm:
+- Quá nhiều ứng dụng đang mở
+- Quá nhiều tab trình duyệt đang mở
+- Phần mềm lỗi thời
+- Trình điều khiển lỗi thời
+- Hệ điều hành cần khởi động lại để cài đặt các bản cập nhật
+- Tải xuống quá nhiều ứng dụng
+- Phần mềm độc hại
+Bạn hãy tránh làm quá tải CPU của máy tính bằng cách đóng các ứng dụng và cửa sổ trình duyệt không sử dụng. Luôn cập nhật hệ điều hành của thiết bị bằng cách cho phép tự động cập nhật và cập nhật các phần mềm chống virus.
+Cách khắc phục sự cố kết nối chậm
+1. Biết tốc độ gói mạng là bao nhiêu
+Điều đầu tiên, bạn cần biết gói mạng bạn đang trả tiền mỗi tháng có tốc độ bao nhiêu và so sánh con số đó với tốc độ bạn thực sự nhận được. Bạn có thể vào hóa đơn hoặc đăng nhập vào tài khoản trực tuyến của bạn để xem tốc độ tối đa được quảng cáo của gói mạng mà bạn đang sử dụng.
+2. Kiểm tra “vùng chết” của Wi-Fi
+    
+Sự cố Wi-Fi có thể xuất phát từ nhiều yếu tố. Đó có thể là phạm vi của bộ định tuyến, kênh hoặc băng tần đông đúc hoặc nhiễu tín hiệu do các vật cản vật lý và các thiết bị điện tử khác gây ra.
+Hãy đi đến các khu vực khác nhau trong nhà của bạn trong khi vẫn sử dụng máy tính hoặc điện thoại thông minh và xem chỉ báo cường độ tín hiệu Wi-Fi. Nếu bạn nhận thấy nhiều vùng chết, bạn có thể cần phải di chuyển lại bộ định tuyến của mình hoặc đầu tư thêm các thiết bị khác để tăng tín hiệu Wi-Fi của bạn đến khu vực cụ thể đó. Bạn cũng có thể tạo bản đồ nhiệt Wi-Fi nếu bạn muốn chính xác hơn với nó.
+3. Thay đổi kênh của băng tần Wi-Fi
+Cả hai dải tần 2,4 GHz và 5 GHz mà bộ định tuyến của bạn sử dụng đều chia thành nhiều kênh, tương tự như cách TV analog và kỹ thuật số hoạt động qua mạng. Giống như bất kỳ mạng nào phải xử lý nhiều thông tin, các kênh Wi-Fi này có thể bị quá tải, khiến tốc độ chậm đi. Điều này đặc biệt đúng đối với các tình huống tại các khu chung cư đông dân.
+4. Kiểm tra các thiết bị được kết nối
+Đôi khi, vấn đề không phải do kết nối Internet của bạn - mà là do điện thoại thông minh, máy tính hoặc máy tính bảng bạn đang sử dụng để truy cập Internet. Nó có thể cần khởi động lại, có thể đã lỗi thời hoặc bạn mở quá nhiều ứng dụng và chương trình, làm hỏng bộ xử lý của thiết bị. Bạn nên kiểm tra lại các thiết bị của mình và nếu cần, hãy thay thế nó.
+    
+5. Di chuyển bộ định tuyến của bạn đến một vị trí khác
+Để có vùng phủ sóng Wi-Fi tốt nhất, hãy đặt bộ định tuyến của bạn ở vị trí trung tâm, trên cao hoặc ở vị trí mà bạn sử dụng Wi-Fi nhiều nhất, như trong văn phòng tại nhà.
+Có một mẹo nhỏ là nếu bạn sống trong một ngôi nhà một tầng, hãy để ăng-ten thẳng đứng. Nếu bạn sống trong một ngôi nhà nhiều tầng, hãy đặt ít nhất một ăng-ten theo chiều ngang để tín hiệu Wi-Fi có thể đến các tầng khác.
+6. Nâng cấp gói Internet 
+Cuối cùng, bạn có thể cần một gói mạng "khỏe" hơn nếu hiện tại có nhiều người sống với bạn hơn, hoặc nếu bạn chuyển sang làm việc tại nhà và sử dụng Internet nhiều hơn trước đây.

@@ -1,0 +1,34 @@
+
+Bộ Công an hướng dẫn 7 cách thức thực hiện tra cứu thông tin cá nhân, thực hiện các thủ tục hành chính, giao dịch nhân sự khi bỏ sổ hộ khẩu giấy.
+Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an vừa có văn bản đề nghị các bộ, ngành, địa phương phối hợp thực hiện một số nội dung để triển khai thực hiện quy định của Luật Cư trú thống nhất, đồng bộ, nhằm tạo điều kiện thuận lợi, giảm phiền hà cho công dân trong thực hiện các thủ tục hành chính, giao dịch dân sự, bảo đảm quyền, lợi ích hợp pháp của công dân (sổ hộ khẩu, sổ tạm trú có giá trị đến hết ngày 31/12/2022).
+Theo đó, Cục Cảnh sát quản lý hành chính về trật tự xã hội hướng dẫn tổ chức, cá nhân thực hiện 1 trong 7 phương thức sử dụng thông tin công dân thay việc xuất trình sổ hộ khẩu, sổ tạm trú khi thực hiện thủ tục hành chính , giao dịch dân sự
+1. Sử dụng thẻ căn cước công dân gắn chíp điện tử chứng minh thông tin về cá nhân, nơi thường trú
+Sổ hộ khẩu giấy, sổ tạm trú có giá trị đến cuối năm 2022
+Tại khoản 1 Điều 3, Điều 18 và Điều 20 Luật Căn cước công dân (CCCD) năm 2014 quy định, CCCD là thông tin cơ bản về lai lịch, nhân dạng của công dân. Khi công dân xuất trình thẻ CCCD theo yêu cầu của cơ quan, tổ chức, cá nhân có thẩm quyền thì cơ quan, tổ chức, cá nhân có thẩm quyền không được yêu cầu công dân xuất trình thêm giấy tờ khác chứng nhận các thông tin về CCCD.
+Các thông tin trên mặt thẻ CCCD gồm: Ảnh; Số thẻ CCCD ( số định danh cá nhân ); Họ, chữ đệm và tên khai sinh; Ngày, tháng, năm sinh; Giới tính; Quốc tịch; Quê quán; Nơi thường trú; Ngày, tháng, năm hết hạn; Đặc điểm nhân dạng; Vân tay; Ngày, tháng, năm cấp thẻ; Họ, chữ đệm và tên, chức danh, chữ ký của người cấp thẻ.
+2. Sử dụng thiết bị đọc mã QRCode trên thẻ CCCD có gắn chip
+Công dân, cơ quan, tổ chức sử dụng thiết bị đọc QRCode (theo tiêu chuẩn do Bộ Thông tin và Truyền thông ban hành) tích hợp với máy tính hoặc thiết bị di động để đọc thông tin công dân từ mã QRCode trên thẻ CCCD.
+Các thông tin gồm: Số CCCD; số CMND 9 số; Họ và tên; Ngày sinh; Giới tính; Nơi thường trú; Ngày cấp CCCD.
+3. Sử dụng thiết bị đọc chip trên thẻ CCCD
+Công dân, cơ quan, tổ chức sử dụng thiết bị đọc thông tin trong chíp trên thẻ CCCD phục vụ giải quyết thủ tục hành chính, giao dịch dân sự… Thiết bị này do Trung tâm dữ liệu quốc gia về dân cư, Cục Cảnh sát quản lý hành chính về trật tự xã hội nghiên cứu kết hợp sản xuất. Hiện nay, Công an cấp huyện đã được trang cấp và đang sử dụng.
+Các thông tin gồm: Họ, chữ đệm và tên khai sinh; Ngày, tháng, năm sinh; Giới tính; Quê quán; Dân tộc; Tôn giáo; Quốc tịch; Nơi thường trú; Họ, chữ đệm và tên của cha, mẹ, vợ hoặc chồng; Số chứng minh đã được cấp; Ngày cấp; Ngày hết hạn (của thẻ CCCD); Đặc điểm nhận dạng; ảnh chân dung; Trích chọn vân tay; Số thẻ CCCD (số định danh cá nhân).
+4. Tra cứu, khai thác thông tin cá nhân trực tuyến trong Cơ sở dữ liệu quốc gia về dân cư
+Để sử dụng khi thực hiện thủ tục hành chính, giao dịch dân sự trong Cơ sở dữ liệu quốc gia về dân cư bằng cách:
+Bước 1: Công dân truy cập trang web dân cư quốc gia theo địa chỉ: https://dichvucong.dancuquocgia.gov.vn. 
+Bước 2: Đăng nhập tài khoản/mật khẩu truy cập (sử dụng tài khoản Cổng DVC quốc gia); xác thực nhập mã OTP được hệ thống gửi về điện thoại.
+Bước 3: Tại trang chủ, truy cập vào chức năng "Thông tin công dân" và nhập các thông tin theo yêu cầu: Họ tên, số định danh cá nhân, ngày sinh, số điện thoại, mã xác nhận. Sau đó, nhấn Tìm kiếm.
+Bước 4: Thông tin cơ bản của công dân sẽ hiện thị trên màn hình gồm: Họ, chữ đệm và tên khai sinh; Ngày, tháng, năm sinh; Giới tính; Nơi đăng ký khai sinh; Quê quán; Nơi thường trú; Số định danh cá nhân; Số chứng minh nhân dân.
+5. Sử dụng ứng dụng VNeID
+Thiết bị này hiển thị các thông tin trên các thiết bị điện tử để phục vụ giải quyết các thủ tục hành chính, giao dịch dân sự (theo Quyết định số 34/QĐ-TTg ngày 08/11/2021 của Thủ tướng Chính phủ), bằng cách:
+Bước 1: Công dân đến cơ quan Công an đăng ký tài khoản mức 2; thực hiện cài đặt ứng dụng VNeID; thực hiện kích hoạt tài khoản trên thiết bị di động khi nhận được tin nhắn thông báo đăng ký tài khoản thành công theo các bước trong ứng dụng VNeID.
+Bước 2: Sau khi được kích hoạt, việc sử dụng tài khoản định danh điện tử như sau:
+Công dân thực hiện đăng nhập một lần trên cổng dịch vụ công quốc gia (liên thông với cổng dịch vụ công của các Bộ, ngành, địa phương) với tên tài khoản là số định danh cá nhân và mật khẩu để thực hiện các dịch vụ công trực tuyến. Tùy từng dịch vụ công trực tuyến, thông tin của công dân sẽ được điền vào biểu mẫu điện tử (Form), người dân không phải điền và không sửa được thông tin.
+Các thông tin (tùy theo dịch vụ) gồm: Họ, chữ đệm và tên khai sinh; Ngày, tháng, năm sinh; Giới tính; Quê quán; Dân tộc; Tôn giáo; Quốc tịch; Nơi thường trú; Họ, chữ đệm và tên của cha, mẹ, vợ hoặc chồng; Số chứng minh đã được cấp; Ngày cấp; Ngày hết hạn (của thẻ CCCD); Đặc điểm nhận dạng; ảnh chân dung; Trích chọn vân tay; Số thẻ Căn cước công dân ( số định danh cá nhân ).
+6. Sử dụng giấy xác nhận thông tin về cư trú
+Công dân trực tiếp đến cơ quan đăng ký cư trú trong cả nước không phụ thuộc vào nơi cư trú của công dân để đề nghị cấp giấy xác nhận thông tin về cư trú hoặc gửi yêu cầu xác nhận thông tin về cư trú qua dịch vụ công trực tuyến khi cần thiết (Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, Cổng dịch vụ công quản lý cư trú).
+Cơ quan đăng ký cư trú sẽ cấp giấy xác nhận thông tin về cư trú cho công dân dưới hình thức văn bản hoặc văn bản điện tử theo yêu cầu của công dân.
+Giấy xác nhận thông tin về cư trú có giá trị 30 ngày kể từ ngày cấp và có giá trị 6 tháng kể từ ngày cấp đối với trường hợp quy định tại khoản 1 Điều 19 Luật Cư trú xác nhận về việc khai báo cư trú.
+Thời gian qua, Bộ Công an cũng đã chỉ đạo Công an các địa phương triển khai thực hiện hiệu quả, tạo điều kiện tối đa cho công dân khi giải quyết thủ tục cấp giấy xác nhận thông tin về cư trú để thực hiện thủ tục hành chính khi có yêu cầu.
+7. Sử dụng Thông báo số định danh cá nhân và thông tin trong Cơ sở dữ liệu quốc gia về dân cư
+Bộ Công an đã chỉ đạo thực hiện cấp Thông báo số định danh và thông tin trong cơ sở dữ liệu quốc gia về dân cư cho 100% người dân chưa được cấp CCCD trên toàn quốc để người dân sử dụng giải quyết các thủ tục hành chính, các giao dịch dân sự cần chứng minh nơi cư trú của công dân.
+Các thông tin trên Thông báo số định danh cá nhân có đầy đủ các thông tin như trên.

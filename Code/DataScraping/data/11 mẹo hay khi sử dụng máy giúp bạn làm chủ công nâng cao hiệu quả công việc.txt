@@ -1,0 +1,41 @@
+
+Khi dùng máy tính, bạn không thể phủ nhận sự hữu ích to lớn của một số phím tắt và mẹo nhỏ. Những thủ thuật thông minh này giúp bạn có trải nghiệm thoải mái khi sử dụng máy tính hàng ngày hoặc tăng hiệu suất công việc.
+Ctrl + T mở tab mới
+Khi bạn làm việc nhiều trên PC và trình duyệt web là công cụ số một của bạn, thì việc mở tab mới là hành động mà bạn thực hiện không biết bao nhiêu lần trong ngày. Thay vì thực hiện thủ công bằng chuột, bạn có thể chỉ cần nhấn “ctrl” và chữ T và một tab mới sẽ mở ra. Nếu bạn đang sử dụng MacBook, bạn có thể nhấn “lệnh” thay vì “ctrl”.
+Nếu bạn đang sử dụng Microsoft Excel trên máy tính của mình, việc nhấn các nút này sẽ mở ra hộp thoại tạo bảng. Trong PowerPoint, bạn có thể sử dụng Ctrl + T để mở hộp định dạng văn bản. Trong Photoshop, phím này giúp bạn điều chỉnh kích thước và xoay hình.
+    
+ 
+Ctrl + Q thoát trình duyệt web của bạn
+Một phím tắt cực kỳ hữu ích khác là phím tắt giúp bạn thoát khỏi trình duyệt web của mình. Trong trường hợp này, bạn nhấn “ctrl” rồi đến chữ Q và nếu bạn đang sử dụng MacBook, bạn sử dụng nút “command” thay vì nút “ctrl”.
+Khi được sử dụng trong Microsoft Word, các nút này được sử dụng để xóa định dạng của đoạn văn. Trong Outlook, thao tác này đánh dấu một e-mail đã chọn là đã đọc.
+    
+Ctrl + I chuyển kiểu văn bản thành chữ nghiêng
+Khi kết hợp phím “ctrl” và chữ I để chuyển văn bản từ kiểu bình thường thành kiểu chữ nghiêng. Tất cả những gì bạn cần làm là bôi đen từ hoặc những từ bạn muốn và nhấn 2 phím. Đối với người dùng Mac, bạn nên nhấn phím lệnh và sau đó là ký tự I để thực hiện thao tác tương tự.
+    
+Hỏi Google về bất kỳ vấn đề nào bạn đang gặp phải trước khi tìm đến chuyên gia
+Hầu hết các vấn đề công nghệ thông tin là các vấn đề đơn giản có thể dễ dàng được giải quyết bằng cách làm theo một vài bước. Tuy nhiên, hầu hết mọi người đều hoảng sợ khi có bất cứ điều gì không ổn xảy ra và chạy đến chuyên gia sửa chữa gần nhất.
+Nhưng bạn có thể xử lý trục trặc gặp phải bằng cách tìm kiếm thông tin sửa chwuax trên Google và đọc những gì Microsoft hoặc các diễn đàn công nghệ khác nhau cho bạn biết. Bạn có thể sẽ tìm thấy giải pháp ở đó và sẽ không cần tốn tiền cho một chuyên gia.
+    
+Để chuyển đổi tiền tệ, hãy sử dụng thanh tìm kiếm của Google thay vì máy tính
+Nếu bạn đang đi du lịch nước ngoài và bạn cần xem bạn sẽ nhận được bao nhiêu tiền với sàn giao dịch, bạn có thể chỉ cần tìm kiếm bằng cách sử dụng cụm từ bao gồm số tiền và đơn vị tiền tệ của quốc gia bạn đang đi du lịch. Đơn giản "100 đô la sang euro" sẽ đủ để biết bạn có bao nhiêu tiền.
+Nếu bạn muốn có một máy tính nhanh chóng và đơn giản, bạn cũng có thể sử dụng Google. Ngoài ra, bạn có thể sử dụng nó trên cả Windows và Mac. Ví dụ: bạn có thể nhập 36 + 72-51 trên thanh tìm kiếm và nhấp enter để nhận câu trả lời.
+    
+Pin máy tính xách tay sạc nhanh hơn khi ở chế độ trên máy bay
+Khi máy tính xách tay của bạn ở chế độ trên máy bay, điều đó có nghĩa là nhiều tính năng như Wi-Fi và Bluetooth của bạn bị tắt. Điều này làm giảm một số áp lực trên pin của bạn và cho phép nó sạc nhanh hơn so với khi bạn đang vận hành bình thường. Dự kiến ​​máy tính xách tay của bạn được sạc đầy nhanh hơn 10-15 phút so với khi bạn đã tắt chế độ trên máy bay.
+    
+Tự động tải xuống bất kỳ hình ảnh nào trên Google bằng cách nhấn Alt và nhấp vào hình ảnh đó
+Hầu hết mọi người nhấp chuột phải vào hình ảnh và chọn tùy chọn “lưu”, nhưng có một cách dễ dàng và nhanh hơn để tải ảnh xuống máy tính của bạn. Bạn chỉ cần nhấn “alt” rồi nhấp chuột trái vào một hình ảnh và nó sẽ tự động được lưu trên máy tính của bạn trong thư mục tải xuống của bạn.
+    
+Một máy tính được dọn dẹp các phần mềm thường xuyên sẽ chạy nhanh hơn
+Nếu bạn đang gặp sự cố với tốc độ máy tính của mình, có thể màn hình của bạn chứa đầy các biểu tượng. Thay vì có một thư mục cho mọi thứ nhỏ trên màn hình, bạn có thể tạo một thư mục và sắp xếp mọi thứ trong đó. Tiếp theo, đặt tất cả các ứng dụng của bạn vào thanh tác vụ và bạn sẽ ở lại một màn hình gần như trống rỗng. Hành động này sẽ ngay lập tức tối đa hóa tốc độ máy tính của bạn.
+    
+Tìm xem ai đang đánh cắp Wi-Fi của bạn
+Không khó chịu khi kết nối của bạn bị chậm vì người khác đang "câu trộm" Wi-Fi của bạn ? Trong trường hợp này, có thể bạn sẽ cần thay đổi mật khẩu Wi-Fi của mình và đảm bảo rằng không ai có thể truy cập lại vào mạng của bạn. Bạn cũng có thể kiểm tra xem ai đang đánh cắp kết nối internet của bạn.
+ 
+    
+Bạn có thể khôi phục các tệp đã xóa, ngay cả khi bạn đã dọn sạch thùng rác
+Xóa tệp và sau đó đổ sạch thùng tái chế có thể khiến bạn rất khó chịu vì sau đó bạn chỉ có thể nhận ra rằng trong đống đó là tệp mà bạn thực sự cần. Những gì bạn có thể làm là khôi phục các tệp đã xóa của mình. Bạn chỉ cần chọn loại tệp bạn đang tìm kiếm và chương trình bạn đang sử dụng sẽ tìm kiếm mọi thứ cho bạn. Nhưng nếu bạn đã xóa một tệp đã lâu, có thể chương trình sẽ không thể định vị tệp đó.
+    
+Windows + C cho phép bạn bắt đầu nói chuyện với Cortana
+Đối với người dùng đã mua máy tính xách tay của Microsoft hoặc sử dụng PC có phiên bản windows 10 mới nhất, Cortana là người kỹ thuật số có thể hướng dẫn bạn mọi thứ bạn cần. Nếu bạn không biết cách thực hiện một hành động nào đó hoặc chán sử dụng chuột, bạn có thể nhấn “windows” và chữ C và hỏi Cortana bất cứ thứ gì bạn muốn. "Cô ấy" sẽ hỏi bạn những câu hỏi để hướng dẫn bạn thao tác bạn cần thực hiện. Mặt khác, nếu bạn đang sử dụng MacBook, bạn sẽ cần nhấn “lệnh” và sau đó nhấn phím cách để bắt đầu nói chuyện với Siri.
+    

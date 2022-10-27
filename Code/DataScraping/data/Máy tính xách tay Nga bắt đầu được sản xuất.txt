@@ -1,0 +1,31 @@
+
+Bitblaze có trụ sở tại Nga, một công ty chuyên về máy chủ, máy trạm và hệ thống lưu trữ, hiện đã sản xuất trước một máy tính xách tay Bitblaze Titan BM15
+Đây là một máy tính xách tay hoàn toàn của Nga với bộ vi xử lý “Baikal-M1″. Mục tiêu của máy tính xách tay mới này là chính phủ Nga và khu vực doanh nghiệp. Bitblaze Titan BM15 cũng nhắm mục tiêu đến thị trường đam mê và sẽ bắt đầu giao hàng trước tháng 11/2022. Theo chủ sở hữu BitBlaze, Yana Brush, máy tính xách tay Bitblaze Titan dựa trên bộ xử lý Baikal-M1 đã sẵn sàng.
+      ADVERTISEMENT 
+Brush cũng đã thử nghiệm một số chương trình văn phòng và YouTube, trong đó pin máy tính xách tay có thể kéo dài 5 giờ. Brush cũng tuyên bố rằng máy tính xách tay hoạt động tốt trong quá trình thử nghiệm. Tuy nhiên, công ty cho biết họ sẽ tiếp tục thử nghiệm nó với nhiều khối lượng công việc khác nhau để chuẩn bị cho bản phát hành chính thức.
+Hiện tại, các thông số kỹ thuật của máy đã có trên trang web chính thức của nhà sản xuất Bitblaze. Máy tính xách tay Bitblaze Titan BM15 có màn hình IPS Full HD 15,6 inch. Thiết bị này cũng đi kèm với 16GB RAM và hỗ trợ tối đa 128GB bộ nhớ DDR4. Thiết bị hỗ trợ SSD M.2 250GB đến 512GB. Ngoài ra, Bitblaze Titan BM15 còn hỗ trợ Wi-Fi và Bluetooth. Về kết nối, sản phẩm đi kèm với cổng USB-C 3.0, HDMI, 4 cổng USB-A, RJ-45 và giắc cắm âm thanh. Bên trong máy có pin 6.000 mAh nhưng không rõ hệ thống sử dụng phiên bản Linux nào.
+Yana Brush cũng khẳng định chiếc máy tính này sử dụng vỏ nhôm siêu mỏng. Công ty tuyên bố rằng thiết bị này có trọng lượng rất nhẹ. Theo 3DNews, máy tính nặng 2,2 kg. Wccftech báo cáo rằng Bitblaze Titan BM15 sử dụng kiến ​​trúc ARM 8 nhân và bộ vi xử lý “Baikal-M1″ do Nga sản xuất với xung nhịp chính là 1,5 GHz được sản xuất bằng quy trình 28nm của TSMC.
+Tuy nhiên, TSMC không còn cung cấp chip cho Nga. Không rõ Bitblaze đã mua bao nhiêu chip trước khi TSMC hủy cung cấp, do đó không chắc liệu máy cuối cùng có được sản xuất hàng loạt hay không.
+
+Một năm học mới sắp tới, và máy tính xách tay đang trở thành một trong những công cụ học tập không thể thiếu của các sinh viên. Nhiều phụ huynh đang khá lúng túng khi tìm mua sản phẩm này do có quá nhiều sự lựa chọn trên thị trường.
+Cần lưu ý 4 yếu tố dưới đây khi mua máy tính xách tay cho sinh viên:
+● Tính di động cao: Đây là yếu tố quan trọng khi lựa chọn máy tính xách tay cho sinh viên. Họ sẽ phải mang theo máy cùng với sách vở lên giảng đường nên một chiếc laptop gọn nhẹ sẽ là ưu tiên hơn cả.
+● Sức mạnh xử lý phù hợp: cấu hình của máy cần đáp ứng tốt các nhiệm vụ văn phòng cơ bản, chạy mượt tác vụ phổ biến
+● Tuổi thọ pin dài: Một chiếc laptop có tuổi thọ pin 7 - 8 giờ sẽ hợp lý hơn cả, vì chúng đủ dùng cho cả ngày dài trên giảng đường.
+● Giá bán hợp lý: Tầm giá 12 - 13 triệu đồng có rất nhiều mẫy máy tính xách tay cấu hình khoẻ cho các sinh viên lựa chọn. Ngoại trừ các sinh viên học ngành kiến trúc, đồ hoạ, lập trình - cần laptop cấu hình cao và "trâu" thì laptop tầm giá hơn 10 triệu đã có thể đáp ứng tốt các yêu cầu học tập và giải trí cơ bản.
+Dưới đây là 5 gợi ý laptop cấu hình khoẻ, tầm giá 13 triệu cho sinh viên:
+    
+Ưu điểm lớn nhất của chiếc laptop này là thiết kế hiện đại, được nhiều sinh viên năng động ưa chuộng. Đồng thời, với sức mạnh hiệu năng của chip và đồ hoạ Intel UHD, sản phẩm cho phép sinh viên chơi tốt các game phổ biển, xử lý "ngon" các tác vụ cũng như giải trí cơ bản như lướt web, xem phim, nghe nhạc,..
+Máy cũng có trọng lượng 1,3kg nên rất nhẹ khi bỏ vào ba lô và mang theo tới trường, sử dụng tại thư viện hay đi du lịch. Chưa hết, laptop MSI còn có độ bền chuẩn quân đội MIL STD 810G nên sẽ có khả năng chống rung, nhiệt độ, độ ẩm, bụi bẩn,... hoàn cảnh khắc nghiệt, giúp kéo dài tuổi thọ cho máy.
+    
+Giống như laptop MSI, Dell Vostro 3510 i3 1115G4 cũng có chung cấu hình chip bộ nhớ nhưng lại sở hữu màn hình lớn hơn, cho phép các bạn trẻ tương tác thoải mái, rộng rãi hơn. Điểm nhấn khác của máy chính là hệ thống âm thanh rõ ràng, sống động, vỏ máy màu đen nên tạo cảm giác sang trọng và phong cách.
+Chưa hết, laptop Dell Vostro còn được trang bị đầy đủ các cổng kết nối: 2 cổng USB 3.2, 1 cổng HDMI, Jack tai nghe 3.5 mm, LAN (RJ45) và USB 2.0, hỗ trợ liên kết với nhiều thiết bị ngoại vi để đáp ứng đầy đủ mọi nhu cầu học tập, nghiên cứu của sinh viên.
+      ADVERTISEMENT 
+HP 245 G8 R5 5500U được trang bị chip AMD Ryzen 5 5500U RAM 8GB SSD 256GB đồ hoạ Radeon nên có thể xử lý tốt các tác vụ văn phòng. Hơn thế nữa, giá bán của chúng cũng rất hợp lý với nhiều sinh viên.
+Vỏ máy có thiết kế thanh lịch và sáng, đẹp với trọng lượng vừa phải - 1,47kg. Màn hình 14 inch có độ phân giải Full HD cùng độ sáng 250 nit, cung cấp góc nhìn rộng đến 178 độ và công nghệ Anti Glare chống chói, loá nên sẽ bảo vệ mắt tốt hơn.
+    
+Cùng là dòng laptop Dell nhưng Dell Inspiron 15 3511 i3 1115G4 lại có bộ nhớ RAM chỉ bằng một nửa so với Dell Vostro trong danh sách. Bù lại, màn hình của máy cũng cực "chất" với cùng kích cỡ 15,6 inch, độ phân giải full HD, cho trải nghiệm chân thực và sắc nét. Kết hợp cùng công nghệ âm thanh Realtek ALC3204, sinh viên sẽ có thể học tập - giải trí rất hữu ích với chiếc laptop này.
+    
+Dễ thấy, HP Pavilion X360 14 dy0172TU i3 1125G4 nổi bật nhất trong danh sách này vì có bản lề với góc mở 360 độ cực linh hoạt. Do đó, các sinh viên có thể sử dụng chúng như một chiếc máy tính bảng hoặc chế độ lều, dễ dàng làm việc nhóm. Ngoài ra, máy chỉ có trọng lượng 1,525kg vừa phải, mặt lưng kim loại nên có độ bền cao.
+Sản phẩm được cung cấp sức mạnh bởi con chip Intel thế hệ thứ 11, có thể xử lý mượt mà các tác vụ thông thường. Mặc dù chỉ có RAM 4GB DDR4 2 khe - bằng một nửa so với các "đối thủ" nhưng thiết bị cũng hỗ trợ ổ cứng có thể tháo rời; màn hình 14 inch sắc nét, có độ phân giải cao, hứa hẹn trở thành công cụ đắc lực trong học tập.
+Những sai lầm kinh điển trong lịch sử Apple Tập đoàn công nghệ có vốn hóa lớn nhất toàn cầu từng đuổi việc nhà sáng lập Steve Jobs, tạo ra sản phẩm không ai mua hoặc che giấu các lỗi nghiêm trọng trong thiết kế. Sa thải Steve Jobs. Nhiều người sẽ bất ngờ về thông tin... 

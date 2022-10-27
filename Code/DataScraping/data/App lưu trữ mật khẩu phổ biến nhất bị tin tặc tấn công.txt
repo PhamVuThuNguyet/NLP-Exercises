@@ -1,0 +1,13 @@
+
+Ứng dụng LastPass bị tin tặc đánh cắp một phần mã nguồn và dữ liệu nội bộ, mật khẩu của người dùng hiện vẫn an toàn.
+Ngày 25/8, ứng dụng quản lý mật khẩu LastPass cho biết một phần mã nguồn và dữ liệu kỹ thuật nội bộ đã bị đánh cắp cách đây 2 tuần sau khi tin tặc đột nhập hệ thống. Mật khẩu của người dùng không bị tấn công.
+Theo chia sẻ của LastPass, tin tặc đã xâm nhập trái phép vào môi trường phát triển, được các nhân viên sử dụng để xây dựng và bảo trì ứng dụng. Công ty cho biết thủ phạm nhiều khả năng lợi dụng một tài khoản của nhà phát triển để truy cập hệ thống.
+"Để đối phó sự cố, chúng tôi đã triển khai các biện pháp ngăn chặn và giảm thiểu rủi ro, đồng thời hợp tác với một công ty an ninh mạng nổi tiếng. Trong lúc điều tra, chúng tôi đã áp dụng các biện pháp bảo mật bổ sung và không tìm thấy bằng chứng về hành động đáng ngờ khác", đại diện LastPass chia sẻ.
+Hệ thống phát triển của LastPass bị tin tặc xâm nhập cách đây 2 tuần. Ảnh: PCMag.
+LastPass là một trong những ứng dụng quản lý mật khẩu phổ biến với hơn 33 triệu người dùng cá nhân và 100.000 khách hàng doanh nghiệp.
+ Phần mềm này giúp lưu trữ và điền mật khẩu tự động, hỗ trợ đồng bộ giữa nhiều thiết bị, tạo ra mật khẩu ngẫu nhiên theo tiêu chuẩn an toàn. Các thông tin đều được mã hóa, chỉ có thể giải mã bằng mật khẩu chính do người dùng thiết lập.
+Do mật khẩu và dữ liệu cá nhân không nằm trong phạm vi bị hacker đánh cắp, người dùng không cần đổi mật khẩu hoặc kiểm tra tính bảo mật của tài khoản, LastPass cho biết. Tuy nhiên, người dùng vẫn nên bật xác thực 2 bước để đảm bảo người khác không thể truy cập tài khoản dù có mật khẩu.
+Trang tin bảo mật Bleeping Computer đã liên hệ LastPass về vụ tấn công từ 2 tuần trước. Allan Liska, nhà phân tích của công ty an ninh mạng Recorded Future nhận định LastPass đã xử lý và thông báo sự cố cho người dùng khá nhanh chóng.
+"Dù 2 tuần có thể dài với một số người, đó là lúc đội ngũ ứng phó đánh giá chi tiết về sự cố. Sẽ mất một thời gian để xác định đầy đủ mức độ thiệt hại gây ra bởi vụ tấn công. Tuy nhiên hiện tại, sự cố dường như không ảnh hưởng đến người dùng", Liska cho biết.
+Theo Bloomberg, một số bình luận trên Internet cho rằng sở hữu mã nguồn có thể giúp tin tặc tìm ra cách truy cập mật khẩu của người dùng. Liska nhận định điều này có thể không xảy ra.
+"Ít có khả năng mã nguồn bị đánh cắp sẽ giúp tin tặc truy cập vào mật khẩu của người dùng", chuyên gia phân tích của Recorded Future cho biết.

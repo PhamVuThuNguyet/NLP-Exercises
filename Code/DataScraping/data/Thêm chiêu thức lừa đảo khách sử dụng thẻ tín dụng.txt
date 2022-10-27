@@ -1,0 +1,25 @@
+
+Theo đó, kẻ gian sẽ mạo danh ngân hàng, gửi email với nội dung khách hàng có một khoản nợ tín dụng cần thanh toán. Đối tượng tiếp tục gọi điện cho khách, giả làm nhân viên ngân hàng, để hối thúc khách hàng thanh toán khoản nợ
+ VP Bank vừa thông tin một hình thức lừa đảo mới nhắm vào khách hàng sử dụng thẻ tín dụng.
+Theo đó, kẻ gian sẽ mạo danh ngân hàng, gửi email với nội dung khách hàng có một khoản nợ tín dụng cần thanh toán. Đối tượng tiếp tục gọi điện cho khách, giả làm nhân viên ngân hàng, để hối thúc khách hàng thanh toán khoản nợ.
+Theo phản ánh của khách và điều tra của VP Bank, ngân hàng phát hiện có một nhóm đối tượng giả mạo email hiển thị “Dich vu Khach hang VPBank” , sử dụng biểu mẫu và logo thương hiệu của ngân hàng này gửi thông báo sao kê thẻ tín dụng – MC PLATINUM PRIORITY CREDIT với dư nợ của Khách hàng là 15.xxx.xxx VNĐ (hoặc một số tiền bất kỳ).
+Một khách hàng của nhà băng nhận được sao kê thẻ tín dụng từ địa chỉ email nói trên đã ngay lập tức gọi lên tổng đài để kiểm tra vì thấy địa chỉ email khác với địa chỉ chính thức của ngân hàng. Phía ngân hàng đã xác nhận email đó là giả mạo và hướng dẫn khách hàng cách thức bảo vệ các tài sản cá nhân gửi tại ngân hàng.
+      ADVERTISEMENT 
+ Khách sử dụng thẻ tín dụng cần cẩn trọng trước nhiều chiêu lừa đảo. (Ảnh: iStock.
+Các chuyên gia khuyên người dân khi phát hiện các email đáng ngờ không nên click vào các đường link, không làm theo các hướng dẫn, đồng thời chủ động gọi lên tổng đài chính thức của các tổ chức tài chính để xác minh thông tin.
+Bên cạnh đó, tuyệt đối không cung cấp thông tin của cá nhân cho bất cứ ai, kể cả người tự xưng là công an, cơ quan điều tra, nhân viên ngân hàng… bao gồm: Số CMND, CCCD, hộ khẩu, thông tin ngân hàng điện tử (tên đăng nhập, mật khẩu); thông tin xác thực giao dịch (các loại tin nhắn OTP/Smart OTP); thông tin về tài khoản ví liên kết (tên đăng nhập/mật khẩu) để tránh bị kẻ gian lấy cắp thông tin cá nhân và sử dụng trái phép.
+
+Mới đây nhất, VP Bank vừa gửi đi cảnh báo cho biết, ngân hàng này và một số nhà băng khác đang bị gửi tin nhắn SMS giả danh để lừa đảo người dùng.
+Nội dung tin nhắn có dạng: "Tài khoản của Quý khách vừa mở dịch vụ tài chính toàn cầu với phí dịch vụ hằng tháng là xxxVND sẽ bị trừ trong y giờ. Nếu không phải bạn mở dịch vụ, vui lòng nhấn vào link (có định dạng ví dụ như) vpbank.abc-tp.abclmn để hủy".
+Ngân hàng này khẳng định những tin nhắn có nội dung thông báo về những sản phẩm, dịch vụ mà khách hàng không đăng ký đều là tin nhắn giả mạo, nhằm mục đích lừa khách hàng bấm vào link đính kèm tin nhắn và chiếm đoạt tiền trong tài khoản.
+Thông thường, người dùng sẽ bị yêu cầu nhấp vào một đường link, sau đó nhập vào các thông tin ngân hàng và có thể bị kẻ xấu đánh cắp tiền trong tài khoản.
+Không chỉ mạo danh ngân hàng, các đối tượng xấu cũng lợi dụng tên tuổi các công ty fintech để lừa đảo. Trong sáng 17/8, trong một nhóm người dùng MoMo phát đi cảnh báo cho thấy tên tuổi ví điện tử này cũng bị mạo danh với hình thức tương tự.
+Kẻ xấu giả tên thương hiệu MoMo ở phần người gửi, sau đó nhắn tin SMS cho người dùng với nội dung tài khoản bị khoá, yêu cầu người dùng truy cập vào đường link để xác thực.
+Các đối tượng vẫn sử dụng các đường link gây nhầm lẫn, trong trường hợp này là momovin.com, để tạo niềm tin cho người nhẹ dạ.
+    
+ Tin nhắn mạo danh MoMo lừa đảo người dùng. (Ảnh: Hội YVMM)
+Tuỳ trường hợp khác nhau, khi click vào các đường link này, người dùng sẽ bị yêu cầu nhập thông tin tài khoản ví điện tử, thông tin tài khoản ngân hàng, hoặc tài khoản mạng xã hội... Sau đó, kẻ gian sẽ dùng nhiều cách khác nhau để chiếm đoạt tiền và tài khoản của nạn nhân.
+Tất cả các ngân hàng và chuyên gia bảo mật đều khuyến nghị khách hàng không nên mở đường link lạ gửi qua tin nhắn nghi ngờ, tuyệt đối không cung cấp mã OTP và mật khẩu cho bất kỳ ai, nhằm bảo vệ tài khoản và thông tin cá nhân.
+Theo báo cáo của Kaspersky, có đến 26,36% các nỗ lực lừa đảo tại Việt Nam vào tháng 4 vừa qua liên quan đến tài chính, nhắm vào ngân hàng, các hệ thống thanh toán và cửa hàng trực tuyến. Trong đó, lừa đảo thông qua các hệ thống thanh toán là trường hợp phổ biến nhất được phát hiện, chiếm 11,77% tổng số lừa đảo và hơn 44% trong số các loại lừa đảo tài chính.
+Mặc dù vậy, tỷ lệ lừa đảo tài chính tại Việt Nam vẫn còn ở mức thấp so với trung bình ở Đông Nam Á (43,06%) và thấp nhất so với các nước được khảo sát trong khu vực.
+Giả mạo MoMo, gửi email tặng tiền để chiếm đoạt ví điện tử Kẻ xấu mạo danh MoMo, thông báo người dùng nhận được một khoản tiền, sau đó chiếm đoạt ví của người sử dụng. Trong thư gửi khách hàng, MoMo cho hay ghi nhận tình trạng một số đối tượng lừa đảo giả danh ví điện tử này để... 

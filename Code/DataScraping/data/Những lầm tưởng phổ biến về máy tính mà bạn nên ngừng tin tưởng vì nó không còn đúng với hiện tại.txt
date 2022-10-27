@@ -1,0 +1,45 @@
+
+(Tổ Quốc) - Cùng điểm qua một vài “huyền thoại” về máy tính, khi mà nó không còn đúng với thực tại ngày nay.
+Đối với hầu hết những người dùng đam mê công nghệ, máy tính là những cỗ máy tương đối đơn giản để mua, vận hành và (phần lớn) có thể hiểu được. Tuy nhiên, đối với những người tiêu dùng trung bình không theo định hướng công nghệ, chúng là những thiết bị khá rắc rối và khó nắm bắt, thậm chí họ còn dễ có những lầm tưởng về máy tính.
+Vì vậy, chúng ta sẽ cùng nhau điểm qua một vài lầm tưởng về máy tính phổ biến nhất vẫn còn tồn tại cho đến ngày nay. Cụ thể như sau.
+1.Bạn cần thường xuyên chống phân mảnh ổ đĩa cho máy tính của mình
+Ngày nay, có cần thiết phải thường xuyên thực hiện việc chống phân mảnh ổ đĩa cho máy tính của mình? Câu trả lời là bạn không cần phải làm như vậy!
+Máy tính Windows mặc định được tích hợp sẵn tiện ích chống phân mảnh, và nó được thiết lập tự động chạy ngầm theo lịch trình xác định trước. Còn trên macOS, máy Mac có hệ thống tệp (macOS HFS +) tự động chống phân mảnh tệp trong một quá trình được gọi là HFC hoặc Hot File Adaptive Clustering.
+Ngoài ra, nhiều máy tính hiện đại được trang bị ổ đĩa SSD hoặc bộ nhớ flash nên bạn không bao giờ nên thực hiện việc chống phân mảnh cho ổ cứng của mình, vì như thế sẽ làm hỏng ở đĩa SSD của bạn.
+2.Virus và phần mềm độc hại làm chậm máy tính của bạn
+Bất cứ khi nào người dùng PC gặp phải bất kỳ hiện tượng chậm nào, thì điều phổ biến và không chính xác nhất thường nghĩ đến đo là do phần mềm độc hại gây nên.
+Mặc dù máy tính luôn có khả năng bị nhiễm virus hay phần mềm độc hại, tuy nhiên ngày nay các dạng mã độc này điều có xu hướng hướng đến lợi nhuận, cũng như lợi ích tốt nhất cho người sáng tạo ra chúng nên nó sẽ được thiết lập hoạt động ẩn trong nền hệ thống. Như vậy, bạn thường sẽ không nhận thấy bất kỳ dấu hiệu hay tình trạng hiệu suất nào bị giảm do nhiễm virus hay phần mềm độc hại.
+Thay vào đó, có nhiều khả năng máy tính của bạn chậm hơn do chạy quá nhiều chương trình hoạt động đồng thời, cũng như trình duyệt có quá nhiều các plugin và tiện ích bổ sung không cần thiết làm ảnh hưởng đến việc giảm hiệu suất CPU, thiếu RAM hoặc dung lượng đĩa trống hoặc nghiêm trọng hơn chính là sự cố về phần cứng. Hoặc có thể chỉ đơn giản là máy tính của bạn đã quá cũ và đã đến lúc phải thay thế, nâng cấp.
+3.Các phần mềm dọn rác trả phí giúp cải thiện hiệu suất của máy tính
+Hầu như tất cả chúng ta điều ít nhất một lần nhìn thấy các quảng cáo có nội dung về tải các phần mềm dọn rác giúp tăng tốc độ máy tính lên hơn hàng trăm lần…Phần lớn các phần mềm này điều hứa hẹn sẽ làm sạch hệ điều hành, dọn dẹp các tập tin rác phát sinh do cập nhật driver,…
+Sự thật thì các phần mềm này không bao giờ là cần thiết, bất kể bạn đang sử dụng máy tính chạy hệ điều hành nào đi nữa.
+Các chương trình này thường được sử dụng làm trung gian để cài đặt ác phần mềm độc hại, chẳng hạn như phần mềm gián điệp hoặc phần mềm quảng cáo và hiếm khi làm bất cứ điều gì có lợi — nếu có cho máy tính của bạn. Các khóa Registry thường rất nhỏ, và việc xóa chúng chỉ giải phóng một lượng nhỏ không gian lưu trữ và không mang lại bât kỳ lợi ích gì về hiệu suất cho máy tính.
+Tóm lại, bạn không cần phải bỏ tiền ra để mua các phần mềm, ứng dụng dọn dẹp hay cập nhật, tăng hiệu suất cho máy tính. Tất cả điều được hệ điều hành tích hợp và phần lớn chúng điều được thiết lập để tự hoạt động trong nền hệ thống.
+4.Bạn không cần phần mềm chống virus
+Thông thường, có 02 lý do phổ biến để người dùng quyết định không cài phần mềm chống virus cho máy tính. Thường là “Tôi đang sử dụng máy Mac và máy Mac không bị nhiễm virus” và “Tôi không làm bất cứ điều gì trực tuyếnn nên tất nhiên máy tính của tôi sẽ không bị nhiễm virus”.
+Cả 02 điều hoàn toàn không chính xác. Và bạn luôn cần một trình chống virus trên máy tính.
+Trước tiên, hãy giải quyết lí do với người dùng Mac. Máy Mac đã từng tương đối miễn nhiễm với vi-rút, thực tế là các tác giả vi-rút “ưu tiên” cho máy tính chạy Windows vì sẽ tiết kiệm rất nhiều, đồng thời hệ điều hành này hoàn toàn thống trị thị trường máy tính.
+Tuy nhiên, hiện nay khi mà thị trường hệ điều hành máy tính bắt đầu có sự ngang bằng về số người dùng macOS và Windows thì các tin tặc đã bắt đầu chú ý đến Mac và đột nhiên Mac không còn trong “tình trạng” miễn nhiễm như trước nữa.
+Đối với người dùng máy tính "an toàn" khi Offline, kết luận đơn giản là bạn không bao giờ an toàn khi sử dụng máy tính, kể cả Offline hay Online. Mỗi lần bạn bật máy lên, bạn đang phải chịu rủi ro đã được tính toán rằng bạn sẽ không làm bất cứ điều gì dẫn đến việc máy của bạn bị nhiễm virus.
+Không xem các nội dung khiêu dâm, không tải torrent hoặc chỉ truy cập các trang web đáng tin cậy không đủ để giữ cho bạn an toàn trước tất cả các mối đe dọa. Trên thực tế, chương trình chống vi-rút cũng không thể, nhưng nó chắc chắn hữu ích cho bạn trong nhiều trường hợp.
+5.Bật/tắt máy tính thường xuyên là không tốt. Không tắt máy tính vào ban đêm là không tốt.
+Không có sự thật tuyệt đối nào ở đây, bạn có thể thoải mái để máy tính của bạn bật hoặc để máy tính ở Chế độ Ngủ khi không sử dụng. Nếu không có thời gian cho việc mỗi lần bật/tắt máy tính, bạn có thể tận dụng Chế độ Ngủ (Sleep) của hệ điều hành đang dùng. Tài nguyên hệ thống được sử dụng và mức tiêu hao pin/năng lượng là tối thiểu khi ở máy tính ở Chế độ Ngủ (Sleep).
+Mặt khác, bạn nên tắt máy tính của mình theo thời gian nếu cảm thấy không quá cần thiết để nó chạy liên tục. Mọi thành phần máy tính đều có tuổi thọ giới hạn. Do đó, việc tắt máy tính của bạn khi không cần thiết sẽ cho phép các thành phần được “nghỉ ngơi” và hạn sử dụng lâu hơn một chút.
+6.Dữ liệu sẽ an toàn sau khi bị xóa
+Về cơ bản, dữ liệu khi bị xóa sẽ biến mất vĩnh viễn khỏi ổ đĩa. Tuy nhiên, đó không phải là tất cả.
+Khi bạn xóa dữ liệu, các dấu vết hiển thị về sự tồn tại của nó có thể biến mất, nhưng với cách hoạt động của bộ nhớ lưu trữ dữ liệu, dữ liệu thực tế vẫn còn cho đến khi bị ghi đè lên. Do đó, rất dễ để khôi phục lại các dữ liệu đã xóa ngay khi bạn vừa thực hiện việc xóa dữ liệu.
+Chính vì thế, nếu muốn dữ liệu của mình có thể bị xóa vĩnh viễn không thể khôi phục lại, bạn có thể áp dụng 01 trong 02 giải pháp sau.
+-Sử dụng một phần mềm xóa dữ liệu chuyên nghiệp để xóa các dữ liệu mình muốn.
+-Lấy máy khoan và khoan từ 10 đến 12 lỗ vào ổ đĩa, đảm bảo rằng các lỗ khoan phải phân tán ra điều khắp ổ đĩa thay vì khoan theo đường thẳng.
+7. Để bảo đảm an toàn về dữ liệu cá nhân khi duyệt web, hãy sử dụng trình duyệt Firefox / Safari / Chrome / IE
+Trình duyệt "X" an toàn hơn trình duyệt "Y" là một so sánh không liên quan và ảnh hưởng nhiều đến người sử dụng nó. Các trình duyệt chỉ đơn giản là một môi trường thực thi cho tập tin JavaScript và nhiều thành phần cấu hình khác, tất cả chúng đều có nguy cơ bị khai thác và tấn công như nhau.
+Cũng cần lưu ý rằng, hầu hết các cuộc tấn công dựa trên trình duyệt đều thông qua các add-ons and plug-ins cài thêm của trình duyệt, không phải do chính trình duyệt. Để tự bảo vệ mình, bạn hãy trang bị cho máy tính một chương trình chống vi-rút tốt để nhanh chóng phát hiện các phần mềm độc hại trực tuyến và virus khi nó xâm nhập vào máy tính thông qua các hoạt động duyệt web.
+8.Máy tính được trang bị nhiều RAM, CPU sẽ luôn nhanh hơn, tốt hơn
+Càng nhiều càng tốt. Thường là đúng trong nhiều trường hợp.
+Thêm nhiều RAM hơn sẽ cho phép máy tính của bạn hoạt động hiệu quả hơn một chút bằng cách giảm sự phụ thuộc vào bộ nhớ ảo. Làm như vậy, máy tính của bạn sẽ chạy nhanh hơn.
+Mặt khác, CPU là một hỗn hợp rất nhiều vi xử lý. Chất lượng là vấn đề và bộ xử lý lõi tứ cao cấp sẽ hoạt động tốt hơn bộ xử lý lõi tám cấp thấp hơn hầu như mọi lúc.
+Ngoài ra, từ "tốt hơn" có nghĩa là những điều khác nhau đối với những người dùng có nhu cầu khác nhau, và trong khi nhiều lõi hơn sẽ tốt hơn theo nghĩa là nó chạy hầu hết các chương trình nhanh hơn, bù lại sẽ có những sự đánh đổi trong các lĩnh vực khác, chẳng hạn như tuổi thọ pin.
+Mặc dù nhiều hơn thường tốt hơn, nhưng nó không phải lúc nào cũng đúng.
+9.Tự mình Build máy tính sẽ tiết kiệm được rất nhiều tiền
+Nhiều năm trước, điều này hầu như đúng. Ngày nay, một máy tính cá nhân giá rẻ thường có cấu hình “bình dân” hơn nếu mua một mô hình máy tính được xây dựng sẵn. Bạn vẫn có thể tiết kiệm tiền nếu tự Build một chiếc máy có cấu hình cao cấp, nhưng đối với hầu hết các mẫu PC được xây dựng hướng đến người tiêu dùng cụ thể, thông thường sẽ tốt hơn so với việc tự mình Build, nhất là khi chúng đang được giảm giá.
+Điều đó không có nghĩa là việc Build một chiếc PC của riêng bạn là không đáng. Đối với những người thích trải nghiệm thực tế thì việc tự Build máy theo ý thích cũng là một niềm vui trong cuộc sống.

@@ -1,0 +1,24 @@
+
+Bạn có thể nghĩ đơn giản rằng muốn xóa một ứng dụng nào đó, chỉ cần ấn nút “Xóa” là được. Nhưng với một số ứng dụng thì điều đó là chưa đủ, nó vẫn có khả năng ngốn dữ liệu và theo dõi bạn.
+Dung lượng điện thoại của bạn sắp đầy và bạn muốn xóa bớt một vài ứng dụng hoặc bạn muốn xóa bỏ những ứng dụng có khả năng theo dõi. Tuy nhiên, việc bạn chỉ nhấn vào nút “Xóa” thôi là chưa đủ.
+Bạn có thể cho rằng bạn đã xóa nó hoàn toàn khỏi điện thoại nhưng thực ra, phần còn lại của ứng dụng vẫn có thể tồn tại trong nền, khiến thiết bị của bạn dễ bị tấn công hoặc gây ra các sự cố khác.
+Theo chuyên gia về bảo mật Jean Vixamar tại Tampa, Florida: “Quan niệm sai lầm lớn nhất là bạn cho rằng khi một ứng dụng bị xóa, mối quan hệ giữa thiết bị của bạn với ứng dụng và công ty sở hữu nó sẽ bị cắt đứt”.
+Bạn có thể đã quên các quyền mà bạn từng cấp cho ứng dụng. Đây mới là mấu chốt. Ứng dụng vẫn có khả năng sử dụng dữ liệu của bạn ngay cả khi bạn đã xóa nó.
+Dưới đây là những điều bạn cần biết để bảo vệ điện thoại và dữ liệu của mình khi xóa ứng dụng.
+Sự thuận tiện đi kèm với cái giá phải trả
+    
+Nhiều người trong chúng ta thường xuyên sử dụng nhiều ứng dụng khác nhau trong ngày. Không thể phủ nhận rằng chúng có thể làm cho cuộc sống của chúng ta dễ dàng hơn và tiết kiệm cho chúng ta kha khá thời gian. Nhưng sự tiện lợi này cũng có mặt trái. Bạn phải cung cấp cho ứng dụng dữ liệu của bạn để chúng cung cấp lại cho bạn giá trị mà bạn cần. Những dữ liệu này có thể là những thông tin cực kỳ nhạy cảm về bản thân và cuộc sống xung quanh chúng ta.
+Không phải lúc nào dữ liệu mà bạn chia sẻ cũng được người tạo ra ứng dụng đảm bảo an toàn. Nhiều ứng dụng không được mã hóa và các tính năng bảo mật khác, khiến thông tin cá nhân của người dùng dễ bị bọn tội phạm và tin tặc tấn công.
+Tại sao việc xóa ứng dụng phức tạp hơn bạn tưởng?
+    
+Sự thật là, dữ liệu của bạn không biến mất một cách thần tốc khi bạn ấn xóa một ứng dụng. Các ứng dụng thường là một phần của một trang web phức tạp gồm các công cụ, sản phẩm và các trang web được kết nối với nhau để theo dõi và chia sẻ thông tin của bạn mà bạn có thể không nhận ra.
+Chẳng hạn như ứng dụng hẹn hò. Thông thường, những thứ này được liên kết thông qua tài khoản Facebook cho phép ứng dụng truy cập vào ảnh, danh sách bạn bè và các thông tin khác về bản thân bạn có sẵn thông qua Facebook. Nhà phát triển ứng dụng, với sự cho phép của bạn, sẽ có quyền truy cập vào mọi thứ có sẵn thông qua hồ sơ Facebook của bạn.
+Cách an toàn để xóa hoàn toàn một ứng dụng
+    
+Thứ nhất, hãy xóa tất cả dữ liệu của bạn trên ứng dụng. Mặc dù các hướng dẫn xóa dữ liệu khác nhau đối với mỗi ứng dụng, nhưng bạn thường có thể tìm thấy tùy chọn để xóa dữ liệu được lưu trữ trong các tiêu đề menu như “quyền riêng tư”, “cài đặt tài khoản” hoặc “bảo mật”.
+    
+Thứ hai, bạn cũng nên đăng nhập vào tài khoản của mình thông qua trình duyệt web, nếu có thể. Đôi khi bạn sẽ tìm thấy các cài đặt bổ sung có sẵn thông qua phiên bản ứng dụng dành cho máy tính. “Ứng dụng dành cho thiết bị di động thường là phiên bản thu nhỏ của ứng dụng đầy đủ tính năng mà bạn sử dụng trên web.
+Vì vậy, bạn nên đăng nhập vào ứng dụng thông qua trình duyệt web để đảm bảo rằng bạn không bỏ lỡ bất kỳ cài đặt bổ sung nào có thể không có sẵn trong các phiên bản ứng dụng dành cho thiết bị di động.
+    
+Thứ ba, hủy liên kết hoặc thu hồi bất kỳ tích hợp Facebook hoặc Google nào mà bạn có thể đã bật bằng cách chuyển đến tab cài đặt của ứng dụng, tìm tùy chọn “tài khoản được liên kết” và xóa ứng dụng hoặc liên kết bạn muốn xóa. Ngoài ra, bạn cũng có thể xóa các tích hợp thông qua tài khoản được liên kết. Chỉ cần đăng nhập vào tài khoản được liên kết, kiểm tra cài đặt của bạn để xem ứng dụng nào họ chia sẻ dữ liệu và sau đó xóa những gì bạn không còn sử dụng.
+Có một số ứng dụng cực kỳ nguy hiểm từ góc độ bảo mật và quyền riêng tư. Bạn nên cảnh giác với bất kỳ ứng dụng nào yêu cầu quyền truy cập vào ảnh, tệp, máy ảnh, micrô. Bạn có thể cân nhắc ứng dụng này thực sự cần tất cả quyền truy cập này hay không?

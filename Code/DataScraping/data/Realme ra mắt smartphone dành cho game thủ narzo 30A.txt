@@ -1,0 +1,30 @@
+
+Realme vừa chính thức ra mắt mẫu smartphone narzo 30A hướng đến đối tượng người dùng game thủ, được trang bị thỏi pin dung lượng lớn lên đến 6.000 mAh
+      ADVERTISEMENT 
+ narzo 30A là mẫu smartphone hướng đến người dùng game thủ
+narzo 30A trang bị màn hình giọt sương cải tiến 6,5 inch tỷ lệ 20:9 và diện tích hiển thị lên đến 88,7%, mang đến không gian trải nghiệm rộng cho phép người dùng chơi game và xem video thoải mái.
+Về cấu hình, narzo 30A trang bị chipset chuyên game MediaTek Helio G85 được sản xuất trên tiến trình 12nm. Được thiết kế với hai nhân tốc độ cao Cortex-A75 xung nhịp 2,0 GHz và sáu nhân Cortex-A55 tốc độ 1,8 GHz, đi kèm bộ xử lý đồ họa Mali-G52, Helio G85 đảm bảo narzo 30A xử lý mượt những ứng dụng thường ngày đến các tựa game phổ biến.
+“Giọt sương” trên màn hình là nơi đặt camera selfie 8 MP (khẩu độ f/2.0). Cụm camera kép mặt sau bao gồm camera chính 13 MP (khẩu độ f/2.2) và camera phụ hỗ trợ chụp ảnh chân dung 2 MP (f/2.4). Ngoài quay video HD (30 khung hình/giây hoặc 120 khung hình/giây), Full HD (30 khung hình/giây), cụm camera sau còn đáp ứng mọi nhu cầu chụp ảnh từ chế độ chụp đêm, bộ lọc đêm hiệu quả cho những cảnh chụp thiếu sáng, làm đẹp, chế độ HDR, toàn cảnh, chân dung.
+narzo 30A có ưu điểm khác là sở hữu viên pin dung lượng lớn 6.000 mAh, hỗ trợ sạc nhanh 18W chuẩn USB Type-C (có củ sạc và dây sạc đi kèm). Theo thử nghiệm của Realme, narzo 30A có thể kéo dài ở chế độ chờ lên đến 46 ngày. Máy còn hỗ trợ chế độ sạc ngược OTG cho phép sạc các thiết bị di động và thiết bị ngoại vi tương thích.
+Tại thị trường Việt Nam, narzo 30A được bán độc quyền trên trang thương mại điện tử Shopee với giá 3,29 triệu đồng vào ngày 22.3 tới.
+
+Được biết, dòng Ripjaws S5 này làm theo dạng low-profile với chiều cao chỉ 33mm, tức nhỏ gọn hơn để có thể lắp vào các bộ máy có không gian nhỏ, chẳng hạn như với các build dùng main ITX hay mini-ITX. G.SKILL cho biết tuy có thiết kế low-profile nhưng kit RAM này được sử dụng chip nhớ hiệu năng cao, nhờ đó vẫn đem lại sự cân bằng giữa sức mạnh, độ ổn định, tính tương thích lẫn giá cả. 
+     
+Vì nhắm đến nhiều đối tượng người dùng nên Ripjaws S5 cũng mang thiết kế có phần tối giản, không hầm hố như dòng Trident Z5. Sản phẩm hiện có hai màu là đen và trắng với những chấm lỗ li ti vừa tạo điểm nhấn vừa giúp tản nhiệt tốt hơn. 
+     
+ Cách đóng gói của Ripjaws S5 cũng đơn giản, không đóng hộp như ở dòng Trident Z.  
+Cặp RAM này sẽ không có đèn RGB và đây cũng là điều hiển nhiên vì bộ phận này sẽ khiến tốn thêm diện tích sản phẩm, điều mà đi ngược lại với thiết kế low-profile và khó có thể lắp vào được các máy mini-ITX. 
+      ADVERTISEMENT  
+ Phiên bản chúng tôi đang trên tay có xung nhịp 5200MHz.  
+Ripjaws S5 có xung nhịp từ 4800MHz cho đến 6000MHz, tuy chưa phải là cao nhất nhưng bù lại có giá thành dễ chịu hơn để các game thủ và người dùng có thể tiết kiệm đầu tư vào các linh kiện khác. Về dung lượng, cặp RAM này chỉ có một dung lượng duy nhất là 2x16GB. 
+     
+ Dưới đây là bảng thông số độ trễ CAS cho dòng RAM low-profile này:  
+     
+Hiện sản phẩm này chỉ mới được công bố và thời gian bán ra sẽ vào tháng sau, khả năng cùng thời điểm ra mắt của chip Intel thế hệ 12 Alder Lake. Giá bán cũng chưa được tiết lộ. 
+      ADVERTISEMENT  
+     
+Sản phẩm chúng tôi trên tay được gửi trực tiếp từ G.SKILL, tuy nhiên vì chưa có mainboard và CPU hỗ trợ nên mời quý độc giả xem qua trước hình ảnh. Phần đánh giá hiệu năng sẽ được chúng tôi cập nhật ngay sau khi Intel ra mắt Alder Lake và gửi sản phẩm trải nghiệm. 
+     
+      ADVERTISEMENT  
+     
+Game Diablo II Resurrected bị sập, vật phẩm của người chơi biến mất Tối 9/10, các máy chủ Battle.net của Diablo II Resurrected (D2R) đã bị gỡ xuống để bảo trì khẩn cấp. Game thủ bị kẹt ở hàng chờ ngoại tuyến nhiều giờ. Trang Tweaktown đưa tin nhiều game thủ của trò chơi D2R bị xóa nhân vật khỏi máy... 

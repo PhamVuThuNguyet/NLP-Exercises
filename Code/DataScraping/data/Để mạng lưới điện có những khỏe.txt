@@ -1,0 +1,33 @@
+
+Trạm biến áp được ví như những "trái tim" điều hòa dòng máu năng lượng đến từng hộ gia đình. Các kỹ sư điện Đà Nẵng đã tìm ra phương pháp chăm sóc phù hợp để có những trái tim khỏe, vừa kéo dài tuổi thọ, vừa không để xảy ra tình huống bất ngờ.
+Kỹ sư Lê Văn Phú, người đi tính công suất tối ưu để kéo dài tuổi thọ các trạm biến áp- Ảnh: TRƯỜNG TRUNG
+Giải bài toán thay mới 
+Với tốc độ phát triển nhanh chóng của nền kinh tế trong những năm qua, lưới điện phân phối cũng có mức tăng trưởng nhanh liên tục. Việc gia tăng lượng điện năng tiêu thụ dẫn đến tình trạng các máy biến áp (MBA) phân phối trên lưới nhanh đầy tải. 
+Đa số các trường hợp quá tải chỉ xuất hiện trong thời gian ngắn, nhất là vào vài thời điểm mùa vụ, cao điểm. Tuy nhiên theo quy trình chung là khi các MBA có mức tải trung bình tháng lớn hơn 80% và mức tải vào thời điểm trong tháng lớn hơn 100% công suất thì phải thay máy. 
+"Ở Đà Nẵng các trạm biến áp thường xuyên có thời điểm vượt quá 100% công suất do tốc độ tiêu thụ điện tăng trưởng liên tục. Lúc đó có hai cách mà ngành điện thường sử dụng là tìm giải pháp sang tải hoặc phải thay máy mới, hoán đổi công suất giữa các máy. Việc này khá tốn kém chi phí đầu tư khiến công ty đau đầu"- anh Lê Văn Phú, phó giám đốc Điện lực Sơn Trà nói.
+Cụ thể như tại Điện lực Đà Nẵng vào năm 2015 có tới hơn 300/2.100 máy biến áp do ngành điện quản lý hoạt động quá tải. Quá tải đồng nghĩa với việc phải tìm giải pháp thay thế, nâng cấp. Phải đầu tư tiền tỉ khiến nguồn lực bị phân tán. 
+Anh Phú khi ấy là phó phòng kỹ thuật Công ty Điện lực Đà Nẵng, nơi chịu trách nhiệm chính trong việc đưa ra giải pháp nâng cao độ tin cậy cung cấp điện và giảm tổn thất điện năng được lãnh đạo gõ cửa giao đề bài.
+Để đi tìm giải pháp tối ưu, anh Phú cùng nhóm kỹ sư mang tất cả sách vở ra tham khảo. Cả nhóm nhận thấy chưa hề có tính toán về mức độ mang tải tối ưu của các MBA phân phối. Việc đánh giá, phân tích lâu nay chủ yếu áp dụng theo kinh nghiệm ghi chép của của các nước khác nên chưa thể mang đến hiệu quả tối ưu. 
+Trong tiêu chuẩn chung hiện hành của Việt Nam và quốc tế nhóm nghiên cứu quyết đi tìm công thức cụ thể nhất để áp dụng tại Đà Nẵng nhằm mang lại hiệu quả kinh tế. 
+Một quá trình dài từ thời điểm năm 2017, cả nhóm nhóm bắt đầu thu thập dữ liệu, để phân tích và lập biểu đồ theo dõi. 
+Từ kết quả của nhóm nghiên cứu, Điện lực Đà Nẵng đã mạnh dạn ban hành tiêu chuẩn vận hành mới vừa đảm bảo nâng cao độ tin tưởng trong cung cấp điện, vừa mang đến hiệu quả tối ưu về kinh tế cho đơn vị - Ảnh: TRƯỜNG TRUNG
+Tính "nhịp tim" 
+Anh Phú nói trạm biến áp giống như như trái tim. Nếu nhịp tim quá cao hoặc quá thấp cơ thể đều gặp nguy. 
+Ở chế độ vận hành bình thường, các máy biến áp chỉ được phép vận hành quá tải ở một mức độ nhất định, tùy thuộc vào điều kiện nhiệt độ môi trường và nhiệt độ lớp dầu trên cùng. Trong trường hợp ngược lại, nếu vận hành chưa đạt công suất cũng sẽ gây lãng phí lớn trong đầu tư.
+Bằng quá trình theo dõi và đánh giá kéo dài gần 2 năm tại nhiều trạm biến áp khác nhau, nhóm đánh giá phần lớn các MBA quá tải trong một thời gian nhất định vẫn có thể duy trì vận hành mà vẫn không gặp sự cố. 
+Như vậy nếu tính toán được khả năng mang tải ngắn hạn mà không ảnh hưởng đến tuổi thọ thì sẽ giảm được chi phí đầu tư mới. 
+Theo kỹ sư Ngô Văn Bá, thành viên nhóm nghiên cứu, qua phân tích cả nhóm đã tìm ra công thức tối ưu để vận hành các máy biến áp. Kỹ sư Bá nhìn nhận máy biến áp có mức mang tải tối ưu nhất là khi chi phí phải bỏ ra trong suốt thời gian vận hành thấp nhất trong khi vẫn đạt tổng sản lượng điện truyền qua. 
+Sau một thời gian dài so sánh, đối chiếu kết quả nghiên cứu, một bảng công suất tối ưu cho các trạm biến áp từ 100 kVA-1.000kVA được ra đời. 
+Giải pháp này cùng lúc đạt hai mục tiêu vừa giảm chi phí đầu tư nhưng vẫn đảm bảo chất lượng vận hành và tuổi thọ thiết bị. Kếtquả chỉ ra, hầu hết các trạm biến áp từ 100-1.000 kVA vận hành tối ưu nhất là khi mang tải từ 55-75% công suất. 
+Từ kết quả nghiên cứu đã được thẩm định này, vào tháng 3-2019, Điện lực Đà Nẵng đã mạnh dạn ban hành tiêu chuẩn vận hành mới để tối ưu hiệu quả kinh tế. 
+Từ đây chỉ còn một số rất ít các máy biến áp có mức quá tải cao, cần có giải pháp sang tải hoặc mới để nâng dung lượng đảm bảo vận hành lâu dài. 
+Công trình nghiên cứu còn tích hợp hệ thống phần mềm TOOS để bắt mạch trạm biến áp từ xa- Ảnh: TRƯỜNG TRUNG
+Bắt mạch từ xa 
+Chưa dừng lại ở việc đi tìm công suất tối ưu, nhóm nghiên cứu còn quyết định đi thêm bước nữa so với thành quả ban đầu. Đó là việc tạo ra sản phẩm phần mềm để hỗ trợ ra quyết định vận hành tối ưu MBA phân phối ngâm trong dầu. 
+Nhóm nghiên cứu đã tích hợp dữ liệu trên hệ thống phần mềm TOOS để phục vụ cho công tác quản lý tài sản, vận hành, kiểm tra, thí nghiệm, bảo dưỡng. Giờ đây, chỉ cần ngồi tại bất cứ đâu có mạng internet, mọi thông tin của các trạm biến áp đều có thể được theo dõi. 
+Kỹ sư Phú cho biết dựa trên kết quả nghiên cứu, trong phần mềm tích hợp các cảnh báo và đưa ra các giải pháp xử lý đối với tất cả các máy biến áp. 
+"Sau khi có tiêu chuẩn vận hành quá tải ngắn hạn mà không ảnh hưởng đến tuổi thọ kỹ thuật của máy biến áp thì dựa vào phần mềm này có thể "bắt mạch" được nhịp công suất của từng trạm. 
+Tất cả đều được thu thập, tính toán và có giải pháp thay thế, điều chỉnh sao cho đảm bảo độ tin cậy khi cung cấp điện mà không phải đầu tư quá lớn "- kỹ sư Phú nói. 
+Theo ước tính của nhóm nghiên cứu, sau khi áp dụng công trình này đã giảm được thời gian mất điện cho khách hàng do giảm tần suất thay máy biến áp. Vừa giảm giảm chi phí, vừa nâng cao chất lượng cung cấp điện cho khách hàng thành phố. 
+Công trình "Các giải pháp nâng cao hiệu quả mang tải MBA ngâm trong dầu" cũng đã được trao Giải thưởng Sáng tạo Khoa học công nghệ Việt Nam năm 2018 và được căn cứ làm tiêu chuẩn áp dụng tại Công ty Điện lực Đà Nẵng. 
+Nhóm nghiên cứu nhận Giải thưởng Sáng tạo Khoa học công nghệ Việt Nam năm 2018 - Ảnh: NVCC

@@ -1,0 +1,25 @@
+
+Tháng vừa qua, các sàn TMĐT có nhiều hoạt động nổi bật thu hút nhiều lượt tương tác đến từ các chương trình minigame, săn sale tưng bừng và mở voucher khủng.
+
+Nắm bắt được thói quen mua hàng khi Sale của người dùng, rất nhiều cửa hàng đẩy giá của mặt hàng lên cao rồi gắn mác Sale lớn để thu hút người mua. Hiện tượng đẩy giá này càng ngày một nhiều, và rất nhiều người dùng bị "Sập bẫy" Sale ảo từ những cửa hàng đó. Đây chính là chiêu trò khuyến mãi ảo để "thu hút" khách hàng, bằng cách đặt ra giá bán cao hơn so với thực tế, sau đó giảm giá xuống bằng giá với thị trường.
+Nếu bạn chưa biết thì các sàn có chính sách rất ưu đãi cho chủ cửa hàng (SHOP) như là kinh doanh không mất phí, có thể tùy ý điều chỉnh giá sản phẩm mà không theo một quy tắc nào. Chính vì vậy mà chúng ta thường xuyên gặp tình trạng cùng một sản phẩm nhưng giá cả của mỗi cửa hàng lại chênh lệch rất lớn, không biết nên mua ở SHOP nào không bị hớ mà chất lượng vẫn đảm bảo…
+Giải quyết vấn đề đó cho người tiêu dùng, BeeCost đã ra đời để giúp người mua hàng có thể tiết kiệm được rất nhiều chi phí. Trước khi có ý định mua bất kỳ sản phẩm nào trên sàn TMĐT, người mua hàng có thể tìm kiếm BeeCost và truy cập vào website BeeCost.vn. Chỉ với một thao tác đơn giản copy link sản phẩm bên sàn và dán vào thanh tìm kiếm của BeeCost. BeeCost sẽ đưa ra cho người mua biểu đồ lịch sử giá thể hiện giá bán của sản phẩm trong quá khứ. Như vậy người mua hàng có thể biết được sản phẩm này có đang sale ảo hay không.Đặc biệt với những sản phẩm đang trong Flash Sale, BeeCost cũng có thể giúp người mua hàng kiểm tra biến động giá, giá sản phẩm có đang thấp hay không. Như vậy người mua hàng có thể yên tâm về mức giá mình chuẩn bị mua là thấp nhất.
+BeeCost hỗ trợ tìm nơi bán có giá bán thấp hơn
+Nguồn: BeeCost.vn
+Khả năng so sánh giá bán của các shop trên sàn thương mại điện tử là tính năng ưu việt trên BeeCost.vn. Người mua hàng sẽ không cần đi khắp các sàn để tìm xem sản phẩm đó đang có giá bán bao nhiêu. BeeCost sẽ tự động tìm các nơi cùng bán sản phẩm đó trên tất cả các sàn lớn nhất hiện nay và đề xuất nơi có giá bán tốt nhất và được đánh giá uy tín từ người dùng.
+Giống như tính năng kiểm tra sale ảo sale xịn của BeeCost, người mua hàng chỉ cần copy link sản phẩm bên sàn mình muốn mua và truy cập vào BeeCost.vn, dán link vào thanh tìm kiếm. Ngay lập tức BeeCost sẽ trả về cho bạn các nơi bán khác nhau trên tất cả các sàn lớn nhất hiện nay cùng sản phẩm nhưng có giá thấp hơn. Tính năng so sánh giá này giúp người mua hàng tiết kiệm được rất nhiều thời gian khi không cần đi so sánh và tìm kiếm mức giá thấp hơn ở các nơi. Như vậy bạn đã tìm được chỗ bán rẻ hơn mà chỉ cần theo dõi duy nhất trên một công cụ.
+Tiện ích BeeCost mua sắm ngay trên trình duyệt 
+Ngoài khả năng phân tích giá cả trên website, BeeCost còn cung cấp cho khách hàng tiện ích dưới dạng extension trên trình duyệt. Đối với những tín đồ mua sắm online thì bạn không thể bỏ qua tiện tích này.
+Chỉ với 1 click cài đặt lên trình duyệt, sau khi truy cập các sàn thương mại điện tử Shopee, Tiki, Lazada bạn sẽ thấy tiện ích BeeCost tự động hiển thị các sản phẩm sale ảo, sale thật trên sàn
+Chỉ cần tải về ngay trên trang chủ BeeCost.vn và cài đặt lên trình duyệt, bất cứ khi nào truy cập vào một trang TMĐT, tiện ích BeeCost sẽ ngay lập tức hiển thị lịch sử giá cho bạn biết đang giảm giá thật hay giá ảo. Tự động tìm kiếm sản phẩm tương tự nhưng có giá rẻ hơn. 
+Sứ mệnh
+BeeCost giúp người mua hàng đánh giá được sản phẩm đang được giảm giá (sales) thật hay ảo, so sánh được giá bán của các shop trên sàn, để người mua hàng mua được sản phẩm giá tốt nhất, không bị sập bẫy khuyến mãi ảo.
+Khách hàng sẽ được BeeCost hỗ trợ, phân tích mọi dữ liệu của Sản phẩm như:
+• Phân tích, so sánh mọi dữ liệu lịch sử giá của sản phẩm.
+• Đưa ra các lựa chọn nơi bán sản phẩm, mẫu mã tương tự với mức giá rẻ hơn.
+• Thông báo tới người dùng khi giá sản phẩm giảm giá.
+• Extentions giúp phân tích đâu là Sale xịn, Sale ảo trên các sàn thương mại điện tử.
+• Review chi tiết sản phẩm tại: https://beecost.vn/blog
+Xem thêm thông tin về BeeCost:
+Website: https://beecost.vn/
+Fanpage: facebook.com/beecostvn/

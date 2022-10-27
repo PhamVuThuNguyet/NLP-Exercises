@@ -1,0 +1,33 @@
+
+Apple đã chính thức công bố sự kiện iPhone 14 rất được mong đợi với chủ đề khá thú vị Far Out . Nhưng ẩn trong thư mời của Apple là gì? Dưới đây là một số phỏng đoán về các tính năng mới sẽ đến với iPhone 14 dựa vào những gì thể hiện trong nội dung thư mời
+Nhưng ẩn trong thư mời của Apple là gì?
+Dưới đây là một số phỏng đoán về các tính năng mới sẽ đến với iPhone 14 dựa vào những gì thể hiện trong nội dung thư mời.
+      ADVERTISEMENT 
+  Kết nối vệ tinh?
+Với chủ đề không gian của thư mời, một trong những khả năng rõ ràng nhất là nó gợi ý về các tính năng kết nối vệ tinh mới. Tính năng này lần đầu tiên được báo cáo xuất hiện trên iPhone 13 vào năm ngoái, tuy nhiên điều đó cuối cùng đã không xảy ra.
+Vào tháng 3, 9to5Mac đã báo cáo rằng Apple vẫn đang làm việc trên các tính năng vệ tinh này và chúng có thể trở thành một phần của iPhone 14 trong năm nay. iOS 16 cũng thêm biểu tượng “SOS” mới vào thanh trạng thái iPhone xuất hiện khi iPhone mất kết nối di động.
+    
+Tính năng vệ tinh dự kiến ​​sẽ cho phép người dùng kết nối với vệ tinh khi họ mất dịch vụ di động để liên lạc với người trợ giúp ưu tiên trong các tình huống khẩn cấp. Bloomberg đã báo cáo rằng có hai tính năng vệ tinh: một để nhắn tin trong ứng dụng Messages và cung cấp cơ chế báo cáo trực tiếp hơn cho các trường hợp khẩn cấp lớn, như tai nạn máy bay và chìm tàu.
+Cho dù tính năng này có hiện thực hóa với iPhone 14 năm nay hay không thì vẫn còn phải xem, nhưng ảnh minh họa của sự kiện dường như là một gợi ý rõ ràng về nó.
+ Các tính năng máy ảnh mới
+Một tin đồn hồi đầu năm nay cho biết Apple đang phát triển các tính năng chụp ảnh thiên văn mới cho iPhone. Điều này sẽ cải thiện hiệu suất máy ảnh của iPhone trong các tình huống thiếu sáng, đặc biệt là bên ngoài.
+Nếu tính năng này hoạt động hiệu quả, iPhone sẽ có thể phát hiện mặt trăng hoặc các ngôi sao, sau đó sử dụng thời gian phơi sáng lâu hơn và xử lý nội bộ nhiều hơn để hoàn thiện hình ảnh. Đây là một tính năng đã được cung cấp bởi một số thiết bị Android cạnh tranh, vì vậy việc Apple đang phát triển một tính năng đối đầu là rất hợp lý.
+Apple cũng đang tiến hành nâng cấp phần cứng camera của iPhone trong năm nay, bao gồm cảm biến 48MP mới. Dĩ nhiên, iPhone 15 vào năm sau dự kiến sẽ sử dụng một ống kính tiềm vọng mới mang lại sự tăng cường lớn hơn cho các tính năng zoom quang.
+    
+ Màn hình Always On
+Cuối cùng, iPhone 14 Pro và 14 Pro Max dự kiến ​​sẽ có màn hình Always On mới lần đầu tiên. Vấn đề ở đây với thư mời là chủ đề không gian yếu hơn so với kết nối với vệ tinh. Tuy nhiên, tác phẩm nghệ thuật trên thư mời rất tối và không gian có thể liên quan theo một cách nào đó với màn hình OLED luôn bật.
+Xét cho cùng, mặc dù tác phẩm nghệ thuật trong thư mời của Apple không bao giờ rõ ràng và gợi ý về điều gì đó sẽ được mong đợi tại sự kiện, nhưng quá khứ cho thấy chúng thường ám chỉ một cách tinh tế về điều gì đó sẽ được công bố. Đôi khi nó chỉ là một gợi ý về hình nền mới, trong khi những lần khác đó là gợi ý về các sản phẩm và tính năng mới. Đó là suy đoán của bất kỳ ai, nhưng thật thú vị.
+
+Trong bản tin Power On trên Bloomberg, phóng viên Mark Gurman cho biết các kỹ sư của Apple đã phát triển xong iOS 16 vào tuần trước. Điều đó đồng nghĩa Táo khuyết chuẩn bị phát hành rộng rãi hệ điều hành mới từ tháng 9 năm nay.
+iOS 16 đang ở phiên bản thử nghiệm thứ 6 cho lập trình viên (developer beta) và thứ 4 cho người dùng đăng ký đại trà (public beta). Đây có thể là bản thử nghiệm cuối cùng trước khi Apple phát hành iOS 16 RC (Release Candidate), phiên bản gần như chính thức cho những thiết bị đang cài bản thử nghiệm.
+      ADVERTISEMENT 
+ Apple đã phát triển xong iOS 16, sẵn sàng phát hành rộng rãi vào tháng 9. Ảnh: XDA.
+Không chỉ iOS 16, Gurman cho biết bản cập nhật watchOS 9 sẽ phát hành rộng rãi vào tháng 9, cùng thời điểm iPhone 14 và Apple Watch Series 8 lên kệ. tvOS 16 cũng phát hành chính thức trong khung thời gian này, tuy nhiên phiên bản phần mềm mới cho Apple TV không có nhiều cải tiến nổi bật.
+Trong khi đó, phóng viên Bloomberg dự đoán bản chính thức của iPadOS 16 và macOS Ventura (macOS 13) sẽ được phát hành vào tháng 10. Lý do đến từ chế độ đa nhiệm Stage Manager cần thêm chỉnh sửa sau khi nhận nhiều chỉ trích từ giới công nghệ.
+Dù trễ hơn một tháng so với iOS 16, 9to5Mac nhận định thời điểm phát hành iPadOS 16 và macOS Ventura khá phù hợp bởi Apple dự kiến tổ chức thêm sự kiện phần cứng vào tháng 10. Những thiết bị được mong chờ tại đây gồm iPad và máy tính Mac.
+Được giới thiệu lần đầu vào tháng 6, iOS 16 cho phép tùy biến màn hình khóa với nhiều font chữ, hiệu ứng, ảnh động và widget mới. Những tính năng khác gồm nhận diện văn bản (Live Text) cho video, bỏ qua bước CAPTCHA hay chế độ siêu bảo mật (Lockdown Mode).
+    
+ Apple chỉnh sửa Stage Manager trên iPadOS 16 sau khi nhận nhiều phản hồi tiêu cực. Ảnh: 9to5Mac.
+Sau khi hoàn thành iOS 16, Apple sẽ sớm bắt tay phát triển iOS 16.1 với tính năng nổi bật là Live Activities, cho phép người dùng cập nhật trực tiếp những thông tin quan trọng như thời tiết, quãng đường di chuyển, tỷ số thể thao... ngay trên màn hình khóa của iPhone.
+Theo công bố của Apple, iOS 16 tương thích các mẫu iPhone ra mắt từ năm 2017 (iPhone 8, 8 Plus, iPhone X) trở về sau. Những đoạn mã của iOS 16 hé lộ chế độ always-on sẽ có mặt trên iPhone 14 Pro. Nhiều tin đồn cho biết dòng smartphone mới sẽ ra mắt vào ngày 7/9 và lên kệ từ 16/9, sớm hơn các năm trước.
+Vì sao Apple ra mắt iPhone 14 sớm Dựa trên manh mối từ báo cáo thu nhập gần đây nhất của Apple, ông Ming-chi Kuo đã giải thích lý do tại sao iPhone 14 được ra mắt sớm hơn so với iPhone 13. Sai khi có báo cáo cho biết Apple ​​sẽ tổ chức buổi giới... 

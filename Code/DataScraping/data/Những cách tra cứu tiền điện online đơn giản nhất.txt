@@ -1,0 +1,30 @@
+
+Hiện tại, người dân có thể dùng những cách sau đây để kiểm tra trước tiền điện của hộ gia đình một cách chủ động.
+Tra cứu hóa đơn tiền điện theo mã khách hàng trên website Điện lực
+Bước 1: Truy cập vào trang web chăm sóc khách hàng của EVN theo khu vực sinh sống và đăng nhập
+Website EVN miền Bắc: http://www.cskh.npc.com.vn
+Website EVN miền Nam: http://www.cskh.evnspc.vn
+Website EVN miền Trung: http://www.cskh.cpc.vn
+Người dân sử dụng mã khách hàng (có in trên hóa đơn tiền điện hàng tháng) để đăng nhập. Mật khẩu cũng là mã khách hàng của người dùng.
+Bước 2: Chọn Tra cứu chỉ số - điện tiêu thụ rồi tiếp tục chọn Tra cứu chỉ số điện hàng tháng.
+Bước 3: Người dùng nhập thời gian muốn tra cứu vào ô Chọn tháng/năm và nhấn vào Xem chỉ số. Hệ thống sẽ trả kết quả là số công tơ, chỉ chỉ số điện tiêu thụ cũ, chỉ số điện tiêu thụ mới...
+Tra cứu tiền điện bằng tên khách hàng qua tổng đài Điện lực
+Người dân cũng có thể liên hệ với Trung tâm chăm sóc khách hàng của Tổng công ty Điện lực để được nhân viên tổng đài hỗ trợ. Khi gọi điện, người dân chỉ cần cung cấp những thông tin cơ bản như Họ tên khách hàng, số điện thoại, kỳ thanh toán cần tra cứu.
+Số điện thoại của Trung tâm chăm sóc khách hàng của Tổng công ty Điện lực từng vùng:
+Tổng đài miền Bắc: 19006769
+Tổng đài miền Trung: 19001909
+Tổng đài miền Nam: 19001006 - 19009000
+Tra cứu hóa đơn tiền điện bằng Zalo
+Bước 1: Đăng nhập Zalo trên điện thoại, tìm kiếm Tổng công ty điện lực. Người dân lựa chọn đúng khu vực mình sinh sống để tiến hành tra cứu.
+Sau đó ấn Quan tâm.
+Bước 2: Tại màn hình chat, nếu chưa đăng ký thông tin, người dùng nhấn Hỗ trợ và chọn mục Đăng ký thông tin, chọn Click vào đây để đăng ký và làm theo hướng dẫn.
+Bước 3: Sau khi đăng ký thành công, tại màn hình chat ấn Tra cứu và chọn mục Tra cước nhanh.
+Bước 4: Để xem hóa đơn theo tháng, người dùng có thể gửi tin nhắn theo cú pháp MM/YYYY. Tổng công ty Điện lực sẽ trả kết quả thông tin hóa đơn gồm chỉ số đầu kỳ, chỉ số cuối kỳ, số tiền điện cần thanh toán,...
+Cách tra cứu hóa đơn tiền điện bằng app điện lực
+Bước 1: Cài đặt ứng dụng EVN CSKH theo khu vực sinh sống
+Khu vực mình Bắc: EVNHANOI CSKH
+Khu vực miền Trung: EVNCPC CSKH
+Khu vực miền Nam: CSKH EVN SPC
+Bước 2: Sau đó, mở và tiến hành đăng nhập ứng dụng bằng cách nhập Mã khách hàng và Mật khẩu (trùng với mã khách hàng) rồi ấn vào ô Đăng nhập.
+Bước 3: Tiếp đến, chọn mục Tra cứu hóa đơn tiền điện.
+Bước 4: Nhập thời gian muốn tra cứu hóa đơn điện và ấn vào ô Tra cứu.

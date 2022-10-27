@@ -1,0 +1,18 @@
+
+Thiết lập mã khóa Zalo sẽ giúp người dùng có thể bảo vệ được sự riêng tư.
+Thiết lập mã khóa Zalo
+Thiết lập mã khóa Zalo sẽ giúp người dùng có thể bảo vệ được sự riêng tư. Sau khi thiết lập tính năng này, người dùng có thể đặt và mở khóa ứng dụng bằng mã PIN hoặc sử dụng vân tay, Face ID.
+Để thiết lập mã khóa, bạn mở Cài đặt trên Zalo > Chọn Tài khoản và bảo mật > Chọn Đặt mã khóa Zalo > Chọn phương thức phù hợp.
+Xác thực hai lớp với OTP
+Với tính năng này, khi đăng nhập tài khoản Zalo trên thiết bị người lạ, người dùng còn phải nhập mã OTP gửi đến số điện thoại dùng để đăng ký tài khoản.
+Để bật tính năng này, bạn vào tài khoản Zalo, tại mục Cá nhân > Chọn Tài khoản và bảo mật > Kích hoạt nút "Xác thực hai lớp".
+Kiểm tra lịch sử đăng nhập
+Đối với mỗi tài khoản Zalo, người dùng có thể đăng nhập cùng lúc trên điện thoại, máy tính và website. Bởi vậy, bạn có thể kiểm tra mình đã lịch sử đăng nhập ở thiết bị nào khi sử dụng Zalo trên phiên bản điện thoại.
+Kiểm tra lịch sử đăng nhập, đăng xuất bớt những thiết bị không còn sử dụng để bảo mật tài khoản. Ảnh: Zalo
+Để sử dụng tính năng này, trong phần Cài đặt > Chọn Tài khoản và bảo mật > Chọn Lịch sử đăng nhập. Người dùng có thể đăng xuất bớt những thiết bị không còn sử dụng tài khoản Zalo để tăng cường sự an toàn.
+Đặt mật khẩu trò chuyện
+Để đảm bảo độ riêng tư, bạn có thể đặt mật khẩu riêng cho từng cuộc trò chuyện quan trọng trên Zalo. Ở trạng thái bình thường, các cuộc hội thoại được đặt mật khẩu sẽ bị ẩn đi. Nếu cần mở, bạn nhập mã PIN cá nhân trên thanh tìm kiếm của Zalo để tìm trò chuyện.
+Để đặt mã khóa riêng, người dùng nhấn vào cuộc hội thoại cần khóa và chọn "Ẩn trò chuyện". Tiếp theo, bạn nhập mã PIN là 4 chữ số để tạo mật khẩu.
+Cài đặt tin nhắn tự xóa
+Đối với ứng dụng Zalo, người dùng có thể thiết lập chế độ tự xóa tin nhắn, thay vì phải nhấn giữ thủ công từng dòng tin. Khi sử dụng tính năng này, nội dung cuộc trò chuyện sẽ tự động biến mất từ cả hai phía mà không cần thêm thao tác.
+Bạn có thể chọn thời gian tự xóa tin nhắn là 1,7 hoặc 30 ngày tùy nhu cầu. Để bật tin nhắn tự xóa, bạn vào phần "Tùy chọn" trong hội thoại, tìm "Tin nhắn tự xóa" để thiết lập thời gian mong muốn.

@@ -1,0 +1,24 @@
+
+Để đảm bảo an toàn cho tài khoản định danh điện tử của mình, công dân cần chú ý những điều sau.
+Triển khai Quyết định số 06/QĐ-TTg ngày 06/1/2022 của Thủ tướng Chính phủ về việc phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 (Đề án 06), Bộ Công an tiếp tục thực hiện cấp tài khoản định danh điện tử cho công dân trên phạm vi toàn quốc.
+Tài khoản định danh điện tử là tập hợp gồm tên đăng nhập (chính là mã số định danh cá nhân của công dân), mật khẩu (được gửi qua tin nhắn SMS cho mỗi cá nhân) hoặc hình thức xác thực khác được tạo lập bởi hệ thống định danh và xác thực điện tử của Bộ Công an. Tài khoản này được quản lý và xác thực trên ứng dụng định danh điện tử quốc gia (VNeID), do Bộ Công an phát triển. 
+Để đảm bảo an toàn cho tài khoản định danh điện tử, người dân cần chú ý điều gì?
+Để đảm bảo an toàn cho tài khoản định danh điện tử của mình công dân cần chú ý:
+- Không chia sẻ thông tin tài khoản cho người khác.
+- Đăng xuất tài khoản khi cho người khác mượn thiết bị.
+- Luôn cập nhật các thông tin về ứng dụng để nắm được các tin tức – thông báo mới nhất về các hướng dẫn an toàn thông tin.
+Cần thiết bị như thế nào để có thể sử dụng được tài khoản định danh điện tử?
+Tính đến hiện tại thì ứng dụng Định danh điện tử Quốc gia yêu cầu thiết bị di động của công dân sử dụng hệ điều hành Android 5 hoặc IOS 9 trở lên. Ngoài ra khuyến khích nên sử dụng thiết bị có camera tốt, cấu hình thiết bị từ trung bình trở lên và đảm bảo kết nối Internet để có trải nghiệm tốt nhất trong quá trình sử dụng ứng dụng.
+Bị mất điện thoại đang sử dụng tài khoản định danh điện tử quốc gia thì người dân cần làm gì?
+Trong trường hợp mất thiết bị đang sử dụng tài khoản định danh điện tử, công dân có thể thực hiện yêu cầu khóa tạm thời tài khoản để đảm bảo an toàn cho dữ liệu cá nhân của mình theo một trong hai cách:
+- Yêu cầu khóa tài khoản trên trang thông tin Định danh điện tử Quốc gia.
+- Liên hệ cơ quan công an để được hỗ trợ khóa tạm thời tài khoản.
+Có thể sử dụng tài khoản định danh điện tử trên nhiều thiết bị cùng lúc không?
+Theo quy định, tài khoản định danh điện tử của công dân chỉ có thể đăng nhập trên một thiết bị duy nhất tại một thời điểm. Vì vậy, công dân không thể sử dụng tài khoản định danh điện tử trên nhiều thiết bị khác nhau cùng thời điểm.
+Nếu điện thoại vô tình chưa các ứng dụng độc hại thì dữ liệu cá nhân của người dân được hiển thị trên ứng dụng định danh điện tử quốc gia (VNeID) có thể bị truy cập bất hợp pháp không?
+Các dữ liệu về định danh điện tử không lưu trữ trên thiết bị di động đã cài đặt ứng dụng VNeID của công dân nên các ứng dụng lạ khó có thể truy cập vào thiết bị để lấy cắp thông tin. Chỉ khi công dân đăng ký truy cập mới được hiển thị lên ứng dụng và công dân hoàn toàn biết được chính xác việc xuất trình để hiển thị thông tin cho đối tượng khác (nếu cần). Việc xuất trình (hiển thị) thông tin tương tự như xuất trình các loại giấy tờ và thẻ cứng vật lý.
+Khi cán bộ chức năng có yêu cầu kiểm tra thông tin cá nhân, giấy tờ của công dân thì công dân phải “cho phép” tức là cấp quyền kiểm tra thì cán bộ chức năng mới có thể xem được thông tin trong phạm vi được phép.
+Khi bên thứ 3 (bên cung cấp dịch vụ như ngân hàng, ví điện tử…; y tế, bảo hiểm, hệ thống dịch vụ công…) có nhu cầu sử dụng dữ liệu của công dân trong dịch vụ của mình thì cũng phải được sự đồng ý của công dân. Tùy vào yêu cầu về mức độ xác thực và bảo mật của bên thứ 3, thông tin công dân sẽ được ký số (chống thay đổi, chống chối bỏ), và được mã hóa. Hệ thống của các bên thứ 3 khi kết nối với hệ thống định danh và xác thực điện tử đều phải được xác thực bảo mật.
+Tuy nhiên, để đảm bảo an toàn trước các đối tượng tội phạm công nghệ cao, công dân không cài các ứng dụng lạ, độc hại, không chia sẻ thông tin tài khoản của mình cũng như chú ý đến việc bảo mật cho thiết bị của mình đang sử dụng ứng dụng định danh điện tử.
+Ứng dụng định danh điện tử quốc gia (VNeID) có quyền truy cập danh bạ, hình ảnh trong điện thoại không?
+Trong một số dịch vụ cần truy cập đến danh bạ và hình ảnh có trong điện thoại thì ứng dụng Định danh điện tử Quốc gia sẽ thông báo yêu cầu công dân cung cấp quyền truy cập để có thể tiếp tục sử dụng dịch vụ.

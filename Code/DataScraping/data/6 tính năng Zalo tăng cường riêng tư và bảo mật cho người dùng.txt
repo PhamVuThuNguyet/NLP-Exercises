@@ -1,0 +1,47 @@
+
+Zalo là ứng dụng nhắn tin đa nền tảng được người dùng yêu thích hàng đầu hiện nay. Sử dụng đã lâu, bạn có biết những tính năng giúp tăng cường quyền riêng tư và bảo mật của ứng dụng này?
+Quyền riêng tư và bảo mật trong “kỷ nguyên số” là mối quan tâm hàng đầu của người dùng internet hiện đại. Từ lâu, ứng dụng nhắn tin Zalo đã phát triển nhiều tính năng hướng đến việc người dùng có thể chủ động bảo vệ sự riêng tư và bảo mật. Bài viết này sẽ cung cấp thông tin về những tính năng giúp tối ưu tài khoản Zalo của bạn.
+ Mã hóa đầu cuối cho tin nhắn
+Vài tháng trước, Zalo ra mắt tính năng mã hóa đầu cuối (End-to-End Encrytion) như một nỗ lực tăng cường bảo mật cho người dùng. Bạn có thể nâng cấp mã hóa đầu cuối cho các cuộc trò chuyện quan trọng trên Zalo, đảm bảo thông tin trao đổi chỉ máy người nhận và gửi mới có thể giải mã và đọc được. Phương thức mã hóa E2EE hiện được người dùng thế giới quan tâm và đánh giá có hiệu quả bảo mật cao.
+      ADVERTISEMENT 
+Tại cuộc hội thoại, bạn bấm vào “Tùy chọn”, sau đó chọn “mã hóa đầu cuối” và nâng cấp.
+Giả sử bạn đang soạn tin nhắn “Mai họp nhé”, ngay trên máy của bạn nội dung này sẽ được mã hóa thành dãy ký tự đặc biệt, không mang ý nghĩa, chẳng hạn “h8*&-)[email protected]”. Sau đó các ký tự được giữ nguyên trong suốt quá trình vận chuyển, đến khi người nhận mở tin nhắn, nó mới giải mã về nội dung gốc.
+Hình thức mã hóa này ngăn chặn các hành vi xâm nhập tin nhắn bất hợp pháp, kẻ xấu sẽ không có cơ hội đọc hiểu nội dung gốc bạn trao đổi.
+ Cài đặt riêng tư cho nhóm
+Trong một nhóm chat Zalo, bạn có thể điều chỉnh nhiều tính năng riêng tư phù hợp với mục đích hoạt động. Một số nhóm có tính chất nội bộ như gia đình, phòng làm việc, chung cư, khu phố… cần đảm bảo những thành viên tham gia đều đáp ứng các tiêu chí của tập thể.
+    
+Nhóm trưởng có thể vào “Tùy chọn” tại hội thoại, sau đó chọn “Cài đặt nhóm” để điều chỉnh một số quyền riêng tư. Để kiểm soát nguồn kết bạn, người dùng vào “Cài đặt”, chọn “Quyền riêng tư” và bấm vào “Nhận lời mời kết bạn từ các nguồn”.
+Ví dụ, thiết lập chế độ phê duyệt thành viên mới giúp trưởng nhóm kiểm soát tốt ai sẽ được quyền thêm thành viên mới vào nhóm. Bên cạnh đó, cho phép thành viên mới đọc tin nhắn gần nhất hay không cũng là một tùy chọn đáng lưu tâm. Một số trường hợp, bạn sẽ không muốn người mới vào đọc những nội dung trao đổi trước đó.
+Với những nhóm nhiều thành viên, bạn còn có thể thiết lập quyền thay đổi tên và ảnh đại diện cho nhóm. Đồng thời, đánh dấu tin nhắn của trưởng nhóm và phó nhóm giúp các thành viên biết về sự quan trọng của các tin nhắn mình nhận được.
+ Thiết lập tin nhắn xóa tự động
+Trong bản cập nhật cuối năm 2021, Zalo đã ra mắt tính năng tin nhắn tự xóa cho tất cả người dùng. Đây là dạng tin nhắn có thể tự biến mất mà không cần phải thao tác xoá thủ công. Khi thiết lập tính năng này, các nội dung trao đổi qua Zalo sẽ tự động xoá sau khoảng thời gian cài sẵn là 1, 7 hoặc 30 ngày.
+    
+Người dùng ấn vào “Tùy chọn” ở góc phải hội thoại, bấm vào “Tin nhắn tự xóa” và cài đặt thời gian mong muốn.
+Hiện nay, người dùng Zalo trên điện thoại và máy tính đều có thể sử dụng tin nhắn tự xóa cho các trò chuyện cá nhân. Đối với các nhóm, trưởng và phó nhóm có thể cài đặt tính năng này cho hội thoại.
+ Điều chỉnh nguồn kết bạn theo nhu cầu
+Để quản lý danh bạ, Zalo cho phép người dùng điều chỉnh nguồn kết bạn theo ý muốn. Tại đây, bạn có thể kiểm soát cách người khác tìm thấy tài khoản của mình.
+      ADVERTISEMENT 
+Để kiểm soát nguồn kết bạn, người dùng vào “Cài đặt”, chọn “Quyền riêng tư” và bấm vào “Nhận lời mời kết bạn từ các nguồn”.
+Ví dụ, bạn có thể tắt đi một số nguồn nhận lời mời kết bạn như “mã QR”, “có thể bạn quen”, “nhóm chung”… nếu cảm thấy phù hợp với thói quen và nhu cầu sử dụng ở thời điểm hiện tại.
+ Chặn người lạ nhắn tin, gọi điện
+Tùy mục đích sử dụng, mỗi người sẽ chọn cách giao tiếp khác nhau trên ứng dụng nhắn tin. Nếu cần sự riêng tư, bạn có thể tham khảo tính năng chặn tin nhắn và cuộc gọi Zalo từ người lạ.
+    
+Để thiết lập, bạn vào “Cài đặt”, chọn “Quyền riêng tư” và tắt chế độ nhận tin nhắn và cuộc gọi từ người lạ.
+Theo đó, khi thiết lập tính năng này, người dùng sẽ không bị làm phiền bởi bất cứ ai không có trong danh sách bạn bè.
+ Tắt trạng thái hoạt động
+Dòng trạng thái “Vừa truy cập” giúp bạn bè trên Zalo nhận biết được tình trạng trực tuyến của bạn. Với một số người dùng, việc tắt thông báo này giúp mang lại cảm giác riêng tư hơn. Tuy nhiên, khi tắt trạng thái thì bạn đồng thời cũng không thể xem trạng thái truy cập của bạn bè trên Zalo.
+    
+Để tắt trạng thái hoạt động, bạn vào “Cài đặt”, chọn “Quyền riêng tư” và tắt tính năng “Hiển thị trạng thái truy cập”.
+Ngoài ra, người dùng còn có thể tìm hiểu và cài đặt các tính năng khác để nâng cấp sự riêng tư, bảo mật cho tài khoản Zalo như cài đặt mã khóa cho ứng dụng, ẩn hội thoại, tắt hiển thị thông báo đã xem, ẩn ngày sinh nhật…
+
+Zalo bắt đầu thu phí từ ngày 1.8, áp dụng cho tài khoản OA (tài khoản xác thực của doanh nghiệp) với 3 gói thuê bao tháng và mức phí khác nhau. Trong đó, gói Dùng thử có giá thấp nhất (10.000 đồng), Nâng cao (59.000 đồng) và Cao cấp (399.000 đồng). Tất cả tính trên chu kỳ một tháng sử dụng.
+      ADVERTISEMENT 
+Việc đánh giá 1 sao ứng dụng Zalo có thể kéo dài trong vài ngày tới
+CHỤP MÀN HÌNH
+Bên cạnh đó, nhà phát hành cũng dành một phiên bản miễn phí cho người dùng phổ thông, nhưng giới hạn nhiều tính năng dù trước đây các dịch vụ này đều hoàn toàn không phải trả tiền để được sử dụng.
+Sự thay đổi này sớm vấp phải giận dữ từ cộng đồng người dùng. Ngay trong ngày đầu áp dụng chính sách mới, nhiều khách hàng đã sử dụng chức năng đánh giá phần mềm trên kho ứng dụng Play Store (dành cho Android của Google) để chấm điểm 1 sao cho Zalo, đồng thời để lại nhiều bình luận bày tỏ sự không hài lòng của mình.
+"Thu phí thì dẹp", "Đừng sử dụng ứng dụng này", "Một trong những phần mềm tệ nhất tôi từng dùng. Và giờ đây họ còn muốn thu phí. Tôi thật sự khuyên mọi người xóa đi", "Ứng dụng này ổn đấy nhưng khi họ bắt đầu ra phiên bản thu phí thì tôi chọn WhatsApp"... là một số ý kiến được người dùng đưa ra khi đánh giá trên Play Store.
+Trong khi đó, trên kho ứng dụng App Store (nền tảng iOS) chưa xuất hiện hiện tượng nói trên.
+Hành vi đánh giá ứng dụng với điểm số tối thiểu (1 sao) trên kho ứng dụng không còn hiếm tại Việt Nam. Mỗi khi một nhóm cộng đồng không hài lòng với thay đổi hoặc thông tin mới từ nhà cung cấp dịch vụ, họ thường có xu hướng cùng nhau đánh giá thấp và bình luận tiêu cực. Trước đây, không ít ứng dụng đang có chỉ số tốt từ trên 4,2 - 4,5 sao tổng đã nhanh chóng tụt xuống còn hơn 2 sao, thậm chí 1 sao vì những hành động như vậy.
+Không chỉ hạ thấp điểm đánh giá trên kho ứng dụng, nhiều tổ chức, dịch vụ còn bị người dùng chấm điểm số tối thiểu trên một số công cụ đánh giá trực tuyến như Google, Facebook... Trong trường hợp của Zalo, page chính thức (có tick xanh) của hãng trên Facebook cũng bắt đầu xuất hiện một số cá nhân vào bình luận tiêu cực, dù trang này có rất ít hoạt động trong vài năm qua.
+Zalo bắt đầu thu phí từ hôm nay Từ ngày 1.8, ứng dụng nhắn tin qua internet (OTT) phổ biến nhất tại Việt Nam bắt đầu tính gói thuê bao đối với người dùng, đồng thời cắt giảm một số tính năng của bản miễn phí. Như đã thông báo từ trước, Zalo chính thức triển... 

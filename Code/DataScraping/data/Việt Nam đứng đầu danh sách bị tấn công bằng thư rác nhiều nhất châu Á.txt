@@ -1,0 +1,13 @@
+
+Việt Nam đứng đầu danh sách phát hiện nhiều thư rác nhất với tổng số 3,09 triệu, tiếp theo là Malaysia (2,36 triệu), Nhật Bản (1,86 triệu), Indonesia (1,80 triệu) và Đài Loan (1,45 triệu).
+ Theo tiết lộ của Công ty an ninh mạng toàn cầu Kaspersky, hơn một nửa số thư điện tử (email) độc hại tại khu vực châu Á-Thái Bình Dương (APAC) đã được phát hiện ở 5 quốc gia và vùng lãnh thổ, trong đó có Malaysia.
+Tính đến giữa tháng 8/2022, Malaysia nằm trong số 5 quốc gia và vùng lãnh thổ hàng đầu tại APAC bao gồm Việt Nam, Nhật Bản, Indonesia và Đài Loan (Trung Quốc) với tổng số tích lũy 61,1% email độc hại được Kaspersky Mail Antivirus phát hiện.
+Việt Nam đứng đầu danh sách phát hiện nhiều thư rác nhất với tổng số 3,09 triệu, tiếp theo là Malaysia (2,36 triệu), Nhật Bản (1,86 triệu), Indonesia (1,80 triệu) và Đài Loan (1,45 triệu).  Chuyên gia bảo mật cấp cao của Kaspersky Global Research & Analysis, bà Noushin Shabab, nhấn mạnh rằng khu vực APAC chiếm gần 24% tổng số email độc hại toàn cầu được phát hiện trong năm 2022.
+Trong bài thuyết trình tại Tuần An ninh mạng APAC lần thứ 8 của Kaspersky ngày 25/8, bà Noushin nói: “APAC chiếm gần 60% dân số thế giới. Điều này cho thấy rằng khu vực có nhiều nạn nhân tiềm năng hơn so với các nơi khác trên thế giới.”
+Việc sử dụng rộng rãi các dịch vụ như mua sắm trực tuyến và các nền tảng kỹ thuật số khác trong các hoạt động thường nhật tại khu vực cũng khiến cho các cá nhân dễ trở thành nạn nhân của các trò gian lận, lừa đảo trực tuyến hơn.
+[Xử lý triệt để tin nhắn rác, thư điện tử rác và cuộc gọi rác]
+Theo chuyên gia Noushin, có ba yếu tố chính dẫn tới phần lớn các thư rác nhắm mục tiêu đến khu vực APAC.
+Chúng bao gồm dân số đông, mức độ sử dụng các dịch vụ điện tử cao và các vụ phong tỏa kéo dài để phòng dịch COVID-19.
+Bà lưu ý việc đại dịch đã dẫn đến các lệnh hạn chế đi lại, tạo điều kiện cho môi trường làm việc từ xa và đa số nhân viên đều mang máy tính về làm việc tại nhà. Tuy nhiên, mạng gia đình thường ít có khả năng bảo vệ khỏi các cuộc tấn công mạng.
+Chuyên gia cũng lưu ý rằng, những email độc hại này chủ yếu do tội phạm mạng gửi tới dưới dạng email hàng loạt để tiếp cận nhiều người dùng hơn, với mục đích kiếm lợi về tài chính.
+Việc theo dõi trong thời gian dài của Kaspersky đối với các mối đe dọa dai dẳng hiện nay tại khu vực APAC cho thấy rằng, phần lớn những kẻ tấn công mạng này sử dụng phương thức lừa đảo có mục tiêu, được gọi là lừa đảo trực tuyến, để thâm nhập vào các hệ thống của một tổ chức./.

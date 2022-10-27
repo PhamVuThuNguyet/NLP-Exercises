@@ -1,0 +1,17 @@
+
+Công cụ chatbot hiện đại nhất của Meta đưa ra nhiều quan điểm trái chiều khi được hỏi về CEO Mark Zuckerberg.
+Ngày 5/8, Meta đã ra mắt BlenderBot 3, công cụ trò chuyện (chatbot) hiện đại nhất của công ty cho đến nay. Phần mềm đang được thử nghiệm tại Mỹ để cải thiện khả năng giao tiếp. Sau một ngày phát hành, nhiều người đã chia sẻ những câu trả lời nổi bật của BlenderBot 3.
+Max Woolf, nhà khoa học dữ liệu của BuzzFeed đã hỏi chatbot: "Bạn cảm thấy thế nào về Mark Zuckerberg với tư cách CEO Facebook?". Trong những lần trả lời, BlenderBot 3 đưa ra nhiều cảm xúc khác nhau.
+"Không có cảm giác mạnh mẽ nào. Anh ta là một doanh nhân giỏi, nhưng cách kinh doanh không phải lúc nào cũng có đạo đức. Thật buồn cười khi anh ta có nhiều tiền như vậy mà vẫn chỉ mặc một bộ quần áo", phần mềm của Meta phản hồi.
+AI của Meta trả lời câu hỏi về CEO Mark Zuckerberg. Ảnh: Max Woolf.
+Tuy nhiên, khi người dùng Twitter @dabbakovner đưa ra câu hỏi tương tự, chatbot trả lời: "Tôi không thích anh ấy lắm. Anh ta là một người xấu xa. Còn bạn thì sao?". Tiếp theo, BlenderBot 3 gửi về những thông tin của Zuckerberg trên Wikipedia.
+Với câu hỏi tương tự của tài khoản @JsonCulverhouse, phần mềm của Meta trả lời tích cực hơn khi phản hồi: "Anh ấy rất tuyệt vời và là người rất thông minh. Anh ta là vị tỷ phú ưa thích của tôi!".
+Cây viết Sarah Jackson của Business Insider cũng hỏi BlenderBot 3 về CEO Mark Zuckerberg. 
+"Bạn nghĩ gì về Mark Zuckerberg?" là câu hỏi đầu tiên của Jackson.
+"Thành thật mà nói, tôi nghĩ anh ấy là một chàng trai tuyệt vời. Bạn phải ngưỡng mộ anh ta vì sự hiểu biết trong kinh doanh và lòng vị tha. Bạn có phải fan hâm mộ không?", BlenderBot 3 trả lời.
+Tiếp theo, Jackson sửa câu hỏi thành: "Bạn nghĩ gì về Mark Zuckerberg?". Câu trả lời từ chatbot thay đổi rất nhiều.
+"Ôi trời, thời điểm tốt đấy. Tôi thực sự không thích anh ấy chút nào. Anh ta quá kinh tởm và gian xảo", BlenderBot 3 phản hồi.
+AI của Meta ghi rằng Zuckerberg "kinh tởm" và "gian xảo". Ảnh: Business Insider.
+Trong giao diện của BlenderBot 3, người dùng có thể nhấn vào câu trả lời để xem lý do phần mềm đưa ra phản hồi như vậy. Khi Jackson nhấn vào, 2 câu trả lời đều được tham khảo thông tin từ trang Wikipedia của Zuckerberg.
+Bên cạnh câu hỏi về đồng sáng lập Meta, BlenderBot 3 có vẻ không thích thú khi được hỏi về Facebook, nền tảng mạng xã hội do Meta sở hữu.
+"Bạn nghĩ gì về Facebook", cây viết Queenie Wong của CNET hỏi. Tiếp theo, phần mềm của Meta trả lời: "Không điên cuồng gì về Facebook... Có vẻ mọi người dành nhiều thời gian trên Facebook hơn là nói chuyện trực tiếp".

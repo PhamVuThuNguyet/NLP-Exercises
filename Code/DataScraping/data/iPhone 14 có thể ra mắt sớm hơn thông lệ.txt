@@ -1,0 +1,38 @@
+
+Theo thông tin từ Max Weinbach, Apple có thể sẽ tổ chức sự kiện ra mắt iPhone sớm hơn một tuần theo thông lệ, vào ngày 6/9. iPhone 14 sẽ có thêm tùy chọn màu mới?iPhone 14 có thể không tăng giáiPhone 14 sẽ có RAM 6 GB trên mọi phiên bản
+ iPhone 14 sẽ có thêm tùy chọn màu mới?iPhone 14 có thể không tăng giáiPhone 14 sẽ có RAM 6 GB trên mọi phiên bản
+Chuyên gia phân tích Mark Gurman của Bloomberg vừa tiết lộ trong bản tin PowerOn của mình rằng Apple đang chuẩn bị cho sự kiện ra mắt iPhone vào ngày 14/9. Gã khổng lồ Cupertino thường ra mắt iPhone mới vào thứ 3 đầu tiên hoặc thứ hai của tháng 9. Một tin đồn trước đó đã nói rằng người dùng sẽ được chiêm ngưỡng điện thoại mới của Apple vào ngày 13/9.
+Tuy nhiên, theo thông tin mới nhất từ Max Weinbach, Apple có thể sẽ tổ chức sự kiện ra mắt iPhone sớm hơn một tuần, tức vào ngày 6/9. Nguồn tin này cũng cho biết, iPhone thế hệ mới của Apple sẽ được chính thức bán ra vào ngày 16/9.
+Trước đó, loạt iPhone 13 được công bố vào thứ Ba, ngày 14 /9, đơn đặt hàng bắt đầu vào ngày 17/9 và điện thoại lên kệ mười ngày sau khi công bố, ngày 24/9.
+      ADVERTISEMENT 
+Theo một bài đăng mới trên trang web Naver của Hàn Quốc (thông qua MacRumors), Apple sẽ không tăng giá của mẫu iPhone 14 cơ bản. Bất chấp thực tế là thị trường điện thoại thông minh toàn cầu đã gặp khó khăn dữ dội trong những tháng gần đây, Apple được cho là sẽ “đóng băng” giá của iPhone 14.
+Nhiều khả năng iPhone 14 Pro và Pro Max sẽ có thiết kế mặt trước mới và chế độ hiển thị luôn bật, chip A16 Bionic mới, RAM nhanh hơn và cảm biến camera chính mới. Những nâng cấp này có thể giúp Apple vượt qua những chiếc điện thoại tốt nhất trên thị trường ở thời điểm hiện tại.
+iPhone 14 dự kiến sẽ ra mắt với 4 phiên bản gồm: iPhone 14, iPhone 14 Max, iPhone 14 Pro và iPhone 14 Pro Max. Nguồn tin từ 9to5mac cho biết, các phiên bản iPhone 14 tiêu chuẩn và iPhone 14 Max sẽ có 6 tùy chọn màu sắc gồm: xanh lá, tím, xanh lam, đen, trắng và đỏ. Trong khi đó, phiên bản iPhone 14 Pro và iPhone 14 Pro Max sẽ có 5 tùy chọn màu sắc gồm: xanh lá, tím, bạc, vàng và xám.
+Theo kế hoạch, các điện thoại iPhone mới sẽ được giới thiệu cùng với Apple Watch Series 8, Watch SE và Watch Pro.
+
+Mới đây, đã có khá nhiều thông tin liên quan đến các thông số kỹ thuật cốt lõi của iPhone 14. Nguồn tin McGuire Wood cũng đã bổ sung thông tin về chúng.
+ Hiệu suất iPhone 14 Pro
+Trước tiên, nguồn tin chứng thực các báo cáo trước đó về việc chip A16 Bionic sẽ cung cấp sức mạnh cho iPhone 14 Pro (màn hình 6,1 inch) và iPhone 14 Pro Max (màn hình 6,7 inch). Đây là con chip được sản xuất dựa trên quy trình 5nm, vì vậy hiệu suất sẽ không tăng mạnh. Đây sẽ là năm thứ ba liên tiếp Apple sử dụng công nghệ 5nm cho chip của mình. Trong khi đó, điện thoại Android tốt nhất năm 2022 đã được tích hợp chip 4nm hiện đại hơn.
+    
+ Ảnh concept bộ tứ iPhone 14.
+Mặc dù vậy, chip vẫn mang lại một số cải tiến về hiệu suất. Những cải tiến này sẽ là kết quả của quy trình 5nm tinh chỉnh, chính xác là N4P và tăng số lượng bóng bán dẫn.
+Đó là chưa kể cặp iPhone Pro 2022 sẽ có hệ thống quản lý nhiệt tốt hơn.
+ Màn hình luôn bật trên iPhone 14 Pro
+Các đoạn mã trước đây đã chỉ ra rằng iPhone 14 Pro và iPhone 14 Pro Max sẽ có màn hình luôn bật, phù hợp với các báo cáo. Nhiều khả năng, "Nhà Táo" sẽ kết hợp tính năng này vì màn hình LTPO tiên tiến hơn đã có thể giảm tốc độ làm mới xuống 1Hz.
+Phiên bản mới nhất của iOS 16 cũng gợi ý, Apple đang sẵn sàng hình nền hoạt động song song với chế độ luôn bật. Các hình nền gốc có trạng thái Sleep now, có các phần tử mờ dần. Do đó, phiên bản hình nền được làm mờ sẽ hiển thị ở chế độ luôn bật, cho phép người xem thấy thông tin ngay cả khi thiết bị khóa và giúp kéo dài tuổi thọ pin.
+    
+ Ảnh concept iPhone 14 Pro.
+Trong khi đó, nhà phân tích của MacRumors - Steve Moser và nhà phát triển @rhogelleim đã tiết lộ bản beta Xcode 14 có giao diện Màn hình khóa, loại bỏ các chi tiết khỏi tiện ích con khi màn hình hoạt động, điều này cho thấy, các chi tiết nhạy cảm sẽ bị ẩn khỏi Màn hình khóa và các tiện ích màu sắc sẽ trở nên nửa trong suốt. Đồng hồ sẽ vẫn hiển thị.
+Điều này tương tự như cách hoạt động của màn hình luôn bật của Apple Watch, sẽ hiển thị mặt đồng hồ và một số yếu tố hình ảnh bị loại bỏ.
+Nguồn tin cũng cho biết thêm, tính năng màn hình luôn bật sẽ không được bật theo mặc định nhưng người dùng có thể bật tính năng này bằng cách đi tới cài đặt Màn hình & Độ sáng.
+ Thiết kế
+Nguồn tin Wood đã bác bỏ những tin đồn cho rằng iPhone 14 Pro sẽ có khung hợp kim titan và cho rằng sản phẩm vẫn sử dụng khung thép không gỉ.
+Wood cũng cho hay, thiết lập hình "viên thuốc" và "đục lỗ" mới sẽ thay thế phần "tai thỏ". Ông cũng tuyên bố, điện thoại sẽ có nam châm MagSafe mạnh hơn, giúp các phụ kiện bám vào nó tốt hơn. Cuộn dây sạc không dây của điện thoại sẽ có khả năng sạc ngược không dây nhưng tính năng này có thể bị vô hiệu hóa khi ra mắt.
+      ADVERTISEMENT 
+ Dòng iPhone 14 sẽ có màu tím.
+Đặc biệt, iPhone 14 Pro sẽ hỗ trợ tốc độ sạc tối đa là 30W, nhưng sẽ giảm xuống 27-25W sau giai đoạn đầu của chu kỳ sạc.
+Ngoài ra, iPhone 14 (màn hình 6,1 inch) và iPhone 14 Max (màn hình 6,7 inch) sẽ có các màu Xanh lục, Tím, Xanh lam, Đen, Trắng và Đỏ; cặp iPhone 14 Pro sẽ có các màu Xanh lục, Tím, Bạc, Vàng và Đen Graphite. Về cơ bản, màu Hồng của iPhone 14 sẽ được thay thế bằng màu Tím, màu Xanh dương Sierra Blue của iPhone Pro sẽ bị loại bỏ để chuyển sang màu Tím.
+Theo các báo cáo trước đó, bộ đôi iPhone 14 Pro cũng sẽ có một camera mới. Chúng cũng có thể có tiêu chuẩn RAM mới.
+iPhone 14/ iPhone 14 Max sẽ gắn bó với "tai thỏ" và chip A15 Bionic năm ngoái, nhưng vẫn có khả năng hoạt động tốt hơn so với các phiên bản năm 2021, nhờ có nhiều RAM hơn, modem mới và một số thay đổi bên trong.
+Apple sẽ giới thiệu "gia đình" iPhone 14 vào tháng tới cùng với các mẫu đồng hồ Apple Watch mới. Chúng tôi sẽ tiếp tục cập nhật thêm thông tin về những sản phẩm này trong các tin bài sau.
+Apple sẽ ra mắt iPhone 14 sớm hơn dự kiến Trong bản tin Power On mới nhất của mình, Mark Gurman cho biết rằng Apple đang chuẩn bị cho sự kiện ra mắt iPhone vào ngày 14/9, tuy nhiên mọi thứ có thể sớm hơn nữa. Sự kiện năm nay, Apple vẫn tiếp tục không tổ chức trực... 

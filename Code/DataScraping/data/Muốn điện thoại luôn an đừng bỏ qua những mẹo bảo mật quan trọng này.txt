@@ -1,0 +1,35 @@
+
+Ngày nay, điện thoại thông minh không chỉ là một phương tiện để gọi điện hoặc nhắn tin cho mọi người mà nó còn đóng vai trò như một bộ não dự phòng bên ngoài lưu trữ tất cả dữ liệu quan trọng trong cuộc sống. Đây là cách bảo vệ tất cả dữ liệu quý giá trên điện thoại của bạn.
+Các nguyên tắc chính của bảo mật điện thoại thông minh
+Bất kể bạn có loại điện thoại thông minh nào, đây là 4 vấn đề bảo mật chính mà bạn nên lưu ý:
+Thứ nhất, chống virus: Giống như máy tính xách tay hoặc máy tính để bàn, điện thoại dễ bị tấn công và bị nhiễm virus.
+Thứ hai, quyền riêng tư trên smartphone: việc duy trì quyền riêng tư trên thiết bị của bạn là điều tối quan trọng.
+Thứ ba, bảo mật điện thoại: Điện thoại thường là cứu cánh của bạn và thậm chí, nó còn đóng vai trò là ví kỹ thuật số của nhiều người dùng, điều này khiến nó trở thành mục tiêu hàng đầu của những tên trộm.
+Thứ tư, thu thập dữ liệu cá nhân: Các ứng dụng và thậm chí ngay cả điện thoại của bạn luôn cố gắng thu thập thông tin về bạn. Quan trọng là bạn cần kiểm soát được điều này.
+Những mẹo hữu ích nhất về bảo mật điện thoại
+1. Bỏ qua và tránh các cuộc tấn công lừa đảo
+    
+Tin tặc ngày càng tinh vi hơn trong nỗ lực đánh cắp chìa khóa danh tính của bạn. Hành động đầu tiên bạn cần làm là xóa ngay lập tức bất kỳ email hoặc văn bản có vấn đề nào và tìm hiểu cách ngăn chặn hoàn toàn các văn bản spam lừa đảo.
+2. Sử dụng phần mềm diệt virus cho điện thoại
+    
+Bạn có biết rằng ngay cả với các bản cập nhật bảo mật mới nhất của iPhone, nó vẫn có thể bị nhiễm virus? Việc cài đặt thêm phần mềm chống virus cho điện thoại là điều cần thiết.
+3. Bảo mật tin nhắn để duy trì quyền riêng tư
+    
+Để bảo mật tin nhắn, bạn có thể lựa chọn cách ẩn tin nhắn hoặc cài đặt mật khẩu cho tin nhắn tùy theo độ tương thích của loại điện thoại bạn đang sử dụng. Hiện nay, có rất nhiều ứng dụng trò chuyện trên điện thoại, hãy lựa chọn những ứng dụng tin nhắn an toàn. Một số ứng dụng nhắn tin an toàn nhất hiện nay là Telegram, Viber, Signal,...
+4. Quản lý quyền ứng dụng của bạn
+    
+Điện thoại thông minh của bạn và các ứng dụng bạn tải xuống điện thoại biết rất nhiều về bạn, thậm chí có đôi khi là quá nhiều. Một trong những cách nhanh nhất để bảo mật thông tin cá nhân của bạn là chú ý đến các quyền ứng dụng.
+Ví dụ: ứng dụng chia sẻ xe của bạn có thực sự cần quyền truy cập vào danh sách liên hệ hoặc lịch của bạn không?
+Ngoài ra, thỉnh thoảng, bạn nên xóa cookie khỏi điện thoại. Cookie là những mẩu dữ liệu nhỏ có thể tiết lộ sở thích và thói quen của bạn và tổng hợp lại, chúng có thể tiết lộ rất nhiều điều về bạn.
+5. Khóa điện thoại 
+    
+Theo báo cáo của Pew năm 2017, gần 30% chủ sở hữu điện thoại thông minh thậm chí không sử dụng khóa màn hình hoặc các tính năng bảo mật khác. Tuy nhiên, cách dễ nhất và rõ ràng nhất để giữ cho điện thoại của bạn được bảo vệ là thường xuyên khóa màn hình chính và sử dụng phương pháp xác thực hai yếu tố.
+6. Cảnh giác với Wi-Fi công cộng
+    
+Nhiều người sẽ cho rằng việc kiểm tra email của trong khi chờ xe buýt có thể rất tiện lợi và thỉnh thoảng bạn có thể đến quán cà phê trên phố để làm việc. Tuy nhiên, việc đăng nhập vào một mạng Wi-Fi mở có thể khiến thiết bị của bạn bị tin tặc tấn công nếu bạn không cẩn thận.
+7. Sử dụng ứng dụng khôi phục để tìm điện thoại bị mất
+    
+Một chiếc iPhone bị mất hoặc bị đánh cắp có thể là điều tồi tệ nhất, nhưng có những bước bạn cần thực hiện ngay và luôn để bảo vệ bản thân và thông tin của mình nếu chẳng may bạn rơi vào trường hợp này. Hãy đảm bảo rằng bạn biết cách khôi phục cài đặt gốc cho điện thoại iPhone hoặc Android của mình và làm như vậy trước khi bán lại chúng.
+8. Không bẻ khóa hoặc root thiết bị 
+    
+Cuối cùng, các chuyên gia đặc biệt khuyên người dùng không nên bẻ khóa iPhone hoặc root Android của bạn. Tại sao? Mặc dù việc bẻ khóa điện thoại của bạn có vẻ hấp dẫn, nhưng nó cũng khiến cho điện thoại của bạn dễ bị tấn công hoặc virus khác.

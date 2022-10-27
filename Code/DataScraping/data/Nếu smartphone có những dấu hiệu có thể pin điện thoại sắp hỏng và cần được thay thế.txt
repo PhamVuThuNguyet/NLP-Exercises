@@ -1,0 +1,33 @@
+
+Tất cả chúng ta đều biết rằng hầu hết các thiết bị điện tử của chúng ta không tồn tại mãi mãi, đặc biệt là pin điện thoại.
+Pin điện thoại thông minh chỉ có thể hoạt động tốt trong một khoảng thời gian nhất định và tuổi thọ của nó sẽ bị tiêu hao dần theo thời gian.
+Nói chung, bạn sử dụng thiết bị của mình càng lâu và càng nhiều thì pin của bạn càng nhanh xuống cấp đến mức có thể phải thay thế.
+Làm thế nào để xác định tình trạng pin của điện thoại thông minh đã giảm sút?
+Đây là những dấu hiệu cho thấy chất lượng pin đã suy giảm:
+- Các thao tác trên điện thoại hoạt động chậm hơn.
+    
+- Ứng dụng mở hoặc chạy chậm hơn.
+- Pin điện thoại hết nhanh hơn trước.
+    
+- Điện thoại mất nhiều thời gian hơn để bật.
+- Điện thoại tự tắt mà không có lý do trong khi bạn đang sử dụng bình thường.
+- Điện thoại chỉ chạy bằng nguồn AC khi sạc.
+Có bất kỳ công cụ nào để phân tích pin điện thoại không?
+Công cụ kiểm tra pin trên iPhone mới được phát hành vài năm trở lại đây sẽ cung cấp cho người dùng biết theo tỷ lệ phần trăm (%) tình trạng pin của thiết bị. Sau đó, hệ điều hành sẽ cung cấp cho bạn dữ liệu chắc chắn về việc liệu pin của bạn có cần thay thế hay không.
+Trong khi đó, các thiết bị Android, thậm chí là các mẫu cao cấp hiện vẫn chưa được trang bị công cụ phân tích hiệu suất pin này.
+Làm thế nào để biết tình trạng pin iPhone?
+Từ iPhone 6 trở lên phiên bản iOS 11.3, bạn có thể truy cập Cài đặt > nhấp vào Pin > Trạng thái pin.
+    
+Khi bạn chọn Trạng thái pin, bạn có thể dễ dàng biết được các số liệu thống kê thú vị liên quan đến pin của thiết bị.
+Công cụ đo dung lượng pin sẽ ở trạng thái hiện tại, so với 100% khi điện thoại còn mới. Khuyến nghị trung bình là pin ở khoảng 80% dung lượng ban đầu được coi là khỏe mạnh. Khi dung lượng giảm xuống dưới 80%, Apple khuyến nghị người dùng nên thay pin mới.
+Tính năng trên có thể gửi nhiều cảnh báo về tình trạng pin hiện tại. Những thông báo này có thể cho biết liệu pin của bạn có đang ở tình trạng hư hỏng nặng và cần được thay pin mới hay không.
+Làm thế nào để biết tình trạng pin điện thoại Android?
+Điện thoại di động Android cung cấp các công cụ điều khiển để tối ưu hóa và tiết kiệm pin của bạn, đồng thời cung cấp thông tin về cách quản lý các ứng dụng sử dụng nhiều năng lượng. Tuy nhiên, Android có ít công cụ được tích hợp sẵn hơn iPhone, để trực tiếp thu thập và phân tích dữ liệu về tình trạng pin của điện thoại.
+Mặt khác, trong phiên bản Android 9.0 Pie và phiên bản Android 10, bạn có thể đi tới Cài đặt > Pin để theo dõi mức pin hiện tại của mình và chuyển đổi giữa các chế độ tiết kiệm pin có sẵn.
+Mặc dù không có các công cụ được tích hợp sẵn, các ứng dụng phân tích pin trên Cửa hàng Google Play cũng có thể giúp người dùng quản lý tình trạng pin, chẳng hạn như:
+AccuBattery
+    
+Mục đích chính của ứng dụng là thu thập thông tin về mức sử dụng pin thực tế của người dùng và tham khảo chéo với dữ liệu từ việc theo dõi sạc pin.
+Dfndr Battery
+    
+Bạn sẽ có thể quản lý các tính năng liên quan đến mức tiêu thụ năng lượng của điện thoại. Ứng dụng thu thập dữ liệu về việc sử dụng chúng và sau đó có thể tối ưu hóa hiệu suất của điện thoại thông minh về mặt năng lượng.

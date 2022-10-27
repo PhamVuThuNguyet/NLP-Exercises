@@ -1,0 +1,8 @@
+
+Cổng thông tin điện tử chính phủ Nhật Bản đã phải hứng chịu cuộc tấn công từ chối dịch vụ (DDoS) và không thể truy cập được từ khoảng 16h30 giờ địa phương và vẫn bị gián đoạn cho đến tối.
+Trung tâm sẵn sàng ứng phó sự cố và chiến lược an ninh mạng quốc gia Nhật Bản cho biết cổng thông tin điện tử e-Gov của chính phủ nước này ngày 6/9 đã bị tin tặc tấn công và không thể truy cập được.
+Theo trung tâm, trang web này đã phải hứng chịu cuộc tấn công từ chối dịch vụ (DDoS) và không thể truy cập được từ khoảng 16h30 giờ địa phương và vẫn bị gián đoạn cho đến tối. 
+Bộ Các vấn đề nội vụ và truyền thông cũng cho biết việc truy cập cổng thông tin thuế địa phương eLTAX cũng bị tắc nghẽn.
+[72% các tổ chức ở châu Á-TBD và Nhật Bản bị tấn công mạng trong 2021]
+Nhóm tin tặc Killnet đã đăng một thông báo trên ứng dụng nhắn tin Telegram tuyên bố thực hiện vụ tấn công này.
+Trang web e-Gov có các tính năng như cho phép người dân nộp đơn đăng ký dịch vụ công với chính quyền địa phương, lấy ý kiến người dân về những vấn đề đặc biệt, thông báo những thay đổi về luật pháp và cung cấp đường dẫn trực tiếp tới các trang mạng của chính phủ Nhật Bản./.

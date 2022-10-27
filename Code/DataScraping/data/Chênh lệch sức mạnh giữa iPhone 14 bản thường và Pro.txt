@@ -1,0 +1,45 @@
+
+iPhone 14 ra mắt: Theo giới thiệu của Apple, chipset A16 Bionic có trong iPhone 14 Pro và Pro Max nhanh hơn 40% so với đối thủ mạnh nhất trên thị trường di động.
+Năm nay, Apple ra mắt dòng iPhone 14 với sự khác biệt rõ rệt giữa các model cơ bản và model Pro. Nếu mua iPhone 14 hoặc iPhone 14 Plus, thì người dùng sẽ nhận được chip A15 Bionic giống với iPhone 13 hiện tại. 
+Chipset Apple A16 Bionic là nền tảng sức mạnh của iPhone 14 Pro và iPhone 14 Pro Max. Ảnh: Apple.
+Trong khi đó, iPhone 14 Pro và iPhone 14 Pro Max, lại được trang bị SoC Apple A16 Bionic mới. Vì vậy, muốn đánh giá iPhone 14 nhanh hơn thế hệ cũ như thế nào, hay bản Pro và thường có gì khác biệt cần phải xem xét phiên bản cụ thể.
+Nếu không kể iPhone SE - phiên bản không thuộc dòng sản phẩm chính của Apple - thì đây là lần đầu tiên Táo khuyết trang bị chipset đời cũ cho model iPhone mới ra mắt.
+Điều này khiến cho khoảng cách giữa dòng iPhone "cơ bản" và iPhone "Pro" lớn hơn so với thế hệ trước. iPhone 14 và iPhone 14 Plus được trang bị chipset Apple A15 Bionic, sản xuất trên quy trình 5 nm. Đây là nền tảng sức mạnh cho 4 model iPhone 13 series ra mắt vào năm 2021.
+Trong khi đó, bộ đôi iPhone 14 Pro và iPhone 14 Pro Max sở hữu SoC Apple A16 Bionic mới nhất. Chipset này ra đời trên quy trình 4 nm tiên tiến hơn.
+Biểu đồ so sánh hiệu năng CPU của A16, A13 và một đối thủ giấu tên. Ảnh: Apple.
+Theo nhận định của Zdnet, Apple hoàn toàn có cơ sở khi thực hiện việc này. Dù đã ra mắt từ năm trước, A15 Bionic vẫn quá mạnh so với phần còn lại của thế giới di động.
+Một biểu đồ được trình bày tại buổi ra mắt iPhone 14 series đã nói lên tất cả. Apple so sánh hiệu năng CPU của A16 Bionic mới nhất với A13 Bionic từ năm 2019 và "đối thủ cạnh tranh gần nhất" sản xuất năm 2022 (có thể giả định đó chính là Snapdragon 8+ Gen 1 - chipset mạnh nhất của thiết bị di động chạy Android).
+Có thể thấy con chip 3 năm tuổi của Apple vẫn đánh bại đối thủ. Điều này đồng nghĩa A15 đủ sức đảm đương các tác vụ cần thiết, đáp ứng tốt nhu cầu của đa số người dùng.
+Sự khác biệt rõ ràng giữa iPhone 14/14 Plus và iPhone 14 Pro/Pro Max khiến những người đã chọn iPhone 13 Pro Max năm ngoái ít có khả năng hạ cấp xuống iPhone 14/14 Plus với thông số kỹ thuật và giá thấp hơn. Nhờ vậy, nhóm khách hàng của Apple cơ bản vẫn ổn định.
+Apple đã chứng tỏ khả năng phát triển SoC di động trong nhiều năm qua. Dòng chipset A Bionic luôn nằm trong nhóm những con chip mạnh nhất của thế giới smartphone. Do đó, không có gì bất ngờ khi A16 Bionic tiếp tục khẳng định vị thế vượt trội.
+Apple khẳng định A16 Bionic nhanh hơn 40% so với đối thủ mạnh nhất trên thị trường di động. Ảnh: Apple.
+Theo giới thiệu của Apple, A16 Bionic nhanh hơn 40% so với đối thủ. Đây là con số rất ấn tượng nếu như cái tên Táo khuyết ám chỉ chính là Snapdragon 8+ Gen 1 - chipset di động mạnh nhất của Qualcomm tính tới thời điểm này.
+Trên quy trình 4 nm mới, A16 Bionic chứa 16 tỷ bóng bán dẫn, con số kỷ lục trong một chiếc iPhone. Nó có 6 nhân CPU, bao gồm 2 nhân hiệu năng cao và 4 nhân tiết kiệm điện, 5 lõi GPU và bộ xử lý thần kinh 16 nhân.
+Apple tuyên bố 2 nhân CPU hiệu năng cao do họ xây dựng có tốc độ nhanh nhất trong thế giới di động. Trong khi đó, vi xử lý thần kinh có thể xác nhận 17 nghìn tỷ hoạt động mỗi giây, kết hợp bộ xử lý màn hình hoàn toàn mới để hỗ trợ đẩy tần số quét xuống 1 Hz, xử lý tính năng always-on và giúp Dynamic Island hoạt động mượt mà.
+Mức tiêu thụ pin của 2 nhân hiệu năng cao thấp hơn 20%, trong khi 4 nhân còn lại chỉ sử dụng năng lượng bằng 1/3 những con chip đối thủ.
+Những ưu điểm vượt trội của chipset mới giúp Apple bổ sung vào bộ đôi iPhone 14 Pro/Pro Max các tính năng mới như camera 48 MP, màn hình luôn bật, độ sáng tối đa lên đến 2.000 nit, tần số quét linh động.
+     
+ iPhone 14 vẫn được bán tại Nga 
+  12 giờ trước 19:31 9/9/2022  Công nghệ Mobile 
+   0   
+Người dân Nga vẫn có thể mua iPhone 14, bất chấp các lệnh trừng phạt từ phương Tây.
+     
+ Elon Musk muốn hợp tác với Apple 
+  13 giờ trước 18:28 9/9/2022  Công nghệ Mobile 
+   0   
+Vị tỷ phú cho biết ông đang thảo luận với Apple về kết nối vệ tinh trên iPhone 14 và khen ngợi đội ngũ nhân viên của tập đoàn.
+     
+ Quốc gia bán iPhone 14 đắt nhất thế giới 
+  15 giờ trước 15:34 9/9/2022  Công nghệ Mobile 
+   0   
+Giá bán iPhone 14 ở Thổ Nhĩ Kỳ cao gấp đôi Mỹ, biến quốc gia này trở thành nước bán iPhone mới đắt nhất thế giới.
+     
+ iPhone 14 xách tay chưa về đã loạn giá 
+  17 giờ trước 14:08 9/9/2022  Công nghệ Mobile 
+   0   
+Các thương lái đang nhận xách tay iPhone 14 về ngay trong ngày mở bán 16/9. Tuy nhiên giá bán đang có sự chênh lệch rõ rệt tại từng cửa hàng.
+     
+ Chi tiết mới trên iPhone 14 
+  17 giờ trước 13:57 9/9/2022  Công nghệ Mobile 
+   0   
+Apple có thể bổ sung nhạc khởi động trên dòng iPhone 14, giúp người dùng khiếm thị nhận biết khi điện thoại được mở hoặc tắt nguồn.

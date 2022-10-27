@@ -1,0 +1,26 @@
+
+Với mật mã, mật khẩu, theo dõi vị trí và hơn thế nữa, điện thoại thông minh đang âm thầm thu thập rất nhiều dữ liệu của chúng ta.
+1. Mọi nơi bạn đã từng đến
+    
+Cả điện thoại Android và iPhone đều có thiết bị theo dõi nội bộ có thể nhìn thấy vị trí của bạn tại bất kỳ địa điểm nhất định nào. Nó được gọi “Dịch vụ vị trí”. Nếu chức năng này được bật, điện thoại của bạn có thể đã tạo ra một danh sách khá dài các địa điểm bạn đã đến. Tính năng này sử dụng rất nhiều pin nên nhiều người dùng đã tắt nó đi. Tuy nhiên, một số ứng dụng như Uber hoặc Airbnb sẽ bật tính năng này khi bạn cho phép. Và tất cả những thông tin này mà điện thoại thông minh của bạn biết về bạn đều có thể trở thành “mồi ngon” đối với tin tặc.
+2. Mọi thứ bạn đã nói với Siri
+    
+Apple thu thập dữ liệu từ Siri để "hiểu bạn hơn và nhận ra những gì bạn nói", theo thỏa thuận cấp phép phần mềm. Siri có thể theo dõi mọi thứ, từ cách bạn phát âm các từ đến xu hướng trong các tìm kiếm Siri. Tuy nhiên, thông tin Siri học được kết nối với điện thoại bằng một ID ngẫu nhiên thay vì tài khoản Apple của bạn để đảm bảo tính ẩn danh.
+3. ID cá nhân 
+    
+Công ty sản xuất smartphone OnePlus có trụ sở tại Trung Quốc từng bị phát hiện sử dụng thông tin nhận dạng cá nhân (như mật mã thiết bị) từ người dùng. Sau khi bị phát hiện, thương hiệu này đã giải thích rằng họ đã sử dụng thông tin này để cải thiện trải nghiệm người dùng và đã khắc phục được vấn đề vi phạm quyền riêng tư. Nhưng dù sao đi nữa, họ không nên xâm phạm quyền riêng tư của người dùng, đặc biệt là khi nó liên quan đến những thông tin nhạy cảm như vậy.
+4. Mật khẩu 
+    
+Bạn đã bao giờ đăng nhập vào một ứng dụng hoặc trang web trên điện thoại thông minh của mình và khi được nhắc lưu mật khẩu, bạn đã trả lời "Có" chưa? Thật thuận tiện và dễ dàng cho các trang web truy cập để ghi nhớ thông tin của chúng ta và tiết kiệm thời gian đăng nhập. Tuy nhiên, bạn có thực sự muốn Google, điện thoại thông minh của bạn và một số trang web sơ sài đó lưu trữ thông tin của bạn không?
+5. Mọi tin nhắn bạn gửi
+    
+Nếu bạn là người dùng iPhone muốn xóa các cuộc trò chuyện nhắn tin/iMessage, thì đây là một điều bất ngờ: Những cuộc trò chuyện đó có thể vẫn còn tồn tại ngay cả sau khi bạn đã xóa chúng. Apple lưu giữ các tin nhắn ở dạng mã hóa “trong một khoảng thời gian giới hạn” trước khi chúng bị xóa hoàn toàn, chỉ để “đảm bảo rằng chúng được gửi và đọc đúng cách”. Điều đáng ngại là Apple đã không tiết lộ "một khoảng thời gian giới hạn" là bao lâu. Có thể là 5 phút, nhưng cũng có thể là nhiều năm.
+6. Tất cả thông tin người dùng đã cung cấp cho Google
+    
+Điện thoại Android được cung cấp bởi các ứng dụng của Google (Chrome, Play Store, Gmail,…). Ngay sau khi bạn đăng nhập vào Android bằng thông tin đăng nhập Google, điện thoại của bạn sẽ được liên kết với tất cả các tài khoản Google khác của bạn. Khi bạn đã đăng nhập, Google sẽ có quyền truy cập vào mọi thứ mà bạn thực hiện, bao gồm thời lượng và loại cuộc gọi trên điện thoại của bạn, bạn đang ở đâu và hơn thế nữa.
+7. Bạn đang di chuyển nhanh như thế nào
+    
+Bạn đã bao giờ nhận được thông báo trên iPhone có nội dung “Bạn sẽ mất … phút để đến … (một vị trí mà bạn thường xuyên ghé thăm chẳng hạn)? Nó thường đi cùng với các dịch vụ định vị. iPhone không chỉ theo dõi vị trí của bạn mà còn tính toàn thời gian bạn đến và đi tới một địa điểm nào đó. Sự thuận tiện đôi khi đi cùng với sự đáng sợ. Nếu bạn không muốn bị chính thiết bị của mình theo dõi, hãy tắt dịch vụ vị trí trong cài đặt. Và hãy đảm bảo rằng các ứng dụng bạn đang sử dụng như Uber hoặc Facebook, cũng đã được bạn tắt dịch vụ định vị.
+8. Tất cả thông tin bạn đã cung cấp cho ứng dụng của mình
+    
+Có rất nhiều ứng dụng trên điện thoại có khả năng theo dõi lượng dữ liệu khổng lồ từ người dùng của họ. Bạn chỉ cần vào mục Cài đặt trên điện thoại thông minh để kiểm soát lượng thông tin mà các ứng dụng này sẽ nhận được. Khi bạn thay đổi các cài đặt này, khả năng truy cập của ứng dụng sẽ giảm.

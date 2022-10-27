@@ -1,0 +1,8 @@
+
+Người dùng trên toàn thế giới không thể truy cập trang chủ Google.com khi gặp lỗi 502 song các dịch vụ khác của &#39;gã khổng lồ&#39; tìm kiếm này vẫn họat động bình thường.
+Sáng 9/8, dịch vụ Google Tìm kiếm đã gặp sự cố không thể truy cập trên toàn cầu.
+Cụ thể, vào khoảng 8 giờ 30 phút theo giờ Việt Nam, khi người dùng truy cập Google.com sẽ không thể sử dụng dịch vụ đồng thời trang chủ cũng hiện lỗi 502. Trong khi đó, các dịch vụ khác của Google như Gmail, Drive hay YouTube vẫn hoạt động bình thường.
+Trên lý thuyết, "lỗi 502" là một mã trạng thái liên quan "http." Khi sử dụng Internet, người dùng sẽ được báo lỗi này nếu gateway hoặc proxy nhận được phản hồi không hợp lệ (invalid response) từ máy chủ gốc. Do đó, người dùng không thể truy cập được vào thông tin, nội dung của website cần tới.
+Trên trang thông báo các sự cố về dịch vụ DownDetector, số lượng người phản ánh về lỗi truy cập Google.com lên tới hơn 43 ngàn người vào thời điểm 8 giờ 34. 
+Đến khoảng 10 giờ sáng, thông báo về sự cố này đã giảm dần. Người dùng ở các thành phố lớn trên thế giới như New York, San Francisco (Mỹ),... cũng gửi đi các báo cáo tương tự là không thể truy cập Google.
+Đến 10 giờ sáng cùng ngày, các báo cáo liên quan tới lỗi truy cập Google.com từ các nơi trên thế giới đã giảm. Tại Việt Nam, người dùng cũng đã truy cập được Google.com bình thường./.

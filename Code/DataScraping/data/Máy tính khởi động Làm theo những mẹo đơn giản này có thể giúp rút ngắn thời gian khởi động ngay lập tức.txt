@@ -1,0 +1,45 @@
+
+Mặc dù tất cả các máy tính đều chậm dần sau một thời gian sử dụng, nhưng thời gian khởi động chậm thường là do phần mềm lỗi thời hoặc hoạt động quá mức. Đừng lo lắng, có một số mẹo cực đơn giản sẽ giúp bạn khắc phục tình trạng này.
+Tại sao máy tính khởi động chậm?
+1. Trình điều khiển lỗi thời
+    
+Trình điều khiển là các chương trình nhỏ điều khiển phần cứng - chẳng hạn như cạc đồ hoạ hoặc cạc âm thanh trong máy tính. Các công ty phần cứng luôn phát hành các bản cập nhật trình điều khiển và nếu trình điều khiển trên máy của bạn không được cập nhật trong một thời gian, chúng có thể làm chậm thời gian khởi động của PC.
+2. Quá nhiều ứng dụng đang hoạt động
+    
+Bạn càng cài đặt nhiều chương trình trên máy tính của mình, nó sẽ càng chậm hơn. Nhiều chương trình tiếp tục chạy trong nền, ngay cả khi bạn đã đóng chúng. Dữ liệu nền và hoạt động này sẽ ngốn RAM và làm chậm máy tính.
+3. Cập nhật mới
+    
+Một trong những hoạt động nền phổ biến nhất là khi các chương trình kiểm tra các bản cập nhật mới. Vì chúng thường làm điều này khi máy tính của bạn khởi động, nên tất cả các bước kiểm tra này có thể làm chậm thời gian khởi động của thiết bị.
+4. Phần mềm độc hại
+    
+Thời gian khởi động chậm có thể là một dấu hiệu của việc nhiễm phần mềm độc hại. Virus Trojan, phần mềm gián điệp và các loại phần mềm độc hại khác có thể tiêu tốn rất nhiều RAM và tài nguyên CPU của máy tính. Một công cụ loại bỏ phần mềm độc hại đáng tin cậy có thể xóa mọi sự lây nhiễm mà máy tính của bạn có thể mắc phải, giúp tăng tốc thời gian khởi động và làm cho máy tính của bạn hoạt động bình thường trở lại.
+Cách tăng tốc thời gian khởi động máy tính
+Tất cả các máy tính đều có xu hướng khởi động chậm hơn theo thời gian - nhưng điều đó không có nghĩa là bạn không thể cải thiện chúng. Đây là một số mẹo đơn giản bạn có thể áp dụng để tăng tốc thời gian khởi động áp dụng cho máy chạy Window 10:
+1. Hạn chế các chương trình khởi động trong Windows 10
+Các chương trình khởi động là các ứng dụng trên máy tính chạy Windows 10 sẽ tự động tải trong khi hệ thống của bạn đang khởi động. Giảm số lượng chương trình khởi động đang hoạt động là một cách hiệu quả để máy khởi động nhanh hơn.
+- Mở menu Bắt đầu và nhấp vào bánh răng cài đặt.
+    
+- Chọn danh mục Ứng dụng (Apps).
+    
+- Nhấp vào Khởi động trên menu bên trái để chọn các chương trình sẽ khởi chạy trong quá trình khởi động.
+    
+- Tắt nhiều chương trình khởi động nhất có thể và bạn sẽ thấy máy bắt đầu khởi động nhanh hơn.
+2. Bật khởi động nhanh cho Windows 10
+Tính năng khởi động nhanh của Windows 10 cũng là một cách dễ dàng để tăng tốc thời gian khởi động. Nó là một phần của Windows kể từ Windows 8 và sẽ được bật theo mặc định trong Windows 10. Dưới đây là cách kích hoạt khởi động nhanh trong Windows 10.
+- Mở Cài đặt từ menu Bắt đầu.
+    
+- Chọn danh mục Hệ thống.
+    
+- Nhấp vào Nguồn và chế độ ngủ (Power & sleep ) từ menu bên trái, sau đó nhấp vào Cài đặt nguồn bổ sung (Additional power settings) trong tiêu đề Cài đặt liên quan (Related settings).
+    
+- Nhấp vào Chọn chức năng của các nút nguồn (Choose what the power buttons do) trên menu bên trái.
+    
+- Xem hộp Bật khởi động nhanh (được khuyến nghị) có được chọn hay không.
+Nếu nó chưa được bật, chỉ cần tích vào hộp bật và nhấp Lưu thay đổi.
+    
+3. Nâng cấp lên Windows 10 hoặc Windows 11
+Các phiên bản Windows cũ hơn có thể tải chậm hơn Windows 10 và Windows 11. Mặc dù bạn có thể tăng tốc thời gian khởi động trong Windows 7 hoặc Windows 8, nhưng thiết bị sẽ hoạt động tốt hơn nữa nếu bạn nâng cấp lên phiên bản Windows mới hơn, chẳng hạn như Windows 10 hoặc 11.
+4. Nâng cấp lên SSD
+    
+Đôi khi, thời gian khởi động chậm là một vấn đề của phần cứng. Máy tính sẽ mất nhiều thời gian để tải Windows trên ổ đĩa cứng (HDD) cũ hơn so với ổ cứng thể rắn (SSD) mới hơn và nhanh hơn.
+Việc nâng cấp lên SSD sẽ tăng tốc đáng kể thời gian khởi động trong Windows 10 hoặc 11. Sự khác biệt về tốc độ là một trong những lợi thế lớn nhất của SSD so với HDD.

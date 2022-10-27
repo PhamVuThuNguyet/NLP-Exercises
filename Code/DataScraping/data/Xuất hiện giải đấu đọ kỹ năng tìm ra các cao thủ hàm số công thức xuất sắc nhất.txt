@@ -1,0 +1,9 @@
+
+Không phải bất kỳ một tựa game nào, Excel là bộ môn chính trong giải đấu Thể thao Điện tử này.
+Các giải đấu Thể thao Điện tử vốn thường xoay quanh những tựa game phổ biến. Thế nhưng mới đây thôi, tất cả vừa được một phen bất ngờ với sự xuất hiện của Excel All-Star Battle - một giải đấu mà thay vì đọ kỹ năng chơi game, những người tham gia sẽ tiến hành so khả năng sử dụng các hàm, công thức cùng các thuật toán phức tạp, rối rắm của Excel - một ứng dụng vốn thường được mặc định chỉ dành cho khối công sở.
+Excel All-Star Battle - giải đấu vừa tạo được khá nhiều tiếng vang
+Thậm chí, Excel All-Star Battle còn được chiếu trực tiếp trên ESPN và thu hút tỷ suất người xem khá lớn. Tìm hiểu sâu về giải đấu, không ít người cũng phải trầm trồ khi biết quy mô và mức độ tổ chức cầu kỳ của nó. Theo quy chế, giải đấu có 3 vòng, mỗi vòng là các nhiệm vụ phức tạp buộc game thủ phải hoàn thành với trang tính trong thời gian 30 phút. Sau mỗi vòng có một nửa lượng thí sinh bị loại. Xuyên suốt các vòng đấu là sự góp mặt từ những bình luận viên - cực am hiểu về Excel và cũng rất biết cách khuấy động bầu không khí.
+Các trận đấu diễn ra khá căng thẳng, chẳng kém gì một giải đấu game thật sự
+Mỗi đề bài thường sẽ đưa ra một nan đề chính (dài từ 1-5 trang tính), bao gồm một danh sách từ 6-15 câu hỏi buộc thí sinh phải trả lời. Nhiệm vụ của người tham gia là trả lời hết câu hỏi, tạo ra mô hình tài chính hợp lý với độ dài tối đa 1 trang tính. Nghe thì có vẻ đơn giản nhưng có lẽ, chỉ cần theo dõi màn hình thi đấu của các tuyển thủ thôi cũng đủ làm không ít người chóng mặt.
+Những mô hình, phương trình cùng công thức dày đặc trong Excel
+Hiện tại, rất nhiều người đang kêu gọi Microsoft nên tiến hành các giải đấu tương tự như vậy một cách thường niên.

@@ -1,0 +1,18 @@
+
+Việc sử dụng Telegram mang đến sự bảo mật, tiện ích rất lớn cho người dùng. Tuy nhiên, đây cũng là là lỗ hổng nhiều đối tượng lợi dụng để lừa đảo người dùng.
+Việc sử dụng Telegram mang đến sự bảo mật, tiện ích rất lớn cho người dùng. Tuy nhiên, đây cũng là là lỗ hổng nhiều đối tượng lợi dụng để lừa đảo người dùng.
+Các hình thức lừa đảo trên Telegram
+1. Tạo nhóm xây dựng cộng đồng
+Hình thức lừa đảo phổ biến nhất trên Telegram là tạo nhóm để xây dựng cộng đồng, tạo kênh, tham gia các nhóm trên Telegram để kiểm tiền cũng như tạo bot trên Telegram để kiếm tiền theo sự sáng tạo của bạn:
+- Hình thức hoạt động của việc tạo các bot kiếm tiền trên Telegram thường sẽ là xem quảng cáo trên con bot đó và nhận về coin. Khi đạt đến lượng coin nhất định thì người dùng có thể rút coin về tài khoản. Việc kiếm tiền này dựa trên yêu cầu của nhà quảng cáo.
+- Hình thức tạo nhóm, tạo kênh, tham gia group để kiếm tiền: Thực chất đây là nơi để các người dùng chia sẻ cách kiếm tiền, các dự án, kiếm coin, kiếm token… bởi Telegram cho phép người dùng được tạo nhóm lên đến 200 nghìn thành viên.
+Tuy nhiên, khi tham gia các hình thức kiếm tiền này, người dùng cần hết sức cảnh giác bởi có thể gặp phải các đối tượng lừa đảo. Chúng sẽ trà trộn vào các nhóm này và giới thiệu, chia sẻ, lôi kéo… người dùng khác kiếm tiền.
+Sau khi thực hiện thì chúng sẽ không trả hoa hồng hoặc người dùng có thể bị mất tiền khi bấm vào các đường link đen được chia sẻ.
+2. Thủ đoạn lừa đảo đầu tư
+Cũng lợi dụng các nhóm chia sẻ về đầu tư, kẻ lừa đảo sẽ dụ dỗ người dùng đầu tư. Trước đó, để tạo niềm tin cho người dùng, có thể chúng sẽ sử dụng các thủ đoạn như:
+- Xây dựng hình ảnh giàu sang, đi xe xịn, mua nhà, đi du lịch nước ngoài…
+- Xây dựng hình tượng là người chuyên đọc lệnh đầu tư. Ban đầu, có thể sẽ "thả" cho người dùng được lợi nhuận nhỏ từ các lệnh mà chúng đọc. Tuy nhiên, khi số tiền đầu tư càng ngày càng nhiều thì lúc đó chúng sẽ ôm tiền và bỏ trốn hoặc "phủi sạch" trách nhiệm về việc mất tiền đầu tư của người dùng…
+Bị lừa đảo trên Telegram, người dùng có thể tố cáo như thế nào?
+Nếu không may bị lừa đảo trên nền tảng nhắn tin miễn phí này, người dùng cần giữ lại tất cả các tin nhắn, giao dịch… liên quan đến việc lừa đảo này và có thể tố cáo bằng một trong các hình thức sau đây:
+- Gọi điện đến đường dây nóng của các cơ quan công an có thẩm quyền của từng tỉnh, thành phố nơi kẻ lừa đảo cư trú (nếu biết đối tượng lừa đảo là ai) hoặc nơi cư trú của mình (nếu không biết đối tượng lừa đảo là ai) hoặc số điện thoại 113, 069.219.4053 của Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao…
+- Gửi đơn tố cáo trực tiếp đến cơ quan công an cấp xã hoặc cơ quan điều tra công an các cấp và kèm theo đó là giấy tờ nhân thân của người tố cáo cũng như chứng cứ kèm theo…

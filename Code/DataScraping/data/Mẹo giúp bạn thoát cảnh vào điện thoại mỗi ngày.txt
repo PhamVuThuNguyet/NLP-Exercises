@@ -1,0 +1,28 @@
+
+Điện thoại thông minh đang ngày càng gắn bó mật thiết với cuộc sống của mọi người. Để rời mắt khỏi chiếc điện thoại quen thuộc mỗi ngày là điều không đơn giản.
+Dù là công cụ hữu ích nhưng những chiếc điện thoại thông minh (smartphone) lại khiến nhiều người cảm thấy tốn thời gian và giảm sút năng suất lao động.
+Nếu bạn cũng cảm thấy như vậy, có thể áp dụng một số mẹo dưới đây để thoát khỏi sự "cám dỗ'' của điện thoại mỗi ngày.
+Sử dụng chế độ Focus
+Các thông báo được thiết kế trên smartphone nhằm khiến người dùng luôn phải để mắt tới điện thoại. Những tiếng chuông báo liên tục có thể gây gián đoạn suy nghĩ, lãng phí thời gian, ngăn người dùng tập trung vào công việc.
+Để tắt thông báo nhưng lại không muốn dùng chế độ Không làm phiền (Do Not Disturb) nhằm tránh bỏ lỡ các thông báo và cuộc gọi quan trọng, bạn có thể kích hoạt chế độ Focus.
+Chế độ Focus được tích hợp trên iPhone và Android nhằm chặn các thông báo từ một số ứng dụng cụ thể trong khoảng thời gian nhất định.
+Để kích hoạt chế độ này trên Android, bạn vào Settings > Digital Wellbeing and parental controls > Focus mode và tùy chỉnh theo mong muốn.
+Đối với iPhone, bạn vào Settings > Focus để thiết lập cài đặt.
+Sắp xếp ứng dụng vào thư mục
+Màn hình chính trên điện thoại là thứ đầu tiên người dùng nhìn thấy khi tương tác với thiết bị. Do đó, bạn nên sắp xếp các ứng dụng cùng loại vào một thư mục để màn hình nhìn gọn gàng hơn.
+Ngoài ra, bạn có thể đặt ra "rào cản" để ngăn mở một số ứng dụng nào đó.
+Kích hoạt chế độ đơn sắc
+Các biểu tượng ứng dụng cùng huy hiệu thông báo đều trở nên nổi bật khi người dùng nhìn vào điện thoại. Tuy nhiên, đây cũng là những thứ gây phân tâm, lôi kéo người dùng sử dụng điện thoại nhiều hơn. Do đó, bạn có thể bật chế độ màu đơn sắc Grayscale để loại bỏ sự cám dỗ này.
+Chế độ Grayscale tích hợp trên cả iPhone và Android, cho phép chuyển màn hình sang các sắc độ xám khác nhau.
+Để kích hoạt chế độ này trên Android, bạn vào Settings > Accessibility > Visibility enhancements > Color adjustment > Grayscale.
+Đối với iPhone, bạn vào Settings > Accessibility > Display & Text Size rồi chọn Color Filters, sau đó chọn Grayscale.
+Xóa bỏ huy hiệu thông báo
+Bạn có thể xóa các huy hiệu thông báo khỏi ứng dụng. Đây là các chấm nhỏ màu đỏ xuất hiện trên mỗi biểu tượng ứng dụng nhằm thu hút sự chú ý của người dùng về những thông báo mới.
+Để xóa huy hiệu thông báo trên Android, bạn vào Settings > Notifications > Advanced settings > App icon badges.
+Đối với iPhone, bạn vào Settings > Notifications rồi chọn ứng dụng muốn thay đổi, sau đó bấm vào tùy chọn Badges.
+Sử dụng trang web thay vì dùng trực tiếp ứng dụng
+Ứng dụng di động giúp người dùng truy cập nội dung và thực hiện các tác vụ thuận tiện hơn. Tuy nhiên, chúng cũng dẫn đến việc sử dụng quá mức.
+Đối với các mạng xã hội, bạn có thể sử dụng trang web của dịch vụ thay vì ứng dụng để giảm thời gian dùng. Các trang web cần thời gian truy cập lâu hơn khi người dùng phải mở trình duyệt, nhập URL, từ đó có thể giúp bạn hạn chế sử dụng.
+Mua đồng hồ báo thức
+Nếu dùng điện thoại làm đồng hồ báo thức, người dùng chắc chắn sử dụng nó ngay khi vừa thức giấc để xem tin nhắn, lướt mạng xã hội…
+Bạn có thể mua một chiếc đồng hồ báo thức riêng và để điện thoại xa khỏi giường, từ đó giúp bạn bỏ được thói quen xấu này.

@@ -1,0 +1,19 @@
+
+Trong một group Facebook, người dùng Việt đang rất hứng thú với phiên bản cập nhật mới của iOS 16. 6 tính năng ẩn cực hữu ích trên iOS 16 mà không phải ai cũng biết iOS 16 sẽ bổ sung tính năng chặn tin nhắn rác, người dùng iPhone thở phào nhẹ nhõm iOS 16 giúp người dùng bỏ qua xác thực không phải robot
+6 tính năng ẩn cực hữu ích trên iOS 16 mà không phải ai cũng biết iOS 16 sẽ bổ sung tính năng chặn tin nhắn rác, người dùng iPhone “thở phào nhẹ nhõm” iOS 16 giúp người dùng bỏ qua “xác thực không phải robot”
+Trong sự kiện WWDC 2022 được diễn ra vào 0h ngày 7/6 theo giờ Việt Nam, Apple đã giới thiệu tới người dùng hệ điều hành iOS 16 mới. Với iOS 16, người dùng được sử dụng thêm nhiều tính năng mới thú vị như tách nền ảnh, tùy biến giao diện màn hình khóa, chỉnh sửa, thu hồi tin nhắn…
+Cụ thể, trong iOS 16 beta 4, người dùng đã có thể dịch sang tiếng Việt từ các ngôn ngữ khác. Tính năng dịch thuật này khả dụng trên các trang web của Safari, trong app dịch thuật hoặc bất kì văn bản nào được quét từ văn bản trực tiếp hay cho phép chọn khi nhấn giữ.
+      ADVERTISEMENT 
+    
+    
+      ADVERTISEMENT 
+ iOS 16 cho phép dịch sang Tiếng Việt trên web, app dịch thuật và các ứng dụng khác. Ảnh: Facebook Đào Hữu Tiến
+Ngoài khả năng dịch sang Tiếng Việt, bạn cũng có thể tuỳ chọn đọc các văn bản một cách dễ dàng giúp nâng cao trải nghiệm khi sử dụng. Tuy nhiên tính năng dịch này cũng tương tự Google dịch “word by word” nên chưa thực sự sát nghĩa.
+
+YouTube mở miễn phí tính năng Picture-in-Picture cho người dùng iOS. iOS 15.4.1 vẫn chưa khắc phục lỗi hao pin trên iPhone
+Theo Bloomberg đưa tin, bản cập nhật iOS 16 sẽ có tên mã là "Sydney". Phiên bản này dự kiến sẽ ra mắt tại Hội nghị các nhà phát triển toàn cầu WWDC 2022 của Apple diễn ra từ ngày 6/6.
+iOS 16 có thể sẽ mang tới nhiều cải tiến ở khu vực thông báo. Ngoài ra, bản cập nhật iOS mới cũng sẽ bổ sung các tính năng về theo dõi sức khỏe trong bối cảnh đại dịch vẫn diễn biến phức tạp.
+Tuy nhiên, giao diện của phiên bản này sẽ không có nhiều thay đổi. Theo Mark Gurman từ Bloomberg cho biết, giao diện của iOS 16 vẫn sẽ giống với iOS 7 ra mắt từ gần 10 trước. Trong khi đó, iPadOS có thể sẽ sở hữu giao diện đa nhiệm mới.
+Kể từ khi phiên bản iOS 7 ra mắt năm 2013 đến nay, Apple gần như không thay đổi nhiều về giao diện của hệ điều hành iOS. Nếu thông tin trên chính xác, đây sẽ là điều khiến không ít người dùng cảm thấy thất vọng.
+Trước đó, trang PhoneArena đưa tin, Apple đã bắt đầu tung ra bản thử nghiệm iOS 16 giới hạn trên một số thiết bị. Theo nguồn tin từ iPhoneSoft, iOS 16 sẽ chỉ hỗ trợ những thiết bị từ iPhone 7 trở lên.
+Tính năng thú vị nhất trên iOS 16 sẽ không xuất hiện trên iPad? Tính năng cá nhân hóa màn hình khóa trên iOS 16 có thể sẽ không xuất hiện trên iPadOS 16. WWDC 2022: iPadOS 16 sẽ biến iPad thành laptop? WWDC 2022: Apple chính thức ra mắt chip M2WWDC 2022: iOS 16 trình làng với hàng loạt cải tiến... 

@@ -1,0 +1,35 @@
+
+Việc bạn muốn sạc điện thoại nhanh chóng không đơn giản như cắm điện. Áp dụng các mẹo đơn giản này để sạc điện thoại nhanh hơn.
+Việc phải sạc điện thoại liên tục khiến bạn bực bội. Nhưng đừng lo lắng, có một số mẹo và tiện ích có thể giúp bạn không phải sạc nhiều lần trong ngày.
+1. Bật Chế độ trên máy bay
+    
+Một trong những yếu tố ảnh hưởng lớn nhất đến pin của bạn là tín hiệu mạng. Theo nguyên tắc chung, tín hiệu mạng càng kém thì pin của bạn càng cạn kiệt nhanh hơn.
+Do đó, nếu bạn sống trong khu vực có tín hiệu kém, việc sạc điện thoại của bạn sẽ mất nhiều thời gian hơn so với khi bạn sống ở nơi có tín hiệu mạnh, tín hiệu sẽ “ăn” qua nguồn điện của bạn khi bạn sạc điện thoại.
+Giải pháp ở đây là gì? Hãy đặt điện thoại của bạn ở Chế độ trên máy bay trước khi cắm điện. Thử nghiệm cho thấy nó có thể giảm 25% thời gian cần thiết để sạc đầy.
+Để đưa điện thoại của bạn vào Chế độ trên máy bay, chỉ cần vuốt xuống trên thanh thông báo và nhấn vào biểu tượng Chế độ trên máy bay. Ngoài ra, bạn có thể đi tới Cài đặt > Mạng và Internet > Chế độ trên máy bay.
+2. Tắt điện thoại 
+Nếu điện thoại của bạn bị tắt nguồn trong khi sạc, thiết bị sẽ được sạc nhanh hơn rất nhiều.
+Tuy nhiên, việc tắt điện thoại khi đang sạc cũng có mặt trái của nó, bạn sẽ không thể nhận các cuộc gọi hoặc tin nhắn khẩn cấp. Nhưng nếu bạn muốn sạc điện thoại nhanh chóng trong 15 phút trước khi ra khỏi nhà, thì tắt nguồn chắc chắn là cách tốt nhất.
+3. Đảm bảo Chế độ sạc được bật
+    
+Thiết bị Android của bạn cho phép bạn chỉ định loại kết nối mà nó tạo ra khi bạn cắm cáp USB. Nếu bạn đang sạc qua máy tính xách tay của thiết bị khác, bạn cần bật tính năng sạc.
+Vào Cài đặt > Thiết bị đã kết nối > Tùy chọn USB. Trên danh sách các tùy chọn, hãy đảm bảo bạn đã bật chuyển đổi Sạc thiết bị đã kết nối.
+4. Sử dụng ổ cắm trên tường
+    
+Việc sử dụng cổng USB trên máy tính hoặc trên ô tô của bạn sẽ khiến quá trình sạc kém hiệu quả hơn nhiều.
+Thông thường, các cổng USB không phải ổ cắm trên tường chỉ cung cấp công suất đầu ra là 0,5A. Sạc ổ cắm trên tường thường sẽ cung cấp cho bạn 1A (tùy thuộc vào thiết bị của bạn). Không có gì sai khi nhận được cường độ dòng điện thấp hơn, nó sẽ không gây hại cho thiết bị của bạn nhưng thời gian bạn chờ đợi chắc chắn sẽ lâu hơn.
+5. Mua sạc dự phòng
+    
+Nếu bạn cần sạc lại điện thoại khi đang di chuyển, ví dụ: nếu bạn thường xuyên đi du lịch thì pin dự phòng có thể là một cứu cánh. Nhiều bộ sạc dự phòng cung cấp cùng một cường độ dòng điện như ổ cắm trên tường.
+6. Tránh sạc không dây
+    
+Sạc không dây có thể rất tốt; nó tiện lợi và nó đòi hỏi ít dây cáp hơn. Tuy nhiên, nếu tốc độ sạc là ưu tiên số một, bạn nên tránh dùng chúng. Sạc không dây cung cấp trải nghiệm sạc chậm hơn đáng kể so với các sản phẩm có dây khác. Trên thực tế, thử nghiệm cho thấy chúng có thể chậm hơn tới 50%.
+Tại sao? Có hai lý do. Đầu tiên, việc truyền năng lượng qua cáp sẽ hiệu quả hơn so với tiếp xúc không dây. Thứ hai, năng lượng lãng phí biểu hiện dưới dạng nhiệt thừa sẽ ảnh hưởng đến quá trình sạc.
+7. Tháo vỏ điện thoại 
+    
+Tất cả các điện thoại thông minh hiện nay đều sử dụng pin lithium-ion. Với loại pin này, quá trình sạc hoạt động hiệu quả hơn nhiều khi pin nguội.
+Để sạc tối ưu, nhiệt độ pin phải nằm trong khoảng 41 đến 45 độ C. Rõ ràng, nhiệt độ của pin được kiểm soát một phần bởi nhiệt độ môi trường xung quanh và việc tháo ốp lưng điện thoại sẽ giúp hạ nhiệt độ. Tuy nhiên, nếu bạn để điện thoại trong môi trường quá lạnh, hiệu suất giảm thậm chí còn nghiêm trọng hơn.
+8. Sử dụng cáp chất lượng cao
+    
+Sự khác biệt về chất lượng giữa hai loại cáp có thể rất lớn. Bên trong cáp sạc duy nhất của bạn là bốn cáp riêng lẻ: đỏ, xanh lá cây, trắng và đen. Cáp màu trắng và xanh lục dùng để truyền dữ liệu, cáp màu đỏ và đen dùng để sạc. Số ampe mà hai cáp sạc có thể chứa được xác định bởi kích thước của chúng. Một cáp tiêu chuẩn 28-gauge có thể mang khoảng 0,5 ampe; một cáp 24-gauge lớn hơn có thể mang 2 ampe.
+Nói chung, các loại cáp rẻ tiền sử dụng thiết lập 28-gauge, dẫn đến tốc độ sạc chậm hơn. Nếu bạn muốn kiểm tra hiệu quả sạc của cáp, hãy tải xuống ứng dụng Ampere. Nó cho phép bạn đo tốc độ sạc và xả của thiết bị.

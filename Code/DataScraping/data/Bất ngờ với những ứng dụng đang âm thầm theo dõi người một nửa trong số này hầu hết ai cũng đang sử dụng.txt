@@ -1,0 +1,39 @@
+
+Có một số ứng dụng phổ biến mà bạn yêu thích và tin dùng có khả năng gây ra nhiều nguy hiểm hơn những gì chúng có thể cho bạn. Đây là những điều bạn cần biết.
+Tất cả chúng ta đều yêu thích chiếc smartphone của mình và có rất nhiều ứng dụng trên điện thoại có thể kết nối mọi người với nhau và làm cho cuộc sống của chúng ta dễ dàng hơn. Tuy nhiên, sự tiện lợi đi cùng với nguy hiểm, và bạn có thể phải đánh đổi bằng quyền riêng tư, danh tính của chính mình. Dưới đây là một số ứng dụng có khả năng theo dõi người dùng bạn cần hết sức lưu ý.
+1. CamScanner
+    
+Cũng giống như Office Lens, CamScanner là một phần mềm scan trên điện thoại được nhiều người dùng lựa chọn bởi khả năng quét văn bản, hóa đơn, danh thiếp, ghi chú,… qua công nghệ quang học OCR.
+Các chuyên gia an ninh mạng đã tìm thấy một thành phần độc hại được cài đặt trong ứng dụng này. Loại ứng dụng này có thể làm hỏng nghiêm trọng điện thoại của bạn và tốt nhất, bạn nên gỡ cài đặt ns ngay lập tức.
+2. Ứng dụng thời tiết
+    
+Có một vài ứng dụng thời tiết đã bị tích hợp với virus Trojan (một loại virus phổ biến trên điện thoại, máy tính) hoặc các phần mềm độc hại khác.
+3. Facebook
+    
+Bạn có ngạc nhiên khi thấy Facebook nằm trong danh sách này? Hầu hết chúng ta đều rất ưa thích các ứng dụng mạng xã hội trong đó có Facebook. Quy mô thu thập dữ liệu của ứng dụng này rất đáng kinh ngạc và nó thường dễ bị xâm phạm hơn các công ty như Google. Công ty sở hữu Facebook cũng dính phải khá nhiều vụ bóc phốt vì thu thập trái phép dữ liệu người dùng ngay cả khi bạn không sử dụng dịch vụ này. Nếu bạn phải lựa chọn xóa một ứng dụng để bảo vệ dữ liệu của mình thì đó sẽ Facebook!
+4. WhatsApp
+    
+Theo Michael Covington, Phó chủ tịch phụ trách sản phẩm của công ty bảo mật Wandera, các lỗ hổng trên WhatsApp - cả phiên bản iOS và Android đều cho phép những kẻ tấn công nhắm mục tiêu người dùng bằng cách chỉ cần gửi một tin nhắn được thiết kế đặc biệt tới số điện thoại của họ. Sau khi khai thác thành công, những kẻ tấn công sẽ được cấp quyền truy cập vào những thứ tương tự mà WhatsApp có quyền truy cập, bao gồm micrô, máy ảnh, danh sách liên hệ và hơn thế nữa.
+5. Instagram
+    
+Whatsapp và Instagram đều thuộc sở hữu của Facebook, đây là một phần nguyên nhân khiến tất cả chúng trở thành rủi ro. Dave Salisbury, giám đốc Trung tâm An ninh mạng và Dữ liệu thông minh của Đại học Dayton, cho biết Instagram “yêu cầu một số quyền bao gồm nhưng không giới hạn ở việc sửa đổi và đọc danh bạ cũng như nội dung lưu trữ của bạn, định vị điện thoại, đọc nhật ký cuộc gọi, sửa đổi cài đặt hệ thống và có toàn quyền truy cập mạng”.
+Hãy nhớ rằng, tại Facebook và nhiều ứng dụng khác, bạn là sản phẩm chứ không phải khách hàng! Thông tin về bạn, bạn làm gì, bạn đi đâu, bạn tương tác với ai,… đều có giá trị.
+6. Facebook Messenger 
+    
+Dựa trên cách tiếp cận lỏng lẻo một cách đáng sợ của Facebook trong việc bảo vệ quyền riêng tư của người dùng thì ứng dụng nhắn tin của nó cũng không ngoại lệ trong danh sách này. Các tin nhắn bạn gửi và nhận bằng ứng dụng Facebook Messenger không được mã hóa, có nghĩa là tất cả các tin nhắn của bạn đều có thể bị bất kỳ nhân viên Facebook nào truy cập.
+7. Ứng dụng đèn pin
+    
+Các ứng dụng đèn pin miễn phí thường có rủi ro an ninh mạng cao. Nhiều ứng dụng trong số này miễn phí nhưng có hỗ trợ quảng cáo và chúng thường yêu cầu các quyền, chẳng hạn như ghi âm và thông tin liên hệ. Khi người dùng cài đặt các ứng dụng này, họ có nguy cơ bị chia sẻ dữ liệu cá nhân của mình với các nhà phát triển ứng dụng, những người kiếm tiền từ dữ liệu bằng cách bán chúng cho các nhà quảng cáo.
+8. Angry Birds
+    
+Ứng dùng trò chơi Angry Birds từng bị tố làm rò rỉ dữ liệu cá nhân như số điện thoại, nhật ký cuộc gọi, quê quán, vị trí hiện tại và thậm chí cả tình trạng hôn nhân của người dùng. Mặc dù các nhà phát triển ứng dụng Angry Birds đã vá lỗ hổng này nhưng không gì có thể chắc chắn rằng nó thực sự an toàn. Nếu bạn thực sự quá nghiện game này thì ít nhất, hãy cập nhật lên phiên bản mới nhất của ứng dụng.
+9. Mod Zombie
+    
+Trò chơi này đã cố gắng thu thập một lượng lớn dữ liệu cá nhân từ tài khoản Google của người dùng, bao gồm tên người dùng và mật khẩu Gmail, đồng thời cố gắng thu lợi từ các quảng cáo, trong một số trường hợp, làm cho thiết bị bị hack và buộc người dùng phải cài đặt lại từ đầu. Đây thực sự là vấn đề không hề nhỏ.
+10. DoorDash
+    
+Một cuộc điều tra tờ Washington Post cho thấy khi bạn mở ứng dụng DoorDash - dịch vụ giao đồ ăn online, bạn đang gửi dữ liệu của mình tới 9 trình theo dõi bên thứ ba riêng biệt. Dữ liệu này bao gồm thông tin như tên, địa chỉ email và địa chỉ thực của bạn, cùng với kiểu dáng và sản phẩm điện thoại của bạn. Hơn nữa, ứng dụng này cũng đang sử dụng các trình theo dõi quảng cáo của Facebook và Google, có nghĩa là hai gã khổng lồ công nghệ đều biết mỗi khi bạn mở ứng dụng.
+11. Ứng dụng hẹn hò
+    
+Tinder và Grindr đều thu thập hơn 50% dữ liệu cá nhân của bạn (còn Facebook chiếm 70%), theo công ty an ninh mạng Clairo. Hãy suy nghĩ về điều này: nhà phát triển ứng dụng nhận được tên, địa chỉ email, số điện thoại, việc làm và thậm chí cả trạng thái sở hữu vật nuôi, ngoài dữ liệu vị trí và tuổi của người dùng. Vào năm 2020, có tới 5 ứng dụng hẹn hò khác nhau đã trải qua các vụ vi phạm dữ liệu, làm rò rỉ thông tin từ hàng triệu hồ sơ, khiến người dùng có nguy cơ bị lừa đảo qua điện thoại và đánh cắp danh tính.
+Tóm lại, tất cả các ứng dụng đều có một số mức độ rủi ro nhất định. Bất kể ứng dụng nào, chúng ta cần xem xét các quyền, tắt dịch vụ định vị khi có thể (mặc dù một số ứng dụng sẽ không hoạt động nếu không có tính năng này) và tắt tính năng gắn thẻ cho ảnh. Hãy tắt các quyền của ứng dụng nếu bạn không cảm thấy thoải mái với việc ứng dụng có quyền truy cập vào dữ liệu điện thoại của bạn hoặc không thể tìm ra lý do tại sao ứng dụng đó cần quyền đó.

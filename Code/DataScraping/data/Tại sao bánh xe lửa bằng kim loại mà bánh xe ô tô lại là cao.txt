@@ -1,0 +1,34 @@
+
+Xung quanh chúng ta có đủ loại phương tiện giao thông với nhiều hình thức và yếu tố khác nhau. Các phương tiện giao thông khác nhau sử dụng các công nghệ khác nhau để hoạt động hiệu quả.
+Chúng ta có ô tô và xe buýt chạy trên đường, những chiếc xe này sử dụng lốp cao su làm bánh xe của chúng, và chúng tôi đã rất quen với việc nhìn thấy chúng. Mặt khác, xe lửa và tàu siêu tốc chạy trên đường ray sử dụng bánh xe kim loại, không có bất kỳ loại cao su nào bên ngoài.
+    
+Vậy tại sao chúng ta lại sử dụng các loại bánh xe khác nhau cho các loại phương tiện giao thông khác nhau?
+Các yếu tố quan trọng ảnh hưởng đến việc lựa chọn bánh xe
+Có một số yếu tố cần phải tính đến khi quyết định loại bánh xe nào nên được sử dụng. Hãy nhớ rằng có nhiều yếu tố đóng vai trò, nhưng đây là những yếu tố chính:
+Độ ma sát
+Ma sát là yếu tố quan trọng nhất để quyết định loại bánh xe nào mà phương tiện giao thông cần. Ma sát là một dạng của lực. Thông thường, ma sát xảy ra khi bề mặt của một vật tiếp xúc với bề mặt của vật khác.
+    
+Mỗi vật tác dụng một lực lên bề mặt của vật kia theo hướng ngược lại với chuyển động của vật kia. Ma sát càng thấp, tức là hai vật tiếp xúc càng trơn thì chúng chuyển động qua nhau càng nhanh.
+Tốc độ
+Các phương tiện khác nhau có nghĩa là chúng sẽ di chuyển với tốc độ khác nhau. Tốc độ của một thứ gì đó di chuyển, cũng như thời gian mà nó di chuyển với tốc độ đó, đóng một vai trò trong việc quyết định loại bánh xe sẽ được sử dụng.
+    
+Địa hình
+Tùy vào địa hình mà phương tiện đi qua, chúng sẽ cần sử dụng các loại bánh xe khác nhau để phù hợp. Các địa hình khác nhau đòi hỏi các phương tiện vận chuyển khác nhau và do đó các loại bánh xe khác nhau.
+    
+Vậy tại sao xe lửa lại cần bánh xe kim loại?
+Xe lửa được cho là phải di chuyển một quãng đường dài với tốc độ cao trong khi phải chở một khối lượng rất lớn. Chúng ta phải sử dụng bánh xe có thể thỏa mãn tất cả các điều kiện này.
+Trước hết, ma sát cần phải nhỏ nhất đối với các bánh xe lửa. Một đoàn tàu di chuyển trên những đường ray hoàn toàn đồng đều và trơn tru. Vì không có va chạm hoặc lỗ thủng trên tuyến đường, mục tiêu của đoàn tàu là duy trì tốc độ cao.
+Xe lửa có thể duy trì tốc độ cao nếu có rất ít ma sát giữa bánh xe của nó và đường ray, điều này đạt được bằng cách làm cho bánh xe làm bằng kim loại nhẵn. Cả đường ray và bánh xe đều được làm bằng kim loại, được mài nhẵn với nhau. Điều này làm giảm ma sát về cơ bản (thực tế cho thấy ma sát giảm 85% - 99% khi bánh xe thép được sử dụng trên đường ray thép).
+    
+Xe lửa không cần phải dừng đột ngột, điều này nói chung là vì lợi ích của chúng, vì chúng mang rất nhiều trọng lượng và động lượng. Vì lý do này, chúng không yêu cầu bánh xe tạo ra ma sát, vì vậy bánh xe kim loại được chọn để giảm ma sát và duy trì tốc độ.
+Xe lửa cũng rất nặng. Bánh xe cao su đòi hỏi một lượng năng lượng rất cao để di chuyển. Hầu hết năng lượng/lực được tạo ra từ động cơ ô tô của bạn sẽ làm cho các bánh xe cao su quay.
+Bây giờ nếu bánh xe của đoàn tàu được làm bằng cao su, động cơ sẽ cần một năng lượng / lực cực lớn để làm cho đoàn tàu chuyển động, vì trọng lượng của nó rất lớn. Ma sát cũng tăng lên khi trọng lượng của một vật tăng lên, làm cho lốp cao su gây ra ma sát nhiều hơn.
+Tất cả những đặc điểm này đều không phù hợp đối với tàu hỏa, vì vậy việc sử dụng bánh xe cao su cho tàu hỏa là không thực tế.
+Còn ô tô thì sao?
+Không giống như tàu hỏa chỉ chạy trên đường ray, ô tô hay bất kỳ phương tiện nào cũng phải đi trên đường và đôi khi cũng phải chạy ngoài đường! Có những trường hợp chúng tôi phải lái xe qua một con đường đầy ổ gà, trong khi những trường hợp khác chúng tôi phải lái xe qua lớp bùn dày.
+    
+Địa hình không bằng phẳng cũng không phải là một thử thách bất thường đối với các phương tiện như ô tô. Tất cả những tình huống này đều đòi hỏi chiếc xe phải bám chắc vào bề mặt mà nó đang di chuyển. Độ bám này chỉ đạt được nếu có đủ ma sát giữa bánh xe và địa hình. Ma sát này được cung cấp bởi cao su.
+Những con đường và vùng đất mà xe đi qua cũng liên tục làm hỏng lốp, nhưng nếu thay đi thay lại bánh xe bằng kim loại sẽ rất tốn kém. Lốp cao su tương đối rẻ hơn để thay và tồn tại lâu hơn trong điều kiện thử nghiệm như vậy.
+    
+Ô tô cũng cần phanh và dừng thường xuyên hơn và nhanh hơn nhiều so với tàu hỏa, vì vậy việc trang bị lốp cao su cũng giúp giải quyết vấn đề này.
+Vì ô tô chỉ cần duy trì một tốc độ nhất định và không nặng như xe lửa nên lốp cao su không gây cản trở và phải mất công lấy đà, làm hao phí năng lượng của động cơ như đối với xe lửa.

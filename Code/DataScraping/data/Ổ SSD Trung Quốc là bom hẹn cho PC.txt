@@ -1,0 +1,26 @@
+
+Hiện tại có nhiều loại ổ SSD trên thị trường, trong số này có một số sản phẩm được khuyến cáo nên tránh xa ngay cả khi giá bán của chúng khá hấp dẫn
+Theo TechUnwrapped, nếu đang nghĩ đến việc mua ổ SSD, người dùng cần bắt đầu với việc tìm kiếm thông tin về chúng. Các chuyên gia khuyến cáo người dùng nên tìm các thương hiệu uy tín và chất lượng tốt nhất thay vì chọn các SSD Trung Quốc do một số lý do.
+      ADVERTISEMENT 
+ Ổ SSD đóng vai trò quan trọng trong việc lưu trữ các thông tin trên PC
+ Nhược điểm ổ SSD Trung Quốc
+Trong nhiều trường hợp, các sản phẩm Trung Quốc được đánh giá có chất lượng thấp do cắt giảm một số khía cạnh để tiết kiệm chi phí so với các đối thủ cạnh tranh. Điều này cũng xảy ra với ổ SSD.
+Nói một cách đơn giản, một ổ SSD có ba yếu tố. Trước hết, các chip nhớ nơi thông tin sẽ được lưu trữ. Tiếp theo, một bộ điều khiển sẽ chịu trách nhiệm chỉ ra nơi thông tin được lưu trữ cùng nhiều bộ điều khiển khác. Cuối cùng là bộ nhớ đệm (thường là chip nhớ RAM) giúp lưu thông tin tạm thời và tăng hiệu suất.
+Với ổ SSD Trung Quốc, chúng gặp phải một số nhược điểm liên quan đến các yếu tố nói trên. Cụ thể:
+- Chip nhớ: Họ thường sử dụng chip nhớ bị loại bỏ bởi các nhà sản xuất lớn vì chất lượng thấp hoặc có các mẫu mới hơn có nhiều dung lượng/hiệu suất tốt hơn. Kết quả là, chip nhớ SSD Trung Quốc thường chậm hơn, công suất kém hoặc độ bền giảm đi đáng kể.
+    
+ Các ổ SSD Trung Quốc đến từ những thương hiệu rất ít thông tin
+- Bộ điều khiển: Các nhà sản xuất lớn có thói quen tránh xa các bộ điều khiển cũ vì lỗi thời hoặc thiếu chức năng, nhưng đó lại là điều mà nhiều ổ SSD Trung Quốc lựa chọn. Điều này ảnh hưởng đến quá trình ngăn một ô nhớ trên chip nhớ bị mài mòn quá mức. Thường có thể dẫn đến hao mòn nhiều hơn và ổ đĩa xuống cấp nhanh hơn.
+- Bộ nhớ đệm: Một số ổ SSD Trung Quốc sử dụng bộ nhớ đệm DDR2 hoặc DDR3, trong khi các nhà sản xuất lớn sử dụng bộ nhớ đệm DDR4. Thậm chí, một số nhà sản xuất Trung Quốc thường ghi rất ít thông tin liên quan đến bộ nhớ đệm để đánh lừa khách hàng. Thay vào đó, họ thể hiện bằng các chi tiết không nói lên điều gì thực sự ý nghĩa.
+ Những quả bom hẹn giờ
+Độ bền và chất lượng của ổ SSD Trung Quốc không đáng để người dùng phải tiết kiệm. Chúng đều là những ổ có chất lượng rất kém so với các thương hiệu đã được công nhận. Ngoài ra, ngay cả khi mua những ổ SSD giá rẻ từ các thương hiệu lớn như Kingston A400, nó cũng cung cấp hiệu suất ổn định. Chỉ cần so sánh đơn giản giữa một ổ SSD “bình thường” của thương hiệu lớn với ổ SSD Trung Quốc, người dùng có thể thấy đâu là ổ SSD tốt nhất về độ bền.
+    
+ Độ bền và độ tin cậy của ổ SSD từ các thương hiệu uy tín đã được chứng minh
+Người dùng được khuyến cáo nên sử dụng các ổ SSD từ những thương hiệu đã được ghi nhận như Kingston, WD, Crucial, Kioxia, Seagate, Samsung… Sự thật là việc phân biệt rất dễ dàng vì SSD Trung Quốc không có trang web chính thức, thông tin họ đưa ra khá lạ và không có phương tiện truyền thông uy tín nào giới thiệu chúng đến người tiêu dùng.
+
+Theo Blazetrends, với hành động này, Samsung sẽ đi ngược lại xu hướng trong ngành khi các nguồn tin trên thị trường cho biết nhiều thương hiệu bộ nhớ khác đang có kế hoạch giảm giá bán SSD, với mức chiết khấu lên đến 10%. Việc giảm giá phù hợp với dự đoán từ hãng phân tích TrendForce, vốn đưa ra ước tính mức giá giảm từ 10 - 15% cho toàn bộ ngành công nghiệp bộ nhớ NAND trong quý đầu tiên của năm 2022.
+      ADVERTISEMENT 
+ Nhà máy sản xuất SSD của Samsung ở Tây An, Trung Quốc đang bị ảnh hưởng bởi lệnh phong tỏa
+Hiện vẫn chưa có thông tin về mức tăng giá sẽ xảy ra đối với SSD từ Samsung cũng như nguyên nhân giá bán được tăng trong bối cảnh Samsung dường như không gặp bất kỳ vấn đề nào với nhu cầu về ổ SSD của mình. Một nhận xét được đưa ra cho biết, tình hình ở thành phố Tây An, Trung Quốc có thể là nguyên nhân của việc tăng giá SSD của Samsung.
+Được biết, Tây An hiện trong trạng thái phong tỏa, và nơi này đặt một trong những nhà máy lớn của Samsung. Báo cáo cho biết, nhà máy ở Tây An ước tính chiếm khoảng 40% tổng sản lượng SSD đầu năm của công ty.
+Apple rơi vào thế 'tiến thoái lưỡng nan' ở Trung Quốc  Apple bị chính quyền Trung Quốc buộc phải tăng cường lưu trữ dữ liệu người dùng nhiều hơn ở Trung Quốc.Trước Apple, các công ty Mỹ như Tesla và LinkedIn cũng phải đối mặt với áp lực tương tự. Theo báo cáo từ The Information , Apple dường... 

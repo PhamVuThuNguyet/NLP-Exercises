@@ -1,0 +1,30 @@
+
+Máy tính xách tay dù có tốt đến mấy nhưng sau một thời gian sử dụng, thời lượng pin cũng sẽ giảm dần. Đừng lo lắng, có một số mẹo cực kỳ hữu ích giúp pin laptop của bạn kéo dài lâu hơn.
+Không có gì lạ khi thời lượng pin là một trong những thông số kỹ thuật đầu tiên mà nhiều người quan tâm khi đi mua một chiếc smartphone hoặc laptop mới. Khi sử dụng, thời lượng pin máy tính có thể bị sụt giảm nhanh chóng vì nhiều lý do. Nhưng với các tùy chỉnh hệ điều hành phù hợp, cộng với một số thói quen tốt, bạn có thể sử dụng máy tính lâu hơn mà không phải cắm sạc.
+Dưới đây là những cách tốt nhất có thể giúp cho pin máy tính xách tay sử dụng được lâu hơn.
+1. Thay đổi cấu hình nguồn của bạn thành Power Saver - Chế độ tiết kiệm pin
+    
+Máy tính xách tay Windows có tùy chọn thay đổi cấu hình nguồn trong menu Cài đặt Nguồn và chế độ Ngủ (Power and Sleep Settings). Chọn chế độ Tiết kiệm pin (Battery Saver) để tối ưu hóa máy tính xách tay nhằm tập trung vào hiệu quả hơn là hiệu suất. Điều đó có thể giúp kéo dài tuổi thọ pin một cách lâu hơn.
+2. Độ sáng màn hình thấp hơn
+    
+Màn hình sáng, độ phân giải cao là yếu tố chính làm tiêu hao pin máy tính xách tay của bạn. Mặc dù bạn không thể làm gì nhiều về độ phân giải của máy tính khi đã mua nó, nhưng bạn có thể giảm độ sáng để làm cho thiết bị sử dụng ít năng lượng nhất có thể. Tuy nhiên, điều này sẽ làm cho máy tính xách tay trở nên mờ nhạt hơn, vì vậy khi bạn giảm độ sáng, nó sẽ không ở trạng thái tốt nhất để xem phim, chơi game và có thể khiến bạn khó nhìn thấy màn hình khi bạn ở trong môi trường sáng (đặc biệt là ngoài trời).
+3. Tắt đèn nền bàn phím
+    
+Đèn nền bàn phím thực sự hữu ích khi bạn phải gõ trong bóng tối, nhưng nó cũng yêu cầu nguồn điện cao hơn và nó cũng sẽ ngốn pin của máy. Nếu tuổi thọ pin là quan trọng nhất, hãy tắt đèn nền khi không thực sự cần thiết.
+4. Rút phích cắm của bất kỳ thiết bị ngoại vi nào bạn không cần
+    
+Tất cả các thiết bị bên ngoài đều lấy năng lượng từ máy tính xách tay của bạn. Nếu bạn cắm các thiết bị như điện thoại, ổ cứng ngoài hoặc màn hình ngoài vào cổng USB trên máy tính xách tay, chúng sẽ lấy điện từ đó và do đó làm giảm tuổi thọ pin của máy tính xách tay. Nếu bạn không sử dụng chúng hoặc có thể sạc chúng ở một nơi khác, hãy rút phích cắm của các thiết bị này để kéo dài thời lượng pin của máy tính xách tay.
+5. Giữ cho laptop luôn mát
+    
+Pin hoạt động hiệu quả hơn và sử dụng được lâu hơn khi bạn để nó ở trong nhiệt độ phòng hoặc thậm chí thấp hơn một chút. Hãy đảm bảo rằng bạn không sử dụng nó trong phòng quá nóng hoặc trong ánh sáng trực tiếp và lý tưởng nhất là đảm bảo thân máy tính xách tay có nhiều luồng thông gió để đảm bảo máy có thể hạ nhiệt các thành phần của nó, tránh tích tụ nhiệt quá mức.
+6. Tắt máy hoặc để để máy ở chế độ Ngủ đông khi không sử dụng
+    
+Nếu bạn không sử dụng máy tính xách tay, hãy tắt nó đi hoặc đặt nó ở chế độ ngủ đông. Ngay cả khi ở chế độ chờ, nó vẫn sẽ tiêu tốn pin, vì chỉ có màn hình tắt còn các ứng dụng phần mềm bạn mở trên máy vẫn chạy ngầm. Hãy tắt máy hoàn toàn nếu bạn đã sử dụng xong.
+Giải đáp một số câu hỏi phổ biến
+“Tại sao pin máy tính xách tay của tôi chỉ kéo dài 30 phút?”
+Một số máy tính xách tay chỉ có thời lượng pin ngắn vì chúng có các thành phần mạnh, pin nhỏ hoặc đã quá cũ. Bạn có thể sử dụng các mẹo trên để kéo dài thời gian sử dụng, nhưng thời lượng pin 30 phút có thể đồng nghĩa với việc pin của bạn đã hoạt động kém hiệu quả và mất khả năng sạc trong suốt thời gian sử dụng. Có thể đã đến lúc thay pin hoặc thay máy tính xách tay. Ngoài ra, bạn cũng có thể cắm nó vào ổ điện và sử dụng cố định như một máy tính để bàn.
+    
+“Tôi có thể để máy tính xách tay của mình cắm điện cả đêm không?”
+Có, bạn có thể để máy tính xách tay của mình cắm sạc qua đêm nếu bạn có một máy tính xách tay đời mới. Các máy đời mới được tích hợp mạch để xoay vòng pin trong thời gian sạc dài để đảm bảo bạn vẫn sử dụng được pin tối đa. Tuy nhiên, đối với các mô hình cũ hơn, bạn nên kiểm tra với nhà sản xuất để xem họ đề xuất những gì. Một nguyên tắc chung là chỉ sạc đến 80% và sau đó ngừng sạc, nhưng tất nhiên, điều đó gần như không thể thực hiện khi bạn đang ngủ.
+“Pin máy tính xách tay có thể được sử dụng trong bao lâu?”
+Tuổi thọ của pin máy tính xách tay phụ thuộc vào các yếu tố như nhiệt và cách sử dụng, nhưng pin máy tính xách tay trung bình kéo dài khoảng 2 đến 4 năm hoặc 1.000 chu kỳ sạc.

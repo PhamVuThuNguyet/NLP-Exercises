@@ -1,0 +1,27 @@
+
+Apple đã bắt đầu gửi các bản cập nhật hệ điều hành mới nhất cho các thiết bị của mình, bao gồm iOS 15.6, iPadOS 15.6, macOS 12.5, watchOS 8.7 và tvOS 15.6
+Theo Neowin, điều này diễn ra sau khi Apple thử nghiệm phiên bản beta của các hệ điều hành trên được một thời gian. Các bản cập nhật mới nhất đi kèm một số tính năng và nhiều bản sửa lỗi sẽ đến với các thiết bị iPhone, iPad, Mac và Apple Watch tương thích. Cũng cần lưu ý rằng đây có thể là những bản cập nhật cải tiến cuối cùng cho các thiết bị này trước khi Apple triển khai phiên bản nâng cấp mới vào mùa thu năm nay.
+      ADVERTISEMENT 
+ iOS 15.6 có thể là bản cập nhật cải tiến cuối cùng cho iOS 15 trước khi iOS 16 trình làng vào tháng 9 tới
+Trong ghi chú phát hành của mình, Apple đề cập đến các tính năng cải tiến trong bản cập nhật mới nhất, bao gồm:
+iOS 15.6 và iPadOS 15.6: Thêm khả năng tạm dừng, tua lại, khởi động lại và tua tới một trò chơi thể thao trực tiếp trong ứng dụng TV và sửa một số lỗi trong Settings, Mail và Safari.macOS 12.5: Cập nhật ứng dụng TV cùng bản sửa lỗi cho Safari.watchOS 8.7: bao gồm các cải tiến, sửa lỗi và cập nhật bảo mật quan trọng.tvOS 15.6: bao gồm các cải tiến về hiệu suất và độ ổn định chung.
+Mặc dù các bản cập nhật này không có một số tính năng nhưng chúng chứa khá nhiều bản vá bảo mật. Các bản cập nhật này vá các lỗ hổng dường như tồn tại trong hầu hết các hệ điều hành, mặc dù Apple không chỉ ra liệu có bất kỳ lỗi nào đã được tin tặc khai thác hay không. Vì các bản cập nhật này có rất nhiều bản sửa lỗi nên người dùng được khuyến cáo cài đặt chúng trên các thiết bị Apple sớm nhất.
+Điều quan trọng cần lưu ý là iOS 15.6, iPadOS 15.6, macOS 12.5, watchOS 8.7 và tvOS 15.6 sẽ không có sẵn ngay lập tức vì quá trình triển khai diễn ra dần dần. Nếu không muốn nhận các bản cập nhật này theo dạng tự động, người dùng có thể truy cập vào phần cập nhật phần mềm của các thiết bị tương ứng để làm điều này. Với iPhone và iPad, người dùng có thể vào Settings> General> Software Update. Riêng Apple TV và Apple Watch sẽ tự động cập nhật lên phiên bản tvOS và watchOS mới nhất mà không cần có sự can thiệp của người dùng.
+
+Concept iPhone 14 màu hồng và xanh da trời cực đẹp Gỡ bỏ ngay 84 ứng dụng này trên iPhone nếu không muốn bị đánh cắp dữ liệu, mất tiền oan Nhiều mẫu iPhone đồng loạt "xả kho", giảm giá sâu tới 12 triệu đồng
+Mới đây, Apple đã phát hành bản cập nhật iOS 15.6 dành cho người dùng iPhone. Đây là bản cập nhật lớn thứ 6 kể từ khi iOS 15 được giới thiệu lần đầu vào tháng 9 năm 2021.
+Ngoài sửa các lỗi còn tồn đọng trước đó, bản cập nhật này còn khắc phục 39 lỗ hổng bảo mật, trong đó bao gồm một số lỗ hổng nghiêm trọng có thể gây nguy hiểm cho người dùng.
+    
+ 39 lỗ hổng bảo mật có thể gây nguy hiểm cho người dùng đã được Apple xác nhận (Ảnh minh hoạ: Unsplash)
+Theo Forbes, trong số các lỗ hổng được vá trong iOS 15.6, có một lỗ hổng trong Hệ thống tệp của Apple (APFS) với mã định danh là CVE-2022-32832, có thể cho phép ứng dụng thực thi mã, theo trang hỗ trợ của Apple.
+Một lỗ hổng khác đã được khắc phục trong iOS 15.6 là một vấn đề trong AppleAVD có thể cho phép hacker thực thi mã độc từ xa. Ngoài ra, bản cập nhật này cũng vá các lỗ hổng trong ImageIO, GPU Drivers, IOMobileFrameBuffer, Kernel và WebKit.
+Apple từ chối cung cấp nhiều thông tin trong phần ghi chú cập nhật bảo mật của mình. "Táo khuyết" muốn càng nhiều người cập nhật iPhone của mình lên phiên bản iOS mới nhất càng tốt trước khi những kẻ tấn công có thể nắm được thông tin chi tiết.
+    
+ Người dùng iPhone được khuyến cáo nên cập nhật lên iOS 15.6 càng sớm càng tốt
+Nhà nghiên cứu bảo mật độc lập Sean Wright khuyến cáo, điều quan trọng là người dùng iPhone nên cập nhật lên iOS 15.6 càng sớm càng tốt.
+Theo ông, ngoài các rủi ro gây ra bởi các vấn đề đã được khắc phục trong iOS 15.6, "kẻ tấn công có thể xâu chuỗi nhiều lỗ hổng lại với nhau để có thể chiếm quyền truy cập đầy đủ vào thiết bị từ xa." Tuy vậy, ông cho biết rằng khả năng điều này xảy ra trong thực tế là "khá nhỏ".
+Ngoài 39 lỗ hổng bảo mật được vá, iOS 15.6 còn tập trung sửa các lỗi còn tồn đọng trước đó, trong đó bao gồm lỗi khiến ứng dụng Cài đặt liên tục thông báo đầy bộ nhớ, lỗi liên quan tới việc thiết bị chạy chậm hoặc bị khởi động lại khi sử dụng tính năng trong ứng dụng Mail...
+      ADVERTISEMENT 
+ Bản cập nhật iOS 15.6 đã được phát hành tới tất cả người dùng iPhone
+Hiện tại, bản cập nhật iOS 15.6 đã được phát hành tới tất cả người dùng. Để cập nhật, người dùng truy cập Cài đặt> Cài đặt chung> Cập nhật phần mềm, tiến hành tải về và cài đặt bản cập nhật.
+Phiên bản iOS 15 cuối cùng Apple vừa công bố iOS 15.6 với một số cải tiến nhỏ và vá lỗi trước khi chính thức chuyển sang iOS 16. Apple vừa giới thiệu bản cập nhật iOS 15.6 và iPadOS 15.6 trên các thiết bị iPhone và iPad của mình. Đây là bản nâng... 

@@ -1,0 +1,21 @@
+
+LastPass, trình quản lý mật khẩu được hơn 33 triệu người dùng và 100.000 doanh nghiệp sử dụng, cho biết một hacker đã lấy đi mã nguồn và thông tin độc quyền sau khi đột nhập hệ thống. Công ty không phát hiện dấu hiệu cho thấy mật khẩu bị đánh cắp trong vụ xâm phạm và người dùng cũng chưa cần làm gì để bảo vệ tài khoản
+      ADVERTISEMENT 
+ (Ảnh: Digital Trends)
+LastPass, trình quản lý mật khẩu được hơn 33 triệu người dùng và 100.000 doanh nghiệp sử dụng, cho biết một hacker đã lấy đi mã nguồn và thông tin độc quyền sau khi đột nhập hệ thống. Công ty không phát hiện dấu hiệu cho thấy mật khẩu bị đánh cắp trong vụ xâm phạm và người dùng cũng chưa cần làm gì để bảo vệ tài khoản.
+Một cuộc điều tra xác định “một bên không được ủy quyền” đã xâm nhập vào môi trường dành cho nhà phát triển, chính là các phần mềm mà nhân viên sử dụng để phát triển và duy trì sản phẩm của LastPass. Thủ phạm làm được như vậy nhờ chiếm quyền tài khoản của một lập trình viên.
+LastPass là công ty tạo và lưu trữ các mật khẩu phức tạp, khó bị bẻ khóa cho nhiều tài khoản thay mặt người dùng. Theo thông tin trên website, Patagonia, Yelp và State Farm là các khách hàng của LastPass.
+Trang web bảo mật Bleeping Computer đã hỏi LastPass về vụ xâm phạm 2 tuần trước đó. Dù vậy, Allan Liska, nhà phân tích trong nhóm phản ứng sự cố máy tính của hãng an ninh mạng Recorded Future, lại ấn tượng trước “thông báo nhanh chóng” từ LastPass. Theo ông, thời gian 2 tuần có thể lâu với một số người song các nhóm phản ứng cần thời gian để đánh giá đầy đủ và báo cáo về tình hình.
+Trước một số suy đoán trên mạng xã hội về việc hacker tiếp cận các khóa của kho mật khẩu sau khi đánh cắp mã nguồn, Liska cho rằng đây là điều không chắc chắn. Các “kho mật khẩu” này được mã hóa và chỉ giải mã được bằng mật khẩu chính (master) của khách hàng, thứ không bị xâm phạm trong cuộc tấn công.
+Năm 2021, LastPass cũng gặp phải một vụ tấn công cho phép kẻ xấu xác nhận mật khẩu master của một người dùng. Vì vậy, cần kích hoạt xác thực hai lớp trên tài khoản LastPass để hacker không thể truy cập tài khoản của bạn ngay cả khi mật khẩu bị đánh cắp.
+
+Tại sự kiện WWDC 2022 dành cho nhà phát triển toàn cầu của Apple, phiên bản iOS 16 chính thức được công bố với nhiều thay đổi đáng chú ý, đặc biệt là về khả năng tuỳ biến màn hình khoá, điều chưa từng được Apple chú trọng trên các phiên bản iOS trước đây. Bên cạnh đó, Apple cũng bổ sung một vài tính năng nho nhỏ mà cực kỳ hữu ích trong cuộc sống hàng ngày.
+Cụ thể, trên iOS 16 và iPadOS 16, Apple cho phép người dùng có thể xem trực tiếp được mật khẩu mạng Wi-Fi đã kết nối thành công trước đó, và cả sao chép mật khẩu vào bộ nhớ tạm để người dùng cho thể chia sẻ cho người khác. Để làm được điều này thì người dùng sẽ cần phải xác thực Face ID hoặc Touch ID. Đây là một tính năng khá mới và không phải trên chiếc smartphone nào cũng hỗ trợ, thậm chí cả các máy Android.
+    
+ iOS 16 cho phép xem mật khẩu Wi-Fi trực tiếp
+Trên Android, tuỳ vào các hãng smartphone mà máy sẽ có trình quản lý mạng Wi-Fi riêng, nhưng đa số không hỗ trợ xem trực tiếp mật khẩu Wi-Fi, thay vào đó Android cho phép người dùng chia sẻ mạng Wi-Fi thông qua mã QR, tức là người khác sẽ quét mã QR bên trong có chứa kèm mật khẩu để kết nối trực tiếp tới Wi-Fi. Với những ai chỉ muốn biết mật khẩu mạng Wi-Fi để kết nối với máy tính thì sẽ phải tự "giải mã" mã QR.
+Hiện tại trên Android 12 gốc (được cài đặt trên các máy Pixel), Google cho phép người dùng xem trực tiếp mật khẩu, nhưng sẽ phải xác thực bằng vân tay hoặc Face ID, tương tự như iOS 16.
+    
+      ADVERTISEMENT 
+Các máy Pixel với Android 12 cũng có thể xem được mật khẩu Wi-Fi kèm cả mã QR
+Samsung hỗ trợ bảo vệ hình ảnh người dùng trên smartphone khi sửa chữa Chức năng bảo mật mới từ Samsung giúp ẩn hình ảnh cá nhân và các ứng dụng trong smartphone trước khi mang đi sửa chữa. Việc sửa chữa điện thoại hiện nay mang đến nhiều rủi ro liên quan đến quyền riêng tư, các hình ảnh cá nhân... 

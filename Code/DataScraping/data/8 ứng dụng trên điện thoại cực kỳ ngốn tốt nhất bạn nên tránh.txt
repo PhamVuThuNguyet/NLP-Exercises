@@ -1,0 +1,33 @@
+
+Dù pin điện thoại của bạn khủng và bền cỡ nào, vẫn có một số ứng dụng có thể làm giảm tuổi thọ pin của bạn. Các ứng dụng này chạy rất nhiều tác vụ trong nền, âm thầm ngốn pin điện thoại của bạn. Nếu không quá cần thiết, tốt nhất bạn nên xóa nó.
+1. Snapchat
+Snapchat là một trong những ứng dụng ngốn pin hàng đầu. Các dịch vụ thông báo của nó sẽ khiến điện thoại của bạn luôn bận rộn và khiến pin bị tiêu hao nhanh chóng.
+    
+Snapchat cũng sử dụng dịch vụ định vị để báo cáo vị trí thời gian thực của người dùng. Tuy nhiên, đây là một tính năng trong Snapchat mà bạn có thể bật hoặc tắt tùy thuộc vào những gì bạn muốn làm với nó.
+Bên cạnh đó, ứng dụng này cũng đi kèm với dịch vụ camera với các tính năng trò chuyện thông thường cũng như cuộc gọi video. Đó là lý do chính khiến nó sử dụng rất nhiều pin.
+Ứng dụng phát trực tuyến
+Ứng dụng phát trực tuyến là những ứng dụng ngốn nhiều pin nhất. Đó là bởi vì họ sử dụng loa cho các dịch vụ âm thanh, màn hình và internet cùng một lúc. Một số ứng dụng còn chạy nền và thông báo để cho người dùng biết về các chương trình mới. Dưới đây là các ứng dụng phát trực tuyến hao pin điện thoại nhiều nhất:
+2. Netflix
+    
+Netflix là một trong những ứng dụng ngốn pin nhất. Nó cũng gửi thông báo tới người dùng và đó là một lý do khác dẫn đến việc hao pin.
+3. YouTube
+    
+YouTube là một ứng dụng xem video trực tuyến mà hầu hết chúng ta đều đang sử dụng.
+4. Facebook
+    
+Ứng dụng mạng xã hội lớn nhất thế giới cũng sử dụng một lượng pin khủng. Facebook chạy ở chế độ nền, đồng bộ hóa các bản cập nhật và danh bạ, chạy dịch vụ thông báo và có nhiều quy trình nền.
+Bạn có thể hạn chế sử dụng ứng dụng trên điện thoại của mình hoặc tắt tất cả thông báo từ bên trong ứng dụng. Bằng cách này, nó sẽ không làm tiêu hao pin khi có thông báo. Ngoài ra, bạn có thể hạn chế dữ liệu nền và mức sử dụng pin của ứng dụng này. Nó sẽ làm giảm triệt để vấn đề tiêu hao pin.
+Ứng dụng nhắn tin
+Mọi người đều có ứng dụng nhắn tin trên điện thoại của họ: Zalo, WhatsApp, Messenger, Viber, WeChat và nhiều ứng dụng khác. Ứng dụng nhắn tin là một trong những ứng dụng được sử dụng nhiều nhất trên mọi điện thoại. Các ứng dụng này tiêu tốn rất nhiều pin.
+5. Messenger
+    
+Messenger là một trong những ứng dụng nhắn tin gây hao pin nhiều nhất. Nó chạy ở chế độ nền giống như Facebook. Nó đồng bộ danh bạ và đẩy thông báo theo thời gian. Bạn không thể gửi tin nhắn trên Facebook mà không cài đặt Messenger, vậy là người dùng sẽ có một “combo” ứng dụng ngốn pin trên điện thoại.
+Bạn có thể cài đặt Messenger Lite cho Android và iOS, được thiết kế cho điện thoại thông minh cấp thấp. Nếu bạn có một chiếc điện thoại cao cấp, phiên bản Lite của ứng dụng sẽ không tốn bất kỳ chi phí nào và sử dụng ít pin hơn. Đây là giải pháp thích hợp với những ai không muốn xóa bỏ hoàn toàn chúng.
+6. WhatsApp
+    
+WhatsApp là ứng dụng nhắn tin yêu thích của mọi người và có hơn 1 tỷ người dùng. Ứng dụng này chạy trong nền và sẽ tiêu hao pin điện thoại nếu được sử dụng. Không có app nào thay thế cho nó. Tất cả những gì bạn có thể làm là hạn chế sử dụng ứng dụng hoặc xóa hoàn toàn nếu bạn không sử dụng chúng thường xuyên.
+7. TikTok 
+    
+Tik Tok sử dụng rất nhiều pin vì đây là một ứng dụng xã hội khác có tính năng quay và phát video. Việc tiêu hao pin do ứng dụng này có thể được giảm thiểu bằng cách tắt các thông báo không cần thiết và hạn chế việc sử dụng nó. Cố gắng không sử dụng ứng dụng trên dữ liệu di động vì nó ảnh hưởng nghiêm trọng đến pin.
+8. Các ứng dụng tăng pin
+Các ứng dụng tăng cường pin hoặc tăng RAM hoàn toàn không hiệu quả. Ý tưởng là giữ cho điện thoại của bạn sạch sẽ các hoạt động không cần thiết bằng cách buộc chúng phải tắt ở chế độ nền. Nhưng những gì thực sự xảy ra là các ứng dụng này tiếp tục chạy trong nền để đóng các ứng dụng khác và là một lý do lớn gây ra vấn đề tiêu hao pin.

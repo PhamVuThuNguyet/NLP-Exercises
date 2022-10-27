@@ -1,0 +1,26 @@
+
+Trong một động thái hoàn toàn bất ngờ, các hãng công nghệ lớn của Trung Quốc như Alibaba, Tencent... đã chia sẻ thuật toán quý giá của họ cho nhà chức trách
+Cơ quan Quản lý không gian mạng Trung Quốc (CAC) vừa công bố danh sách 30 thuật toán cùng mô tả chung từ các công ty như Alibaba, Tencent. Vào tháng 3, Trung Quốc thông qua luật quản lý cách sử dụng thuật toán gợi ý của doanh nghiệp công nghệ, cũng như yêu cầu các hãng phải xin giấy phép khi muốn cung cấp dịch vụ tin tức.
+      ADVERTISEMENT 
+ (Ảnh: Shutterstock)
+Thuật toán được xem như “gia vị bí mật” đứng sau thành công của nhiều công ty công nghệ Trung Quốc. Chúng có thể được dùng để hướng các sản phẩm tới nhiều đối tượng người dùng chỉ dựa vào thông tin về người dùng đó. Dù vậy, trong 2 năm qua, Bắc Kinh siết chặt quy định quản lý công nghệ trong mọi lĩnh vực, từ bảo vệ dữ liệu tới chống độc quyền nhằm kìm cương các “gã khổng lồ”.
+Luật mới còn yêu cầu các hãng nộp thông tin chi tiết thuật toán với nhà quản lý.
+Trong bản danh sách được công khai, các chi tiết này không được nêu rõ mà chỉ nhắc chung chung. Chẳng hạn, thuật toán của ByteDance – chủ sở hữu Douyin và TikTok – dùng để gợi ý đồ họa, video, sản phẩm và dịch vụ mà người dùng có thể hứng thú thông qua các dữ liệu hành vi như nhấp chuột, lượt thích. Thuật toán của Taobao – chợ điện tử của Alibaba – dùng gợi ý nội dung trên trang chủ và các khu vực khác của ứng dụng thông qua dữ liệu tìm kiếm của người dùng.
+Không rõ nhà chức trách nắm được bao nhiêu thông tin về thuật toán quý hơn vàng của các doanh nghiệp nói trên. Theo CNBC, động thái của Trung Quốc nhằm tạo ra hệ thống đăng ký thuật toán là chưa từng có tiền lệ. Mỹ và EU chưa bao giờ giới thiệu bất cứ luật nào tương tự Trung Quốc, dù các nhà lập pháp châu Âu đang tranh luận về việc sử dụng trí tuệ nhân tạo.
+
+Hãng tin Reuters dẫn lời ông Biden: " Tương lai sẽ được tạo ra ở nước Mỹ". Ông Biden gọi đạo luật là " khoản đầu tư chỉ có 1 lần trong đời cho nước Mỹ".
+Theo đó, Đạo luật chip và khoa học 2022, bao gồm khoản trợ cấp 52 tỉ USD cho hoạt động nghiên cứu và sản xuất chất bán dẫn vốn được sử dụng trong mọi sản phẩm điện tử, từ ôtô và vũ khí công nghệ cao đến các thiết bị công nghệ và trò chơi điện tử.
+    
+ Tổng thống Mỹ ký thông qua Đạo luật chip và khoa học 2022 tại Nhà Trắng ngày 9-8. Ảnh: Reuters
+Đạo luật cũng bao gồm khoản tín dụng thuế đầu tư 25% cho các nhà máy sản xuất chip ước tính trị giá 24 tỉ USD. Đạo luật này cũng sẽ bơm 200 tỉ USD trong 10 năm để thúc đẩy hoạt động nghiên cứu khoa học của Mỹ nhằm cạnh tranh tốt hơn với Trung Quốc.
+Phát biểu tại Nhà Trắng, Tổng thống Biden cho biết đạo luật này sẽ giúp nước Mỹ giành thắng lợi trong cuộc cạnh tranh về kinh tế trong thế kỷ 21. Ông Biden nói rằng Mỹ cần chip cho các hệ thống vũ khí quan trọng như tên lửa Javelin và không có gì lạ khi Trung Quốc tích cực vận động các doanh nghiệp Mỹ chống lại dự luật này.
+Đại sứ quán Trung Quốc tại Washington trước đó cho biết Trung Quốc "kiên quyết phản đối" dự luật, gọi đây là "tâm lý Chiến tranh Lạnh".
+Nhiều nhà lập pháp Mỹ cho biết họ thường sẽ không ủng hộ các khoản hỗ trợ quá lớn cho các doanh nghiệp tư nhân nhưng cho hay Trung Quốc và Liên minh châu Âu cũng đang rót hàng tỉ USD ưu đãi cho các công ty chip của họ.
+Bên cạnh đó, các chính trị gia Mỹ cũng chỉ ra vấn đề này còn liên quan đến nguy cơ an ninh quốc gia và các vấn đề lớn trong chuỗi cung ứng đã cản trở hoạt động sản xuất trên toàn cầu.
+Trong diễn biến khác cùng ngày, Tổng thống Joe Biden hoan nghênh Phần Lan và Thụy Điển tiến thêm một bước nữa để trở thành đồng minh của NATO sau khi ông ký các văn kiện phê chuẩn tư cách thành viên cho hai nước Bắc Âu.
+Ông Biden cũng khen ngợi Phần Lan và Thụy Điển khi nói rằng cả hai đều có thể chế dân chủ mạnh mẽ, quân đội mạnh và nền kinh tế mạnh mẽ minh bạch sẽ giúp hỗ trợ NATO.
+    
+ Ông Biden bắt tay với Đại sứ Thụy Điển tại Mỹ Karin Ulrika Olofsdotter sau khi ký các văn kiện phê chuẩn. Ảnh: EPA-EFE
+Ông chủ Nhà Trắng cho rằng Nga đã phá vỡ hòa bình và an ninh ở châu Âu bằng chiến dịch quân sự tại Ukraine. Tổng thống Biden nhấn mạnh: " Tổng thống Vladimir Putin nghĩ rằng ông ấy có thể chia rẽ chúng ta... Nhưng thay vào đó, ông ấy đang nhận được chính xác những gì ông ấy không muốn".
+Tổng thống Biden khẳng định Mỹ sẽ làm việc với Phần Lan và Thụy Điển để duy trì sự cảnh giác trước bất kỳ mối đe dọa nào đối với an ninh chung, đồng thời ngăn chặn bất kỳ hành động tấn công hoặc đe dọa tấn công nào.
+Blockchain giải bài toán thực phẩm bẩn tại Trung Quốc như thế nào? Công nghệ chuỗi khối (blockchain) với khả năng truy xuất nguồn gốc thực phẩm ngay từ khi nuôi/trồng cho tới lúc tới tay người dùng cuối, đang là giải pháp để Trung Quốc xử lý vấn nạn thực phẩm bẩn tại quốc gia này. Rau nhiễm thuốc trừ... 

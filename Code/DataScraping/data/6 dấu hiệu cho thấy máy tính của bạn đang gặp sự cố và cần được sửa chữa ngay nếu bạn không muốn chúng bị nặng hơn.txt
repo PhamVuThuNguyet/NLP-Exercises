@@ -1,0 +1,25 @@
+
+Sự cố máy tính có thể xảy ra mà không có cảnh báo trước. Hãy chú ý đến những dấu hiệu cảnh báo này để đem chúng đi sửa chữa sớm nhất có thể.
+Bạn đang làm dở dang công việc và vẫn chưa kịp lưu thì máy tính sập bất ngờ? Bạn sẽ bị thiệt hại ít hơn nếu dự đoán được khi nào một vụ “tai nạn” sắp xảy ra với máy tính của bạn. Dưới đây là một số dấu hiệu cảnh báo rằng máy tính của bạn sắp gặp sự cố.
+1. Ổ cứng phát ra tiếng kêu ồn ào
+    
+Mặc dù hầu hết các máy tính xách tay cao cấp hiện đại ngày nay đều sử dụng ổ cứng thể rắn (SSD), nhưng ổ cứng truyền thống vẫn phổ biến trong các máy tính tầm trung và một số máy tính để bàn.
+Ổ cứng truyền thống là cơ học - chúng có các bộ phận chuyển động. Các bộ phận này có thể bị mòn, hỏng và ngừng hoạt động. Nghiên cứu từ công ty sao lưu Backblaze cho thấy tuổi thọ trung bình của ổ cứng là 3-5 năm.
+2. Lỗi khởi động thường xuyên
+    
+Nếu bạn thấy các thông báo như "Không tìm thấy thiết bị khởi động", thì khả năng cao là bản sao Windows của bạn đã bị hỏng.
+3. Hiệu suất phần mềm kém
+    
+Một sự cố máy tính không phải lúc nào cũng dựa trên phần cứng; phần mềm cũng có thể gây ra sự cố.
+Một trong những lý do đơn giản nhất nhưng vẫn thường bị bỏ qua đối với các vấn đề phần mềm là thông số kỹ thuật của máy tính của bạn. Nếu một ứng dụng cần nhiều sức mạnh xử lý hơn khả năng máy tính có thể cung cấp, máy của bạn sẽ thu thập dữ liệu chậm và thường ngừng hoạt động hoàn toàn.
+4. Hiệu suất phần cứng kém
+    
+Hiệu suất chậm chạp là một dấu hiệu lớn cho thấy máy tính sắp gặp sự cố. Tuy nhiên, nếu nỗ lực của bạn để xác định vấn đề trong phần mềm của máy không thành công, thì rất có thể nguyên nhân là do phần cứng.
+5. Quạt phát ra tiếng kêu lớn
+    
+Nếu quạt máy tính của bạn kêu to hơn bình thường, điều đó cho thấy máy bạn đang quá nóng, quạt máy đang phải hoạt động quá mức để khắc phục sự cố.
+Nếu các thành phần bên trong của máy tính xách tay hoặc máy tính để bàn của bạn quá nóng, tình trạng này có thể dẫn đến sự cố và thậm chí là hư hỏng phần cứng.
+6. Tệp và chương trình bị lỗi
+    
+Một dấu hiệu phổ biến khác cho thấy máy của bạn đang có vấn đề là lỗi chương trình và tệp một cách ngẫu nhiên. Các tệp luôn hoạt động đột ngột không mở được hoặc chỉ hoạt động tùy lúc. Chúng có thể có hoặc không kèm theo thông báo lỗi.
+Rất nhiều tác nhân có thể gây ra lỗi - phần mềm độc hại, hỏng ổ cứng, hỏng các thành phần bên trong và các tệp bị hỏng đều có thể là nguyên nhân.

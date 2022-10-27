@@ -1,0 +1,12 @@
+
+Cựu kỹ sư của Apple, Ken Kocienda, người đã phát minh ra tính năng tự động sửa lỗi trên iPhone, đã giải thích lý do tại sao tính năng này không được đưa vào iPhone thế hệ đầu tiên.
+Với một loạt các tính năng mới lạ, việc Apple giới thiệu chiếc iPhone đầu tiên vào năm 2007 đã hoàn toàn làm khuynh đảo thị trường. Tuy nhiên, có một số tính năng mà Apple đã bỏ qua trên iPhone thế hệ đầu tiên, trong số đó là khả năng cắt, sao chép và dán văn bản. Giờ đây, cựu kỹ sư của Apple, Ken Kocienda, người đã phát minh ra tính năng tự động sửa lỗi trên iPhone, đã giải thích lý do tại sao tính năng này không được đưa vào.
+    
+Kocienda chia sẻ ngắn gọn và thú vị rằng các kỹ sư của Apple không có thời gian để áp dụng tính năng copy/paste vào iPhone đời đầu. Đương nhiên là câu chuyện không chỉ đơn giản như vậy.
+Theo Kocienda, nhóm phát triển quá bận rộn với việc tạo ra bàn phím ảo và hệ thống tự động sửa lỗi đánh máy của iPhone. Sau khi iphone ra mắt, Kocienda và nhóm của mình mới quyết định phát triển tính năng copy/paste nhưng không thể nào triển khai ngay lập tức cho người dùng.
+Vào khoảng thời gian sau khi iPhone ra mắt, nhóm của ông đã phải làm việc về chức năng copy/paste bị thiếu. Kocienda nói thêm rằng tính năng “magnifying text loupe - kính lúp văn bản”, có thể phóng to văn bản mà người dùng đặt ngón tay lên, là ý tưởng của ông vào thời điểm đó.
+    
+Một tiết lộ thú vị khác mà Kocienda chia sẻ liên quan đến hệ thống văn bản trên chiếc iPhone đầu tiên. Cụ thể, cựu kỹ sư nói rằng WebKit đã cung cấp hầu như tất cả các văn bản trên điện thoại.
+Ông nói: “Về hệ thống văn bản, tất cả văn bản theo kiểu có thể chỉnh sửa trên iPhone ban đầu đều được hỗ trợ bởi WebKit. Hệ thống có các trang web nhỏ được đặt rải rác ở khắp nơi trong hệ thống. Mỗi UITextView nhiều dòng đều là trang web của riêng của chính nó”.
+Tính năng copy/paste đã được trình làng cùng với hệ điều hành iPhone 3.0 vào năm 2009, được cài sẵn theo mặc định trên iPhone 3GS. Apple thậm chí còn tạo ra một quảng cáo phát trên truyền hình để khoe tính năng mới này.
+Ngoài ra còn có các thông tin thú vị như iPhone đời đầu không thể đa nhiệm do thiếu RAM và bộ nhớ ảo. Các kỹ sư phải tạo ra hệ thống mang tên jetsam để buộc iPhone chỉ chạy một ứng dụng duy nhất tại một thời điểm, tự động chấm dứt các quy trình chạy nền khác để tránh các vấn đề về hiệu suất.

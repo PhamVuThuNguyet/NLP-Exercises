@@ -1,0 +1,8 @@
+
+Tính năng mới trên iOS 16 sẽ cảnh báo người dùng nếu sử dụng các loại tai nghe AirPods nhái không rõ nguồn gốc xuất xứ.
+Hiện tại, iOS đã có thể thông báo cho người dùng nếu iPhone hoặc iPad sử dụng linh kiện không rõ nguồn gốc. Tuy nhiên, phiên iOS 16 sắp sẽ còn có thể cảnh báo người dùng nếu sử dụng AirPods nhái.
+Cụ thể, phiên bản iOS 16 RC mới được phát hành rạng sáng nay đã tiết lộ một tính năng mới hệ thống mới là phát hiện AirPods nhái. Thị trường hiện tại đã xuất hiện nhiều loại AirPods Trung Quốc nhái các mẫu mã của AirPods với mức độ hoàn thiện tinh vi và rất khó để phát hiện. Thậm chí các loại AirPods nhái này còn đánh lừa hệ thống iOS để sử dụng các tính năng như chống ồn chủ động, Spatial Audio, kích hoạt tính năng tự kết nối và thông báo pop-up...
+Cảnh báo AirPods không được xác minh chính hãng trên iOS 16 (Ảnh: Apple Insider)
+iOS 16 mới cũng tích hợp thêm khả năng hỗ trợ kết nối với AirPods Pro 2, mẫu AirPods mới ra mắt của Apple tại sự kiện Far out tổ chức rạng sáng nay. Với AirPods Pro 2, Apple nâng cấp con chip H2, cải thiện chất âm và khả năng chống ồn, đồng thời tăng thời lượng dùng pin. AirPods Pro mới cũng tích hợp loa ở hộp sạc và có thể sạc được với sạc không dây của Apple Watch.
+iOS 16 phiên bản chính thức sẽ được phát hành tới người dùng toàn cầu từ ngày 12/9 tới đây.
+Tham khảo: Apple Insider

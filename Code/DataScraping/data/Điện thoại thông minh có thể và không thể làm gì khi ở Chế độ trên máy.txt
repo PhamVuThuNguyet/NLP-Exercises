@@ -1,0 +1,45 @@
+
+Ai đã từng đi máy bay chắc hẳn đã quen thuộc với yêu cầu điện thoại thông minh phải được đặt ở “Chế độ trên máy bay” trong chuyến bay. Vậy, smartphone của chúng ta có thể và không thể làm được những gì khi ở chế độ này?
+Những điều bạn không thể làm trong Chế độ trên máy bay
+Đặt điện thoại ở Chế độ trên máy bay, thiết bị của bạn tạm thời bị tắt tất cả các tính năng gọi và dữ liệu của nó. Điều này có nghĩa là trong khi ở Chế độ trên máy bay, điện thoại sẽ không thể thực hiện một loạt các chức năng thường yêu cầu kết nối di động hoặc Wi-Fi, bao gồm:
+- Thực hiện cuộc gọi điện thoại
+    
+- Gửi và nhận tin nhắn văn bản
+- Sử dụng kết nối di động để truy cập Internet
+- Sử dụng kết nối Wi-Fi để truy cập Internet
+    
+- Phát trực tuyến các bài hát và phim
+- Sử dụng Bluetooth
+- Kiểm tra hoặc gửi email mới
+    
+- Tạo hoặc đánh giá các bài đăng mới trên mạng xã hội
+Những điều bạn có thể làm trong Chế độ trên máy bay
+Ngay cả khi chức năng di động và Wi-Fi của điện thoại thông minh tạm thời bị vô hiệu hóa qua Chế độ trên máy bay, thiết bị vẫn có thể thực hiện một loạt các chức năng không được kết nối, bao gồm:
+- Nghe nhạc được lưu trữ trên điện thoại
+    
+- Xem video được lưu trữ trên điện thoại
+- Đọc sách điện tử được lưu trữ trên điện thoại
+- Sử dụng các ứng dụng không yêu cầu kết nối di động hoặc Wi-Fi
+    
+- Đọc email cũ và các bài đăng trên mạng xã hội
+- Xem, chụp và sắp xếp ảnh và video
+- Chơi trò chơi ngoại tuyến
+- Kết nối với Wi-Fi trên máy bay
+    
+Mặc dù điện thoại tự động ngắt kết nối khỏi Wi-Fi khi Chế độ trên máy bay được bật, nó có thể kết nối với Wi-Fi trên máy bay nếu máy bay có cung cấp mạng như vậy.
+Lưu ý: Các hãng hàng không thường tính phí hành khách sử dụng mạng Wi-Fi trên máy bay.
+Qua việc kết nối với Wi-Fi trên máy bay, người dùng điện thoại thông minh có thể truy cập một số chức năng nêu trên của điện thoại thông minh được kết nối ở Chế độ trên máy bay tạm thời vô hiệu hóa. Chúng có thể bao gồm lướt internet, phát trực tuyến video và âm nhạc, thực hiện cuộc gọi điện thoại VoIP, sử dụng các ứng dụng được kết nối Wi-Fi, gửi và nhận email, gửi và nhận tin nhắn văn bản.
+Để tạo kết nối không dây trên máy bay, người dùng điện thoại thông minh có thể bật Wi-Fi ở Chế độ trên máy bay bằng cách vào Cài đặt.
+Trên iPhone:
+- Mở Cài đặt
+- Bật Chế độ trên máy bay (nếu điều này chưa được thực hiện)
+- Nhấn vào Wi-Fi và bật nó lên
+- Kết nối với mạng Wi-Fi trên máy bay
+    
+Trên điện thoại Android:
+- Mở Cài đặt
+- Mở kết nối
+- Kích hoạt Chế độ trên máy bay (nếu điều này chưa được thực hiện)
+- Nhấn vào Wi-Fi và bật nó lên
+- Kết nối với mạng Wi-Fi trên máy bay
+Bluetooth cũng có thể được sử dụng trong Chế độ trên máy bay, cho phép các chức năng như sử dụng tai nghe hoặc tai nghe được kết nối Bluetooth. Điều này có thể được thực hiện bằng cách sử dụng các bước ban đầu tương tự được liệt kê ở trên, sau đó bật Bluetooth (thay vì Wi-Fi) và kết nối với thiết bị Bluetooth bạn chọn.

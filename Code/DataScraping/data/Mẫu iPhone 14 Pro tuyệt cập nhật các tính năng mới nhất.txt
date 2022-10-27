@@ -1,0 +1,25 @@
+
+iPhone 14 Pro cùng các mẫu iPhone 14 mới sẽ ra mắt trong tháng 9 tới. Trong khi các tín đồ của Apple đang ngợp do quá nhiều tin đồn, thì một concept vừa xuất hiện với khá đầy đủ những gì đáng mong đợi ở iPhone mới
+Theo 9to5mac, nhà thiết kế đồ họa @AR7 vừa tung ra concept iPhone 14 Pro và iPhone 14 Pro Max dựa trên các thông tin từ phiên bản iOS 16 beta và các tin đồn về iPhone 14 thời gian qua.
+      ADVERTISEMENT   Concept iPhone 14 Pro Max.  Ảnh: @AR7
+Theo đó, mẫu iPhone cao cấp mới của Apple có thiết kế màn hình mới “đục lỗ” kiểu hình viên thuốc và 1 chấm tròn, mô tả màn hình dùng phiên bản iOS 16 beta 5.
+Thông tin mới nhất được cập nhật là iPhone 14 sẽ hồi sinh hiển thị phần trăm pin ở thanh trạng thái trên cùng màn hình, tính năng từng bị Táo khuyết khai tử từ năm 2017.
+      Concept iPhone 14 Pro với màn hình đục lỗ.  Ảnh: @AR7
+Một bổ sung thú vị khác là giao diện phát nhạc trên màn hình khoá. Apple có thể sẽ đưa tính năng này cùng với màn hình luôn bật (Always-On Display) đến với các iPhone Pro mới.
+Tính năng màn hình luôn bật sẽ cho phép hiển thị một số thông tin được thiết lập tùy chọn với giao diện đơn giản. Always-On Display cũng được cho là sẽ tiêu hao mức năng lượng cực thấp. Nó giống như Apple Watch có màn hình luôn bật, thiết bị hiển thị mặt đồng hồ ngay cả khi không có tương tác. Khi đó, độ sáng màn hình sẽ giảm và một số yếu tố hình ảnh bị ẩn đi để tiết kiệm pin.
+      Tính năng màn hình luôn bật (Always-On Display) có trên các iPhone Pro mới. Ảnh: @AR7
+Theo các tin đồn, iPhone 14 Pro và iPhone 14 Pro Max sẽ là những chiếc iPhone đầu tiên có màn hình luôn bật nhờ được trang bị tấm nền OLED có tốc độ làm tươi biến đổi trong khoảng từ 120Hz đến 1Hz.
+Để so sánh, màn hình iPhone 13 Pro nằm trong khoảng 120Hz đến 10Hz. Mặc dù trên lý thuyết, Apple có thể thêm tính năng Always-On Display cho iPhone 13 Pro, nhưng tính năng này sẽ hoạt động hiệu quả hơn khi tốc độ làm tươi xuống tới 1Hz.
+      ADVERTISEMENT   Concept iPhone 14 Pro mới nhất.  Ảnh: @AR7
+Loạt iPhone 14 được dự kiến ra mắt vào ngày 13/9 tới gồm 4 mẫu iPhone 14 (6,1 inch), iPhone 14 Max (6,7 inch), iPhone 14 Pro (6,1 inch) và iPhone 14 Pro Max (6,7 inch). Mức giá iPhone mới có thể sẽ tăng thêm 100 USD với tất cả các phiên bản so với loạt iPhone 13 ra mắt năm ngoái.
+
+Phiên bản beta thứ 5 của iOS 16 ghi nhận sự xuất hiện trở lại của một tính năng mà nhiều người dùng iPhone tiếc nuối: Thông tin phần trăm pin trên thanh trạng thái đầu màn hình.
+    
+ Người dùng không cần phải vuốt màn hình để xem tỷ lệ phần trăm pin.  (Ảnh: TheVerge)
+ Màn hình "tai thỏ" trên iPhone X, model ra mắt năm 2017 đã thu hẹp không gian hiển thị thông tin pin trên thanh trạng thái. Kể từ đó, "Nhà Táo" phải đưa tính năng này "ẩn" vào bên trong bảng thông báo mà người dùng vuốt xuống để truy cập.
+Với phiên bản beta mới nhất của iOS, Apple đã cho hiển thị trở lại phần trăm pin dưới dạng số bên trong biểu tượng pin, trong khi vẫn đảm bảo không gian hiển thị cho biểu tượng mạng và trạng thái Wi-Fi.
+Điều này có nghĩa người dùng không còn phải vuốt xuống màn hình để có thể xem tỷ lệ phần trăm pin chính xác của thiết bị. Đây sẽ là một sự kết hợp hữu ích trong trường hợp Apple tích hợp màn hình "always-on" vào thế hệ iPhone tiếp theo, cho phép kiểm tra tình trạng pin mà không cần chạm vào điện thoại.
+Người phát ngôn của Apple không khẳng định, liệu tính năng này có xuất hiện trên bản iOS 16 chính thức cuối cùng hay không. Bản cập nhật hiện tại chỉ có dưới dạng beta công khai dành cho nhà phát triển.
+Hệ điều hành mới nhất của iPhone dự kiến phát hành vào mùa thu này, nhiều khả năng vào tháng 9, thời điểm Apple công bố iPhone 14.
+Người dùng đã cài đặt bản iOS 16 beta 5 có thể kích hoạt tính năng hiển thị phần trăm pin bằng cách mở Cài đặt, chọn Pin và bật Tỷ lệ phần trăm pin.
+Tính năng được mong chờ trở lại trên iOS 16 Ở phiên bản mới, iPhone có thể hiển thị phần trăm pin trực tiếp trên thanh trạng thái. Trên bản cập nhật iOS 16.5 beta vừa phát hành, Apple bổ sung tính năng hiển thị phần trăm pin trên thanh trạng thái góc trên màn hình. Giờ đây,... 

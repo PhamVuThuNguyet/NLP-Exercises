@@ -1,0 +1,9 @@
+
+Những thiết bị như iPhone 5s, iPhone 6 hay iPad Air được cập nhật iOS để vá lỗ hổng bảo mật nghiêm trọng. Người dùng được khuyến cáo nâng cấp càng sớm càng tốt.
+Apple vừa phát hành iOS 12.5.6 cho những thiết bị không tương thích iOS cao hơn. Bản cập nhật vá lỗ hổng bảo mật liên quan đến bộ dựng WebKit, giúp kẻ xấu tấn công thiết bị nếu người dùng truy cập website độc hại.
+Các sản phẩm bị dừng cập nhật tại iOS 12 vừa nhận bản vá lỗi gồm iPhone 5s, iPhone 6, iPhone 6 Plus, iPad Air đời đầu, iPad mini 2, iPad mini 3 và iPod touch thế hệ 6. Đây cũng là lỗ hổng zero-day được Apple khắc phục trên iOS 15.6.1 và macOS 12.5.1 phát hành giữa tháng 8.
+Bản cập nhật cho iPhone, iPad và iPod chạy iOS 12 vá lỗ hổng bảo mật nghiêm trọng. Ảnh: XDA.
+Người dùng có thể cập nhật iOS 12.5.6 cho những thiết bị cũ bằng cách vào Cài đặt > Cài đặt chung > Cập nhật phần mềm. Theo MacRumors, thiết bị cần được cập nhật càng sớm càng tốt để đảm bảo an toàn trước các cuộc tấn công mạng.
+Theo thống kê trên website dành cho nhà phát triển của Apple, còn khoảng 4% người dùng iPhone và 10% người dùng iPad đang sử dụng các phiên bản cũ hơn iOS 14. Dù không sở hữu tính năng phần mềm mới nhất, iPhone 6 hay iPad Air vẫn hoạt động bình thường với những tác vụ cơ bản.
+Với những thiết bị không còn được nâng cấp iOS, Apple không bắt buộc phát hành bản vá bảo mật. Trên thực tế, các thiết bị iOS 12 được vá lỗi WebKit trễ hơn 2 tuần so với các sản phẩm đang chạy iOS 15.
+Việc Apple phát hành bản cập nhật cho những thiết bị cũ không phải hiếm. Năm 2019, Táo khuyết tung bản vá cho iOS 9 và iOS 10 để cập nhật độ ổn định cho GPS. Năm ngoái, Apple cũng cập nhật iOS 12 để vá các lỗ hổng bảo mật nghiêm trọng.

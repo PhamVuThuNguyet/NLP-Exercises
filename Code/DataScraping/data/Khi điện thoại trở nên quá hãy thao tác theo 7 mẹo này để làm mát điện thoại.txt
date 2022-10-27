@@ -1,0 +1,34 @@
+
+Đôi khi điện thoại của bạn trở nên quá nóng và điều này khiến bạn lo lắng cho sức khỏe của thiết bị. Đây là những mẹo đơn giản giúp bạn hạ nhiệt nó.
+Bạn đã bao giờ gặp tình trạng khi bạn lướt qua các email trên điện thoại, gắn cờ các tin nhắn hoặc nhập các câu trả lời nhanh và đột nhiên cảm thấy thiết bị của mình nóng lên? Bạn có thể cảm thấy như mình phải thả điện thoại xuống để ngón tay không bị bỏng.
+Tại sao nó lại nóng lên kinh khủng như vậy? Mặc dù bạn có thể không tin rằng điện thoại di động của mình sẽ không tự nhiên bốc cháy, nhưng thực ra việc điện thoại quá nóng là điều khá bình thường. Để đưa thiết bị trở lại nhiệt độ bình thường, hãy thử các thủ thuật đơn giản sau đây:
+1. Đóng bớt các ứng dụng 
+    
+Điện thoại quá nóng có thể là dấu hiệu cho thấy bạn đang sử dụng quá nhiều ứng dụng cùng một lúc. Việc mở nhiều ứng dụng sẽ khiến bộ xử lý và RAM phải làm việc nhiều hơn, điều này chắc chắn sẽ gây căng thẳng cho pin.
+Nếu bạn chỉ đơn giản là “nhảy” ra khỏi ứng dụng này và chuyển sang ứng dụng khác, thì các ứng dụng có thể vẫn đang chạy ở chế độ nền. Những thứ này cần phải được đóng lại đúng cách.
+Mặc dù một số ứng dụng sử dụng nhiều sức mạnh xử lý hơn những ứng dụng khác, nhưng một trong những cách tốt nhất để hạ nhiệt điện thoại của bạn là đóng từng ứng dụng đang chạy.
+Nếu điện thoại của bạn quá nóng thường xuyên, đây có thể là dấu hiệu cho thấy bạn đang thường xuyên tạo áp lực quá lớn lên điện thoại thông minh của mình. Việc bạn thường xuyên tăng độ sáng, sử dụng Bluetooth và chơi trò chơi có thể gây căng thẳng cho các thiết bị không dành cho khối lượng công việc lớn như vậy.
+Hãy gỡ cài đặt các ứng dụng không cần thiết có thể giúp đảm bảo thực hiện ít tác vụ nền hơn trong khi cập nhật các ứng dụng còn lại đảm bảo chúng là phiên bản ổn định và hiệu quả nhất. Việc sử dụng quá nhiều ứng dụng chỉ khiến tuổi thọ của điện thoại giảm đi nhanh chóng. Khi các ứng dụng của bạn hoạt động tốt, rất có thể điện thoại của bạn cũng sẽ như vậy.
+2. Ngừng sạc điện thoại của bạn
+    
+Một trong những giải pháp giải quyết tình trạng điện thoại quá nóng là ngừng sạc pin. Việc sử dụng điện thoại của bạn trong khi sạc sẽ làm nóng điện thoại lên đáng kể. Cách đơn giản để khắc phục cho sự cố này là ngừng sử dụng điện thoại khi sạc hoặc rút sạc pin bạn muốn sử dụng nó.
+Ngoài ra, không phải lúc nào bạn cũng đang sử dụng bộ sạc phù hợp cho thiết bị của mình. Việc sử dụng bộ sạc không phù hợp có thể góp phần khiến điện thoại của bạn trở nên quá nóng. Khi điện thoại của sắp hết pin, chúng ta thường nhanh chóng muốn tìm bất kỳ bộ sạc nào có thể sạc được. Tuy nhiên, một số bộ sạc có thể được thiết kế cho những chiếc điện thoại mạnh hơn, dẫn đến hỏng pin và quá nóng.
+Điều quan trọng là bạn phải sử dụng bộ sạc phù hợp với kiểu điện thoại bạn đang sử dụng. Ngoài tác dụng làm mát điện thoại đang quá nóng của bạn, việc sử dụng bộ sạc phù hợp sẽ giúp kéo dài tuổi thọ tổng thể của thiết bị.
+3. Tháo ốp điện thoại
+    
+Khi nói đến việc bảo vệ thiết bị của bạn khỏi bị nứt, vỡ thì ốp điện thoại là rất quan trọng. Tuy nhiên, hầu hết mọi người không nhận ra rằng ốp điện thoại của họ có thể là nguyên nhân khiến điện thoại trở nên quá nóng. Có những chiếc ốp được làm bằng cao su, dầy có thể chặn lỗ thông hơi và khiến điện thoại khó hạ nhiệt khi sử dụng.
+Vì điện thoại thông minh có xu hướng nóng lên khi chúng được sử dụng nhiều năng lượng xử lý, điều quan trọng là các thiết bị phải có các vị trí rõ ràng để giải phóng nhiệt này và điều chỉnh nhiệt độ của nó. Điện thoại cũng có thể nóng lên khi chúng được đặt trực tiếp dưới ánh sáng mặt trời trực tiếp.
+4. Bật “chế độ trên máy bay”
+    
+Vì bị cấm sử dụng dữ liệu di động trên máy bay nên hầu hết các điện thoại thông minh đều được trang bị chức năng chế độ trên máy bay. Chế độ trên máy bay ngắt kết nối điện thoại của bạn khỏi dữ liệu di động, Bluetooth và Mạng Wi-Fi, ngăn tất cả các tín hiệu dựa trên đường truyền. Việc tắt các chức năng này sẽ giúp giảm bớt một số căng thẳng cho bộ xử lý và RAM của điện thoại từ đó, có thể giúp hạ nhiệt điện thoại của bạn.
+5. Lấy điện thoại ra khỏi khu vực có nhiệt độ cao
+    
+Nếu bạn đã từng mang điện thoại của mình ra bãi biển vào một ngày nắng đẹp, bạn có thể nhận thấy nhiệt độ của thiết bị bị ảnh hưởng. Pin điện thoại gặp vấn đề khi nhiệt độ lên tới 114 độ C hoặc cao hơn. Vì pin là một trong những thành phần lớn nhất của điện thoại, nên bạn sẽ dễ dàng để cảm nhận được mức độ nóng của một thiết bị từ mặt sau của khung máy.
+Để chống lại tác động của thời tiết, hãy thử di chuyển điện thoại của bạn đến một vị trí mát mẻ hơn. Nếu bạn đang ở bãi biển, chơi trò chơi thể thao hoặc một sự kiện khác mà bạn không thể rời đi, bạn cũng có thể thử di chuyển thiết bị vào bóng râm.
+6. Giữ điện thoại của bạn cách xa các thiết bị điện tử khác
+    
+Bạn đã bao giờ nhận thấy điện thoại của mình có xu hướng trở nên nóng hơn khi bạn đặt nó lên hoặc bên cạnh máy tính của mình chưa? Tuy nhiên, nếu bạn để nhiều điện thoại hoặc máy tính bảng cạnh nhau, chúng có thể dễ dàng bị quá nhiệt. Vì mỗi thiết bị chạy nhiều thứ trong nền và sử dụng năng lượng, bạn không nên đặt điện thoại ngay cạnh thiết bị có cùng chức năng.
+7. Tắt điện thoại 
+    
+Nếu bạn đã làm đủ mọi cách nhưng vẫn thất bại, một trong những cách tốt nhất để hạ nhiệt điện thoại của bạn là tắt nó đi. Theo Will Manuel, chủ tịch kiêm Giám đốc điều hành của Cơ quan Phát triển Trang web và Ứng dụng Di động - Core Mobile Apps, việc để điện thoại tắt nguồn trong 30-60 giây có thể giúp tản nhiệt trong điện thoại và thiết lập lại một số quy trình sử dụng nhiều bộ nhớ.
+Điều quan trọng là chọn vị trí thích hợp để để điện thoại của bạn trong khi chờ điện thoại nguội mát hơn. Sau khi ngắt nguồn điện, hãy đặt nó ở nơi khô ráo và thoáng mát (không phải tủ lạnh hoặc tủ đông vì điều này gây ra nhiều hỏng hóc cho thiết bị hơn cho đến khi bạn cảm thấy điện thoại của mình nguội đi, hãy bật nó lại.

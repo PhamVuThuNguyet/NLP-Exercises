@@ -1,0 +1,20 @@
+
+Theo The Verge, nhóm hacker đã gây ra một vụ tắc đường lớn ở trung tâm Moscow bằng cách điều hướng hàng chục tài xế của hãng Yandex Taxi cùng lúc đến đón khách. Cuộc tấn công mạng khiến giao thông đi về phía Kutuzovsky Prospect, một trong những tuyến đường chính của Moscow bị tắc nghẽn hơn 40 phút
+Theo The Verge, nhóm hacker đã gây ra một vụ tắc đường lớn ở trung tâm Moscow bằng cách điều hướng hàng chục tài xế của hãng Yandex Taxi cùng lúc đến đón khách. Cuộc tấn công mạng khiến giao thông đi về phía Kutuzovsky Prospect, một trong những tuyến đường chính của Moscow bị tắc nghẽn hơn 40 phút.
+Hãng xe Yandex Taxi vẫn chưa xác nhận ai đã thực hiện vụ tấn công, nhưng một số tài khoản Twitter có liên quan đến nhóm hacker Anonymous lên tiếng nhận trách nhiệm gây ra sự cố này.
+      ADVERTISEMENT 
+Hàng dài taxi khiến giao thông đi về phía Kutuzovsky Prospect, một trong những tuyến đường chính của thành phố bị tắc nghẽn hơn 40 phút. Ảnh: Russia Market.
+“Yandex Taxi đã bị những tin tặc làm gián đoạn dịch vụ vào ngày 1/9. Hàng chục tài xế nhận được lệnh điều xe giả đến cùng một địa điểm”, người phát ngôn của hãng xe trả lời hãng tin Nga TASS.
+Yandex Taxi là một trong những ứng dụng gọi xe phổ biến nhất tại Nga và thuộc quyền sở hữu của ông lớn tìm kiếm Yandex. Hãng thừa nhận sự cố kéo dài khoảng 40 phút và cho biết thêm đã cải thiện thuật toán nhằm phát hiện và ngăn chặn các cuộc tấn công tương tự có thể xảy ra trong tương lai.
+    
+ Nhóm hacker khét tiếng Anonymous đã lên tiếng nhận trách nhiệm gây ra sự cố này. Ảnh: Getty Images.
+Cuối tháng 2, Anonymous đã đánh sập website kênh truyền hình RT của Nga bằng kỹ thuật tấn công từ chối dịch vụ phân tán (DDoS). Ngày 26/2, nhóm tin tặc này tuyên bố tấn công website của Bộ Quốc phòng Nga.
+
+Bản cập nhật có mục đích chính là vá một số lỗ hổng bảo mật còn tồn tại trên thiết bị chạy iOS 12. Những thiết bị được hỗ trợ trong đợt này gồm iPhone 5s, iPhone 6, iPhone 6 Plus, iPad Air, iPad mini 2, iPad mini 3 và iPod touch thế hệ 6, đều là những máy ra mắt trong giai đoạn 2013-2015.
+Theo The Verge, khi một thiết bị và phần mềm đời cũ được cập nhật bảo mật, "có thể hiểu rằng đó là vấn đề nghiêm trọng và nên dành thời gian để thực hiện việc đó".
+Thông báo của Apple cho biết iOS 12.5.6 sẽ khắc phục vấn đề của WebKit, hiện tồn tại lỗ hổng cho phép các website độc hại có thể chạy các đoạn mã không được kiểm tra, nếu người dùng mở website đó bằng Safari hoặc một trình duyệt nào đó. Hãng cũng cảnh báo lỗ hổng này "có thể đã bị khai thác", nhưng không nêu chi tiết về các vụ tấn công.
+    
+Để cập nhật, người dùng vào Cài đặt> Cài đặt chung> Cập nhật phần mềm. Bản này có dung lượng gần 300 MB. Do các thiết bị đời cũ thường có dung lượng bộ nhớ thấp, người dùng có thể sẽ cần giải phóng bộ nhớ trước khi thực hiện.
+iPhone 5s là thiết bị lâu đời nhất vẫn được Apple hỗ trợ. Sản phẩm ra mắt năm 2013, trang bị chip A7, RAM 1 GB và màn hình 4 inch. Lần gần nhất mẫu iPhone này được cập nhật là tháng 9/2021. Apple khi đó tung ra iOS 12.5.5 để khắc phục lỗi bảo mật liên quan đến nguy cơ tấn công qua file PDF.
+Phiên bản hệ điều hành cao nhất cho các thiết bị iOS hiện nay là iOS 15.6.1, được phát hành giữa tháng 8 cũng nhằm vá lỗ hổng bảo mật
+Công ty mẹ của Snapchat sa thải 1.000 nhân viên Snap cắt giảm 20% nhân lực, tương đương 1.000 nhân viên sau kết quả kinh doanh đáng thất vọng. Theo thông tin từ The Verge, Snap, công ty mẹ của mạng xã hội Snapchat, sẽ cắt giảm 20% nhân lực, tương đương với hơn 1.000 nhân viên, bắt... 

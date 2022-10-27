@@ -1,0 +1,41 @@
+
+Thông thường, bất cứ ai cũng sẽ có thể sở hữu 2-3 tài khoản Viber, Zalo hay Facebook Messenger để phục vụ các mục đích cá nhân khác nhau. Tuy nhiên, phần lớn các phần mềm trò chuyện của các dịch vụ này chỉ giới hạn 01 tài khoản sử dụng đồng thời trên máy tính Windows. Nếu bạn muốn sử dụng nhiều hơn 02 hoặc đến 03 tài
+ Thông thường, bất cứ ai cũng sẽ có thể sở hữu 2-3 tài khoản Viber, Zalo hay Facebook Messenger để phục vụ các mục đích cá nhân khác nhau. Tuy nhiên, phần lớn các phần mềm trò chuyện của các dịch vụ này chỉ giới hạn 01 tài khoản sử dụng đồng thời trên máy tính Windows. Nếu bạn muốn sử dụng nhiều hơn 02 hoặc đến 03 tài khoản, bạn sẽ phải sử dụng phiên bản nền web của dịch vụ trò chuyện mình đang dùng, nhưng sẽ bị giới hạn tính năng so với phiên bản cài đặt trên máy tính. Nhìn chung, như vậy khá phiền phức!
+      ADVERTISEMENT 
+Trong bài viết này, chúng ta sẽ cùng nhau tham khảo một giải pháp đơn giản và gọn nhẹ hơn rất nhiều, cho phép bạn sử dụng 2-3 tài khoản ứng dụng trò chuyện ngay trên phần mềm đã cài đặt trên máy mà không cần phải mở trình duyệt web hay nhờ đến tiện ích của bên thứ ba. Cụ thể như sau.
+    
+ Nhấn phải chuột vào This PC và chọn “Manage”.
+    
+ Cửa sổ Computer Management hiện ra, bạn hãy nhấp vào “Local User and Groups”.
+      ADVERTISEMENT 
+ Nhấn đôi chuột vào thư mục “User” ở khung kế bên.
+    
+Danh sách các tài khoản User trên máy tính sẽ hiện ra. Bây giờ, hãy nhấn phải chuột vào khoảng trống và chọn “New User…”.
+    
+Cửa sổ khởi tạo tài khoản hiện ra, bạn hãy tiến hành đặt tên cho tài khoản mới này sao cho dễ nhớ nhất và mật khẩu chỉ cần 01 ký tự là được. Sau đó, hãy hủy đánh dấu ở dòng số 01 và tiến hành đánh dấu ở dòng số 02 và 03 như hình. Khi hoàn tất, hãy nhấn “Create” để khởi tạo.
+      ADVERTISEMENT 
+ Làm tương tự với các tài khoản thứ 03 và 04 hoặc nhiều hơn nếu bạn cần.
+    
+Sau khi đã hoàn tất việc khởi tạo các tài khoản User tương ứng với số tài khoản bạn cần dùng, giờ bạn hãy đóng cửa sổ Computer Management lại và tìm đến vị trí biểu tượng phần mềm trò chuyện mình cần dùng và nhấn phải chuột vào nó, chọn “Open file location”.
+    
+Cửa sổ File Explorer hiện ra và tự động mở thư mục chứa các dữ liệu cài đặt của phần mềm, bạn hãy sao chép thư mục này và dán nó vào bất cứ vị trí nào mà bạn thấy thuận tiện.
+      ADVERTISEMENT 
+Tùy theo số lượng tài khoản bạn cần mà hãy thực hiện việc sao chép và dán số lượng thư mục cài đặt của phần mềm trò chuyện, nhưng nhớ đặt tên lại để tránh nhằm lẫn.
+    
+Bây giờ bạn hãy tiến hành shortcut các tập tin khởi chạy (EXE) của phần mềm trong các thư mục vừa Copy ra màn hình Desktop, và đặt lại tên cho chúng sao cho không nhầm lẫn.
+    
+Tiếp theo, hãy tạo một tập tin TEXT ở Desktop, và nhập vào đó dòng lệnh này vào. Trong đó, [tên_máy_tính] sẽ là mục “Device name” trong máy tính của bạn, và “Facebook 01″ là tên tài khoản User mà chúng ta đã tạo ở trên. Bạn có thể thay đổi lại theo thiết lập của mình sao cho phù hợp.
+      ADVERTISEMENT 
+Sau đó, hãy nhấn phải chuột vào biểu tượng phần mềm trò chuyện cần gán cho tài khoản số 02 của bạn, nhập đoạn mã ở trên vào trước đường dẫn ở dòng Target. Cuối cùng, hãy nhấn Apply> OK để lưu lại.
+Bạn tiến hành làm tương tự ở các shortcut khác cho các tài khoản khác là được.
+Chúc bạn thành công.
+
+Khách hàng thậm chí không cần...
+    
+Để rút tiền bằng thẻ CCCD gắn chip , người dân đến bất kỳ cây ATM của ngân hàng đang thực hiện rút tiền mặt bằng CCCD gắn chip. Thao tác rất đơn giản, đầu tiên, khách hàng chọn giao dịch không dùng thẻ, chọn rút tiền bằng CCCD, tiếp đó là chọn xác thực khuôn mặt rồi đặt CCCD vào vị trí trên máy và bấm tiếp tục.
+Tiếp đó, khách hàng sẽ nhìn thẳng vào camera để xác thực khuôn mặt. Sau khi xác thực xong, khách hàng có thể thực hiện việc rút tiền . Khách hàng chọn số tiền cần rút trên màn hình ATM. ATM trả tiền cho khách hàng và kết thúc giao dịch.
+Điểm đặc biệt là khi dùng CCCD là khách hàng có thể nộp tiền cho mình hoặc cho tài khoản khác cùng hệ thống. Đây là giải pháp nhằm tăng cường tối đa những tiện ích của thẻ CCCD gắn chip đã được trung tâm dữ liệu quốc gia về dân cư của Bộ Công an phối hợp với một số ngân hàng triển khai, giúp việc giao dịch của người dân ngày càng nhanh chóng, thuận tiện.
+    
+Hình thức rút tiền này được cho là an toàn hơn, bởi khi quét thẻ CCCD, hệ thống sẽ đối chiếu và xác thực vân tay hay là khuôn mặt của bạn. Nếu thông tin trùng khớp và chính xác thì bạn mới có thể rút được tiền.
+Theo các chuyên gia ngân hàng, thẻ CCCD gắn chip sẽ tích hợp rất nhiều công dụng và sẽ thay thế rất nhiều loại thẻ nên thời gian tới, người dân sẽ không còn phải mang rất nhiều thẻ trong ví mà chỉ cần thẻ CCCD gắn chip là đủ.
+Tài khoản định danh điện tử có thể thay thế những giấy tờ gì? Tài khoản định danh điện tử sẽ có các thông tin cá nhân của công dân và có thể sử dụng thay thế một số giấy tờ. Tài khoản định danh điện tử là gì? Tài khoản định danh điện tử chứa thông tin danh tính điện tử,... 

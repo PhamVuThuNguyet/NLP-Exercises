@@ -1,0 +1,25 @@
+
+Khi kích hoạt trên iPhone, Lockdown Mode sẽ chặn nhiều tính năng liên quan đến Internet nhằm bảo mật danh tính, hạn chế khả năng bị tin tặc tấn công.
+Lockdown Mode được Apple giới thiệu đầu tháng 7. Đây là chế độ đặc biệt giúp bảo vệ iPhone, iPad và máy tính Mac trước những cuộc tấn công mạng tinh vi, phục vụ nhóm người cần độ bảo mật thông tin cao như nhà báo, chính trị gia, luật sư, nhà hoạt động xã hội... 
+Với Lockdown Mode, thiết bị sẽ hạn chế một số tính năng bị lạm dụng nhiều nhất, kể cả gọi điện FaceTime hay nhắn tin với người lạ. Nhờ đó, tin tặc không thể cài đặt các phần mềm quản lý từ xa nếu Lockdown Mode được bật.
+Người dùng bản beta mới nhất của iOS 16 có thể trải nghiệm Lockdown Mode. Ảnh: CNET.
+Lockdown Mode đã được Apple bổ sung trong bản thử nghiệm mới nhất của iOS 16. Đây là những gì sẽ xảy ra khi người dùng iPhone kích hoạt chế độ này.
+Người dùng có thể bật Lockdown Mode trong phần Settings (Cài đặt) của iPhone. Thiết bị sẽ liệt kê những thay đổi khi bật Lockdown Mode. Sau khi nhấn kích hoạt, iPhone sẽ khởi động lại.
+Ý tưởng của Lockdown Mode là hạn chế khả năng kết nối với Internet của iPhone, iPad và Mac mà không ảnh hưởng lớn đến trải nghiệm sử dụng bình thường. Cách hoạt động thực tế của Lockdown Mode không quá nghiêm ngặt như một số mô tả, tuy nhiên nhiều người có thể cảm thấy khó chịu tùy nhu cầu sử dụng.
+Thông báo xác nhận trước khi kích hoạt Lockdown Mode. Ảnh: TechCrunch.
+Một trong những thay đổi đầu tiên khi bật Lockdown Mode là đường link trong iMessages không còn hiển thị tiêu đề và biểu tượng trang web, thay bằng địa chỉ website dưới dạng văn bản thô.
+Theo TechCrunch, chế độ này giúp giấu địa chỉ IP do thiết bị không còn truy cập trước trang web để lấy thông tin. Người dùng vẫn có thể sao chép địa chỉ rồi dán vào trình duyệt web để truy cập như bình thường, nếu tin tưởng website an toàn.
+Đường dẫn trang web trong iMessages chỉ hiển thị văn bản thô, không còn hỗ trợ xem trước (preview). Ảnh: TechCrunch.
+Chế độ siêu bảo mật của Apple cũng thay đổi cách Safari hoạt động, tắt những tính năng có thể bị lợi dụng để cài mã độc lên thiết bị. Do đó, một số trang web sử dụng các công nghệ phức tạp sẽ không hiển thị đúng hoặc không thể tải.
+Chế độ siêu bảo mật cũng vô hiệu hóa trình biên dịch JIT (Just-in-Time) của JavaScript trong Safari. Điều này có thể khiến website tải chậm và giao diện xấu hơn, nhưng sẽ ngăn mã độc truy cập vào thiết bị. 
+Một số trang web còn tải font riêng để hiển thị đúng cách, tuy nhiên font cũng có thể chứa mã độc để kích hoạt từ xa.
+Phía trên màn hình Safari hiện dòng chữ "Lockdown Enabled" khi chế độ được kích hoạt. Người dùng có thể cài đặt danh sách trang web "đáng tin cậy" để bỏ qua những hạn chế của Lockdown Mode.
+Trong trường hợp những tính năng bị vô hiệu hóa hoàn toàn như Shared Photos, chúng sẽ bị ẩn khỏi giao diện. Các lời mời tham gia album chia sẻ của người khác cũng bị chặn.
+Một số tính năng liên lạc sẽ không còn hữu dụng khi bật Lockdown Mode. Cuộc gọi FaceTime từ các địa chỉ chưa từng liên lạc trước đây đều bị chặn. 
+Tính năng này giúp bảo vệ điện thoại trước những cuộc tấn công zero-click, nhắm vào FaceTime hay iMessages để cài mã độc lên iPhone mà không cần thao tác của người dùng. Đây là kỹ thuật được áp dụng bởi phần mềm gián điệp của NSO Group hay Candiru.
+Một số trang web có thể bị thay đổi font chữ khi bật Lockdown Mode. Ảnh: Hoàng Sơn.
+Trong iMessages, người dùng không thể mở file đính kèm để tránh nguy cơ tải file chứa mã độc. Lời mời chỉnh sửa ghi chú trong Notes hoặc tham gia cuộc hẹn trong ứng dụng Calendar từ những người chưa từng liên lạc cũng bị chặn khi bật Lockdown Mode.
+Người dùng sẽ không thể cài cấu hình (profile) từ trường học hay nơi làm việc nếu Lockdown Mode được kích hoạt, bởi chúng có thể bị kẻ xấu lợi dụng để điều khiển, lấy cắp dữ liệu từ xa.
+Đa số tính năng bị chặn khi bật Lockdown Mode khiến tin tặc khó khăn hơn nếu muốn xâm nhập iPhone, iPad hoặc máy tính Mac từ xa, thông qua Wi-Fi hay mạng 4G. Những kết nối có dây vào điện thoại cũng bị vô hiệu hóa, ngăn chặn việc sử dụng máy tính hoặc hộp bẻ khóa để đánh cắp dữ liệu.
+Những liên lạc chưa xác định đều bị chặn khi thiết bị kích hoạt Lockdown Mode. Ảnh: TechCrunch.
+Lockdown Mode được xem như lời thừa nhận rằng Apple không thể bảo vệ thiết bị trước mọi kiểu tấn công. Tuy nhiên, đây là cách hữu ích để người dùng tự ngăn chặn kẻ xấu truy cập thiết bị trước khi lỗ hổng được khắc phục. Chế độ siêu bảo mật sẽ có mặt trên iOS 16, iPadOS 16 và macOS Ventura được phát hành rộng rãi vào cuối năm nay.

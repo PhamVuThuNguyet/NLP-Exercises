@@ -1,0 +1,23 @@
+
+Leica vừa ra mắt mẫu máy chiếu siêu gần đầu tiên của hãng được gọi là Cine 1 có thể chiếu hình ảnh 80 hoặc 100 inch mà chỉ cần đặt cách tưởng chỉ 15cm
+      ADVERTISEMENT 
+Mặc dù một công ty máy ảnh đi làm máy chiếu thì hơi sai sai nhưng để chiếu ra một hình ảnh chất lượng với khoảng cách ngắn như vậy đòi hỏi chất lượng quang học phải rất cao mà đó lại là sở trường của Leica.
+    
+    
+      ADVERTISEMENT 
+    
+Hãng cho biết đang sử dụng công nghệ thấu kính Summicron với các thấu kính phi cầu “được sản xuất theo tiêu chuẩn Leica” để làm thấu kính có máy chiếu. Họ cũng sử dụng tia laser ba RGB với tuổi thọ 25.000 giờ được sản xuất với sự hợp tác của HiSense và Texas Instruments Chip DLP. Ở khoảng cách 15cm máy có thể chiếu hình ảnh 80 inch còn 30cm chiếu ra được 100 inch. Về mặt âm thanh, sản phẩm này hỗ trợ Dolby Atmos tích hợp cho âm thanh vòm, sử dụng Hệ điều hành VIDAA của HiSense làm nền tảng TV thông minh. Bạn cũng có thể cài đặt bộ nhớ ngoài, đầu phát Blu-ray hoặc máy console qua cổng HDMI và USB.
+ 
+Phiên bản 80 inch có giá 6.900 USD, bản 100 inch có giá 7.900 USD. Trong khi đó, những mẫu máy chiếu gần hiện đại nhất như LSP7T 4K của Samsung cũng chỉ có giá từ 3.500 USD, máy chiếu TV Laser L9G 3.000 lumen của HiSense có giá 5.000 USD.
+
+Nhà sản xuất Moore Threads của Trung Quốc ra mắt card đồ họa MTT S60 mạnh ngang GTX 1070 Chip quang học tính toán nhanh hơn GTX 3080 tới hàng trăm lần trong một số trường hợp tính toán cụ thể Hãng Trung Quốc chuẩn bị tung ra GPU hiệu năng ngang ngửa GTX 1080
+Thị trường card đồ họa toàn cầu vẫn chưa thể thực sự thoát ra khỏi tình trạng thiếu hụt nguồn cung. Để giải quyết phần nào vấn đề, các nhà sản xuất card đồ họa đang tích cực ra mắt những model mới nhắm vào phân khúc giá rẻ. Chúng thường có cấu hình không quá nổi bật cùng hiệu năng khai thác tiền ảo không cao, nhưng lại đáp ứng tối nhu cầu của đa số các game thủ ở phân khúc phổ thông.
+Một trong những sản phẩm như vậy chính là Nvidia GTX 1630, mẫu GPU giá rẻ mới dành cho các tác vụ làm việc thông thường và chơi game cơ bản với mức giá chỉ 150 USD (khoảng 3,5 triệu VNĐ). Thông tin về mẫu card đồ họa này cũng đã được tiết lộ tưng đối chi tiết, cho thấy đây là một model thực sự đáng mong đợi trong phân khúc phổ thông.
+      ADVERTISEMENT 
+Về cơ bản, GTX 1630 sẽ là sản phẩm thay thế của GT 1030 dựa trên kiến trúc Pascal mà Nvidia đã công bố cách đây 5 năm. GeForce GTX 1630 sở hữu lõi đồ họa TU117-150, được phát triển trên quy trình công nghệ 12nm và kiến trúc Turing mới hơn, vốn đã được áp dụng khá thành công trên các dòng GTX 16 và RTX 20. Đi kèm với đó là 512 lõi CUDA, 4GB bộ nhớ GDDR6, băng thông 12GB và bus 64 bit.
+Model mới khi ra mắt sẽ cạnh tranh với đồ họa tích hợp trong các bộ vi xử lý của AMD và chính Intel, cũng như model AMD RX 6400 giá rẻ mới ra mắt gần đây.
+Do là một sản phẩm nhắm đến phân khúc thấp, GeForce GTX 1630 là sẽ không có lõi Tensor hoặc tính năng dò tia. Ngoài ra, so với GTX 1650, GTX 1630 cung cấp ít lõi CUDA hơn, một nửa bus bộ nhớ và băng thông cũng thấp hơn. Điều này có thể trở thành một vấn đề đối với các trò chơi hiện đại. Đổi lại, mẫu card mới lại sở hữu xung nhịp boost cao hơn nhiều. Đây có thể là lý do tại sao TDP của 2 sản phẩm tương đương nhau ở 75W.
+    
+ Thông số kỹ thuật GTX 1630 so với một số model cùng phân khúc
+Với giá bán chỉ 150 USD, GeForce GTX 1630 được kỳ vọng sẽ mang đến một làn gió mới cho phân khúc card đồ họa giá rẻ vốn đang khá ảm đạm.
+[IFA 2022] HMD tuyên bố smartphone Nokia mới ra mắt 'thân thiện với môi trường' nhất Nokia X30 5G là smartphone thân thiện với môi trường nhất mà Nokia từng sản xuất. HMD Global mới đây đã ra mắt bộ 3 sản phẩm Nokia G60 5G, C31 và X30 5G trong đó X30 5G là "smartphone thân thiện với môi trường nhất" mà Nokia... 

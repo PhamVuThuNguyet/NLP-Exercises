@@ -1,0 +1,14 @@
+
+Với những truy vấn không mang lại nhiều giá trị thông tin, kết quả tìm kiếm của Google sẽ không hiện câu trả lời lập tức.
+Trong nỗ lực cải thiện tính năng Featured Snippet và tăng chất lượng kết quả tìm kiếm, Google thông báo ngừng đưa ra hồi đáp ngắn đối với những câu hỏi vô nghĩa từ phía người dùng.
+"Bất kể bạn đang tìm kiếm gì, chúng tôi mong muốn kết nối bạn với thông tin chất lượng cao, đồng thời giúp bạn hiểu và đánh giá thông tin đó", Pandu Nayak, Phó chủ tịch Google Search mở đầu bài viết giới thiệu một số cải tiến mới trên công cụ tìm kiếm phổ biến nhất thế giới.
+Google sẽ không trả lời tức thì những câu hỏi vô nghĩa hoặc không có kết quả chắc chắn. Ảnh: Shutterstock.
+Featured Snippet là đoạn thông tin trả lời truy vấn của người dùng ngay trên kết quả tìm kiếm. Thông thường, nó chứa nội dung trích từ một đoạn của bài viết, tiêu đề, hình ảnh, video và trỏ đường dẫn về trang web gốc.
+Bằng cách sử dụng công cụ AI có tên Multitask Unified Model (MUM), Google sẽ so sánh thông tin từ các nguồn đáng tin cậy khác nhau về cùng một vấn đề, từ đó quyết định nội dung sẽ hiển thị trong phần Featured Snippet.
+Đặc biệt, AI của họ cũng phát hiện ra những tình huống không cần phải đưa ra thông tin tức thì trên Featured Snippet. Nói cách khác, Google từ chối trả lời nhanh các câu hỏi vô nghĩa, ngớ ngẩn, không mang lại giá trị thông tin.
+Pandu Nayak dẫn ví dụ, Google nhận được truy vấn "kẻ theo dõi đã ám sát Abraham Lincoln vào lúc nào" và Featured Snippet dẫn chính xác thời điểm xảy ra vụ việc. Tuy nhiên, đây không phải là cách hữu ích nhất để cung cấp thông tin này.
+Google huấn luyện hệ thống AI để loại bỏ việc trả lời tức thì những câu hỏi dạng như vậy, giúp giảm 40% trường hợp hiển thị thông tin vô ích trên Featured Snippet.
+Đoạn trả lời ngắn xuất hiện đầu kết quả tìm kiếm là một tính năng quan trọng của Google Search. Công nghệ tương tự cũng được đưa lên loa thông minh và trợ lý giọng nói. Người dùng có thể tìm được kết quả ngay trên công cụ tìm kiếm mà không phải truy cập vào trang web khác.
+Tuy nhiên, tính năng này cũng đem đến nhiều rắc rối cho Google. Năm 2017, họ bị cáo buộc phát tán tin giả sau khi Featured Snippet hiển thị trả lời cho câu hỏi "Obama có lên kế hoạch đảo chính không?", bằng cách trích dẫn nội dung trên một trang web đăng tải thuyết âm mưu.
+Google cũng đưa ra câu trả lời sai khi được hỏi về thời gian con người phát minh ra cầu thang hoặc "Tại sao xe cứu hỏa lại có màu đỏ?" do đọc nhầm thông tin.
+Trong nỗ lực giải quyết vấn đề, Google sẽ đưa ra cảnh báo về mức độ chính xác của kết quả tìm kiếm khi gặp những truy vấn rơi vào "khoảng trống dữ liệu" tương tự vậy.

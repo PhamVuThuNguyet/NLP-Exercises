@@ -1,0 +1,15 @@
+
+HarmonyOS 3.0 đi kèm với một loạt tính năng mới và có thông tin cho rằng dòng Huawei Mate 50 sắp tới sẽ đi kèm với chế độ pin khẩn cấp để nghe gọi, nhắn tin khi hết pin. Chức năng độc đáo trên chiếc Huawei Mate 50 chạy HarmonyOS 3.0 này sẽ không hoạt động như chế độ khẩn cấp thông thường, mà cho phép người dùng gửi
+ HarmonyOS 3.0 đi kèm với một loạt tính năng mới và có thông tin cho rằng dòng Huawei Mate 50 sắp tới sẽ đi kèm với chế độ pin khẩn cấp để nghe gọi, nhắn tin khi hết pin. Chức năng độc đáo trên chiếc Huawei Mate 50 chạy HarmonyOS 3.0 này sẽ không hoạt động như chế độ khẩn cấp thông thường, mà cho phép người dùng gửi tin nhắn, quét văn bản.
+      ADVERTISEMENT 
+Hiện tại chưa rõ cụ thể Huawei sẽ làm cách nào nhưng khả năng cao họ sẽ trang bị một viên pin dự phòng cạnh viên pin chính, mà chỉ được kích hoạt khi viên pin chính cạn năng lượng. Đây sẽ là tính năng rất quan trọng dành cho những trường hợp thực sự đặc biệt.
+Ra mắt vào ngày 27 tháng 7, HarmonyOS 3.0 tập trung vào bảo mật và các tính năng mới cho smartphone và máy tính bảng. Tuy nhiên nó vẫn đang trong giai đoạn thử nghiệm. Khả năng cao Huawei Mate 50 series sẽ là dòng máy đầu tiên được cài đặt HarmonyOS 3.0 đi kèm một loạt các tính năng mới cho người tiêu dùng.
+Bên cạnh phần mềm, dòng Huawei Mate 50 cũng sẽ được trang bị những công nghệ camera mới để mang lại trải nghiệm chụp ảnh mới cho người dùng. Chẳng hạn như cảm biến hình ảnh XMAGE
+
+    
+Trong báo cáo gửi các nhà đầu tư, nhà phân tích Ming Chi Kuo giải thích dòng iPhone 13 trang bị phần cứng có khả năng kết nối vệ tinh quỹ đạo tầm thấp (LEO). Nếu đi cùng phần mềm tương thích, người dùng iPhone 13 có thể gọi điện, nhắn tin mà không cần kết nối mạng 4G hay 5G.
+ iPhone 13 được cho là trang bị chip baseband Qualcomm X60 tùy chỉnh, hỗ trợ liên lạc vệ tinh. Các thương hiệu smartphone khác cũng đang chờ sang năm 2022 để sử dụng chip baseband X65 cho các chức năng liên lạc vệ tinh.
+Starlink của SpaceX là một trong các công ty đi đầu về Internet LEO, tuy nhiên, dường như nhà cung cấp dịch vụ liên lạc vệ tinh đang hợp tác với Apple là Globalstar. Nếu nhà mạng là đối tác với Globalstar, người dùng iPhone 13 sẽ dùng dịch vụ liên lạc vệ tinh của Globalstar trực tiếp thông qua nhà mạng mà không cần thêm hợp đồng hay chi phí bổ sung.
+Ông Kuo cũng chia sẻ liên lạc vệ tinh LEO là công nghệ tương đương với mmWave 5G về tác động với ngành công nghiệp và Apple có thể tận dụng cả hai công nghệ. Apple "lạc quan" về xu hướng liên lạc vệ tinh và đã thành một nhóm riêng để nghiên cứu, phát triển công nghệ một thời gian trước, vẫn theo ông Kuo.
+Chuyên gia tin rằng, Apple sẽ đưa công nghệ liên lạc vệ tinh tầm thấp lên nhiều thiết bị hơn để mang tới trải nghiệm mới. Chúng có thể bao gồm thiết bị thực tế ảo, xe điện, phụ kiện IoT.
+iPhone 14 Pro có thể nhắn tin, phản hồi SOS qua vệ tinh Apple đang có kế hoạch đưa các tính năng nhắn tin và phản hồi khẩn cấp không cần sóng di động lên iPhone, sớm nhất là trong năm nay ở phiên bản iPhone 14 cao cấp nhất. Ở thời điểm trước khi ra mắt iPhone 13, mùa thu... 

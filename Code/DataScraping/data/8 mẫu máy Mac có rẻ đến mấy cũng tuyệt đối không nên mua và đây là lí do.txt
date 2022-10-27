@@ -1,0 +1,18 @@
+
+Apple mới đây đã cập nhật danh sách các sản phẩm lỗi thời thêm 8 mẫu MacBook, MacBook Air, MacBook Pro và iMac.
+Theo thông tin trên trang Macrumors, mới đây, Apple mới đây đã cập nhật danh sách các sản phẩm lỗi thời thêm 8 mẫu MacBook, MacBook Air, MacBook Pro và iMac được phát hành vào năm 2015 và 2016.
+Đáng chú ý, các mẫu MacBook Pro đầu tiên có Touch Bar hiện đã được xếp vào loại đồ cổ. Apple lần đầu giới thiệu Touch Bar vào tháng 10/2016, thổi một làn gió mới vào thiết kế của MacBook Pro. Tuy nhiên, Apple gần đây đã loại bỏ Touch Bar khỏi các mẫu MacBook Pro cao cấp, nhưng vẫn giữ lại với mẫu MacBook Pro 13 inch M2 mới ra mắt.
+Ảnh minh họa
+Danh sách đầy đủ các máy Mac vừa được Apple liệt kê là sản phẩm cũ:
+MacBook 12 inch (đầu năm 2016).
+MacBook Air 13 inch (đầu năm 2015).
+MacBook Pro 13 inch (đầu năm 2015).
+MacBook Pro 13 inch (2016, hai cổng Thunderbolt).
+MacBook Pro 13 inch (2016, bốn cổng Thunderbolt).
+MacBook Pro 15 inch (2016).
+iMac 21.5 inch (cuối năm 2015).
+iMac 27 inch Retina 5K (cuối năm 2015).
+Theo Macrumors, Apple định nghĩa cũ là những sản phẩm không được sản xuất trong hơn 5 năm nhưng ít hơn 7 năm, trong khi đó các sản phẩm lỗi thời đã ngừng sản xuất hơn 7 năm. Mac và các sản phẩm khác nằm trong danh sách cũ và lỗi thời nói chung không còn đủ điều kiện cho các dịch vụ phần cứng của Apple.
+Sau khi bị đưa vào danh sách, những thiết bị này vẫn hoạt động bình thường nhưng sẽ không thể nhận cập nhật phiên bản hệ điều hành mới. Ngoài ra, Apple cũng sẽ dừng cung cấp linh kiện sửa chữa cho những chiếc máy tính Mac bị đưa vào danh sách lỗi thời. Vì vậy, nếu có vấn đề xảy ra người dùng sẽ không thể sửa chữa và thay thế linh kiện chính hãng.
+Ngoài ra, những sản phẩm trên hiện không còn hàng mới bán chính hãng chỉ còn các sản phẩm cũ đang lưu hành trên thị trường. Do đó, nếu vẫn muốn mua người dùng cần kiểm tra kĩ bằng cách xem thông tin trong máy. Với máy Mac, bấm vào logo quả táo nằm ở góc trên bên trái ở thanh công cụ rồi vào phần About sẽ biết được thông tin đời máy. Với iPad Pro, kiểm tra trong phần About của mục Settings.
+Đồng thời, người dùng cũng cần quan tâm đến thời gian bảo hành. Trong trường hợp còn bảo hành Apple đảm bảo chính sách bảo hành, sửa chữa đúng theo tiêu chuẩn. Ngoài ra, MacBook lỗi thời thường có linh kiện tuổi đời cao, dễ hư hỏng màn hình, ổ cứng, RAM. Các linh kiện này có chi phí thay thế đắt đỏ, khó kiếm.

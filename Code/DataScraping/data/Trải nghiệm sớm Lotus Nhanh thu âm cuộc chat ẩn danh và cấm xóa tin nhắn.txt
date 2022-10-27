@@ -1,0 +1,29 @@
+
+(Tổ Quốc) - Ứng dụng Lotus Chat phiên bản thử nghiệm hiện đã có mặt trên các nền tảng Android, iOS, Windows PC và MacOS.
+Lotus Chat là ứng dụng liên lạc mới ra mắt từ Công ty Cổ phần Mạng xã hội VIVA do người Việt phát triển. Ứng dụng này tích hợp rất nhiều tính năng từ cơ bản đến nâng cao, giao diện tối giản, dễ sử dụng và hứa hẹn độ bảo mật cao, sử dụng hoàn toàn miễn phí.
+Hiện tại, Lotus Chat phiên bản thử nghiệm đã xuất hiện trên kho ứng dụng của Android, iOS, Windows PC và MacOs. Bạn có thể tải về và dùng thử ngay bằng cách truy cập đường dẫn ở cuối bài viết.
+Những tính năng đặc biệt nhất
+Đầu tiên, hãy đi thẳng vào những tính năng đặc biệt nhất trên Lotus Chat mà chắc chắn nhiều người dùng sẽ thích thú, đó là thu âm cuộc gọi, chat ẩn danh, sử dụng đa thiết bị và cấm xóa tin nhắn.
+Tính năng thu âm cuộc gọi trên các điện thoại Android thường có sẵn, nhưng với người dùng iPhone thì không. Vì thế, đây cũng coi là tính năng quan trọng và hấp dẫn của Lotus Chat, ghi được cả cuộc gọi đơn và cuộc gọi nhóm. Tuy nhiên, điểm khác biệt là tính năng này chỉ hoạt động khi tất cả mọi người có trong cuộc hội thoại đều đồng ý ghi âm nhằm đảm bảo quyền riêng tư và bạn có thể tạm dừng/tiếp tục quá trình ghi âm trong khi đang nghe máy.
+Tính năng thu âm cuộc gọi có sẵn trên tất cả các phiên bản Lotus Chat, khi dùng sẽ hiển thị và phát thông báo cho tất cả mọi người trong cuộc hội thoại biết.
+Nếu ai đó trong cuộc gọi bật chế độ ghi âm sẽ có thông báo bằng giọng nói phát ra để tất cả mọi người đều biết. File ghi âm này sẽ tự động được lưu lại, bạn có thể đổi tên và nghe lại bất cứ lúc nào.
+Tính năng chat ẩn danh cũng là thứ nhiều người muốn sử dụng. Chỉ với 1 tài khoản Lotus, bạn có thể tạo nhiều "bí danh" khác nhau để trò chuyện với người khác hay trong các nhóm chat chung mà không bị ai phát hiện danh tính thật và cũng không lo bị người lạ lấy cắp thông tin, nhắn tin làm phiền từ bí danh này.
+Bạn có thể tạo nhiều bí danh khác nhau, khi trò chuyện sẽ không ai truy ngược lại tài khoản gốc là ai.
+Nhiều ứng dụng chat hiện không cho phép dùng chung 1 tài khoản cho nhiều thiết bị khác nhau. Ví dụ, có ứng dụng chỉ cho cài trên 1 điện thoại hoặc 1 máy tính duy nhất, khi cố đăng nhập vào thiết bị khác, tài khoản ở thiết bị cũ sẽ bị đăng xuất ngay lập tức. Với ai phải dùng nhiều điện thoại, nhiều máy tính khác nhau do công việc thì cực kì phiền phức.
+Lotus Chat thì cho phép người dùng đăng nhập thoải mái trên nhiều thiết bị cùng lúc không kể nền tảng. Dữ liệu chat cũng nhanh chóng được đồng bộ theo thời gian thực giữa tất cả thiết bị, không cần cập nhật lại bằng tay, bằng QR code phiền phức. Ngoài ra, các thiết bị đã đăng nhập đều được lưu lại thông tin trong mục cài đặt, bạn có thể gỡ đăng nhập từng thiết bị bất kì lúc nào.
+Tính năng quan trọng tiếp theo là cấm xóa tin nhắn. Bình thường, nhiều ứng dụng chat hỗ trợ xóa tin nhắn đơn phương hoặc xóa tin nhắn hoàn toàn, dùng tiện thật nhưng đôi khi lại trở thành vấn đề lớn khi cần đối chiếu thông tin 2 chiều.
+Bạn có thể bật chế độ cấm xóa tin nhắn 2 chiều với bất kì cuộc hội thoại nào.
+Trên Lotus Chat, với các cuộc hội thoại quan trọng, bạn có thể bật luôn chế độ cấm xóa tin nhắn để đảm bảo quyền lợi cá nhân nếu có vấn đề xảy ra.
+Một tính năng nhỏ mà hay khác là cho phép đăng nhập nhiều tài khoản trong cùng 1 máy. Tính năng này khác với thêm bí danh vì mỗi tài khoản cần số điện thoại và địa chỉ email riêng, hoạt động hoàn toàn độc lập và sẽ yêu cầu mật khẩu/vân tay mỗi khi chuyển qua lại giữa các tài khoản.
+Ngoài ra, còn một số tính năng hay khác là tạo mật khẩu/dùng vân tay khi mở ứng dụng hoặc cho 1 vài cuộc hội thoại đặc biệt nào đó; chọn "mặc kệ" các cuộc hội thoại mà bạn không quan tâm, tạo cuộc hội thoại bảo mật cao, chat với ảnh gif/emoji/sticker sinh động, chọn giao diện sáng/tối… Nói chung là đã gần như đủ hết các tính năng cần thiết mà người dùng muốn trên bản dành cho điện thoại.
+Tính năng trò chuyện bảo mật có thêm nhiều lựa chọn kèm theo rất tiện lợi như không cho xóa tin, tự động xóa tin, tạo bí danh...
+Bộ sticker sinh động, một phần được mượn từ Telegram và có cả các bộ được làm mới, chỉ có trên Lotus Chat.
+Bạn có thể thêm mật khẩu, vân tay khi mở ứng dụng hoặc các đoạn chat đặc biệt, tránh kẻ xấu lợi dụng lấy cắp thông tin. Kể cả khi mở được khóa điện thoại vẫn cần thêm 1 bước nữa mới truy cập vào tài khoản Lotus Chat được.
+Giao diện đơn giản, nhanh mượt
+Dù mới chỉ ở bản thử nghiệm thôi như Lotus Chat về cơ bản không gặp vấn đề gì về giao diện. Độ nhanh mượt cũng rất tốt, không bị giật lag, không gây hao pin, nóng máy do lỗi phần mềm.
+Giao diện bản cho điện thoại vô cùng tối giản, loại bỏ hết các chi tiết thừa, chỉ để lại 4 tab chính là Tin nhắn, Cuộc gọi, Danh bạ và Cài Đặt. Tông màu xám cơ bản với điểm nhấn là màu xanh nhạt, nói chung không gây ấn tượng mạnh nhưng cũng không có điểm trừ nào cả.
+Phiên bản điện thoại của Lotus Chat có giao diện tối giản, dễ dùng và rất mượt mà, không lỗi lầm.
+Riêng với phiên bản dành cho PC thì bạn có thể sẽ thấy rất quen thuộc vì trông giống giao diện của Telegram. Tuy nhiên, điều này hoàn toàn dễ hiểu vì Lotus Chat trên máy tính được phát triển dựa trên mã nguồn mở của Telegram, được thay đổi và thêm bớt về tính năng bên trong, còn các chi tiết trong giao diện thì giữ lại đến 95%. Hiện tại chưa rõ liệu đội ngũ phát triển của Lotus Chat có ý định “tân trang” lại vẻ ngoài của ứng dụng này hay không, nhưng nếu để nguyên thì cũng không có vấn đề gì.
+Phiên bản điện thoại của Lotus Chat có giao diện tối giản, dễ dùng và rất mượt mà, không lỗi lầm.
+Dù vậy, có 1 điểm trừ nhỏ cho bản dành cho Windows và MacOS là font chữ hơi nhỏ mà không cho chỉnh lại. Tính năng này có sẵn trên Telegram nên hy vọng sẽ được cập nhật thêm trong bản chính thức.
+Nếu quan tâm, bạn có thể tải về dùng thử Lotus Chat trên điện thoại, máy tính bảng Android, iPhone, iPad, máy tính Windows và MacOS qua các link phía dưới.

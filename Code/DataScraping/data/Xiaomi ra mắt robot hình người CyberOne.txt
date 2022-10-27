@@ -1,0 +1,11 @@
+
+Đây có lẽ là một sản phẩm giúp Xiaomi phô trương được những công nghệ tiên tiến nhất.
+Xiaomi mới đây đã giới thiệu một robot hình người có tên CyberOne. Khác với robot CyberDog sử dụng hình dáng của một chú chó, CyberOne có hình dáng giống con người và có thể mô phỏng nhiều chuyển động của một người bình thường.
+Xiaomi giới thiệu robot hình người đầu tiên mang tên CyberOne
+CyberOne hoàn thiện chủ yếu từ kim loại, có chiều cao 177cm và cân nặng 52kg, chiều rộng sải tay là 168cm. Theo Xiaomi, CyberOne có thể phát hiện cảm xúc của con người và tái tạo lại kết cấu 3D của thế giới thực.
+"CyberOne hỗ trợ chuyển động 21 khớp tự do và đạt được tốc độ phản hồi trong thời gian thực là 0.5ms cho mỗi khớp, cho phép nó mô phỏng đầy đủ các chuyển động của con người". Tuy nhiên, trong đoạn video quảng cáo được Xiaomi đăng tải, có vẻ như chuyển động và CyberOne tạo ra lại khá... hài hước và không giống một người bình thường lắm: các bước đi khá ngắn và vụng về, trông giống một đứa trẻ đang chạy hơn là một người trưởng thành bước đi một cách thoải mái. Tốc độ của CyberOne cũng chỉ ở mức 3.6km/h, tức là còn chậm hơn so với người bình thường đi bộ.
+CEO Xiaomi, ông Lôi Quân tại sự kiện ra mắt CyberOne
+Chuyển động của CyberOne không... thực tế cho lắm
+CyberOne có nhận thức về không gian 3D và có thể nhận ra các cử chỉ và biểu hiện của con người. Nó có "công cụ nhận dạng ngữ nghĩa" được hỗ trợ bởi AI cũng như "công cụ nhận dạng cảm xúc giọng nói", có nghĩa là CyberOne có thể nhận ra 85 loại âm thanh môi trường và 45 phân loại cảm xúc của con người. Xiaomi nói rằng CyberOne có thể "an ủi bạn những lúc buồn bã".
+Một "chiếc robot" biết tặng hoa
+Chưa rõ Xiaomi có kế hoạch gì với CyberOne. Trong thông cáo báo chí gửi tới truyền thông, công ty cho biết CyberOne về cơ bản là một sản phẩm để Xiaomi có thể "khoe" các công nghệ tiên tiến của mình, và khẳng định trong tương lai các công nghệ này sẽ xuất hiện trong các sản phẩm khác của công ty.

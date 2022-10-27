@@ -1,0 +1,36 @@
+
+Hai lỗ hổng bảo mật nguy hiểm vừa được Apple khắc phục trong bản cập nhật mới nhất iOS 15.6.1, bản cập nhật có thể là cuối cùng của iOS 15.
+Tối 18/8, Apple phát hành bản cập nhật iOS 15.6.1. Nội dung cập nhật không ghi rõ những thay đổi, ngoài việc Apple cho biết nó “cung cấp bản vá bảo mật quan trọng và khuyến nghị với mọi người dùng”.
+Táo khuyết sau đó cập nhật trên trang chủ đầy đủ chi tiết về những lỗ hổng đã được vá trên iOS 15.6.1. Cụ thể, lỗ hổng đầu tiên có thể cho phép một ứng dụng thực thi mã tùy ý với các đặc quyền cao nhất.
+Bản cập nhật nhỏ của iOS 15.6 tập trung vá các lỗ hổng bảo mật nghiêm trọng. Ảnh: 9to5Mac.
+Lỗi thứ hai liên quan đến WebKit, công cụ trình duyệt hỗ trợ Safari và tất cả trình duyệt của bên thứ ba trên iOS. Các hacker có thể khai thác lỗ hổng bảo mật này để tạo trang web giả mạo, từ đó cài mã độc lên máy người dùng.
+Thêm vào đó, bản cập nhật iOS 15.6.1 cũng khắc phục tình trạng Safari tự động quay trở về trang trước khi người dùng mở lại tab. Thực tế Apple thông báo đã sửa lỗi này từ iOS 15.6 nhưng chưa khắc phục triệt để.
+Theo đánh giá của nhiều chuyên trang công nghệ và trải nghiệm trên YouTube, thời lượng pin trên iOS 15.6.1 vẫn khá ổn định và không có sự thay đổi so với các phiên bản trước
+iOS 15.6.1 là một trong những bản iOS 15 cuối cùng trước khi Apple phát hành rộng rãi iOS 16 vào tháng 9, sau khi iPhone 14 được ra mắt. Nhiều đoạn mã được tìm thấy trong iOS 16 thể hiện tính năng màn hình luôn bật (always-on display) đang được phát triển cho iPhone 14 Pro.
+Thêm vào đó, Apple cũng bổ sung tính năng hiển thị phần trăm pin trên thanh trạng thái phía góc trên màn hình trong bản cập nhật iOS 16.5 beta. Mức phần trăm pin sẽ được đặt ngay trong biểu tượng pin nằm ở góc phải của màn hình, khác với bên cạnh như trước đây.
+Tuy nhiên, thiết kế này chưa thật sự khiến người dùng hài lòng khi trong giao diện mới nhất của Apple, biểu tượng pin màu trắng vẫn được lấp đầy hoàn toàn ngay cả khi mức pin cạn dần. Chỉ khi phần trăm pin xuống dưới 20%, biểu tượng mới chuyển sang màu đỏ và hiển thị một phần nhỏ dung lượng.
+     
+ Máy xách tay vắng bóng trước ngày iPhone 14 ra mắt 
+  13 giờ trước 19:20 19/8/2022  Công nghệ Mobile 
+   0   
+Không còn quảng cáo rầm rộ, giá bán cũng về mức tiệm cận so với iPhone chính hãng, hàng xách tay đang dần hụt hơi tại thị trường Việt Nam.
+     
+ Phần lớn Apple Watch sẽ được sản xuất tại Việt Nam 
+  21 giờ trước 10:53 19/8/2022  Công nghệ Mobile 
+   0   
+Nhà phân tích nổi tiếng cho rằng hãng sẽ đẩy mạnh sản lượng thế hệ Apple Watch kế tiếp tại Việt Nam.
+     
+ Ngày ra mắt iPhone 14 
+  09:00 18/8/2022 09:00 18/8/2022  Công nghệ Mobile 
+   0   
+Nhiều nguồn tin cùng khẳng định ngày ra mắt, bán iPhone 14 trong tháng 9 sớm hơn một chút so với mọi năm.
+     
+ Điểm thụt lùi của iPhone 14 Pro 
+  09:35 16/8/2022 09:35 16/8/2022  Công nghệ Mobile 
+   0   
+Dù nâng cấp mạnh về độ phân giải, camera của iPhone 14 Pro có thể thua kém so với iPhone 13 Pro trong điều kiện thiếu sáng.
+     
+ Mẫu iPhone 14 có thể bán chạy nhất 
+  09:26 14/8/2022 09:26 14/8/2022  Công nghệ Mobile 
+   0   
+iPhone 14 Max có thể là sự lựa chọn phù hợp hơn nếu giá bán thực tế của bộ đôi iPhone 14 Pro tăng cao như tin rò rỉ.

@@ -1,0 +1,20 @@
+
+Từ ngày 1/8/2022, cả nước đã triển khai thu phí không dừng. Chủ phương tiện ô tô nếu gặp sự cố khi qua trạm ETC do hệ thống thu phí trục trặc thì cần xử lý theo cách dưới đây.
+Không đưa tiền mặt cho nhân viên khi qua làn ETC bị báo lỗi
+Từ ngày 1/8 khi bắt đầu triển khai thu phí không dừng trên các cao tốc, nhiều chủ phương tiện ô tô phản ánh gặp tình trạng xe đã dán thẻ nhưng không qua được trạm. Chủ phương tiện nhận được thông báo tài khoản hết tiền, thẻ lỗi mặc dù tài khoản còn tiền và xe vẫn di chuyển qua các điểm khác bình thường.
+Nếu gặp lỗi này, chủ phương tiện không thực hiện thanh toán MTC (vé lượt, thu phí bằng tiền mặt) nếu xe có đủ điều kiện, yêu cầu BOT kiểm tra lại và mở barrier cho phương tiện di chuyển, để 2 nhà cung cấp dịch vụ ePass và VETC thống nhất trừ tiền offline (trừ tiền sau), sau khi hệ thống được hiệu chỉnh và vận hành bình thường.
+Nếu tài khoản ePass hoặc Viettel Money đã trừ tiền cho lượt qua trạm (khách hàng nhận được tin nhắn hoặc thông báo trên app ePass) nhưng barie không mở và nhân viên thu phí yêu cầu trả tiền mặt thì chủ phương tiện không nên thanh toán bằng tiền mặt để tránh mất tiền oan.
+Lúc này chủ phương tiện hãy cung cấp tin nhắn hoặc thông báo trừ tiền và yêu cầu nhân viên vận hành tại trạm kiểm tra và mở barie cho xe qua không thay toán tiền mặt (trường hợp đã mua vé tháng ETC cũng tương tự). 
+Theo quy định của Bộ GTVT, mỗi phương tiện chỉ đăng ký dịch vụ của một nhà cung cấp dịch vụ ePass hoặc VETC. Vì vậy, khách hàng nên cân nhắc và lựa chọn nhà cung cấp dịch vụ có điểm dịch vụ gần với địa điểm mình ở/di chuyển để được hỗ trợ một cách nhanh và tốt nhất.
+Lưu ý các chủ phương tiện không thoả hiệp và đồng ý cho nhà cung cấp dịch vụ khác đăng ký dịch vụ khi chưa thực hiện hủy dịch vụ trước đó, nếu không có nguy cơ gặp lỗi khi di chuyển qua trạm do hệ thống khó nhận diện đúng phương tiện và tài khoản.
+Dán thẻ thu phí không dừng ở đâu?
+Theo khoản 1 Điều 9 Quyết định 19/2020 của Thủ tướng Chính phủ, các phương tiện giao thông đường bộ (gồm cả phương tiện chịu phí và miễn phí sử dụng đường bộ) phải được gắn thẻ đầu cuối (thẻ thu phí không dừng).
+Việc gắn thẻ thu phí không dừng được thực hiện tại:
+- Các đơn vị đăng kiểm xe cơ giới tại lần kiểm định gần nhất.
+- Các đại lý do nhà cung cấp dịch vụ thu phí ủy quyền.
+- Ngay khi qua trạm thu phí ETC.
+Chủ phương tiện chú ý không dán thẻ không được phép đi vào làn ETC
+Chủ xe hoặc người điều khiển phương tiện phải thực hiện gắn thẻ thu phí không dừng cho phương tiện tại lần kiểm định gần nhất hoặc ngay khi qua trạm thu phí sử dụng đường bộ có làn ETC (theo Chỉ thị 39/CT-TTg).
+Đặc biệt, Chỉ thị này nhấn mạnh, tuyệt đối không điều khiển xe đi vào làn ETC khi xe chưa gắn thẻ thu phí không dừng hoặc đã gắn thẻ nhưng số tiền trong tài khoản thu phí không đủ để chi trả cho giao dịch thu phí.
+Theo đó, xe chưa có thẻ thu phí không dừng chỉ có thể đi vào làn thu phí hỗn hợp (làn thu phí áp dụng cả hình thức điện tử không dừng và hình thức một dừng) không được đi vào làn ETC.
+Trường hợp chưa dán thẻ, chưa nạp tiền vào tài khoản giao thông hoặc tài khoản giao thông không đủ tiền để trả phí mà vẫn cho xe đi vào làn ETC, lái xe sẽ bị phạt từ 2.000.000 - 3.000.000 đồng, tước bằng lái từ 1 - 3 tháng.

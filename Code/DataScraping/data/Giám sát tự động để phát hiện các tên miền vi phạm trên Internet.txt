@@ -1,0 +1,46 @@
+
+Quy trình rà soát, giám sát tự động bằng các nền tảng, công cụ sẽ được Trung tâm Internet Việt Nam đưa vào vận hành hàng ngày để phát hiện và ngăn chặn, xử lý sớm các vi phạm trên Internet
+Đây là thông tin được ông Nguyễn Hồng Thắng, Giám đốc Trung tâm Internet Việt Nam (VNNIC) chia sẻ tại hội nghị sơ kết công tác 6 tháng đầu năm, triển khai phương hướng nhiệm vụ 6 tháng cuối năm 2022 của các đơn vị khối viễn thông, Bộ TT&TT.
+      ADVERTISEMENT 
+ Ông Nguyễn Hồng Thắng – Giám đốc Trung tâm Internet Việt Nam. Ảnh: Hoàng Hà
+Theo ông Nguyễn Hồng Thắng, Việt Nam hiện đã có hơn 50 triệu người dùng IPV6. Tỷ lệ sử dụng IPv6 trên Internet đạt 50% thông qua FTTH, 3G, 4G … Với con số này, Việt Nam là quốc gia đứng thứ 2 khu vực ASEAN, thứ 10 toàn cầu. Dự kiến đến hết năm 2022, tỷ lệ sử dụng IPv6 trên Internet Việt Nam sẽ đạt 52%
+Để không phụ thuộc vào doanh nghiệp nước ngoài khi đo lường tốc độ truy cập Internet, VNNIC phát triển hệ thống i-Speed. Ứng dụng này đã được nâng cấp lên phiên bản 2.0 trên mobile và hiện nay, đã có hơn 500.000 lượt cài đặt.
+Trong 6 tháng đầu năm, Trung tâm Internet Việt Nam đã hoàn thành xây dựng công cụ tự động rà soát tên miền website và tiến hành triển khai rà soát và xử lý các tên miền có dấu hiệu vi phạm, trong đó tập trung vào lĩnh vực thương mại điện tử, ngân hàng…
+Số liệu thống kê từ trước đó cho thấy, chỉ tính riêng trong tháng 5, Trung tâm Internet Việt Nam đã phối hợp với các cơ quan chức năng cung cấp thông tin 47 tên miền xử lý vi phạm, trong đó có 42 tên miền quốc tế. Cùng với đó, đơn vị đã thực hiện tạm ngừng 23 tên miền vi phạm, trong đó có 17 tên miền quốc tế.
+Khi triển khai nhiệm vụ rà soát và xử lý tên miền có dấu hiệu vi phạm về thương mại điện tử, ngân hàng… được Bộ TT&TT giao tại Chỉ thị về định hướng phát triển ngành TT&TT năm 2022 và giai đoạn 2022 – 2024, VNNIC đã phát hiện hơn 450 tên miền có dấu hiệu vi phạm, trong đó có tới 357 tên miền quốc tế, chiếm gần 80%.
+Trong 6 tháng cuối năm, Trung tâm Internet Việt Nam sẽ đưa vào hoạt động quy trình giám sát tự động để phát hiện và ngăn chặn, xử lý sớm các vi phạm. Theo đó, hệ thống sẽ thực hiện rà quét, giám sát hàng ngày đối với các tên miền đăng ký mới.
+
+Từ 0h ngày 1/8, toàn bộ tuyến cao tốc tại Việt Nam sẽ chuyển sang sử dụng dịch vụ thu phí theo hình thức điện tử không dừng (ETC). Để hoàn thành mục tiêu này, trong thời gian qua các doanh nghiệp đã đầu tư rất mạnh vào công nghệ, nhằm đáp ứng mục tiêu nhanh chóng mở rộng hệ thống thu phí tự động.
+Công nghệ là chìa khóa giúp mở rộng mạng lưới nhanh chóng
+Hiện tại, trên thế giới 2 công nghệ thu phí không dừng được sử dụng phổ biến nhất là RFID (Radio frequency identification) và DSRC (Dedicated short-range communication). Trong đó, công nghệ DSRC được sử dụng rộng rãi tại châu Âu và Singapore, trong khi RFID được dùng ở phần lớn các nước còn lại.
+Cả hai công nghệ đều có ưu và nhược điểm, tuy nhiên công nghệ RFID được Bộ GTVT đánh giá là phù hợp nhất với văn hóa, môi trường giao thông tại Việt Nam, nhờ 3 ưu điểm là mức độ nhận diện chính xác cao, chi phí sử dụng thấp và dễ dàng triển khai lắp đặt.
+    
+Thẻ RFID thuận tiện cho việc lắp đặt, triển khai, chi phí cũng thấp hơn nhiều so với thiết bị OBU của công nghệ DSRC
+Hệ thống RFID gồm thiết bị đầu đọc RFID Reader trên các cổng long môn tại trạm thu phí, và thẻ định danh RFID gắn trên đèn hoặc kính phương tiện. Khi xe đi qua trạm, đầu đọc sẽ nhận biết xe thông qua thẻ định danh và trừ số tiền tương ứng.
+    
+Đối với mức độ chính xác, công nghệ RFID cho phép nhận thiết bị chuẩn xác đến trên 98% trong mọi điều kiện thời tiết, khói, bụi bẩn. Về mặt chi phí, mức phí triển khai dịch vụ cho khách hàng của VDTC hiện là 120.000 VND, thấp hơn rất nhiều nếu so với thiết bị đặt trong xe khi áp dụng công nghệ DSRC.
+Việc lắp đặt, triển khai RFID cũng rất đơn giản khi chỉ cần dán thẻ lên kính xe hoặc đèn xe, không cần duy trì nguồn thiết bị như công nghệ DSRC. Ưu điểm về chi phí, tính đơn giản lắp đặt là những yếu tố giúp dịch vụ dễ dàng triển khai mở rộng trên toàn quốc.
+Những thành tựu ban đầu
+Nhờ áp dụng những thế mạnh về công nghệ và mạng lưới phân phối rộng khắp, Công ty Cổ phần Giao thông số Việt Nam (VDTC), doanh nghiệp đang cung cấp ePass đã góp phần đẩy nhanh mật độ thâm nhập dịch vụ lên tới 75%.
+Trong thời gian 6 tháng (07/2020 - 12/2020), VDTC đã phối hợp với các nhà đầu tư BOT triển khai thành công dự án thu phí tự động ETC tại 35 trạm thu phí trên toàn quốc, nhận được sự đánh giá rất cao của Bộ Giao thông vận tải, Tổng cục Đường bộ Việt Nam. Trong đó, VDTC trực tiếp vận hành 21 trạm.
+Sau khi VDTC tham gia lĩnh vực thu phí tự động, mật độ thâm nhập dịch vụ tăng từ 26% lên 75%, đưa Việt Nam lọt danh sách 10 quốc gia có tỷ lệ phương tiện dán thẻ thu phí tự động cao nhất trong khu vực, thay đổi vị thế của giao thông Việt Nam trên bản đồ thế giới.
+      ADVERTISEMENT 
+Hệ thống thu phí tự động không dừng là một thành phần quan trọng của hệ sinh thái giao thông thông minh
+Sau khi áp dụng những hệ thống thu phí tự động, số lượng nhân sự vận hành tại các trạm thu phí mà VDTC tiếp nhận đã giảm mạnh, từ 30-40 người/trạm hiện chỉ còn 15 người/trạm.
+Tại các trạm do VDTC triển khai và quản lý, tỷ lệ thành công xe qua trạm (tỷ lệ nhận dạng thẻ đầu cuối) đạt 98,3%, cao hơn so với chỉ tiêu 98% được đặt ra trong Quyết định số 583/QĐ-TCĐBVN.
+Bên cạnh đó, VDTC cũng triển khai những công cụ đối soát, hậu kiểm giao dịch thu phí tự động được ứng dụng mô hình học máy, trí tuệ nhân tạo. Nhờ đó, 90% giao dịch được hậu kiểm tự động, giúp giảm thiểu thời gian, nhân sự lẫn chi phí vận hành.
+Sẵn sàng xây dựng hệ sinh thái giao thông thông minh
+Hiện nay, các hệ thống thu phí không dừng trên thế giới có thể chia làm 4 giai đoạn. Trong đó, Việt Nam đang ở giai đoạn 1, là thu phí có barrier, trả trước.
+Ở các giai đoạn cao hơn, barrier, các quy định về trả trước sẽ dần được loại bỏ. Trong giai đoạn 4, thu phí không dừng được triển khai đa làn, loại bỏ hoàn toàn các trạm và đảo thu phí, chỉ lắp đặt giá long môn để ghi nhận phương tiện đi qua.
+Công nghệ RFID được VDTC triển khai hiện nay đã hoàn toàn sẵn sàng nâng cấp để lên giai đoạn 4. Ngoài ra, công nghệ cũng có thể đáp ứng các bài toán thu phí linh hoạt hơn như thu theo ngày, khung thời gian, tần suất giao dịch xe qua trạm.
+Trong hệ sinh thái giao thông thông minh, khi công nghệ thu phí tự động phát triển lên giai đoạn 4, có thể sử dụng việc thu phí để điều tiết tình hình giao thông, giảm ùn tắc ở các thành phố lớn.
+    
+ Khách hàng hào hứng tìm hiểu những lợi ích của thu phí không dừng
+Theo kinh nghiệm của một số nước, để triển khai thu phí tự động giai đoạn 4 cần một số điều kiện về tỷ lệ phủ dán thẻ (trên 80% phương tiện được dán thẻ), cơ chế quản lý để thu hồi, xử phạt các trường hợp nợ xấu, đảm bảo quyền lợi cho đơn vị liên quan đến tỷ lệ rủi ro nợ xấu, hay bộ máy thu hồi nợ cước.
+"Việc triển khai thu phí giai đoạn 04 mang lại lợi ích rất lớn về việc tối ưu chi phí đầu tư, chi phí vận hành, chi phí nhân sự. Đồng thời cũng giảm thiểu các sự cố tại trạm, giảm thiểu ùn tắc, và phản ánh từ khách hàng", ông Bùi Trình, Tổng Giám đốc VDTC chia sẻ.
+    
+ Hệ thống của VDTC đã sẵn sàng để nâng cấp lên thu phí không dừng giai đoạn 4
+Bên cạnh đó, trong giai đoạn đầu triển khai, các hệ thống thu phí không dừng cũng có một số trục trặc, đến từ những nguyên nhân như lỗi thẻ và lỗi kỹ thuật trên các hệ thống đầu cuối của nhà đầu tư BOT. Trong một số trường hợp, lỗi có thể khách quan như mặt đường ướt, nhiều vũng nước gây hiện tượng phản xạ.
+Để tránh các sự cố đối với người dùng trong quá trình sử dụng dịch vụ, VDTC khuyến cáo chủ phương tiện cần kiểm tra đảm bảo số dư trong tài khoản khi đi qua trạm thu phí ETC, đảm bảo khoảng cách quy định, đồng thời kiểm tra tình trạng thẻ.
+Trong trường hợp thẻ bị lỗi/hư hỏng do tác động vật lý cần liên hệ với đơn vị cung cấp dịch vụ để được hướng dẫn dán lại thẻ đảm bảo chất lượng dịch vụ, sự hài lòng cho khách hàng.
+Người dùng dành tới 5 tiếng mỗi ngày cho các app di động - ứng dụng nào người Việt Nam đang dùng nhiều hơn cả Facebook Messenger? Data.ai đã thực hiện một nghiên cứu về thị trường ứng dụng ở 13 quốc gia và phát hiện ra rằng người dùng đang dành nhiều thời gian hơn cho các app di động. Theo báo cáo về xu hướng sử dụng di động trong quý II/2022 vừa... 

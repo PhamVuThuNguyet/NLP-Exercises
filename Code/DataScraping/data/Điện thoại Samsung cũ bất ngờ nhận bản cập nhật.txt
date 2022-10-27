@@ -1,0 +1,21 @@
+
+Ở một động thái bất ngờ, Samsung vừa triển khai những bản cập nhật cho một số mẫu điện thoại cũ của họ ngay cả khi chúng không còn nằm trong danh sách hỗ trợ
+Theo PhoneArena, các mẫu điện thoại Samsung đang nhận được bản cập nhật bảo mật lần này bao gồm Galaxy S5 Neo (2015), Galaxy Alpha (2014), dòng Galaxy S6 và Galaxy A7 (2018). Bản cập nhật được Samsung tung ra nhằm cải thiện kết nối và độ ổn định của GPS.
+      ADVERTISEMENT 
+ Dòng Galaxy S6 được Samsung giới thiệu vào đầu năm 2015
+Động thái này diễn ra không lâu sau khi Samsung tung bản cập nhật tương tự dành cho các mẫu Galaxy S7, S8 và Galaxy J7 (2015), cũng như Galaxy Note 8. Chúng đều là những mẫu điện thoại đã khá cũ và không nằm trong danh sách hỗ trợ cập nhật của Samsung một thời gian, ngay cả khi Samsung điều chỉnh chính sách hỗ trợ phần mềm Android tiêu chuẩn với 5 năm hỗ trợ bảo mật và 4 bản cập nhật hệ điều hành.
+Các mẫu điện thoại Galaxy cũ nhất nhận được bản cập nhật hằng tháng của Samsung là Galaxy Fold và Galaxy Note10 ra mắt năm 2019, cũng như Galaxy S10 Lite ra mắt đầu năm 2020. Các mẫu điện thoại cũ hơn như Galaxy S10 và Note9 ra mắt năm 2018 sẽ nhận được bản cập nhật hằng quý, trong khi một loạt thiết bị tầm trung được phát hành từ năm 2018 đến năm 2019 sẽ nhận được bản cập nhật bảo mật 2 năm/lần. Vì vậy, về cơ bản, giới hạn năm 2018 chủ yếu dành cho các mẫu điện thoại cao cấp.
+Mặc dù Samsung đề cập đến việc cung cấp bản sửa lỗi GPS trong bản cập nhật lần này, tuy nhiên mức độ khẩn cấp của việc triển khai cho thấy có thể có nhiều thứ quan trọng hơn, chẳng hạn như một lỗ hổng bảo mật cần khắc phục nhanh chóng.
+Các bản cập nhật mới từ Samsung không bao gồm bản vá bảo mật mới nhất. Để cài đặt chúng, người dùng có thể truy cập vào ứng dụng Cài đặt và nhấn vào Cập nhật phần mềm.
+
+Tối 18/8, Apple phát hành bản cập nhật iOS 15.6.1. Nội dung cập nhật không ghi rõ những thay đổi, ngoài việc Apple cho biết nó "cung cấp bản vá bảo mật quan trọng và khuyến nghị với mọi người dùng".
+Táo khuyết sau đó cập nhật trên trang chủ đầy đủ chi tiết về những lỗ hổng đã được vá trên iOS 15.6.1. Cụ thể, lỗ hổng đầu tiên có thể cho phép một ứng dụng thực thi mã tùy ý với các đặc quyền cao nhất.
+    
+ Bản cập nhật nhỏ của iOS 15.6 tập trung vá các lỗ hổng bảo mật nghiêm trọng. Ảnh: 9to5Mac.
+Lỗi thứ hai liên quan đến WebKit, công cụ trình duyệt hỗ trợ Safari và tất cả trình duyệt của bên thứ ba trên iOS. Các hacker có thể khai thác lỗ hổng bảo mật này để tạo trang web giả mạo, từ đó cài mã độc lên máy người dùng.
+Thêm vào đó, bản cập nhật iOS 15.6.1 cũng khắc phục tình trạng Safari tự động quay trở về trang trước khi người dùng mở lại tab. Thực tế Apple thông báo đã sửa lỗi này từ iOS 15.6 nhưng chưa khắc phục triệt để.
+Theo đánh giá của nhiều chuyên trang công nghệ và trải nghiệm trên YouTube, thời lượng pin trên iOS 15.6.1 vẫn khá ổn định và không có sự thay đổi so với các phiên bản trước
+iOS 15.6.1 là một trong những bản iOS 15 cuối cùng trước khi Apple phát hành rộng rãi iOS 16 vào tháng 9, sau khi iPhone 14 được ra mắt. Nhiều đoạn mã được tìm thấy trong iOS 16 thể hiện tính năng màn hình luôn bật (always-on display) đang được phát triển cho iPhone 14 Pro.
+Thêm vào đó, Apple cũng bổ sung tính năng hiển thị phần trăm pin trên thanh trạng thái phía góc trên màn hình trong bản cập nhật iOS 16.5 beta. Mức phần trăm pin sẽ được đặt ngay trong biểu tượng pin nằm ở góc phải của màn hình, khác với bên cạnh như trước đây.
+Tuy nhiên, thiết kế này chưa thật sự khiến người dùng hài lòng khi trong giao diện mới nhất của Apple, biểu tượng pin màu trắng vẫn được lấp đầy hoàn toàn ngay cả khi mức pin cạn dần. Chỉ khi phần trăm pin xuống dưới 20%, biểu tượng mới chuyển sang màu đỏ và hiển thị một phần nhỏ dung lượng.
+Loạt iPhone đời cũ giảm giá ồ ạt đến 6 triệu đồng Cửa hàng nổi tiếng của Trung Quốc JD.com đã bắt đầu đợt giảm giá lớn 818, với các đợt giảm giá áp dụng cho nhiều loại smartphone, bao gồm các mẫu iPhone. Theo chương trình giảm giá, iPhone 13 Pro Max tiêu chuẩn với bộ nhớ trong 128... 

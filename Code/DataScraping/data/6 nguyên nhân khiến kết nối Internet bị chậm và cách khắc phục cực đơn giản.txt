@@ -1,0 +1,26 @@
+
+Dù bạn sử dụng Internet để làm việc hay giải trí, liên lạc với bạn bè, gia đình thì việc internet đột nhiên chậm chạp hoặc gián đoạn đều gây ra sự khó chịu và bất tiện.
+Đôi khi, bạn có thể tự khắc phục tình trạng kết nối Internet chậm chỉ với một vài mẹo đơn giản. Khi gặp phải tình trạng này, bạn có thể cần kiểm tra một số nguyên nhân phổ biến khiến kết nối Internet bị chậm.
+1. Kết nối dây ethernet kém
+    
+Hầu hết các kết nối internet của người dùng được cung cấp qua cáp ethernet được cắm trực tiếp vào máy tính (đối với kết nối có dây) hoặc vào bộ định tuyến phân phối tín hiệu internet qua Wi-Fi. Nếu kết nối của cáp ethernet bị suy giảm theo bất kỳ cách nào, chẳng hạn như khi nó bị cắm lỏng lẻo, điều này có thể dẫn đến việc truyền internet bị yếu hoặc không ổn định. Bằng cách kiểm tra kỹ tất cả các kết nối ethernet bằng cách rút phích cắm ra rồi cắm lại, người dùng có thể khôi phục lại tín hiệu Internet.
+2. Bộ định tuyến cần được khởi động lại
+    
+Đây là một cách khắc phục khá đơn giản nhưng có thể đem lại hiệu quả cho tình trạng kết nối internet chậm. Điều này là do, giống như máy tính hoặc điện thoại thông minh đôi khi bạn chỉ cần khởi động lại để khôi phục lại hoạt động bình thường và bộ định tuyến cũng vậy.
+Để thực hiện điều này, người dùng có thể chỉ cần rút phích cắm bộ định tuyến của mình, để bộ định tuyến ở chế độ không cấp nguồn trong 30 giây hoặc lâu hơn, sau đó cắm lại. Thông thường, sau khi bộ định tuyến khởi động lại, tốc độ internet mà bộ định tuyến cung cấp sẽ trở lại bình thường.
+3. Quá tải thiết bị kết nối
+    
+Ngày nay, máy tính và điện thoại thông minh không còn là những thiết bị duy nhất dựa vào kết nối Internet. Một loạt các thiết bị thông minh khác như TV, máy tính bảng, máy điều nhiệt, chuông cửa thông minh, tủ lạnh và thậm chí cả máy giặt cũng có thể kết nối mạng.
+Khi có quá nhiều thiết bị được kết nối và chạy cùng một lúc, nó có thể dẫn đến sự cạnh tranh về băng thông và tín hiệu sẽ bị chậm lại. Để khắc phục sự cố, người dùng có thể thử ngắt kết nối hoặc tắt nguồn một số thiết bị hiện không được sử dụng. Thông thường, tốc độ internet sẽ cải thiện khi có ít thiết bị được kết nối trên mạng hơn.
+4. Các thiết bị lỗi thời
+    
+Trong các trường hợp khác, vấn đề tốc độ có thể không phải do kết nối internet mà là do một thiết bị tự bản thân nó chậm chạp đã tham gia mạng. Điều này thường xuất hiện ở các thiết bị cũ chạy phần mềm lỗi thời hoặc sử dụng trình điều khiển cũ.
+Khi các thiết bị như vậy kết nối với mạng internet của gia đình, nó có thể ngốn nhiều băng thông hơn bình thường và ngăn chặn kết nối của các thiết bị khác. Bạn có thể tắt thiết bị lỗi thời đó rồi bật lại sau 1 phút hoặc lâu hơn. Nếu sự cố vẫn tiếp diễn, có lẽ đã đến lúc bạn cần cân nhắc ngừng hẳn hoạt động của thiết bị có vấn đề.
+5. Tín hiệu của bộ định tuyến đang bị chặn
+    
+Thông thường, bộ định tuyến được ở vị trí có nhiều vật cản có thể dẫn đến sự cố với tín hiệu internet. Một số “thủ phạm” phổ biến đứng sau tín hiệu internet bị chặn bao gồm bê tông, gạch, gỗ và tường xây. Các thiết bị có thể cản trở tín hiệu sóng Wi-Fi bao gồm TV, lò vi sóng, bộ đàm, thiết bị bluetooth và các mạng lân cận.
+Để giúp đảm bảo rằng một tín hiệu Internet mạnh đang được phân phối, bộ định tuyến nên được đặt ở vị trí trung tâm, không bị cản trở trong nhà, càng xa các vật dụng điện tử khác càng tốt. Nếu ngôi nhà của bạn có nhiều tầng phức tạp, bạn cũng có thể sử dụng bộ định tuyến thứ hai làm bộ lặp, điều này sẽ mở rộng phạm vi phủ sóng của bộ định tuyến mà không làm giảm tín hiệu mạng.
+6. Lỗi phần mềm độc hại
+    
+Khi máy tính hoặc các thiết bị khác bị nhiễm phần mềm độc hại hoặc phần mềm quảng cáo, kẻ xâm nhập có thể chiếm dung lượng bộ nhớ và ảnh hưởng lớn đến hiệu suất tổng thể của thiết bị. Tất nhiên, điều này có thể dẫn đến sự chậm lại đáng kể khi sử dụng các ứng dụng kết nối với internet (hoặc bất kỳ ứng dụng nào khác).
+Giải pháp được đưa ra là bạn có thể chạy quét phần mềm chống virus để xác định và loại bỏ bất kỳ chương trình không mong muốn nào có thể đang tồn tại trên thiết bị, người dùng có thể nâng cao đáng kể tốc độ internet và hiệu suất tổng thể của thiết bị.

@@ -1,0 +1,96 @@
+
+Điện thoại thông minh giúp bạn hoàn thành công việc hàng ngày và giao tiếp với mọi người một cách dễ dàng. Nhưng đôi khi, nó có thể bị đơ hoặc treo máy gây khó chịu, phiền phức cho người dùng. Vậy tại sao lại có tình trạng này và cách phục nó ra sao?
+Dưới đây là những nguyên nhân chủ yếu gây ra tình trạng đơ máy và cách khắc phục.
+Tại sao điện thoại thông minh bị đơ? 
+1. Tín hiệu điện thoại kém
+    
+ 
+Bạn có thể cho rằng tín rằng tín hiệu điện thoại không liên quan đến tình trạng điện thoại của bạn bị đơ nhưng đó lại là nguyên nhân quan trọng.
+Sẽ thật phiền phức nếu có cuộc gọi đến mà máy bạn bị treo và bạn không thể nghe nó. Điện thoại bị đơ có thể xảy ra trước hoặc sau khi bạn nhận cuộc gọi do tín hiệu mạng kém.
+Bạn có thể xác định mức độ tín hiệu mạng bằng cách để ý các thanh ở phía trên bên phải màn hình điện thoại di động của mình. Nếu điện thoại có ít hơn 3 vạch, tín hiệu điện thoại đang ở mức kém.
+2. Không gian lưu trữ thấp
+    
+(Ảnh minh họa)
+Điện thoại thông minh của bạn dễ bị treo do không đủ dung lượng lưu trữ.
+Có nhiều lý do góp phần dẫn đến không đủ dung lượng lưu trữ, chẳng hạn như cài đặt các ứng dụng khác nhau. Nhiều người cũng tải phim xuống điện thoại của mình. Các cài đặt như vậy có thể ngốn từ ​​vài MB đến vài GB trên điện thoại.
+Bất cứ khi nào điện thoại của bạn sắp hết bộ nhớ, nó sẽ bắt đầu bị treo do các ứng dụng cạnh tranh với nhau để sử dụng trong nền.
+3. RAM thấp
+    
+(Ảnh minh họa)
+Nhiều người thường nhầm lẫn giữa RAM với không gian lưu trữ, nhưng hai thứ này hoàn toàn khác nhau. Bộ nhớ truy cập ngẫu nhiên (RAM) là một phần của tất cả các thiết bị và được sử dụng để quản lý hệ điều hành. Nó tương đối thấp hơn tổng dung lượng lưu trữ trên điện thoại.
+Mục đích chính của RAM là đảm bảo hoạt động cho các ứng dụng của bạn trên điện thoại và dữ liệu mà bạn hiện đang sử dụng. Đây là lý do tại sao điện thoại di động có dung lượng RAM thấp cũng có khiến điện thoại bị đơ.
+Dung lượng thấp có thể phù hợp với bạn nếu nhu cầu sử dụng điện thoại của bạn không cao hoặc bạn không tải xuống nhiều ứng dụng, ảnh hoặc video. Nếu yêu cầu của bạn cao, RAM sẽ thiếu dung lượng và điện thoại của bạn sẽ bị đơ.
+Những người đã sử dụng cùng một thiết bị trong nhiều năm có khả năng bị RAM thấp. Điện thoại sẽ bắt đầu bị treo vì chỉ một số ứng dụng cụ thể có thể chạy đồng thời.
+4. Phần mềm lỗi thời
+    
+(Ảnh minh họa)
+Tất cả các thiết bị Android và Apple đều được cài đặt sẵn phần mềm mà công ty thường xuyên cập nhật.
+Nếu bạn không cài đặt phần mềm mới trong một thời gian dài, thiết bị của bạn sẽ bắt đầu bị treo. Điều này là do các ứng dụng trên điện thoại của bạn sẽ trở nên ít tương thích hơn với phần mềm đã cài đặt.
+5. Ứng dụng lỗi thời
+    
+(Ảnh minh họa)
+Hầu hết các ứng dụng này thường xuyên được cập nhật bởi các nhà phát triển tương ứng của họ để cung cấp trải nghiệm người dùng liền mạch. Tuy nhiên, bản cập nhật có thể không tự động tải xuống điện thoại của bạn nhất là khi bạn tắt tính năng tự động cập nhật trên Cửa hàng Google Play hoặc Cửa hàng ứng dụng của mình.
+Nếu một ứng dụng đã không được cập nhật trong thời gian dài, nó có thể sẽ bị lỗi bất cứ khi nào bạn mở.
+6. Ứng dụng có phần mềm độc hại
+    
+(Ảnh minh họa)
+Không phải tất cả các ứng dụng đều an toàn hoặc được tạo bởi các nhà phát triển đáng tin cậy.
+Một số ứng dụng của bên thứ ba được tạo bởi tội phạm mạng với phần mềm độc hại ẩn được thiết kế để lấy cắp dữ liệu của bạn. Việc tải xuống một ứng dụng như vậy sẽ không chỉ làm rò rỉ thông tin của bạn mà còn làm chậm điện thoại của bạn.
+Các ứng dụng ở chế độ beta cũng có thể là nguyên nhân khiến nhiều thiết bị bị treo do mã của nhà phát triển bị lỗi.
+7. Quá nóng
+    
+(Ảnh minh họa)
+Tất cả các thiết bị công nghệ đều nóng lên sau khi sử dụng vài giờ hoặc lâu hơn. Điều này đúng với tất cả các mặt hàng điện tử như máy tính xách tay, loa Bluetooth, điện thoại thông minh và máy tính bảng.
+Điện thoại cũng quá nóng khi bạn sử dụng chúng trong khi sạc. Nhiệt độ hoạt động bình thường của thiết bị di động là 35°C đến 38°C. Nếu mức nhiệt của thiết bị vượt quá phạm vi đó sẽ khiến điện thoại trở nên quá nóng và bắt đầu bị đơ.
+8. Hình nền động
+    
+(Ảnh minh họa)
+Mọi người dùng đều thích cá nhân hóa điện thoại của họ để tận hưởng thiết bị tốt hơn.
+Bạn có thể chọn chủ đề hình nền động thay vì tùy chọn tiêu chuẩn. Các chủ đề như vậy ảnh hưởng đến RAM của thiết bị và có thể khiến dung lượng sắp hết. Điều này có nghĩa là hiệu suất tổng thể của điện thoại của bạn sẽ giảm xuống.
+Hình nền động cũng làm chậm thiết bị đáng kể và có thể khiến thiết bị bị đơ trước khi mở khóa điện thoại.
+9. Thay đổi ứng dụng liên tục
+    
+(Ảnh minh họa)
+Đa nhiệm đang phổ biến trong thế giới bận rộn ngày nay vì mọi người thích hoàn thành công việc nhiều nhất trong thời gian ngắn hơn.
+Tuy nhiên, việc làm này có hại vì thay đổi ứng dụng liên tục có thể khiến điện thoại của bạn bị treo. Điều này đặc biệt đúng nếu bạn sử dụng nhiều hơn 3 ứng dụng trong vòng vài giây hoặc vài phút.
+Mỗi một thiết bị điện tử chỉ có thể chịu được gánh nặng ở một mức độ nhất định. Việc lạm dụng điện thoại của bạn sẽ dẫn đến hiệu suất kém và các ứng dụng bị đơ.
+10. Pin yếu
+    
+(Ảnh minh họa)
+Một nguyên nhân phổ biến khác khiến điện thoại bị đơ là pin yếu. Việc tiếp tục sử dụng thiết bị khi pin yếu sẽ khiến một số ứng dụng chạy chậm và màn hình có thể bị treo trong vài phút.
+11. Sử dụng VPN trong thời gian kéo dài
+    
+(Ảnh minh họa)
+VPN có thể giúp bạn sử dụng ứng dụng để xem các trang web không có sẵn trong khu vực của bạn
+Ứng dụng này có thể hữu ích nhưng VPN làm chậm mạng của bạn khi kết nối không hoạt động trong một thời gian dài. Bên cạnh đó, VPN cũng có mức sử dụng nền cao hơn hầu hết các ứng dụng khác.
+Đây là lý do tại sao nó có nhiều khả năng khiến điện thoại của bạn bị đơ ngay cả khi bạn không làm gì.
+    
+(Ảnh minh họa)
+6 cách khắc phục điện thoại bị đơ
+Dưới đây là chi tiết về các bản sửa lỗi khác nhau cho điện thoại bị treo:
+1. Nhận tín hiệu tốt hơn
+Bắt tín hiệu tốt hơn sẽ giúp bạn tránh điện thoại bị treo do cường độ tín hiệu kém. Bạn có thể nhận được mạng tốt hơn bằng cách sử dụng thiết bị trong khu vực có nhiều tháp di động hơn.
+2. Sử dụng thẻ SD
+    
+(Ảnh minh họa)
+Bộ nhớ thấp là nguyên nhân phổ biến khiến điện thoại bị treo. Cách tốt nhất để khắc phục sự cố này là sử dụng thẻ SD .
+3. Chọn mua điện thoại dung lượng RAM cao
+Một phiên bản điện thoại có thể có các dung lượng RAM khác nhau. Bạn có thể mua một thiết bị có dung lượng cao để đảm bảo không bị cạn dung lượng.
+Bạn cũng có thể tránh tải các trò chơi trên điện thoại và xóa các ứng dụng không sử dụng để tiết kiệm dung lượng bộ nhớ và RAM.
+4. Cập nhật phần mềm
+Điện thoại cũng có thể trở nên nhanh hơn sau khi cập nhật phần mềm, ngăn các ứng dụng thường xuyên bị đơ.
+5. Cập nhật ứng dụng
+    
+(Ảnh minh họa)
+Nếu phiên bản mới của ứng dụng được phát hành, hãy nhớ tải xuống và cập nhật. Điều này sẽ ngăn ứng dụng gặp sự cố và loại bỏ lỗi khỏi thiết bị của bạn.
+Bạn cũng nên tránh đăng ký phiên bản beta. Tốt nhất là chỉ sử dụng các phiên bản chính thức và đã được thử nghiệm của ứng dụng.
+6. Tránh tải xuống ứng dụng của bên thứ ba
+Tốt nhất nên gắn bó với Cửa hàng Play cho các ứng dụng vì các nhà phát triển đáng tin cậy.
+7. Tránh sử dụng điện thoại quá lâu
+    
+(Ảnh minh họa)
+Một cách khắc phục điện thoại bị treo khác là tránh sử dụng thiết bị trong thời gian dài. Điều này sẽ ngăn điện thoại di động của bạn quá nóng do sử dụng quá mức.
+Bạn cũng không nên sử dụng điện thoại khi đang sạc. Việc tránh hình nền động cũng rất hữu ích để tránh quá nhiệt vì các chủ đề như vậy chạy ở chế độ nền. Chúng có thể làm nóng điện thoại của bạn ở chế độ chờ và gây đơ máy. Đây là lý do tại sao hình nền tiêu chuẩn được ưu tiên hơn.
+8. Không đa nhiệm
+Tránh đa nhiệm là một cách tuyệt vời khác để ngăn điện thoại của bạn bị treo. Bạn không nên thực hiện các tác vụ tiêu tốn nhiều dữ liệu trên điện thoại di động và thay vào đó hãy sử dụng máy tính xách tay.
+Nếu bạn muốn thực hiện các tác vụ cụ thể trên điện thoại, hãy đảm bảo tránh sử dụng nhiều hơn hai ứng dụng cùng một lúc. Nó sẽ cho phép thiết bị của bạn hoạt động tối ưu và tránh bị đơ máy.

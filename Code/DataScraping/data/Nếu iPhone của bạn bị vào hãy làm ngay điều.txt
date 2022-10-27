@@ -1,0 +1,10 @@
+
+(Tổ Quốc) - Thời tiết mưa nắng thất thường, hãy bỏ túi ngay mẹo bảo vệ iPhone của bạn.
+Từ dòng iPhone 7 trở lên, Apple đã cung cấp cho chúng ta khả năng chống bụi, chống nước với chỉ số IP67 và từ dòng iPhone XS trở lên là IP68. Tuy nhiên, iPhone lại chỉ được khuyến cáo "kháng nước" chứ không "chống nước", và Apple thậm chí từng bị kiện vì quảng cáo quá đà việc kháng nước của iPhone.
+Hiện tại, tình trạng thời tiết mưa nắng thất thường khiến iPhone có khả năng bị ướt mưa khá cao. Tuy sản phẩm có kháng nước nhưng loa là nơi chịu ảnh hưởng nhiều nhất khi bị ướt, việc nước lọt vào sẽ gây nên tình trạng bị rè, nghẹt loa rất khó chịu.
+Vì vậy, nếu như chẳng may iPhone bị vào nước cũng đừng quá lo lắng, bạn có thể làm theo các bước dưới đây để giúp iPhone tự đẩy nước ra khỏi loa.
+Với shortcuts có tên là Water Eject. Nó sẽ giúp bạn bảo vệ tốt chiếc iPhone tốt hơn.
+Đầu tiên, mở ứng dụng Shortcuts trên iPhone, tiếp đến  tải về  phím tắt Water Eject và chọn Thêm phím tắt không được tin cậy.
+Sau khi thêm Water Eject vào Phím tắt của tôi, hãy chọn nó để bắt đầu việc đẩy nước ra trên iPhone của bạ> hãy chọn Begin Water Ejection.
+Máy sẽ tăng max loa và rung lên khi thực hiện, khi đã xong sẽ có thông báo đã hoàn thành.
+Sau khi hoàn thành, shortcuts sẽ giảm âm lượng của thiết bị xuống 50% và gửi thông báo hoàn thành cho người dùng. Tính năng này sẽ giúp đẩy nước ra khỏi loa iPhone bằng âm thanh tần số rất thấp.

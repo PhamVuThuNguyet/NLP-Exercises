@@ -1,0 +1,26 @@
+
+Năm ngoái, Qualcomm ra mắt chipset Snapdragon 8 Gen 1 và Snapdragon 7 Gen 1. Đây là những sản phẩm mới nhất của công ty dựa trên quy trình 4nm tiên tiến. Trong đó, mẫu SnapDragon 8 được sử dụng cho các thiết bị cầm tay cao cấp, còn mẫu sau dành cho các thiết bị tầm trung. Theo các báo cáo không ngoài dự đoán, công ty
+Nếu tin đồn này là chính xác, Snapdragon 6 Gen 1 sẽ sắp sửa được ra mắt.
+Năm ngoái, Qualcomm ra mắt chipset Snapdragon 8 Gen 1 và Snapdragon 7 Gen 1. Đây là những sản phẩm mới nhất của công ty dựa trên quy trình 4nm tiên tiến. Trong đó, mẫu SnapDragon 8 được sử dụng cho các thiết bị cầm tay cao cấp, còn mẫu sau dành cho các thiết bị tầm trung. Theo các báo cáo không ngoài dự đoán, công ty Mỹ này đang chế tạo một con chip 4nm mới dành cho các smartphone giá rẻ. Nếu tin đồn này là chính xác, Snapdragon 6 Gen 1 sẽ sắp sửa được ra mắt.
+Vài ngày trước, Evan Blass (@evleaks) đã chia sẻ chi tiết thông số của nền tảng di động Snapdragon 6 Gen 1 sắp ra mắt. Vì vậy, chúng ta đã có đầy đủ thông tin về con chip này trước khi ra mắt.
+      ADVERTISEMENT 
+ Thông số SnapDragon Gen 1
+Dòng chip Qualcomm Snapdragon 6 sắp ra mắt sẽ là phiên bản nối tiếp của chipset Snapdragon 695. Ngoài quy trình 4nm, SM6450 sẽ sử dụng CPU Qualcomm Kyro với tần số lên đến 2.2GHz, đồng thời, con chip này sẽ hỗ trợ lên tới 12GB bộ nhớ LPDDR5 với tốc độ lên tới 2750MHz.
+Tất nhiên, đây sẽ là một chipset 5G đi kèm với băng tần cơ sở Snapdragon X62 5G. Sự kết hợp này sẽ cung cấp sóng 5G milimet và hỗ trợ băng tần dưới 6GHz. Những tính năng khác của các tùy chọn kết nối bao gồm hỗ trợ WiFi 6E thông qua Qualcomm FastConnect 6700 cũng như Bluetooth 5.2.
+    
+Một tính năng thú vị nữa là khả năng hỗ trợ tốc độ làm mới 120Hz hiển thị độ phân giải FHD . Về khả năng chụp ảnh, con chip này hỗ trợ kết hợp 3 camera 13MP, kết hợp camera kép 25 MP 16 MP hoặc camera đơn 48MP. Tính năng camera tuy không ấn tượng nhưng nó vẫn hỗ trợ quay video 4K HDR ở độ phân giải 30FPS và 270p cũng như quay video slo-mo 240FPS.
+Mặc dù chưa có thông tin chính xác về thời điểm chip Qualcomm Snapdragon 6 mới sẽ chính thức được ra mắt, nhưng người dùng hoàn toàn có thể mong đợi sự công bố của Snapdragon 8 Gen 2 trong những tháng tới.
+
+ Xiaomi 12S và 12S Pro
+    
+Thiết kế của 2 chiếc máy này không khác biệt nhiều so với Xiaomi 12 series ra mắt trước đây, 2 chiếc máy này chỉ khác nhau một chút về phần cứng. Về màn hình, Xiaomi 12S có màn hình 6,28 inch trong khi bản Pro có 6,73 inch, đều dùng tấm nền AMOLED với độ phân giải FHD và tần số quét 120Hz.Camera là điểm nhấn không thể bỏ qua trên dòng máy mới này khi Xiaomi hợp tác cùng Leica để cải thiện chất lượng hình ảnh. Cụm camera chính của Xiaomi 12S và 12S Pro vẫn có thiết kế tương tự bản tiền nhiệm, gồm 3 ống kính với thông số 50MP 13MP 5MP và 50MP 50MP 50MP cũng không đổi. Khác biệt tới từ logo Leica được đặt trong mô-đun camera. Ở mặt trước, máy có thêm camera selfie 32MP.
+      ADVERTISEMENT 
+Sức mạnh cũng được nâng cấp nhờ chip Snapdragon 8 Gen 1, RAM LPDDR5 lên đến 12GB và bộ nhớ UFS 3.1 512GB. Phiên bản thường có viên pin 4.500mAh kèm sạc nhanh 67W còn bản Pro nhỉnh hơn một chút với pin 4.600mAh nhưng sạc nhanh nâng lên 120W. Cả 2 đều hỗ trợ sạc không dây 50W và sạc không dây ngược 10W.
+Xiaomi 12S có giá từ 597 USD cho phiên bản 8GB 128GB trong khi tùy chọn 8GB 256GB có giá 642 USD. Phiên bản 12GB 256GB và 12GB 512GB có giá lần lượt là 702 USD và 776 USD. Trong khi đó, Xiaomi 12S Pro cũng có các phiên bản tương tự với giá lần lượt là 702 USD, 746 USD, 806 USD và 881 USD.
+ Xiaomi 12S Ultra
+    
+Tuy nhiên nếu bạn muốn có một thiết bị cao cấp nhất, hội tụ đủ những trang bị cao cấp thì Xiaomi 12S Ultra mới là cái tên nên nhắc tới. Ngay từ ngoại hình, chiếc máy này đã tỏ ra thực sự hầm hố với cụm camera lớn ở mặt lưng. Mặt lưng hoàn thiện giả da cao cấp, thân thiện với môi trường. Chưa hết, đường viền xung quang camera còn được mạ vàng 23K. Máy cũng sở hữu chuẩn chống nước IP68 mà trước đó dòng Xiaomi 12 bị phàn nàn.Xiaomi 12S Ultra có hệ thống 3 camera chính gồm camera góc rộng 50MP sử dụng cảm biến 1 inch Sony IMX989, góc siêu rộng 48MP với góc nhìn 128 độ và tele 120X 48MP đều được tinh chỉnh bởi Leica với hệ thống ống kính Leica Summicron.
+    
+Mặt trước là màn hình 6.73 inch, tấm nền LTPO AMOLED 2.0 với độ phân giải QHD , tần số quét 120Hz và có độ sáng 1500 nits. Camera selfie 32MP nằm trong lỗ đục. Hiệu năng của 12S Ultra cũng được nâng cấp với chip Snapdragon 8 Gen 1, RAM 8GB/12GB, bộ nhớ 256GB/512GB với hệ thống tản nhiệt sử dụng thiết kế lấy cảm hứng từ các đường gân trên lá. Viên pin có dung lượng 4860mAh, hỗ trợ công suất sạc nhanh chỉ 67W, thấp hơn cả Xiaomi 12S Pro. Máy đầy 50% trong 15 phút, hỗ trợ sạc nhanh không dây 50W và sạc ngược 10W. Loa ngoài tinh chỉnh bởi Harman Kardon.
+Xiaomi 12S Ultra chỉ có 2 màu là đen và xanh lục, phiên bản 8GB 256GB có giá từ 896 USD, bản 12GB 256GB có giá 971 USD và cuối cùng là bản 12GB 512GB có giá 1.045 USD.
+Những tính năng hấp dẫn nhất của Xiaomi 12S Pro xuất hiện  Ngay trước thềm sự kiện ra mắt loạt Xiaomi 12S mới của Xiaomi tại Trung Quốc, thông tin về biến thể Xiaomi 12S Pro đã xuất hiện. Trong khi có nhiều tin đồn cho rằng Xiaomi 12S Pro sẽ có hai biến thể CPU, gồm Snapdragon và Dimensity,... 

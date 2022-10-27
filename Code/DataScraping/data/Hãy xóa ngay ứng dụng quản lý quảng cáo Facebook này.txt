@@ -1,0 +1,7 @@
+
+Mặc dù ứng dụng hiện đã được gỡ bỏ khỏi App Store, tuy nhiên, nếu lỡ cài đặt ứng dụng, người dùng nên đến trung tâm hỗ trợ trực tuyến của Facebook...
+Khi tìm kiếm trình quản lý trang trên Facebook (Facebook pages manager) trên cửa hàng ứng dụng của Apple, người dùng sẽ nhận được nhiều kết quả khác nhau. Trong số đó có thể là các ứng dụng lừa đảo, cho phép tin tặc lợi dụng để đánh cắp tài khoản ngân hàng của nạn nhân.
+Mới đây, các chuyên gia bảo mật đã phát hiện ra một ứng dụng độc hại dưới dạng này. Cụ thể, ứng dụng mang tên "Pages Manager Suite", được giới thiệu là phần mềm hỗ trợ quản lý quảng cáo trên Facebook.
+Theo Business Insider, nhà phát triển của ứng dụng này có tên Bronzelab SG Ltd và không hề có trang web chính thức. Trong khi đó, công ty cung cấp ứng dụng được ghi là VI DO CO. Công ty này có liên kết với nhiều đơn vị đã đăng ký tại Việt Nam.
+Vào giữa tháng 7, Facebook đã gắn cờ ứng dụng này và báo cáo cho Apple. Đồng thời, công ty cũng khuyến cáo người dùng nên đến trung tâm hỗ trợ trực tuyến của hãng bên cạnh việc cung cấp các bước cần thực hiện sau khi tài khoản bị tấn công.
+Hiện tại, ứng dụng nguy hiểm này đã bị gỡ khỏi cửa hàng ứng dụng App Store của Apple. Một phát ngôn viên của Apple cho biết, ứng dụng này ban đầu được xét duyệt như một trình quản lý tài liệu đơn thuần, tuy nhiên, chức năng của nó đã bị thay đổi sau khi được cấp phép.

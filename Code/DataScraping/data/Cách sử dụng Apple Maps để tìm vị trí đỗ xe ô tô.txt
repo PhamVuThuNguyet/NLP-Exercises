@@ -1,0 +1,15 @@
+
+Apple đã phát triển và bổ sung thêm tính năng trên ứng dụng Maps trên iPhone để người dùng xác định được vị trí chính xác xe ô tô đã đỗ của chính họ. Sau đây là các bước để bật tính năng này trên iPhone.
+Tính năng này, được gọi là Parked Car, yêu cầu iPhone của bạn được kết nối với xe ô tô qua Bluetooth hoặc CarPlay, vì vậy thật không may nếu bạn sở hữu một chiếc ô tô cũ và không có khả năng kết nối iPhone Bluetooth.
+Tính năng này rất hữu ích đặc biệt tại những địa điểm có bãi đỗ xe lớn mà bạn không thường xuyên đi đến như công viên giải trí, sân bay,.. Việc tìm xe có thể là một điều khó khăn nhưng nó sẽ trở nên dễ dàng với người dùng iPhone.
+Cách thiết lập tính năng Parked Car trong Apple Maps
+Để sử dụng tính năng Parked Car trong Apple Maps, bạn cần đảm bảo rằng iPhone của bạn được thiết lập đúng cách. Quy trình này tương đối đơn giản và sau đây là những bước hướng dẫn bạn cách thiết lập.
+1. Bật Dịch vụ định vị và Vị trí quan trọng:
+Mở ứng dụng Cài đặt. Cuộn xuống và truy cập mục Quyền riêng tư, sau đó ấn vào Dịch vụ định vị. Bật tính năng Dịch vụ định vị bằng cách nhấn vào nút gạt. Trong cùng một menu, cuộn xuống và truy cập Dịch vụ Hệ thống. Bật Vị trí quan trọng bằng cách nhấn vào công tắc chuyển đổi của nó.
+2. Tiếp đó, để bật tính năng Parked Car trong Apple Maps, bạn cần phải:
+Quay lại menu Cài đặt chính. Cuộn xuống và nhấn vào Bản đồ. Bật tính năng Hiển thị vị trí đã đỗ
+Lần tới khi bạn ra khỏi ô tô, Apple Maps sẽ ghi nhớ nơi bạn đã đỗ xe. Điều quan trọng cần lưu ý là bạn không cần phải chủ động sử dụng Apple Maps để tính năng này hoạt động; khi bạn bật nó lên, nó sẽ hoạt động ở chế độ nền.
+Cách hoạt động của Parked Car trong Apple Maps
+Bạn sẽ nghĩ rằng tính năng Parked Car trong Apple Maps dựa vào một số thủ thuật điên rồ để làm cho nó hoạt động, nhưng thực ra nó khá đơn giản và chỉ yêu cầu một trong hai điều: để iPhone của bạn được ghép nối với ô tô qua Bluetooth hoặc kết nối với CarPlay sử dụng kết nối có dây hoặc không dây.
+Ngay sau khi bạn tắt ô tô đồng thời ngắt kết nối khỏi Bluetooth hoặc CarPlay, iPhone của bạn ngay lập tức ping vị trí dừng lại và lưu trữ dữ liệu đó trên thiết bị cầm tay của bạn cho đến khi bạn khởi động lại xe./.
+Theo Slashgear

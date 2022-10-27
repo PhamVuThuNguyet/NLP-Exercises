@@ -1,0 +1,22 @@
+
+Việc phát hiện ra tài khoản của bạn bị hack sớm sẽ ngăn chặn bất kỳ sự xâm phạm và phá hoại nào từ bên ngoài. Dưới đây là 7 dấu hiệu phổ biến cho thấy một tài khoản đã bị tấn công.
+1. Rắc rối khi đăng nhập
+Một trong những dấu hiệu đầu tiên mà nhiều hacker thường làm khi chiếm đoạt tài khoản là thay đổi địa chỉ email hoặc mật khẩu được liên kết với tài khoản, với mục đích cắt quyền truy cập tài khoản của chủ sở hữu thực sự. Vì lý do này, dấu hiệu đầu tiên của tài khoản bị xâm phạm là các vấn đề khi đăng nhập.
+    
+2. Thay đổi đối với thông tin cá nhân và tài khoản
+Ngoài những thay đổi đối với địa chỉ email và mật khẩu, người dùng bị xâm phạm tài khoản Facebook có thể thấy các thay đổi đối với thông tin cá nhân trong hồ sơ tài khoản của họ. Những người dùng quan tâm nên theo dõi các thay đổi về tên, ngày sinh, thành phố hiện tại và các chi tiết cá nhân khác của mình.
+    
+3. Các bài đăng hoặc lượt chia sẻ trên dòng thời gian không quen thuộc
+Khi các lượt chia sẻ và bài đăng xuất hiện trên dòng thời gian của bạn mặc dù bạn chưa bao giờ tham gia vào bất kỳ hoạt động nào như vậy, đây là một dấu hiệu chắc chắn rằng tài khoản đã bị xâm phạm. Những ai phát hiện ra bất kỳ hoạt động trái phép nào như vậy nên gỡ bỏ ngay những bài viết và chia sẻ đáng ngờ này và thay đổi mật khẩu ngay lập tức.
+    
+4. Cảnh báo hoặc khiếu nại từ bạn bè
+Thông thường, bạn bè của người dùng sẽ là người đầu tiên nhận thấy tài khoản đã bị xâm phạm vì tin tặc thường sử dụng tài khoản bị xâm nhập để cố gắng lấy thông tin nhạy cảm từ danh bạ của người dùng bị tấn công. Vì vậy, bạn nên nhanh chóng kiểm tra lại tài khoản khi bạn bè thông báo rằng có tin nhắn lạ từ bạn trên Facebook Messenger hoặc thấy hoạt động kỳ lạ trong dòng thời gian.
+5. Vị trí truy cập kỳ lạ
+    
+Để giúp ngăn chặn việc xâm nhập tài khoản, Facebook (trong trường hợp người dùng chấp thuận) theo dõi nơi người dùng đăng nhập vào tài khoản cùng với các thiết bị họ sử dụng. Vì vậy, khi một nỗ lực đăng nhập được thực hiện từ một vị trí hoặc thiết bị khác thường, người dùng có thể nhận được email từ Facebook thông báo cho họ về hoạt động không điển hình. Trong trường hợp người dùng không nhận ra vị trí hoặc thiết bị được đề cập trong email hoặc trong Cài đặt Vị trí trên Facebook, rất có thể một nỗ lực tấn công đã được thực hiện.
+6. Yêu cầu kết bạn không được công nhận
+    
+Một khi tin tặc đã có được quyền truy cập trái phép vào tài khoản của người dùng Facebook, những kẻ đột nhập thường cố gắng xây dựng sự đột nhập bằng cách cố gắng thu thập thông tin cá nhân từ những người dùng Facebook khác. Và một trong những cách tốt nhất để có thêm quyền truy cập vào thông tin cá nhân của người dùng khác là kết bạn với họ trên Facebook. Vì lý do này, khi người dùng nhận thấy rằng các yêu cầu kết bạn đã được gửi từ tài khoản của họ đến những người mà họ không biết, đó thường là dấu hiệu cho thấy tài khoản của bạn đang bị hack.
+7. Tin nhắn hoặc email cá nhân đáng ngờ
+    
+Tương tự như chiến thuật được đề cập ở trên, tin tặc thường cố gắng đóng giả là người dùng mà họ đã tấn công để lừa bạn bè của người dùng gửi tiền cho họ hoặc thực hiện một số hành động lừa đảo khác. Do đó, người dùng bị tấn công thường sẽ phát hiện ra các tin nhắn Facebook Messenger được gửi từ tài khoản của họ mà họ không nhận ra. Một dấu hiệu khác cho thấy một nỗ lực tấn công đã được thực hiện là khi người dùng nhận được email “đã cố gắng khôi phục tài khoản” từ Facebook khi họ không thực hiện nỗ lực khôi phục như vậy.

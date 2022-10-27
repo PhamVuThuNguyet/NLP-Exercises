@@ -1,0 +1,23 @@
+
+Dù sử dụng iPhone hàng ngày, người dùng có thể chưa tận dụng hết các menu ẩn thú vị trên smartphone này.
+Theo CNBC, mỗi năm, Apple lại bổ sung nhiều tính năng mới trên iPhone. Do đó, smartphone này sở hữu rất nhiều cử chỉ và menu ẩn, cải thiện đáng kể trải nghiệm người dùng như tìm kiếm giữa các app, quay lại trang trước, tìm widget thông tin hay bật nhanh Wi-Fi…
+Để kích hoạt những menu này, người dùng phải sử dụng nhiều thao tác mới nhưng nếu đã làm quen, họ sẽ thấy chúng rất hữu dụng và nhanh chóng.
+Hầu hết ứng dụng trên iPhone đều có một menu ẩn tên là Quick Actions (Tác vụ nhanh). Để mở menu này, người dùng chỉ cần nhấn giữ biểu tượng của ứng dụng bất kỳ.
+Những app mặc định như Điện thoại, Tin nhắn, Máy ảnh, Cài đặt… đều có menu Quick Actions, giúp người dùng thao tác nhanh, không cần phải trải qua các khâu rườm rà.
+Với những ứng dụng khác nhau, menu Quick Actions sẽ cung cấp các chức năng khác nhau. Cụ thể, nếu nhấn giữ biểu tượng app Ghi chú, menu Quick Actions sẽ hiển thị cùng với phím tắt tạo ghi chú mới, checklist mới, chèn ảnh hoặc scan tài liệu.
+Quick Actions giúp người dùng truy cập nhanh vào các ứng dụng. Ảnh: CNBC.
+Trong khi đó, nếu kích hoạt Quick Actions trên ứng dụng Điện thoại, người dùng sẽ có thể xem nhanh các cuộc gọi thoại gần đây, thêm liên hệ mới, tìm liên hệ trong danh bạ…
+Với những người dùng tay nhỏ, việc sử dụng toàn bộ màn hình iPhone với một tay dường như rất khó khăn. Do đó, Apple đã bổ sung “Chế độ một tay” (Reachability) trên iOS nhằm giúp người dùng dễ dàng thao tác trên điện thoại. Chế độ này thu nhỏ màn hình lại thành một phần ở dưới. Khi đó, nội dung đang hiển thị sẽ được thu gọn xuống nửa dưới màn hình.
+Tuy nhiên, “Chế độ một tay” sẽ không được bật mặc định mà người dùng phải vào ứng dụng Cài đặt > mục Trợ năng > chọn Cảm ứng, sau đó bật công tắc bên cạnh tùy chọn Chế độ một tay.
+Theo CNBC, người dùng có thể nhanh chóng chuyển đổi giữa các app hoặc tắt app chỉ với vài thao tác nhỏ. Cụ thể, người dùng hãy vuốt lên từ giữa màn hình và nhấn giữ cho đến khi thấy điện thoại rung.
+Sau đó, nếu muốn chuyển đổi ứng dụng, người dùng kéo sang phải. Nếu muốn tắt ứng dụng, người dùng thực hiện thao tác vuốt lên.
+Người dùng có thể nhanh chóng chuyển qua lại giữa các ứng dụng trên iPhone. Ảnh: CNBC.
+Ngoài ra, người dùng cũng có thể chuyển giữa các ứng dụng bằng cách kéo sang phải hoặc trái từ cạnh dưới màn hình. Sang phải, người dùng sẽ truy cập vào ứng dụng đã mở trước đó. Sang trái, người dùng sẽ quay lại app cũ.
+Theo CNBC, để quay trở lại trang trước trong ứng dụng bất kỳ, người dùng cũng có thể áp dụng cách kéo sang phải từ góc dưới màn hình. Ngược lại, nếu kéo sang trái, bạn sẽ trở lại trang ban đầu.
+Theo CNBC, thông thường, người dùng sẽ vuốt xuống từ giữa màn hình để xem những thông báo gần đây. Nhưng nhiều người không biết rằng họ cũng có thể vuốt xuống từ cạnh trên cùng bên phải để mở Trung tâm điều khiển (Control Center).
+Để mở Control Center, người dùng có thể vuốt xuống từ góc trên bên phải màn hình. Ảnh: CNBC.
+Trong iOS, Control Center giúp người dùng truy cập nhanh vào các tác vụ và ứng dụng như chụp ảnh, ghi chú, bật đèn pin, bật, tắt Wi-Fi. Người dùng cũng có thể thay đổi thứ tự hoặc thêm, bớt bất cứ ứng dụng nào tùy thích. Để làm được điều này, vào ứng dụng Cài đặt > Trung tâm điều khiển, bạn sẽ thấy danh sách những ứng dụng có thể đặt lối tắt.
+Người dùng iOS thường có thói quen đặt các widget (tiện ích) trên màn hình chính nhưng lại không biết rằng hệ điều hành này có một mục riêng để chứa các widget này.
+Mục này nằm bên trái màn hình chính và có thể tùy biến tùy theo sở thích của người dùng. Với những widget của ứng dụng mặc định và một vài app bên thứ 3, người dùng kéo màn hình chính sang phải, sau đó vuốt xuống và chọn nút “Chỉnh sửa” (Edit) ở phía dưới. Bạn hãy nhấn vào nút có hình dấu + ở góc trên bên trái và chọn widget theo sở thích.
+Các widget rất hữu dụng với người dùng iOS. Ảnh: CNBC.
+Nếu không thấy tiện ích cần thêm, người dùng cần vuốt xuống cuối để chọn “Tùy chỉnh” (Customize). Ở đây, bạn sẽ thấy widget của tất cả ứng dụng cài đặt trong máy và chỉ cần nhấn nút + để thêm vào màn hình.

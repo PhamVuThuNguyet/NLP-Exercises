@@ -1,0 +1,22 @@
+
+Trong bản tin mới nhất, Gurman tiết lộ một số chi tiết về iPhone 14. Chẳng hạn, Apple đã đưa ra ý tưởng về iPhone không khay SIM, nhằm thúc đẩy eSIM. Theo Gurman, một số mẫu iPhone 14 có thể không còn khay SIM. Dù vậy, bản thân Gurman cũng không chắc chắn về điều này. Trước đây, cũng có một số tin đồn về việc Apple
+      ADVERTISEMENT 
+ Phác thảo chân dung iPhone 14. (Ảnh: MacRumors)
+Trong bản tin mới nhất, Gurman tiết lộ một số chi tiết về iPhone 14. Chẳng hạn, Apple đã đưa ra ý tưởng về iPhone không khay SIM, nhằm thúc đẩy eSIM. Theo Gurman, một số mẫu iPhone 14 có thể không còn khay SIM. Dù vậy, bản thân Gurman cũng không chắc chắn về điều này. Trước đây, cũng có một số tin đồn về việc Apple loại bỏ khay SIM trên iPhone.
+eSIM là SIM kỹ thuật số, cho phép mọi người kích hoạt gói cước di động mà không cần thẻ SIM vật lý. Nó ngày càng được sử dụng rộng rãi hơn nhưng vẫn chưa có mặt tại mọi quốc gia, vì vậy, iPhone dùng thẻ SIM truyền thống vẫn được bán ra trong quá trình chuyển giao.
+iPhone 13 bán tại các cửa hàng Apple Store và Apple.com không có nano-SIM trong hộp. Hiện nay, iPhone 13 hỗ trợ nhiều tài khoản eSIM, giúp người dùng đăng ký nhiều gói cước một lúc và chuyển đổi dễ dàng. Việc loại bỏ khay SIM còn cải thiện khả năng kháng nước trên iPhone, giải phóng một phần diện tích bên trong thiết bị.
+Vẫn theo Gurman, iPhone 14 Pro và 14 Pro Max sẽ trang bị viên pin lớn hơn để hỗ trợ cho màn hình luôn bật (always-on). Do đó, về tổng thể, hai mẫu máy sẽ lớn hơn một chút. Màn hình always-on sẽ hiển thị thông tin cần thiết và các yếu tố thị giác từ màn hình khóa iOS 16, chẳng hạn ngày, giờ, tiện ích (widget).
+Theo tin đồn, màn hình always-on trên iPhone 14 có thể trở thành hiện thực là nhờ vào công nghệ OLED mới với tần số quét ở mức thấp, chỉ 1Hz. Tần số quét thấp nhất trên iPhone 13 Pro và Pro Max là 10Hz. Vì vậy, nó sẽ tiết kiệm pin hơn.
+Apple dự kiến ra mắt iPhone 14 trong sự kiện đêm 7/9, dòng iPhone năm nay bao gồm iPhone 14 6.1 inch, iPhone 14 Plus 6.7 inch, iPhone 14 Pro 6.1 inch và iPhone 14 Pro Max 6.7 inch. Ngoài ra, còn có đồng hồ Apple Watch Series 8 và AirPods Pro thế hệ hai được công bố.
+
+Cây bút kỳ cựu Mark Gurman của Bloomberg, người thường cung cấp thông tin quan trọng về Apple, vừa đăng bài phàn nàn về lỗi eSIM trên iPhone của ông. Có vẻ như Mark Gurman không phải là người duy nhất gặp phải vấn đề này.
+Hôm 20/5, trên tài khoản Twitter cá nhân, Gurman cho biết ông gặp một vấn đề khó chịu với chiếc iPhone dùng eSIM của nhà mạng T-Mobile. iMessage và FaceTime kích hoạt theo số điện thoại này bị vô hiệu hóa.
+    
+ Lỗi eSIM khiến cho iMessage và FaceTime trên iPhone bị vô hiệu hóa. 
+Ông thử nhiều cách nhưng không thể bật lại. Cuối cùng, giải pháp duy nhất là đổi sang thẻ SIM vật lý. "Một vấn đề rất đáng thất vọng", Mark Gurman phàn nàn trên Twitter.
+Nhiều người dùng khác dường như cũng gặp vấn đề này. Khi liên hệ với nhà mạng T-Mobile để đổi sang SIM vật lý, Gurman được biết nhiều người dùng khác cũng bị lỗi tương tự. Tuy nhiên, phía Apple không đưa ra giải pháp nào.
+Một số người dùng mạng khác tại Mỹ cũng bị vô hiệu hóa iMessage và FaceTime khi sử dụng eSIM. "Tôi phải xóa eSIM và gọi cho Verizon để nhận một cái mới nhằm khắc phục sự cố iMessage. Không phải vấn đề của T-Mobile mà là lỗi của iOS 15.4", Daniel trả lời vào bài viết của Gurman.
+Không riêng ở Mỹ, một số người dùng đến từ Anh, Ấn Độ, Italy, Ba Lan cũng cho biết họ gặp lỗi tương tự kể từ khi cập nhật iPhone lên phiên bản iOS 15.4. Đa số họ phải dùng SIM vật lý để kích hoạt iMessage và FaceTime, tuy nhiên, cũng có trường hợp chỉ cần hủy eSIM sau đó đăng ký lại.
+Theo 9to5mac, sự số này xuất hiện từ iOS 15.4 trở đi nhưng chưa rõ các phiên bản trước có gặp vấn đề tương tự hay không.
+eSIM là một con chip được tích hợp trong bo mạch chủ của iPhone. Apple giới thiệu tính năng này lần đầu cùng với iPhone XR và XS vào năm 2018. eSIM mang lại 2 lợi ích chính: quá trình thiết lập dễ dàng hơn và khả năng sử dụng 2 số điện thoại trên một iPhone bằng cách dùng đồng thời cả SIM vật lý và eSIM.
+Dùng eSIM trên iPhone XR được không? Người mua điện thoại cũ thường quan tâm iPhone XR có hỗ trợ eSIM hay không, khi mà các nhà mạng ở Việt Nam đều đã hỗ trợ eSIM. Với sự tiện ích của mình, eSIM được trang bị cho những mẫu máy iPhone mới nhất. Vậy còn... 

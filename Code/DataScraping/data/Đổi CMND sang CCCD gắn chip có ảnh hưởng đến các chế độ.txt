@@ -1,0 +1,10 @@
+
+Khi đổi Chứng minh nhân dân (CMND) sang Căn cước công dân (CCCD), người dân có phải thay đổi sổ BHXH? Liệu việc thay đổi này có ảnh hưởng tới các chế độ bảo hiểm xã hội của người dân?
+Theo quy định tại Điều 27 Công văn số 2089/VBHN-BHXH ngày 26/6/2020, việc cấp lại sổ BHXH chỉ được thực hiện trong các trường hợp mất, hỏng; gộp, thay đổi số sổ; thay đổi họ tên, ngày tháng năm sinh; người đã hưởng BHXH một lần còn thời gian đóng bảo hiểm thất nghiệp chưa hưởng. Do đó, trường hợp người lao động thay đổi từ CMND sang CCCD gắn chip sẽ không được cấp lại sổ BHXH.
+Theo BHXH Việt Nam, khi người lao động thay đổi thông tin CMND/CCCD sẽ không ảnh hưởng đến thủ tục, quyền lợi hưởng bất kỳ chế độ nào về BHXH, bảo hiểm y tế, bảo hiểm thất nghiệp.
+Tuy nhiên, thông tin số CMND là một trong các tiêu thức quản lý đối tượng trong cơ sở dữ liệu. Cho nên, BHXH Việt Nam khuyến nghị, dù không cần phải cấp lại sổ BHXH nhưng để thống nhất cơ sở dữ liệu trên toàn hệ thống, người dân cần lập mẫu Tờ khai (TK1-TS) điều chỉnh bổ sung số chứng minh thư. Trường hợp người dân đang làm việc thì nộp hồ sơ ở đơn vị nơi mình làm việc. Trường hợp người dân đã nghỉ việc bảo lưu thời gian đóng BHXH thì nộp trực tiếp cho cơ quan BHXH.
+Ngoài ra, để cập nhật, thay đổi thông tin từ số CMND sang CCCD, người dân có thể thực hiện trên hệ thống VssID. Cụ thể:
+Bước 1: Truy cập vào địa chỉ: https://dichvucong.baohiemxahoi.gov.vn/ , chọn "Đăng nhập" điền các thông tin theo hướng dẫn.
+Bước 2: Khi Đăng nhập thành công thì chọn mục Thông tin tài khoản để thay đổi số CMT/CCCD.
+Bước 3: Tại phần quản lý thông tin, người dân có thể dễ dàng chỉnh sửa số CMT/CCCD.
+Khi hoàn tất việc thay đổi thông tin, người dân sẽ nhận được thông báo đến cơ quan BHXH gần nhất để xác nhận và hoàn tất việc thay đổi thông tin.

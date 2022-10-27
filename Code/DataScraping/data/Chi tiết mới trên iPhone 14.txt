@@ -1,0 +1,35 @@
+
+iPhone 14 ra mắt: Apple có thể bổ sung nhạc khởi động trên dòng iPhone 14, giúp người dùng khiếm thị nhận biết khi điện thoại được mở hoặc tắt nguồn.
+Theo phóng viên công nghệ Steven Aquino, phiên bản iOS 16 RC (Release Candidate) phát hành ngày 7/9 chứa nhạc khởi động. Tính năng này có thể được Apple bổ sung trên dòng iPhone 14 để người dùng khiếm thị nhận biết khi điện thoại mở hoặc tắt nguồn.
+Tài khoản Twitter @AppleSWUpdates đã chia sẻ file nhạc khởi động lấy từ iOS 16 RC, gồm tiếng "ting" khá giống bản nhạc trên macOS, nhưng với âm lượng lớn và rõ hơn. Theo AppleInsider, tính năng này sẽ nằm trong phần cài đặt trợ năng (Accessibility).
+Hình ảnh đoạn mã cài đặt cho nhạc khởi động của iOS 16 RC. Ảnh: Steve Moser/Twitter.
+Phân tích mã của iOS 16 RC, lập trình viên Steve Moser cho biết tùy chọn bật nhạc khởi động trên iPhone có tên "Power On & Off Sounds" với dòng mô tả "Play sound when iPhone is powered on and off" (tạm dịch: Phát nhạc khi iPhone được bật và tắt).
+Hiện tại, Apple chưa xác nhận tính năng nhạc khởi động trên iPhone 14. Dòng smartphone mới dự kiến lên kệ tại một số quốc gia từ ngày 16/9, trong khi iOS 16 bản chính thức sẽ phát hành rộng rãi từ 12/9.
+Khác với iPhone 14 Pro, bộ đôi iPhone 14 tiêu chuẩn giữ nguyên thiết kế từ thế hệ trước. Năm nay, phiên bản mini bị loại bỏ, thay bằng model Plus với màn hình OLED 6,7 inch. Máy vẫn dùng chip A15 Bionic nhưng với 5 nhân GPU, giúp tăng khả năng xử lý đồ họa.
+Ngoại hình của iPhone 14 tương tự bản tiền nhiệm với khung nhôm, dải khuyết màn hình kiểu cũ. Một số tính năng mới trên thiết bị như gửi tin nhắn khẩn cấp qua vệ tinh, camera selfie hỗ trợ tự động lấy nét, chế độ quay video chống rung (action mode) cùng nhiều màu sắc.
+Ngoài iPhone 14, sự kiện "Far Out" ngày 7/9 của Apple còn giới thiệu Apple Watch Series 8, Apple Watch SE 2022 và mẫu đồng hồ cao cấp Apple Watch Ultra, trang bị loạt tính năng dành cho người tập luyện thể thao chuyên nghiệp. Ngoài ra, tai nghe AirPods Pro cũng được nâng cấp với chip xử lý mới và hộp sạc cải tiến.
+     
+ iPhone 14 chính hãng vẫn có khe SIM 
+  4 giờ trước 10:15 9/9/2022  Công nghệ Mobile 
+   0   
+Aplpe lần đầu sử dụng hoàn toàn eSIM trên iPhone tại một số thị trường. Điều này đồng nghĩa điện thoại không còn vị trí khe cắm vật lý.
+     
+ Áp lực đợi iPhone 14 tại Việt Nam 
+  5 giờ trước 08:55 9/9/2022  Công nghệ Mobile 
+   0   
+iPhone 13 series giúp Apple tăng trưởng về doanh số ở Việt Nam. Model mới được dự báo sẽ gặp thách thức để vượt qua phiên bản cũ trong thời điểm nhiều thay đổi.
+     
+ Apple xóa thông tin iPhone 14, đổi trang chủ để tưởng nhớ Nữ hoàng Anh 
+  5 giờ trước 08:43 9/9/2022  Công nghệ Internet 
+   0   
+Toàn bộ trang chủ Apple được thay thế để tưởng niệm Nữ hoàng Anh Elizabeth II, đã băng hà vào ngày 8/9 (giờ London), hưởng thọ 96 tuổi.
+     
+ Chênh lệch sức mạnh giữa iPhone 14 bản thường và Pro 
+  6 giờ trước 07:51 9/9/2022  Công nghệ Mobile 
+   0   
+Theo giới thiệu của Apple, chipset A16 Bionic có trong iPhone 14 Pro và Pro Max nhanh hơn 40% so với đối thủ mạnh nhất trên thị trường di động.
+     
+ Con gái Steve Jobs chê iPhone 14 
+  7 giờ trước 06:41 9/9/2022  Công nghệ Internet 
+   0   
+Trên mạng xã hội, con gái út Eve Jobs của đồng sáng lập Apple đăng ảnh chế (meme), ngụ ý iPhone 14 có ngoại hình giống hệt thế hệ trước.

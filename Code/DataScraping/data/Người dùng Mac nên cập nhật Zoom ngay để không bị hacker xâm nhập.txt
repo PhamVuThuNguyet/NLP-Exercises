@@ -1,0 +1,5 @@
+
+Ứng dụng Zoom trên nền tảng macOS gặp lỗi nghiêm trọng về bảo mật có thể khiến hacker xâm nhập và chiếm toàn quyền hệ thống. Nếu bạn đang xài macOS và có cài Zoom thì nên cập nhật ngay.
+Sau khi phát hiện lỗ hổng bảo mật nghiêm trọng này, Zoom đã lập tức vá lỗi và phát hành phiên bản 5.11.5 mới nhất. Zoom cũng đã lên tiếng thừa nhận lỗi và xác nhận đã vá thành công.
+Lỗ hổng bảo mật của Zoom trên macOS được phát hiện bởi chuyên gia Patrick Wardle và đã công bố tại buổi họp báo Def Con. Khi cài đặt Zoom, ứng dụng này sẽ yêu cầu cấp quyền truy xuất vào hệ thống, hacker sẽ dùng chính yêu cầu này để cài đặt mã độc và máy Mac và từ đó chiếm toàn quyền hệ thống.
+Các bạn có thể gỡ bỏ hẳn phiên bản cũ và sau đó tải về, cài đặt bản Zoom 5.11.5 cho MacOS.

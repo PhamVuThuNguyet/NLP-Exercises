@@ -1,0 +1,26 @@
+
+Hiện nay, vẫn còn rất nhiều người khá chủ quan về vấn đề an ninh mạng mà không biết rằng nó có thể gây ra những hậu quả không lường trước.
+An ninh mạng là một lĩnh vực lớn đến mức gần như chúng ta không thể biết được hệ thống của chúng ta có thực sự an toàn hay không.
+Dưới đây là 5 lầm tưởng về an ninh mạng phổ biến nhất khiến chúng ta dễ bị tấn công hơn.
+1. Bạn không phải là mục tiêu hấp dẫn của tin tặc
+    
+Tất cả chúng ta đều đã từng nghĩ điều tương tự vào một thời điểm nào đó. “Không có lý do gì mà một hacker tấn công tôi”, “tôi không phải mục tiêu của hacker vì tôi không có tiền hoặc dữ liệu quý giá”. Đó chính là sai lầm đầu tiên của bạn!
+Một số tin tặc có thể phát động các cuộc tấn công hàng loạt. Hệ thống máy tính hoặc mạng của bạn sẽ bị cuốn vào nhóm được nhắm mục tiêu. Nếu chúng có sai sót, bạn sẽ là một trong những nạn nhân đầu tiên.
+2. Các giải pháp an ninh mạng có thể bảo vệ bạn 100% khỏi các cuộc tấn công mạng
+    
+Bạn hãy nhớ rằng một giải pháp tự nó không bao giờ là hoàn hảo. Chúng ta thường có những suy nghĩ như: “Tôi có một chương trình diệt virus, tôi không sợ gì cả”. Nhưng sức sáng tạo của các hacker cũng gần như là vô hạn. Họ cũng có thể tìm kiếm ra bất kỳ lỗ hổng hay sơ hở trên các chương trình an ninh mạng mà bạn đang sử dụng.
+3. An ninh mạng đòi hỏi đầu tư quá nhiều
+    
+Nhiều người cảm thấy rằng họ cần phải có một đội ngũ chuyên gia CNTT tận tâm sẵn sàng ứng phó trực tiếp với các cuộc tấn công xảy ra trên hệ thống. Nhưng có một nhóm như vậy cho máy tính cá nhân của bạn hoặc doanh nghiệp nhỏ của bạn gần như là không thể vì chi phí quá đắt đỏ.
+Tuy nhiên, thực tế bạn không nhất thiết phải cầu kỳ như vậy. Các công cụ đơn giản như hệ thống phát hiện xâm nhập sẽ có thể ngăn chặn hầu hết các mối đe dọa mà không ngốn quá nhiều tiền của bạn.
+Ngoài ra, bạn cũng không nên từ chối tất cả các khoản đầu tư vào an ninh mạng. Việc đánh mất trang web mà bạn đã đầu tư hàng trăm nghìn giờ đồng hồ có thể gây ra thiệt hại không thể khắc phục được cho doanh nghiệp của bạn.
+Bạn chỉ cần tìm ra sự cân bằng phù hợp giữa khoản đầu tư bạn có thể chi và những gì bạn có thể bị mất trong trường hợp bị tấn công.
+4. Các cuộc tấn công chỉ đến từ bên ngoài
+    
+Một quan niệm sai lầm khác về an ninh mạng khiến bạn dễ bị tấn công là tin rằng mối đe dọa chỉ có thể đến từ bên ngoài.
+Nếu bạn là một nhà quản lý doanh nghiệp, bạn biết rằng hệ thống của bạn cần được bảo vệ và bạn cần áp dụng các biện pháp ứng phó linh hoạt. Các cuộc tấn công vào doanh nghiệp đôi khi do sự bất cẩn của nhân viên. Họ chỉ cần nhấp vào một liên kết bị ảnh hưởng, từ đó có thể mở một cổng cho tin tặc xâm nhập.
+Hãy dành thời gian để đào tạo các nhóm của bạn về những kiến ​​thức cơ bản của an ninh mạng. An ninh mạng là một công việc của cả nhóm. Một mắt xích yếu có thể phá vỡ toàn bộ chuỗi.
+5. Có một chuyên gia an ninh mạng trong nhóm của bạn là đủ
+    
+Trong doanh nghiệp của bạn, việc có cơ hội thuê một chuyên gia an ninh mạng là một biện pháp tốt nhất để ngăn chặn các cuộc tấn công. Thế nhưng, không gì có thể chắc chắc được rằng chuyên gia có thể cứu bạn khỏi mọi tình huống .
+Vai trò của chuyên gia là đảm bảo rằng hệ thống của bạn đủ an toàn trước các cuộc tấn công. Vai trò của bạn và các nhóm của bạn là nhận thức được rủi ro và sử dụng các công cụ của bạn một cách chính xác để ngăn ngừa mọi rủi ro.

@@ -1,0 +1,33 @@
+
+Garmin chính thức công bố bản cập nhật phần mềm mới nhất cho nhiều dòng sản phẩm, mang đến những nâng cấp mới nhất về công cụ theo dõi sức khỏe, tính năng an toàn, giao diện người dùng
+Bản cập nhật phần mềm sẽ được bổ sung hàng loạt chế độ thể thao mở rộng mới, đồng thời cập nhật thêm nhiều tính năng nâng cao trải nghiệm hằng ngày cho người dùng, được phát triển dựa trên dữ liệu khoa học sức khỏe độc ​​quyền của Garmin bao gồm các tính năng: theo dõi giấc ngủ nâng cao, số phút vận động tích cực và tuổi thể chất.
+      ADVERTISEMENT 
+ Garmin vừa tung bản cập cho mẫu đồng hồ thông minh của hãng
+Dữ liệu sức khỏe của Garmin tích hợp công nghệ Firstbeat Analytics trong thiết bị đeo tay để cung cấp những dữ liệu phân tích nâng cao, giúp người dùng có thể theo dõi chặt chẽ hơn về sức khỏe, tình hình thể trạng và hiệu suất tập luyện của họ. Sở hữu bộ dữ liệu toàn diện này trong tay, người dùng có thể hiểu rõ hơn về cơ thể và sức khỏe của họ, từ đó đưa ra những cải thiện thích hợp cho quá trình luyện tập.
+Những tính năng mới trong bản cập nhật phần mềm mới nhất của Garmin bao gồm:
+Cải tiến tính năng theo dõi sức khỏe
+- Tối ưu hóa điểm giấc ngủ – Phân tích trạng thái ngủ chập chờn, giai đoạn “Ngủ chập chờn” mới được thêm vào giữa hai giai đoạn – Ngủ nông và Thức giấc, giúp bạn thấu hiểu sức khỏe của mình.
+- Cải tiến tính năng số phút vận động liên tục – Dễ dàng theo dõi tức thì và giám sát số phút vận động cường độ cao mỗi ngày của bạn.
+    
+Nhiều tính năng về sức khỏe đã được cải tiến
+- Bài tập thở và tính năng đo nhịp thở – Cập nhật các bài tập thở mới, dữ liệu tần suất hô hấp và tính năng đo nhịp thở trên dòng Instinct 2.
+- Cập nhật thuật toán pin cơ thể – Thuật toán nay được nâng cao hơn cho dòng Instinct 2.
+- Hiển thị Tuổi thể chất – Thông tin tuổi thể chất sẽ được cập nhật hiển thị trong hồ sơ người dùng.
+Cải tiến tính năng an toàn
+- Cập nhật tính năng nhận biết sự cố – Trong bất kỳ hoạt động nào, tính năng mới này sẽ nhận biết được sự cố trong khi diễn ra các hoạt động như đi bộ, đi bộ đường dài hay trạng thái bình thường.
+- Cải tiến trải nghiệm sử dụng cho tính năng An toàn và Theo dõi – Người dùng dễ dàng chia sẻ tin nhắn với vị trí của mình cho các người nhận đã chỉ định trước, hoặc thiết lập một liên hệ khẩn cấp để đồng hồ có thể gọi trợ giúp ngay lập tức trong trường hợp khẩn cấp.
+Phát triển thêm các chế độ thể thao mới
+- Bổ sung các chế độ thể thao hoàn toàn mới, bao gồm Cưỡi ngựa, Tennis và Nhảy dây, để người dùng có nhiều trải nghiệm thú vị hơn với phong cách sống năng động của họ.
+- Bổ sung hỗ trợ Green Contours vào chế độ Golf – Ghép nối với ứng dụng Garmin Golf để xem hướng dốc của green trên các sân đã chọn trên đồng hồ.
+- Tối ưu phát hiện trạng thái chạy nhẹ, đi bộ, đứng – Nâng cao thuật toán để tối ưu khả năng phát hiện các điểm dừng trong các trang thái hoạt động, chạy nhẹ, nghỉ chân hay đi bộ, tất cả đều được nhận biết và ghi lại thông qua tính năng này.
+Nâng cấp giao diện người dùng
+- Cập nhật tức thì trên Garmin Connect – Người dùng có thể điều chỉnh cài đặt hoạt động hoặc dễ dàng tùy chỉnh dữ liệu cần thiết ngay trên điện thoại. Thay đổi theo thời gian thực, đồng bộ nhanh hơn.
+- Nâng cấp giao diện “Tổng quan hoạt động” – Bổ sung thông số hiệu suất hoạt động bao gồm Tốc độ, Tốc độ chi tiết, Chỉ số Bouldering, thông số sức mạnh và thông số leo núi trong nhà.
+
+Theo Engadget, trong nhận xét của mình, CEO Telegram cho biết Apple đã yêu cầu Telegram loại bỏ tính năng mới có tên Telemoji - phiên bản hoạt hình chất lượng cao hơn của biểu tượng cảm xúc tiêu chuẩn. Bản xem trước của Telemoji cho thấy chúng tương tự như bộ emoji cơ bản mà Apple sử dụng, nhưng với một số hoạt ảnh khá thú vị giúp việc nhắn tin biểu cảm hơn.
+    
+ Telemoji được đánh giá cao trên Telegram chưa thể đến với người dùng Apple
+Ông Durov cho biết Telemoji mang đến một cái nhìn hoàn toàn mới so với biểu tượng cảm xúc độ phân giải thấp hiện tại, đồng thời làm phong phú hệ sinh thái của họ. Việc Apple chặn Telemoji được xem là hành động khó hiểu, đặc biệt khi Telegram đã có một loạt tùy chọn emoji và nhãn dán vượt xa bộ mặc định được tìm thấy trong iOS. Durov lưu ý có hơn 10 gói biểu tượng cảm xúc mới trong bản cập nhật Telegram mới nhất và cho biết công ty sẽ dành thời gian để làm cho Telemoji "thậm chí còn độc đáo và dễ nhận biết hơn".
+Vẫn còn nhiều cải tiến liên quan đến emoji trong bản cập nhật Telegram mới, bao gồm "nền biểu tượng cảm xúc mở" để bất kỳ ai cũng có thể tải lên bộ emoji của riêng họ. Nếu không phải là tài khoản trả phí, người dùng cũng có thể xem emoji được tùy chỉnh và thử nghiệm chúng trong "tin nhắn đã lưu" như lời nhắc và ghi chú trong ứng dụng. Emoji cũng có thể tương tác khi người dùng nhấn vào chúng sẽ thấy phản ứng động toàn màn hình. Người dùng có thể tìm thấy những điều này trong danh mục tương ứng.
+Ngoài ra còn có các cài đặt bảo mật mới cho phép người dùng kiểm soát ai có thể gửi tin nhắn video và thoại: mọi người, danh bạ hay không ai. Telegram lưu ý, giống như các cài đặt bảo mật khác, người có thể đặt ngoại lệ cho các nhóm người dùng cụ thể về thiết lập giới hạn mong muốn.
+App nghe nhạc huyền thoại trở lại Bản cập nhật đầu tiên của Winamp sau 4 năm tập trung cải tiến phần lõi, chuẩn bị cho các tính năng hiện đại hơn trong tương lai. Nhà phát triển Radionomy vừa ra mắt phiên bản mới của ứng dụng nghe nhạc Winamp. Với tên mã 5.9... 

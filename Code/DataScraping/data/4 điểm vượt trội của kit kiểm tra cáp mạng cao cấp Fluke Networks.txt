@@ -1,0 +1,35 @@
+
+Là sản phẩm vừa chính thức ra mắt tại Việt Nam của Fluke Networks, bộ công cụ LinkIQ với hiệu suất đo chuẩn công nghiệp giúp tiết kiệm thời gian, công sức và chi phí khi lắp đặt và khắc phục sự cố cáp mạng phổ biến hiện nay
+Cáp đồng đôi xoắn hiện vẫn là phương tiện chính kết nối hệ thống mạng với người dùng và các thiết bị vận hành. Hệ thống cáp đồng cung cấp chất lượng kết nối hiệu suất cao, an toàn và phục vụ chuyên biệt cho mọi người dùng với chi phí hợp lý. Khả năng cấp nguồn chuyển mạch qua Ethernet (PoE) của cáp đồng cho phép các thiết bị kết nối và hoạt động mà không cần phải có cáp nguồn riêng biệt, từ đó giảm chi phí và tăng mức độ ổn định cho chất lượng đường truyền. Bên cạnh đó, PoE qua cáp đồng còn giúp người dùng và thiết bị kết nối dễ dàng với nền tảng IoT đang phát triển nhanh chóng. Ngay cả Wi-Fi cũng yêu cầu có cáp đồng để liên kết các điểm truy cập.
+Các Kỹ thuật viên mạng, Nhà quản lý mạng hoặc Kỹ sư cài đặt cần hệ thống cáp đồng xoắn đôi nhằm hỗ trợ ứng dụng Ethernet lên đến 10GBASE-T. Khi đó, việc nhanh chóng giải quyết các vấn đề kết nối, lắp đặt thiết bị PoE, di chuyển – bổ sung – thay đổi tuyến cáp là điều hết sức quan trọng:
+- Nhận dạng hạ tầng mạng hiện có và khả năng hỗ trợ các công nghệ mới, thiết bị hoặc người dùng bổ sung.
+- “Săn” đường cáp không gắn nhãn, tìm đầu nối xa của giắc cắm hiện có và tránh tình trạng phải kéo thêm cáp để đáp ứng hệ thống.
+- Kiểm tra cổng chuyển mạch, tốc độ truyền dữ liệu trong cáp, kiểm tra hiệu suất và khả năng kết nối khi phát sinh lỗi.
+      ADVERTISEMENT 
+Một công cụ phù hợp có thể tiết kiệm thời gian và đảm bảo công việc hoàn thành ngay từ lần đầu tiên. Với kinh nghiệm hàng đầu về thiết bị phục vụ cáp mạng hệ thống, Fluke Networks đã phát triển Kit kiểm tra cáp mạng Ethernet công nghiệp LinkIQ-IE (gọi tắt là LinkIQ). Thiết bị cung cấp các kết quả đo Đạt/không Đạt đơn giản qua phần mềm độc quyền của hãng, đồng thời xác thực hiệu suất của các bộ chuyển mạch, bao gồm cả các bộ PoE.
+Mức độ kiểm tra chuyên sâu
+Cài đặt sai loại cáp, sai loại đầu nối, cáp ráp nối chất lượng kém hoặc không khớp đều sẽ dẫn tới sự cố lỗi mạng hoặc hiệu suất truyền tải kém. Trong khi đó, các dụng cụ kiểm tra cáp ở Việt Nam hiện nay thường chỉ đưa ra phép đo cơ bản về đường truyền liên tục của tuyến cáp. LinkIQ sử dụng các kỹ thuật kiểm tra cáp nâng cao để đánh giá hiệu suất qua các thông số: Nhiễu xuyên âm đầu gần (NEXT), Suy hao tiếp xúc (IL), Suy hao phản xạ (RL)… và đo chiều dài tuyến cáp đến 305 mét (1.000 feet) – mức độ kiểm tra chuyên sâu thường chỉ có trên các thiết bị đo tốn kém hơn gấp nhiều lần.
+    
+LinkIQ có khả năng định vị vị trí hư hỏng như hở, đoản mạch và đầu cáp chưa đấu nối. Bộ chuyển đổi từ xa MS-IE đi kèm cho phép xác định cáp đi dây sai và cặp đôi đầu cáp đã được đấu nối RJ45, M12X, M12D và M8D. Dụng cụ hỗ trợ Ethernet/IP, PROFINET, EtherCAT và các Ethernet công nghiệp khác, và đánh giá tình trạng của băng thông cáp từ 10BASE-T đến 10GBASE-T (10 Mb/giây đến 10 Gb/giây), đồng thời cung cấp chẩn đoán tình trạng chuyển mạch gần nhất bao gồm tốc độ truyền dữ liệu, tên thiết bị chuyển mạch, số cổng và thông tin VLAN, cùng PoE và kiểm tra tải lên đến Class 8 (90W).
+Thiết kế thuận tiện cho kỹ sư
+LinkIQ nặng 624g với pin hỗ trợ thời gian sử dụng liên tục trong 8 tiếng. Thiết bị trang bị màn hình đa cảm ứng điện dung màu 800×480 cùng cổng USB-C nhằm tối ưu trải nghiệm cho kỹ sư khi thao tác.
+Trong trường hợp kiểm tra dây cáp, máy cũng có thể tạo âm thanh analog tương thích với đầu dò analog chung, hoặc tạo âm số tương thích với đầu dò Fluke Networks IntelliTone.
+    
+ Trích xuất báo cáo chuẩn công nghiệp
+Việc lưu trữ và cập nhật báo cáo công việc giờ đã trở nên dễ dàng hơn với LinkIQ. Máy có khả năng lưu trữ đến 1000 kết quả đo với ID cáp riêng. Kỹ thuật viên có thể nhanh chóng hệ thống hóa thông số và kỹ sư có thể nhanh chóng truy xuất số liệu qua phần mềm LinkWare PC miễn phí. Đây là giải pháp phần mềm báo cáo theo chuẩn công nghiệp của Fluke Networks, hỗ trợ đa dạng các dụng cụ kiểm tra suốt 20 năm qua và có tới 40.000 lượt tải về mỗi năm. Nhờ đó, các chuyên gia cáp mạng có thể đáp ứng yêu cầu quản lý nội bộ, cũng như đảm bảo tính minh bạch với khách hàng khi cần trao đổi thông tin.
+Tối ưu chi phí cho doanh nghiệp
+LinkIQ hiện đã chính thức ra mắt tại Việt Nam với mức giá 2199 USD. Sở hữu giao diện dễ sử dụng với tính năng ưu việt đáp ứng cả tình huống lắp đặt ban đầu và khắc phục sự cố, LinkIQ là thiết bị lý tưởng hỗ trợ các công nghệ cáp mạng tiên tiến hiện nay và tối ưu chi phí đầu tư để có thể triển khai rộng rãi.
+      ADVERTISEMENT 
+Fluke Networks là công ty hàng đầu trên toàn thế giới về chứng nhận, xử lý sự cố và cung cấp dụng cụ thi công cho các chuyên gia lắp đặt và bảo trì hạ tầng cáp mạng quan trọng. Các sản phẩm chủ lực của công ty bao gồm giải pháp chứng nhận kết nối cáp dựa trên điện toán đám mây LinkWare Live, và mới đây là Kit kiểm tra cáp mạng Ethernet công nghiệp LinkIQ-IE. Tìm hiểu thêm về sản phẩm tại: https://www.fluke.com/vi-vn/product/network-cable-testers/industrial-ethernet-testers/linkiq-100-ie.
+
+Xiaomi mới đây đã chính thức thông báo sẽ sớm ra mắt dòng sản phẩm Xiaomi 12S series. Đây là phiên bản nâng cấp của dòng Xiaomi 12 series ra mắt cách đây hơn nửa năm. Được biết Xiaomi 12S sẽ là dòng smartphone cao cấp đầu tiên của Xiaomi đánh dấu sự hợp tác giữa thương hiệu này với Leica.
+    
+Xiaomi 12S sẽ bao gồm 3 phiên bản: Xiaomi 12S, 12S Pro và 12S Ultra, trong đó 2 phiên bản thường và Pro sẽ có thiết kế tương tự với Xiaomi 12 series, nâng cấp phần cứng bên trong cũng như camera, còn phiên bản Ultra sẽ là phiên bản cao cấp nhất, có phần cứng khủng nhất cũng như đi kèm hệ thống camera tối tân nhất.
+    
+Trong hình ảnh poster được Xiaomi "nhá hàng", chúng ta có thể thấy Xiaomi 12S Ultra sẽ có thiết kế khá đẹp mắt với khung viền vàng, mặt lưng giả da màu xanh, trong khi đó phiên bản tiêu chuẩn sẽ có thêm tùy chọn màu trắng.
+Xiaomi cũng công bố việc sử dụng cảm biến IMX989 cao cấp tới từ Sony cho chiếc 12S UItra. Đây là cảm biến hình ảnh có kích thước lớn tới 1 inch được thiết kế dành cho smartphone. Hiện tại trên thị trường chưa có chiếc máy nào trang bị cảm biến IMX989, tuy nhiên đã có một vài thiết bị trang bị cảm biến hình ảnh 1 inch, ví dụ như chiếc Sharp Aquos R6, R7, hay chiếc Xperia Pro-I. Với cảm biến 1 inch thế hệ mới, đi kèm các công nghệ của Leica, Xiaomi 12S Ultra hứa hẹn sẽ là một chiếc camera phone có chất lượng cao cấp.
+      ADVERTISEMENT 
+    
+Bên cạnh đó, Xiaomi 12S series cũng được cho là sẽ đi kèm với chipset Snapdragon 8 Gen 1, con chip nâng cấp của Snapdragon 8 Gen 1 vừa được Qualcomm giới thiệu cách đây ít lâu.
+Xiaomi 12S sẽ sớm được trình làng tại Trung Quốc vào ngày 4/7 tới đây.
+Ảnh thực tế Xiaomi 12S Ultra: Thiết kế hầm hố, camera Leica với cảm biến 1 inch, Snapdragon 8+ Gen 1, có chống nước IP68 Xiaomi 12S Ultra là chiếc smartphone hội tụ tất cả những "tinh hoa" và công nghệ của Xiaomi. Tại sự kiện ra mắt sản phẩm mới được Xiaomi tổ chức vào tối qua (4/7), bộ ba chiếc smartphone mới là Xiaomi 12S đã chính thức được giới thiệu.... 

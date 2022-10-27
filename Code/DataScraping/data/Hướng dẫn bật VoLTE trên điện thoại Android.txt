@@ -1,0 +1,46 @@
+
+Trên các dòng điện thoại Android như Xiaomi hay OPPO, mục kích hoạt dịch vụ thoại chất lượng cao VoLTE nằm trong phần cài đặt mạng di động
+Nếu muốn người dùng hoàn toàn có thể trải nghiệm.
+Hộ chiếu không gắn chip và gắn chip khác gì nhau?
+Khám bảo hiểm y tế bằng căn cước công dân gắn chip như thế nào?
+Nguyên tắc bảo mật định danh điện tử
+Khi đăng ký dịch vụ thoại chất lượng cao VoLTE (Voice over LTE), các thuê bao vẫn sẽ dùng gói cước thoại cũ. Các thuê bao chỉ cần gửi tin nhắn đăng ký theo cú pháp ở đây, rồi bật chế độ VoLTE trên smartphone của mình. Trên các dòng điện thoại Android như Xiaomi hay OPPO, chế độ này nằm trong phần cài đặt mạng di động.
+Hiện nay các nhà mạng đều đã có dịch vụ VoLTE, hoạt động trên nền tảng mạng 4G. VoLTE giúp tăng tốc kết nối cuộc gọi, đồng thời mang lại dải tần âm thanh rộng hơn, chất lượng trung thực hơn, mà lại tiết kiệm pin điện thoại hơn.
+Cách bật VoLTE trên Android
+Trên điện thoại Xiaomi, người dùng vào mục “Cài đặt” => “Thẻ SIM & mạng di động”, rồi bật “Sử dụng VoLTE”…
+“Thẻ SIM & mạng di động”, rồi bật “Sử dụng VoLTE”…”>
+      ADVERTISEMENT 
+ Trên điện thoại Xiaomi, người dùng vào mục “Cài đặt” => “Thẻ SIM & mạng di động”, rồi bật “Sử dụng VoLTE”…
+Tương tự như vậy trên điện thoại OPPO, người dùng vào mục “Settings” => “SIM card & mobile data”, rồi bật “VoLTE Calls”.
+“SIM card & mobile data”, rồi bật “VoLTE Calls”.”>
+    
+ Trên điện thoại OPPO, người dùng vào mục “Settings” => “SIM card & mobile data”, rồi bật “VoLTE Calls”. 
+
+Điện thoại Android đều rẻ tiền
+Một trong những quan điểm sai lầm phổ biến nhất về dòng sản phẩm này là "rẻ". Cách nói "điện thoại Android là hàng rẻ tiền" thường chỉ nhằm mục đích xúc phạm nhóm người dùng nền tảng này bởi họ không chỉ ám chỉ về giá thành, mà còn muốn nói tới chất lượng của thiết bị.
+    
+ Android là hệ điều hành di động phổ biến nhất thế giới chứ không "rẻ tiền"
+Thực tế rất nhiều máy Android có giá bán rẻ, nhưng cũng không ít sản phẩm thuộc hàng đắt đỏ. Hệ sinh thái khổng lồ của Android gồm đủ loại thiết bị từ rất nhiều nhà sản xuất khác nhau. Điều này có nghĩa mọi tầm giá, chất lượng đều có đại diện Android trong đó.
+Có thể khẳng định Android không hề rẻ. Nếu so sánh một mẫu iPhone và một điện thoại Android cùng tính năng thì mức giá khá tương đồng. Thậm chí, nhiều model còn đắt hơn iPhone. Thứ Android có mà iOS không có chính là dải lựa chọn vô cùng rộng cho người dùng để tìm được sản phẩm phù hợp với nhu cầu và ví tiền của họ.
+Android chứa đầy virus
+Người ta vẫn đồn nhau rằng các thiết bị Android chứa đầy virus và phần mềm khả nghi. Trên thực tế, tình huống của Android khá tương tự với Windows.
+Có rất nhiều virus và phần mềm độc hại trên Windows so với macOS vì số lượng người dùng hệ điều hành do Microsoft phát hành lớn hơn nhiều so với khách hàng dùng nền tảng của Apple. Tương tự, Android có nhiều virus, ứng dụng độc hại vì tập người dùng lớn hơn, trở thành mục tiêu béo bở cho những kẻ muốn tấn công.
+Nhưng dù là hệ điều hành nào, nếu sử dụng một cách cẩn trọng thì người dùng cũng không cần quá lo lắng. Hãy luôn tự bảo vệ mình bằng cách đơn giản như chỉ cài đặt ứng dụng được chứng thực (ví dụ tải trực tiếp từ kho phần mềm Play Store của Google), để ý tới những cảnh báo khi truy cập website kém an toàn... Người dùng ở thời điểm này không cần thiết phải cài chương trình chống virus trên Android.
+Cần phải đóng ứng dụng không dùng tới
+Những ngày đầu phát triển hệ điều hành, Android có một danh mục ứng dụng được rất nhiều người để ý đến là Task Killers (chương trình có nhiệm vụ đóng các ứng dụng đang chạy ngầm để giải phóng tài nguyên máy). Người dùng cho rằng điều này giúp cải thiện hiệu năng cũng như thời lượng pin và họ vẫn giữ niềm tin ấy đến tận ngày nay.
+      ADVERTISEMENT 
+ Cả Android và iOS đều quản lý ứng dụng chạy nền hiệu quả mà không cần người dùng can thiệp
+Thực tế là Android được thiết kế đặc biệt để tự xử lý các ứng dụng chạy ngầm. Nền tảng này có khả năng quản lý tự động các tác vụ chạy nền, quyết định đóng khi hệ thống cần thêm tài nguyên để hoạt động và chắc chắn người dùng không cần phải tự tay làm những việc đó.
+Nhiều nghiên cứu chỉ ra rằng việc đóng ứng dụng liên tục có thể gây ra ảnh hưởng tiêu cực tới điện thoại. Khi chương trình phải khởi động lại từ đầu một cách hoàn toàn, chúng sẽ tiêu tốn nhiều tài nguyên hơn so với khi được khôi phục lại từ trạng thái tạm đóng băng.
+Android phức tạp hơn iOS
+Người dùng nhận định iPhone (chạy iOS) dễ dùng trong khi thiết bị Android phù hợp với những ai yêu tìm tòi công nghệ. Họ xem Android là một hệ điều hành di động phức tạp. Nhưng quan niệm này không còn đúng nữa.
+iOS trên iPhone thời đầu đúng là một hệ điều hành đơn giản, nhưng điều ấy đã không còn. Ngày nay, iOS có rất nhiều tính năng vốn thuộc về Android và điều đó khiến nền tảng di động của Apple trở nên phức tạp hơn xưa rất nhiều.
+Chưa kể Android có nhiều thiết bị đến từ các nhà sản xuất khác nhau. Một chiếc điện thoại Galaxy của Samsung có thể phức tạp vì sử dụng Android tùy biến, nhưng có lẽ không thể nói Google Pixel là mẫu máy rối rắm trong các tính năng, thao tác.
+Android xấu xí
+    
+ Nói về tính thời trang, điện thoại Android bắt xu thế nhanh hơn iPhone
+Thẩm mỹ là một phạm trù của cá nhân, không thể nói đúng hay sai trong vấn đề này. Người dùng thường cho rằng iPhone làm thỏa mãn thẩm mỹ của họ cả về phần cứng lẫn phần mềm. Trong khi đó Android hay bị xem là xấu xí.
+Không thể phủ nhận iPhone được thiết kế rất trau chuốt nhưng iOS gần như không có nhiều thay đổi về giao diện kể từ khi ra mắt năm 2007, tức 15 năm trước.
+Trong khi đó, Android luôn "thay những bộ cánh mới" để bắt kịp với các xu hướng hiện tại. Nhà sản xuất thiết bị Android luôn xem thời trang là một trong những yếu tố phải đưa vào sản phẩm của mình và họ không ngừng thay đổi để đạt được điều đó.
+Nhưng phải nhìn nhận thực tế rằng người dùng điện thoại Android có quyền biến nền tảng này theo cách mình muốn, trong khi iOS và iPhone phải tuân theo những gì Apple muốn.
+Mẹo tiết kiệm pin cho điện thoại Android Thật khó chịu và bất tiện khi chiếc điện thoại Android của bạn liên tục phải sạc pin. Velasboost Dynamic 1: Pin dự phòng 10,000mAh thương hiệu Việt thiết kế cực gọn, giá chỉ 399,000 đồng Pin dự phòng tích hợp camera IP quá lạ, dung lượng cực... 

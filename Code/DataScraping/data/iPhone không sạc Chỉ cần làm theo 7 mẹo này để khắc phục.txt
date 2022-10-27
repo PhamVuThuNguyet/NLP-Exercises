@@ -1,0 +1,30 @@
+
+iPhone của bạn sạc không vào? Đừng lo lắng! Phần lớn các vấn đề về sạc iPhone có thể được khắc phục một cách dễ dàng chỉ với một số mẹo đơn giản sau đây.
+1. Khởi động lại iPhone
+Việc khởi động lại iPhone của bạn đôi khi có thể khắc phục sự cố điện thoại không sạc được. Hành động tưởng chừng quá đơn giản này nhưng có khả năng sẽ khắc phục được rất nhiều vấn đề. Bạn chỉ cần mất vài giây để thử.
+    
+2. Làm sạch đầu vào Lightning của iPhone 
+Tình trạng không sạc được, rất có thể vấn đề là ở cổng sạc iPhone. Quá nhiều bụi bẩn hoặc mảnh vụn bám trong đó có thể khiến điện thoại không thể sạc được.
+    
+Hãy thử làm sạch bằng bình khí nén. Chỉ cần xịt vào lỗ sạc, bụi bẩn sẽ dễ dàng bị thổi bay, vừa an toàn cho thiết bị lại vừa nhanh gọn phải không nào.
+3. Thay thế cáp Lightning của bạn
+Hãy quan sát kỹ cả hai đầu của cáp USB mà bạn đang sử dụng để sạc iPhone. Nếu cáp có các dấu hiệu mòn mà bạn có thể nhìn thấy bằng mắt, có thể đã đến lúc bạn nên mua một sợi cáp mới.
+    
+Bạn có thể dùng một sợi dây cáp khác và sạc thử trên điện thoại của mình. Nếu iPhone lại sạc được bình thường, vấn đề chắc chắn do cáp bị lỗi.
+Nếu ngay cả sau khi thử cách này, điện thoại vẫn không sạc được, hãy thay thế toàn bộ bộ sạc bao gồm cả bộ chuyển đổi. Vấn đề có thể nằm ở bộ điều hợp chứ không phải với điện thoại hay dây cáp.
+4. Kiểm tra ổ cắm điện thoại 
+    
+Trong một số trường hợp, bạn cũng nên kiểm tra nguồn điện của mình. Nếu bạn đang sạc iPhone từ cổng USB của máy tính, hãy đảm bảo máy tính ở chế độ bình thường (không ở chế độ ngủ hoặc ngủ đông). Ngoài ra, hãy thử một cổng USB khác, trong trường hợp cổng USB bạn đang sử dụng bị lỗi. Bạn cũng không nên thử sạc từ cổng USB được tích hợp trong bàn phím hoặc bộ chia USB mà hãy kết nối trực tiếp với cổng USB trên chính máy tính.
+Nếu nó vẫn không hoạt động, hãy cắm nó trực tiếp vào ổ cắm trên tường bằng bộ chuyển đổi AC giống như bộ chuyển đổi đi kèm với iPhone của bạn. Nếu bạn đã sử dụng bộ chuyển đổi AC suốt thời gian qua, hãy thử một bộ chuyển đổi khác.
+5. Kiểm tra các bản cập nhật phần mềm
+Nếu bạn không chạy phiên bản iOS mới nhất, đó có thể là lý do khiến điện thoại của bạn không sạc được. Bạn sẽ không cảm thấy các bản cập nhật phần mềm không quan trọng khi điện thoại vẫn đang hoạt động bình thường, nhưng chúng có thể giúp ngăn chặn một loạt các sự cố và thậm chí cải thiện hiệu suất.
+Dưới đây là cách kiểm tra bản cập nhật trên iPhone và cách cài đặt nó:
+- Nhấn vào Cài đặt, sau đó nhấn vào Cài đặt chung.
+- Nhấn vào Cập nhật phần mềm. Khi đó, iPhone sẽ bắt đầu tìm kiếm bản cập nhật iOS mới nhất.
+    
+- Nếu có bản cập nhật, hãy nhấn vào Cài đặt ngay.
+    
+6. Thử đặt lại và khôi phục iPhone 
+Khi gặp sự cố với iPhone, đôi khi việc khôi phục cài đặt gốc sẽ hữu ích. Việc đặt lại sẽ đưa nó về cài đặt mặc định ban đầu và có thể loại bỏ được các vấn đề điện thoại của bạn đang gặp phải.
+7. Mang iPhone đi bảo hành
+Nếu không có bước khắc phục sự cố nào trong số các bước khắc phục sự cố này giúp điện thoại của bạn hoạt động trở lại, rất có thể iPhone đã xảy ra lỗi. Bạn nên liên hệ với nhà bán lẻ hoặc đến cửa hàng điện thoại bạn đã mua nó để được bảo hành.

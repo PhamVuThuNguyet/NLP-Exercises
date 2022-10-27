@@ -1,0 +1,16 @@
+
+Hàng nghìn người trên thế giới báo cáo việc gặp lỗi truy cập và không thể sử dụng được Google Search.
+Sáng 9/8 (giờ Việt Nam), nhiều dịch vụ và trang web của Google đã gặp phải tình trạng ngừng hoạt động trên phạm vi toàn cầu.
+Cụ thể, khoảng 8h30, một vài dịch vụ Google như Tìm kiếm và Bản đồ đã sập trên toàn cầu. Google không thể hiển thị các kết quả khi người dùng tìm kiếm từ khóa. Công cụ này sẽ hiển thị lỗi “502” hoặc “500” khi người dùng tìm kiếm và yêu cầu người dùng đợi 30 giây để tải lại trang.
+Trong khi đó, Google Maps lại tải chậm và báo lỗi không thể định vị và chỉ đường. Nhiều người dùng cho biết Gmail và Google Hình ảnh cũng gặp phải sự cố tương tự do hoạt động phụ thuộc vào công cụ tìm kiếm. Dữ liệu trên DownDetector cũng cho thấy lượng người báo lỗi tăng vọt từ khoảng 8h20, kéo dài đến 9h cùng ngày.
+Google Tìm kiếm không hiển thị kết quả mà chỉ báo lỗi. Ảnh: Twitter.
+Theo thông tin trên DownDetector, hơn 40.000 nghìn người trên toàn thế giới đã báo cáo sự cố không thể truy cập vào công cụ tìm kiếm. Hiện, người dùng trên nhiều quốc gia như Anh, Australia, Việt Nam đã báo cáo về tình trạng này với Google.
+Theo công ty mạng thông minh ThousandEyes, sự cố Google Tìm kiếm sập đã ảnh hưởng ít nhất 1.338 máy chủ ở 40 quốc gia trên toàn thế giới như Mỹ, các nước châu Âu và châu Á. Ngoài ra, chủ đề Google, Google Maps bị lỗi nhanh chóng được người dùng Twitter quan tâm và chia sẻ trên Twitter. 
+“Google và một số nhà cung cấp dịch vụ mạng đang gặp vấn đề trong việc hiển thị kết quả tìm kiếm và bản đồ. Có vẻ sự cố này diễn ra với quy mô toàn cầu và ảnh hưởng đến nhiều nền tảng khác nhau”, người dùng @MarkoInGaming chia sẻ.
+Tài khoản @romil8jain cho biết anh chỉ gặp phải tình trạng này trên Google Tìm kiếm, trong khi đó Bản đồ, Ảnh và YouTube đều hoạt động bình thường.
+Chia sẻ với Zing, chị Hương (20 tuổi, ngụ Biên Hòa), cho hay sự cố này đã khiến chị gặp rắc rối khi tra đường trong lúc đi du lịch. “Google Maps không thể định vị và tìm đường đến địa điểm tôi cần đến. Vì thế, tôi mất rất nhiều thời gian để hỏi đường của người dân, rất bất tiện”, chị Hương cho biết.
+Việc Google Tìm kiếm sập đã ảnh hưởng đến nhiều dịch vụ khác của hãng như Bản đồ, Ảnh... Ảnh: Search Engine Journal.
+Phản hồi về tình trạng này, tài khoản Twitter của Gmail cho biết Google Workspace Status không nhận thấy bất kỳ sự cố nào.
+Theo DownDetector, đến 9h sáng, số báo cáo liên quan tới lỗi truy cập Google từ các nơi trên thế giới đã giảm. Tại Việt Nam, người dùng cũng đã truy cập được Google Bản đồ và Tìm kiếm như bình thường. Hiện tại, Google chưa đưa ra bình luận về sự cố này.
+Vào tháng 3, ứng dụng Google Maps cũng từng gặp lỗi khiến bản đồ không hiển thị đầy đủ trên cả phiên bản mobile lẫn máy tính, phạm vi ảnh hưởng tại nhiều quốc gia.
+Cụ thể, ứng dụng bản đồ Google Maps bị lỗi từ đêm 18/3. Khi truy cập vào phiên bản web lẫn di động, phần bản đồ tải rất chậm và không đầy đủ, khiến người dùng khó xác định vị trí dù vẫn có thể kéo chuột để di chuyển trang web. Tính năng tìm kiếm địa điểm và một số công cụ cơ bản cũng không hoạt động.

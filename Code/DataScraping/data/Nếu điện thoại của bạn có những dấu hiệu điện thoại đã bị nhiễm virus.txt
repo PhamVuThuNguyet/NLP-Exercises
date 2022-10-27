@@ -1,0 +1,33 @@
+
+Khi điện thoại bị tấn công bởi virus, phần mềm độc hại, bạn cần phải hành động nhanh chóng. Dưới đây là cách để nhận biết biết liệu smartphone của bạn có bị nhiễm virus hay không và cách loại bỏ chúng.
+Dấu hiệu cho thấy điện thoại bị nhiễm virus, phần mềm độc hại 
+Hành vi bất thường và ứng dụng không quen thuộc là 2 dấu hiệu cảnh báo rõ ràng nhất cho thấy điện thoại của bạn đã bị nhiễm virus và các phần mềm độc hại khác. Những dấu hiệu này sẽ cho bạn biết iPhone hoặc điện thoại Android của bạn có bị nhiễm virus hay không.
+- Cửa sổ bật lên phần mềm quảng cáo: Hầu hết các quảng cáo có thể dễ dàng bị chặn bằng cách sử dụng trình chặn quảng cáo hoặc với trình duyệt được tối ưu hóa quyền riêng tư đi kèm với trình chặn quảng cáo tích hợp.
+    
+Nhưng nếu bạn thấy quảng cáo xuất hiện trên Android hoặc iPhone của mình ngay cả khi trình duyệt của bạn bị đóng, điện thoại của bạn có thể đã âm thầm bị cài phần mềm quảng cáo, đây là một loại phần mềm độc hại gửi thư rác cho bạn bằng các quảng cáo bổ sung.
+- Ứng dụng bị lỗi quá mức: Nhiều ứng dụng bị lỗi theo chu kỳ sau một khoảng thời gian không được cập nhật, nhưng nếu ứng dụng của bạn bắt đầu thường xuyên bị lỗi mà không có lý do, điện thoại của bạn có thể đã bị nhiễm phần mềm độc hại.
+- Mức độ sử dụng dữ liệu gia tăng: Nếu bạn nhận thấy mức sử dụng dữ liệu tăng đột biến, đó có thể là dấu hiệu cho thấy phần mềm độc hại đang chạy các tác vụ nền trên thiết bị của bạn hoặc truyền thông tin/dữ liệu nền từ điện thoại của bạn.
+    
+- Bạn bè của bạn nhận được tin nhắn rác: Một số phần mềm độc hại có thể chiếm quyền điều khiển dịch vụ tin nhắn của bạn và spam tất cả các địa chỉ liên hệ của bạn bằng các liên kết bị nhiễm virus. Nếu các liên hệ của bạn cho bạn biết rằng họ đã nhận được một tin nhắn lạ từ tài khoản của bạn, hãy điều tra ngay lập tức.
+- Ứng dụng không quen thuộc: Nếu bạn nhận thấy một ứng dụng trên điện thoại mà bạn không nhớ là đã tải xuống, hãy tránh xa chúng. Ứng dụng giả mạo là một dấu hiệu phổ biến của phần mềm độc hại trên điện thoại và chúng cần phải được gỡ cài đặt ngay lập tức.
+- Pin bị tiêu hao nhanh hơn: Phần mềm độc hại có thể sử dụng nhiều năng lượng, nhanh chóng làm cạn pin Android hoặc iPhone của bạn. Nếu pin của bạn hết nhanh hơn bình thường, thì có thể nguyên nhân là do phần mềm độc hại.
+- Quá nóng: Mặc dù phần lớn nguyên nhân khiến điện thoại của bạn quá nóng là bình thường và tương đối vô hại, nhưng cũng có thể nguyên nhân là do điện thoại bị nhiễm phần mềm độc hại.
+    
+Cách loại bỏ virus khỏi điện thoại 
+1. Xóa bộ nhớ cache và tải xuống
+Mở Cài đặt, đi tới Ứng dụng và thông báo rồi chọn Chrome. Trong menu Bộ nhớ và bộ nhớ cache, hãy làm theo các bước để xóa bộ nhớ cache.
+    
+2. Khởi động lại thiết bị Android ở chế độ an toàn
+Nhấn và giữ nút nguồn, sau đó chọn khởi động lại điện thoại ở chế độ an toàn. Bạn sẽ thấy Chế độ an toàn ở góc màn hình sau khi điện thoại khởi động lại.
+    
+3. Tìm và xóa các ứng dụng độc hại
+Mở Cài đặt và nhấn vào Ứng dụng và thông báo. Sau đó, nhấn Xem tất cả ứng dụng. Trên màn hình tiếp theo, chọn Ứng dụng đã cài đặt trong menu thả xuống. Xem lại các ứng dụng đã cài đặt và tìm kiếm bất kỳ ứng dụng nào đáng ngờ hoặc lạ, sau đó gỡ cài đặt chúng. Khởi động lại điện thoại sau khi bạn hoàn tất.
+    
+4. Kích hoạt Google Play Protect
+Tính năng Play Protect trong Cửa hàng Google Play giám sát các ứng dụng của bạn để phát hiện hành vi bất thường có thể cho thấy sự hiện diện của phần mềm độc hại Android.
+Cách thực hiện: Mở ứng dụng Cửa hàng Play, nhấn vào biểu tượng hoặc hình đại diện của bạn ở trên cùng bên phải và kích hoạt Play Protect trong menu.
+    
+5. Cài đặt phần mềm chống phần mềm độc hại
+Ứng dụng chống virus là cách tốt nhất để tự động phát hiện và xóa phần mềm độc hại khỏi điện thoại của bạn, đồng thời ngăn chặn sự lây nhiễm trong tương lai.
+6. Phương án cuối cùng: cài lại điện thoại 
+Nếu các bước trên không hiệu quả, hãy thử cài đặt lại điện thoại của bạn về cài đặt mặc định ban đầu. Nhưng đây là biện pháp cuối cùng, bởi dữ liệu của bạn sẽ bị xóa sạch, hãy nhớ sao lưu dữ liệu trước khi thực hiện.
